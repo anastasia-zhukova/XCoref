@@ -184,6 +184,7 @@ data/mturk_ids_configuration.csv
 .idea/other.xml
 .idea/inspectionProfiles/Project_Default.xml
 .idea/FrameAnalysisWCL.iml
+.idea/XCoref.iml
 
 # Keep directories containing .gitkeep (needs to be excluded via dir/*)
 !/**/.gitkeep
@@ -191,3 +192,4 @@ data/mturk_ids_configuration.csv
 # Ignore .dic files because of LIWC 
 # ignore a file type
 *.dic
+

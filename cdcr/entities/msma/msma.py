@@ -4,7 +4,6 @@ from cdcr.entities.msma.entity_msma import EntityMSMA
 from cdcr.config import *
 from cdcr.entities.identifier import Identifier
 from cdcr.util.magnitude_wordvectors import MagnitudeModel
-from cdcr.entities.const_dict_global import MSMA2, XCOREF_HC
 from cdcr.entities.const_dict_global import *
 
 import os

@@ -5,7 +5,7 @@ from cdcr.entities.msma.xcoref.steps.step2_2 import XCorefStep2
 from cdcr.entities.msma.xcoref_hc.steps.step3_3 import XCoref_HC_Step3
 from cdcr.entities.msma.xcoref_hc.steps.step3_4 import XCoref_HC_Step4
 from cdcr.entities.const_dict_global import *
-from entities.msma.xcoref.entity_xcoref import EntityXCoref
+from cdcr.entities.msma.xcoref.entity_xcoref import EntityXCoref
 
 
 class XCoref_HierarClust(MultiStepMergingApproach):

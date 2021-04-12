@@ -1,11 +1,4 @@
 import time
-# from newsalyze.candidates._archive.fivew_phrases_extractor import FiveWPhrasesExtractor
-# from newsalyze.candidates._archive.np_extractor import NPExtractor
-# from newsalyze.candidates._archive.freq_phrases_extractor import FreqPhrasesExtractor
-# from newsalyze.candidates._archive.wordvectors import Wordvectors
-# from newsalyze.candidates._archive.word2vec_dim import Word2VecDimensions
-# from newsalyze.candidates._archive.glove_dim import GloveDimensions
-# from newsalyze.candidates.coded_segments import CodedSegmentsExtractor
 from cdcr.candidates.extract_candidates import CandidatePhrasesExtractor
 
 from cdcr.structures import DocumentSet
@@ -16,13 +9,6 @@ NOTIFICATION_MESSAGES = {
     "no_data": "No input data read for the Candidate Extractor module."
 }
 
-# CURRENT_EXTRACTOR = "coref_np"
-# CURRENT_EXTRACTOR = "coded"
-# CURRENT_EXTRACTOR = "global"
-#
-# CURRENT_WORDVECTORS = "word2vec"
-
-
 
 class CandidateExtractor:
     """
@@ -30,16 +16,6 @@ class CandidateExtractor:
     framing devices candidates. It executes tasks for extraction of candidates of different types. In order to add or
     remove tasks one needs to adjust _extractors.
     """
-
-    # _extractors = {
-    #     # "np": NPExtractor(),
-    #     "coref_np": CorefsAndNPPhrasesExtractor(),
-    #     # TODO change code in the following extractors according to the new changes for further evaluation
-    #     # "fivew": FiveWPhrasesExtractor(),
-    #     # "freq": FreqPhrasesExtractor(),
-    #     # "coded": CodedSegmentsExtractor(),
-    #     "global": GlobalCorefPhrasesExtractor()
-    # }
 
     def __init__(self, module_name):
         self.module_name = module_name

@@ -1,6 +1,6 @@
 from cdcr.entities.msma.step import MergeStep
 from cdcr.entities.const_dict_global import *
-from entities.msma.xcoref.entity_msma2 import EntityXCoref
+from entities.msma.xcoref.entity_xcoref import EntityXCoref
 
 import numpy as np
 import string
