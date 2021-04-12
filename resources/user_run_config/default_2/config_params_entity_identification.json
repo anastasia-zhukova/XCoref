@@ -1,0 +1,44 @@
+{"rounds_to_execute": ["round0", "round1", "round2", "round3", "round4", "round5"], 
+ "preprocessing": {
+     "unfreq_entity_type_filter": 0.25, 
+     "exclude_time": true,
+     "exclude_general_nouns": true,
+     "exclude_dt": true, 
+     "exclude_single_adj": true
+ }, 
+ "round2": {
+     "mention_similarity_threshold": 0.8,
+     
+     "damping": 0.7, 
+     "max_iter": 100
+ }, 
+ "round3": {
+     "max_repr_words": 4,
+     "ne_word_weight": 1.7,
+     "min_sim": 0.4,
+     "min_core_sim": 0.4,
+     "overlap_ratio_max": 0.7,
+     "overlap_ratio_min": 0.5,
+     "merge_phrases_weight": 0.5, 
+     "aliens_phrases_weight": 0.4, 
+     "min_cluster_sim": 0.5, 
+     "min_border_match": 2,
+     
+     "very_freq_item_threshold": 0.9, 
+     "min_support": 4,
+     "representative_word_num": 6
+ },
+ "round4": {
+     "min_feature_ratio": 0.6
+ },
+ "round5": {
+     "min_word_overlap": 2, 
+     "sim_compound_lower": 0.8,
+     "sim_head": 0.4, 
+     "sim_compound_larger": 0.9, 
+     "sim_compound_overlap": 3
+ }, 
+ "evaluation": {
+     "evaluation_mode": false, 
+     "check_previous_saves": true 
+ }}

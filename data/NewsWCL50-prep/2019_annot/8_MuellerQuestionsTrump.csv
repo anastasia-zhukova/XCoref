@@ -1,0 +1,895 @@
+﻿Color,Document name,Code,Weight score,Segment,Author,Creation date,Comment,Document group,Area,Coverage %,Beginning,End
+●,8_RR,USA\Trump,0,Trump,maxku,14-05-18 15:23,,,5,0,1,1
+●,8_RR,USA\Mueller,0,Mueller,maxku,14-05-18 15:23,,,7,0.01,1,1
+●,8_RR,USA\Mueller,0,Special Counsel Robert Mueller,maxku,14-05-18 15:23,,,30,0.03,2,2
+●,8_RR,Inquieries for Trump,0,questions,maxku,14-05-18 15:24,,,9,0.01,2,2
+●,8_RR,USA,0,the White House,maxku,14-05-18 15:24,,,15,0.01,2,2
+●,8_RR,USA\Trump,0,President Donald Trump,maxku,14-05-18 15:24,,,22,0.02,2,2
+●,8_RR,Inquieries for Trump,0,Trump questions,maxku,14-05-18 15:24,,,15,0.01,1,1
+●,8_RR,Inquieries for Trump,0,The questions,maxku,14-05-18 15:26,,,13,0.01,3,3
+●,8_RR,USA\Mueller,0,Mueller,maxku,14-05-18 15:26,,,7,0.01,3,3
+●,8_RR,USA\Trump,0,Trump,maxku,14-05-18 15:26,,,5,0,3,3
+●,8_RR,RUS,0,Russia,maxku,14-05-18 15:26,,,6,0.01,3,3
+●,8_RR,USA\USA-Misc,0,Hillary Clinton,maxku,14-05-18 15:28,,,15,0.01,3,3
+●,8_RR,USA\USA-Misc,0,election rival,maxku,14-05-18 15:28,,,14,0.01,3,3
+●,8_RR,RUS\RUS-I,0,a Russian lawyer,maxku,14-05-18 15:28,,,16,0.02,3,3
+●,8_RR,USA\Mueller,0,Mueller,maxku,14-05-18 15:29,,,7,0.01,4,4
+●,8_RR,USA\Trump,0,Trump,maxku,14-05-18 15:29,,,5,0,4,4
+●,8_RR,USA\Mueller,0,Mueller,maxku,14-05-18 15:29,,,7,0.01,4,4
+●,8_RR,Inquieries for Trump,0,The questions,maxku,14-05-18 15:29,,,13,0.01,5,5
+●,8_RR,USA\Mueller,0,Mueller,maxku,14-05-18 15:29,,,7,0.01,5,5
+●,8_RR,USA\Trump,0,the president,maxku,14-05-18 15:30,,,13,0.01,5,5
+●,8_RR,USA\Trump,0,Trump,maxku,14-05-18 15:30,,,5,0,5,5
+●,8_RR,RUS,0,the Russia links,maxku,14-05-18 15:30,,,16,0.02,5,5
+●,8_RR,USA\Trump,0,Trump,maxku,14-05-18 15:30,,,5,0,6,6
+●,8_RR,RUS meddling investigation,0,a probe into Russian interference,maxku,14-05-18 15:31,,,33,0.03,2,2
+●,8_RR,RUS meddling investigation,0,the investigation,maxku,14-05-18 15:31,,,17,0.02,4,4
+●,8_RR,RUS meddling investigation,0,the year-old probe,maxku,14-05-18 15:32,,,18,0.02,6,6
+●,8_RR,USA\Mueller,0,Mueller,maxku,14-05-18 15:32,,,7,0.01,6,6
+●,8_RR,RUS,0,the Russians,maxku,14-05-18 15:32,,,12,0.01,6,6
+●,8_RR,USA\Trump,0,Trump,maxku,14-05-18 15:32,,,5,0,6,6
+●,8_R,USA\Mueller,0,Mueller,maxku,14-05-18 15:32,,,7,0,1,1
+●,8_R,RUS meddling investigation,0,Russia investigation,maxku,14-05-18 15:32,,,20,0.01,1,1
+●,8_R,RUS,0,Russia,maxku,14-05-18 15:32,,,6,0,1,1
+●,8_R,RUS meddling investigation,0,The investigation,maxku,14-05-18 15:32,,,17,0,2,2
+●,8_R,USA\Mueller,0,Special Counsel Robert Mueller,maxku,14-05-18 15:33,,,30,0.01,2,2
+●,8_R,USA\Mueller,0,Mueller,maxku,14-05-18 15:33,,,7,0,3,3
+●,8_R,RUS meddling investigation,0,the federal government’s probe,maxku,14-05-18 15:33,,,30,0.01,3,3
+●,8_R,USA,0,the federal government,maxku,14-05-18 15:33,,,22,0.01,3,3
+●,8_R,USA\Trump,0,President Trump,maxku,14-05-18 15:34,,,15,0,3,3
+●,8_R,RUS,0,Russian officials,maxku,14-05-18 15:34,,,17,0,3,3
+●,8_R,RUS meddling investigation,0,his investigation,maxku,14-05-18 15:34,,,17,0,3,3
+●,8_R,USA,0,four Trump campaign associates,maxku,14-05-18 15:34,,,30,0.01,3,3
+●,8_R,USA\Trump,0,the president,maxku,14-05-18 15:35,,,13,0,3,3
+●,8_R,USA\Trump,0,Trump,maxku,14-05-18 15:35,,,5,0,4,4
+●,8_R,USA\Mueller,0,Mueller,maxku,14-05-18 15:35,,,7,0,4,4
+●,8_R,RUS meddling investigation,0,Mueller’s investigations,maxku,14-05-18 15:35,,,24,0.01,4,4
+●,8_R,RUS,0,Russians,maxku,14-05-18 15:35,,,8,0,4,4
+●,8_R,USA\Mueller,0,Mueller,maxku,14-05-18 15:35,,,7,0,5,5
+●,8_R,RUS meddling investigation,0,the Russia investigation,maxku,14-05-18 15:35,,,24,0.01,5,5
+●,8_R,USA,0,The Department of Justice,maxku,14-05-18 15:35,,,25,0.01,6,6
+●,8_R,USA\Mueller,0,Mueller,maxku,14-05-18 15:36,,,7,0,6,6
+●,8_R,RUS meddling investigation,0,the federal investigation,maxku,14-05-18 15:36,,,25,0.01,6,6
+●,8_R,RUS,0,Russia,maxku,14-05-18 15:36,,,6,0,6,6
+●,8_R,USA\USA-Misc,0,Democrats,maxku,14-05-18 15:37,,,9,0,7,7
+●,8_R,USA,0,the Justice Department,maxku,14-05-18 15:37,,,22,0.01,7,7
+●,8_R,RUS meddling investigation,0,the probe,maxku,14-05-18 15:37,,,9,0,7,7
+●,8_R,USA,0,Attorney General Jeff Sessions,maxku,14-05-18 15:37,,,30,0.01,7,7
+●,8_R,RUS meddling investigation,0,the investigation,maxku,14-05-18 15:37,,,17,0,7,7
+●,8_R,USA\Mueller,0,Mueller,maxku,14-05-18 15:37,,,7,0,8,8
+●,8_R,USA,0,the FBI,maxku,14-05-18 15:37,,,7,0,8,8
+●,8_R,USA,0,presidential administrations,maxku,14-05-18 15:38,,,28,0.01,8,8
+●,8_R,USA\Mueller,0,Mueller,maxku,14-05-18 15:38,,,7,0,9,9
+●,8_R,RUS meddling investigation,0,this investigation,maxku,14-05-18 15:38,,,18,0,9,9
+●,8_R,USA\Trump,0,Trump,maxku,14-05-18 15:38,,,5,0,9,9
+●,8_R,RUS,0,the Kremlin,maxku,14-05-18 15:38,,,11,0,9,9
+●,8_R,USA,0,his associates,maxku,14-05-18 15:38,,,14,0,9,9
+●,8_M,USA\Mueller,0,Robert Mueller,maxku,14-05-18 15:39,,,14,0.41,1,1
+●,8_M,Inquieries for Trump,0,list of questions,maxku,14-05-18 15:39,,,17,0.5,1,1
+●,8_M,USA\Trump,0,Trump,maxku,14-05-18 15:39,,,5,0.15,1,1
+●,8_M,USA\Trump,0,the president,maxku,14-05-18 15:39,,,13,0.38,2,2
+●,8_M,USA\Mueller,0,special counsel Robert Mueller,maxku,14-05-18 15:39,,,30,0.88,2,2
+●,8_M,USA\Mueller,0,Special counsel Robert Mueller,maxku,14-05-18 15:39,,,30,0.88,3,3
+●,8_M,Inquieries for Trump,0,a list of almost four dozen questions,maxku,14-05-18 15:39,,,37,1.09,3,3
+●,8_M,USA\Trump,0,President Trump,maxku,14-05-18 15:39,,,15,0.44,3,3
+●,8_M,RUS meddling investigation,0,his investigation,maxku,14-05-18 15:40,,,17,0.5,3,3
+●,8_M,USA\Trump,0,Trump,maxku,14-05-18 16:10,,,5,0.15,3,3
+●,8_M,Inquieries for Trump,0,list of the questions,maxku,14-05-18 16:10,,,21,0.62,4,4
+●,8_M,USA\Trump,0,Trump,maxku,14-05-18 16:10,,,5,0.15,4,4
+●,8_M,USA\Trump,0,Trump,maxku,14-05-18 16:10,,,5,0.15,4,4
+●,8_M,RUS,0,Russians,maxku,14-05-18 16:11,,,8,0.24,4,4
+●,8_M,USA\Trump,0,the president,maxku,14-05-18 16:11,,,13,0.38,5,5
+●,8_M,RUS meddling investigation,0,the investigation,maxku,14-05-18 16:12,,,17,0.5,5,5
+●,8_M,Inquieries for Trump,0,the questions,maxku,14-05-18 16:12,,,13,0.38,6,6
+●,8_M,USA,0,Attorney General Jeff Sessions,maxku,14-05-18 16:12,,,30,0.88,6,6
+●,8_M,RUS meddling investigation,0,the Russia investigation,maxku,14-05-18 16:12,,,24,0.71,6,6
+●,8_M,RUS,0,Russia,maxku,14-05-18 16:12,,,6,0.18,6,6
+●,8_M,USA\Trump,0,Trump,maxku,14-05-18 16:12,,,5,0.15,6,6
+●,8_M,USA\USA-I,0,Trump lawyer Jay Sekulow,maxku,14-05-18 16:13,,,24,0.71,7,7
+●,8_M,USA\USA-I,0,White House lawyer Ty Cobb,maxku,14-05-18 16:13,,,26,0.77,7,7
+●,8_M,USA,0,the Trump campaign,maxku,14-05-18 16:13,,,18,0.53,7,7
+●,8_M,RUS,0,the Kremlin,maxku,14-05-18 16:13,,,11,0.32,7,7
+●,8_M,USA\Mueller,0,Mueller,maxku,14-05-18 16:13,,,7,0.21,7,7
+●,8_M,USA\Trump,0,Trump,maxku,14-05-18 16:13,,,5,0.15,7,7
+●,8_M,RUS,0,Moscow,maxku,14-05-18 16:13,,,6,0.18,7,7
+●,8_LL,USA\Mueller,0,Robert Mueller,maxku,14-05-18 16:14,,,14,0.45,1,1
+●,8_LL,USA\Trump,0,Donald Trump,maxku,14-05-18 16:14,,,12,0.39,1,1
+●,8_LL,Inquieries for Trump,0,a list of possible questions,maxku,14-05-18 16:14,,,28,0.9,2,2
+●,8_LL,USA\Trump,0,the president,maxku,14-05-18 16:14,,,13,0.42,2,2
+●,8_LL,USA\Mueller,0,Special counsel Robert Mueller,maxku,14-05-18 16:14,,,30,0.97,3,3
+●,8_LL,USA\Trump,0,President Donald Trump,maxku,14-05-18 16:14,,,22,0.71,3,3
+●,8_LL,Inquieries for Trump,0,dozens of open-ended questions,maxku,14-05-18 16:14,,,30,0.97,3,3
+●,8_LL,Inquieries for Trump,0,those questions,maxku,14-05-18 16:14,,,15,0.48,4,4
+●,8_LL,USA\Trump,0,Trump,maxku,14-05-18 16:15,,,5,0.16,4,4
+●,8_LL,USA\Mueller,0,Mueller,maxku,14-05-18 16:15,,,7,0.23,4,4
+●,8_LL,Inquieries for Trump,0,the queries,maxku,14-05-18 16:16,,,11,0.35,5,5
+●,8_LL,USA\Trump,0,the president,maxku,14-05-18 16:16,,,13,0.42,5,5
+●,8_LL,USA,0,the special counsel,maxku,14-05-18 16:16,,,19,0.61,5,5
+●,8_LL,RUS meddling investigation,0,a tight-lipped investigation,maxku,14-05-18 16:16,,,28,0.9,6,6
+●,8_LL,USA\Mueller,0,Mueller,maxku,14-05-18 16:16,,,7,0.23,6,6
+●,8_LL,USA\Trump,0,the president,maxku,14-05-18 16:16,,,13,0.42,6,6
+●,8_LL,Inquieries for Trump,0,the inquiries,maxku,14-05-18 16:17,,,13,0.42,6,6
+●,8_LL,USA\Trump,0,Trump,maxku,14-05-18 16:17,,,5,0.16,6,6
+●,8_LL,RUS,0,Russian officials,maxku,14-05-18 16:17,,,17,0.55,6,6
+●,8_LL,RUS,0,the Kremlin,maxku,14-05-18 16:17,,,11,0.35,6,6
+●,8_LL,USA\Trump,0,Trump,maxku,14-05-18 16:17,,,5,0.16,7,7
+●,8_LL,USA\Mueller,0,Mueller,maxku,14-05-18 16:17,,,7,0.23,7,7
+●,8_LL,RUS,0,the Russians,maxku,14-05-18 16:17,,,12,0.39,7,7
+●,8_LL,USA,0,the special counsel,maxku,14-05-18 16:17,,,19,0.61,7,7
+●,8_LL,USA\Trump,0,Trump,maxku,14-05-18 16:17,,,5,0.16,8,8
+●,8_LL,RUS meddling investigation,0,the investigation,maxku,14-05-18 16:17,,,17,0.55,8,8
+●,8_LL,USA\Trump,0,The president,maxku,14-05-18 16:18,,,13,0.42,9,9
+●,8_LL,Inquieries for Trump,0,the interview,maxku,14-05-18 16:18,,,13,0.42,9,9
+●,8_LL,USA\Trump,0,Trump,maxku,14-05-18 16:18,,,5,0.16,9,9
+●,8_LL,USA\Trump,0,the president,maxku,14-05-18 16:18,,,13,0.42,9,9
+●,8_L,USA\Mueller,0,Mueller,maxku,14-05-18 16:22,,,7,0.08,1,1
+●,8_L,Inquieries for Trump,0,Dozens of Inquiries,maxku,14-05-18 16:23,,,19,0.21,1,1
+●,8_L,USA\Trump,0,Trump,maxku,14-05-18 16:23,,,5,0.05,1,1
+●,8_L,USA\Mueller,0,Robert S. Mueller,maxku,14-05-18 16:24,,,17,0.18,2,2
+●,8_L,RUS,0,Russia,maxku,14-05-18 16:24,,,6,0.06,1,1
+●,8_L,USA\Trump,0,the president,maxku,14-05-18 16:24,,,13,0.14,2,2
+●,8_L,USA\Mueller,0,Robert S. Mueller,maxku,14-05-18 16:25,,,17,0.18,3,3
+●,8_L,USA,0,the special counsel,maxku,14-05-18 16:25,,,19,0.21,3,3
+●,8_L,RUS meddling investigation,0,investigating Russia’s election interference,maxku,14-05-18 16:28,,,44,0.48,3,3
+●,8_L,Inquieries for Trump,0,four dozen questions,maxku,14-05-18 16:28,,,20,0.22,3,3
+●,8_L,RUS,0,Russia,maxku,14-05-18 16:29,,,6,0.06,3,3
+●,8_L,Inquieries for Trump,0,list of the questions,maxku,14-05-18 16:29,,,21,0.23,3,3
+●,8_L,USA\Trump,0,President Trump,maxku,14-05-18 16:29,,,15,0.16,3,3
+●,8_L,Inquieries for Trump,0,The open-ended queries,maxku,14-05-18 16:29,,,22,0.24,4,4
+●,8_L,USA\Trump,0,the president,maxku,14-05-18 16:29,,,13,0.14,4,4
+●,8_L,USA,0,his family,maxku,14-05-18 16:30,,,10,0.11,4,4
+●,8_L,USA,0,his closest advisers,maxku,14-05-18 16:30,,,20,0.22,4,4
+●,8_L,USA\Trump,0,the president,maxku,14-05-18 16:30,,,13,0.14,4,4
+●,8_L,USA,0,campaign officials,maxku,14-05-18 16:30,,,18,0.19,4,4
+●,8_L,RUS,0,Russians,maxku,14-05-18 16:30,,,8,0.09,4,4
+●,8_L,USA\Trump,0,the president,maxku,14-05-18 16:31,,,13,0.14,5,5
+●,8_L,USA\Trump,0,the president,maxku,14-05-18 16:31,,,13,0.14,5,5
+●,8_L,USA\Trump,0,Mr. Trump,maxku,14-05-18 16:31,,,9,0.1,5,5
+●,8_L,RUS,0,Russia,maxku,14-05-18 16:32,,,6,0.06,5,5
+●,8_L,USA\Trump,0,Mr. Trump’,maxku,14-05-18 16:32,,,10,0.11,5,5
+●,8_L,RUS meddling,0,Russia Ties and Obstruction,maxku,24-05-18 08:43,,,27,0.29,1,1
+●,8_L,RUS meddling,0,Russia’s election interference,maxku,24-05-18 08:43,,,30,0.32,3,3
+●,8_L,RUS meddling,0,ties to Russia,maxku,24-05-18 08:44,,,14,0.15,3,3
+●,8_L,RUS meddling,0,Russia’s election meddling,maxku,24-05-18 08:44,,,26,0.28,7,7
+●,8_L,RUS meddling investigation,0,an investigation into Russia’s election meddling,maxku,24-05-18 08:45,,,48,0.52,7,7
+●,8_L,RUS meddling,0,possible coordination between the Trump campaign and Russia,maxku,24-05-18 08:45,,,59,0.64,9,9
+●,8_L,RUS meddling investigation,0,investigating possible coordination between the Trump campaign and Russia,maxku,24-05-18 08:45,,,73,0.79,9,9
+●,8_LL,RUS meddling,0,Russian meddling in the 2016 election,maxku,24-05-18 08:46,,,37,1.19,3,3
+●,8_M,RUS meddling,0,Russian meddling in the 2016 election,maxku,24-05-18 08:46,,,37,1.09,3,3
+●,8_M,RUS meddling,0,the obstruction issue,maxku,24-05-18 08:47,,,21,0.62,6,6
+●,8_R,RUS meddling,0,alleged collusion between President Trump’s campaign and Russian officials,maxku,24-05-18 08:48,,,74,0.02,3,3
+●,8_R,RUS meddling,0,collusion” with Russians,maxku,24-05-18 08:50,,,24,0.01,4,4
+●,8_RR,RUS meddling,0,Russian interference,maxku,24-05-18 08:50,,,20,0.02,2,2
+●,8_RR,RUS meddling,0,links between members of his presidential campaign and Russia,maxku,24-05-18 08:51,,,61,0.06,3,3
+●,8_RR,RUS meddling,0,the Russia links,maxku,24-05-18 08:51,,,16,0.02,5,5
+●,8_L,Trump´s Lawyers,0,the president’s lawyers,maxku,24-05-18 08:53,,,23,0.25,8,8
+●,8_L,Trump´s Lawyers,0,His lawyers,maxku,24-05-18 08:54,,,11,0.12,18,18
+●,8_L,Trump´s Lawyers,0,Mr. Trump’s lawyers,maxku,24-05-18 08:55,,,19,0.21,19,19
+●,8_LL,Trump´s Lawyers,0,The president’s lawyers,maxku,24-05-18 08:55,,,23,0.74,9,9
+●,8_LL,Trump´s Lawyers,0,Trump’s squadron of lawyers,maxku,24-05-18 08:55,,,27,0.87,10,10
+●,8_M,Trump´s Lawyers,0,Trump’s lawyers,maxku,24-05-18 08:56,,,15,0.44,1,1
+●,8_M,Trump´s Lawyers,0,lawyers for President Trump,maxku,24-05-18 08:56,,,27,0.8,3,3
+●,8_M,Trump´s Lawyers,0,Trump’s lawyers,maxku,24-05-18 08:56,,,15,0.44,5,5
+●,8_M,Trump´s Lawyers,0,The lawyers,maxku,24-05-18 08:57,,,11,0.32,5,5
+●,8_R,Trump´s Lawyers,0,Trump’s lawyers,maxku,24-05-18 08:57,,,15,0,24,24
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Michael D. Cohen,maxku,24-05-18 09:01,,,16,0.17,5,5
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,John Dowd,maxku,24-05-18 09:01,,,9,0.1,19,19
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Mr. Dowd,maxku,24-05-18 09:01,,,8,0.09,20,20
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Mr. Dowd,maxku,24-05-18 09:02,,,8,0.09,21,21
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Mr. Dowd,maxku,24-05-18 09:02,,,8,0.09,22,22
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Mr. Dowd,maxku,24-05-18 09:02,,,8,0.09,22,22
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Mr. Dowd,maxku,24-05-18 09:03,,,8,0.09,24,24
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,John Dowd,maxku,24-05-18 09:03,,,9,0.29,10,10
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,Dowd,maxku,24-05-18 09:04,,,4,0.13,11,11
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,Dowd,maxku,24-05-18 09:04,,,4,0.13,12,12
+●,8_M,Trump´s Lawyers\Trump´s Lawyers-I,0,Trump lawyer,maxku,24-05-18 09:05,,,12,0.35,7,7
+●,8_M,Trump´s Lawyers\Trump´s Lawyers-I,0,Jay Sekulow,maxku,24-05-18 09:05,,,11,0.32,7,7
+●,8_M,Trump´s Lawyers\Trump´s Lawyers-I,0,his personal lawyer,maxku,24-05-18 09:07,,,19,0.56,9,9
+●,8_M,Trump´s Lawyers\Trump´s Lawyers-I,0,Michael Cohen,maxku,24-05-18 09:07,,,13,0.38,9,9
+●,8_M,Trump´s Lawyers\Trump´s Lawyers-I,0,Cohen,maxku,24-05-18 09:07,,,5,0.15,9,9
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,his longtime personal attorney,maxku,24-05-18 09:07,,,30,0.97,13,13
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,Michael Cohen,maxku,24-05-18 09:08,,,13,0.42,13,13
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,Cohen,maxku,24-05-18 09:08,,,5,0.16,14,14
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,the lawyer,maxku,24-05-18 09:08,,,10,0.32,14,14
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,Cohen,maxku,24-05-18 09:08,,,5,0.16,15,15
+●,8_RR,Trump´s Lawyers\Trump´s Lawyers-I,0,former New York mayor Rudy Giuliani,maxku,24-05-18 09:09,,,35,0.03,12,12
+●,8_RR,Properties\Other\Other,0,hints at,maxku,24-05-18 09:23,Mueller,,8,0.01,1,1
+●,8_RR,Properties\Behaviour & character\Not trustworthy,0,obstruction,maxku,24-05-18 09:26,Trump,,11,0.01,1,1
+●,8_RR,Properties\Power & Strength\Powerful & Leading,0,has submitted questions,maxku,24-05-18 09:26,Mueller,,23,0.02,2,2
+●,8_RR,Properties\Power & Strength\Powerful & Leading,0,indicate a focus,maxku,24-05-18 09:29,Inquieries for Trump,,16,0.02,2,2
+●,8_RR,Properties\Behaviour & character\Not trustworthy,0,tried to obstruct,maxku,24-05-18 09:29,Trump,,17,0.02,2,2
+●,8_RR,Properties\Power & Strength\Powerful & Leading,0,wants to find out,maxku,24-05-18 09:30,Mueller,,17,0.02,3,3
+●,8_RR,USA\USA-I,0,members of his presidential campaign,maxku,24-05-18 09:32,,,36,0.03,3,3
+●,8_RR,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,offering damaging information,maxku,24-05-18 09:33,RUS-I,,29,0.03,3,3
+●,8_RR,Properties\Violence & Unfair\Victim (receiving violence),0,offering damaging information on,maxku,24-05-18 09:33,USA-Misc,,32,0.03,3,3
+●,8_RR,Properties\Power & Strength\Powerful & Leading,0,offered a pardon,maxku,24-05-18 09:34,Trump,,16,0.02,4,4
+●,8_RR,Properties\Behaviour & character\Not trustworthy,0,has already been charged by Mueller with lying,maxku,24-05-18 09:35,USA-I,,46,0.04,4,4
+●,8_RR,USA\USA-I,0,Michael Flynn,maxku,24-05-18 09:36,,,13,0.01,4,4
+●,8_RR,USA\USA-I,0,former national security advisor,maxku,24-05-18 09:36,,,32,0.03,4,4
+●,8_RR,Properties\Other\Other,0,believed to,maxku,24-05-18 09:36,USA-I,,11,0.01,4,4
+●,8_RR,Properties\Power & Strength\Powerful & Leading,0,clearest signal,maxku,24-05-18 09:37,Inquieries for Trump,,15,0.01,5,5
+●,8_RR,Properties\Power & Strength\Powerful & Leading,0,has enough circumstantial evidence,maxku,24-05-18 09:38,Mueller,,34,0.03,5,5
+●,8_RR,Properties\Importance\Important & Intense,0,circumstantial evidence,maxku,24-05-18 09:38,Inquieries for Trump,,23,0.02,5,5
+●,8_RR,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,suspect the president of obstruction,maxku,24-05-18 09:39,Mueller,,36,0.03,5,5
+●,8_RR,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,has reason to believe,maxku,24-05-18 09:39,Mueller,,21,0.02,5,5
+●,8_RR,Properties\Other\Other,0,might have,maxku,24-05-18 09:40,Trump,,10,0.01,5,5
+●,8_RR,Properties\Behaviour & character\Not trustworthy,0,might have known of the Russia links,maxku,24-05-18 09:40,Trump,,36,0.03,5,5
+●,8_RR,Properties\Other\Other,0,there is no indication,maxku,24-05-18 09:41,"RUS meddling investigation
+Mueller",,22,0.02,6,6
+●,8_RR,Properties\Power & Strength\Powerful & Leading,0,has found evidence of active collusion,maxku,24-05-18 09:42,Mueller,,38,0.04,6,6
+●,8_RR,Properties\Importance\Important & Intense,0,vehemently denies,maxku,24-05-18 09:42,"Trump
+RUS meddling investigation",,17,0.02,6,6
+●,8_RR,Inquieries for Trump,0,a list of questions,maxku,24-05-18 09:43,,,19,0.02,7,7
+●,8_RR,Trump´s Lawyers,0,Trump’s legal team,maxku,24-05-18 09:43,,,18,0.02,7,7
+●,8_RR,USA\Trump,0,Trump,maxku,24-05-18 09:44,,,5,0,7,7
+●,8_RR,Inquieries for Trump,0,the list,maxku,24-05-18 09:44,,,8,0.01,8,8
+●,8_RR,Inquieries for Trump,0,a list,maxku,24-05-18 09:44,,,6,0.01,7,7
+●,8_RR,USA\USA-I,0,someone outside Trump’s legal team,maxku,24-05-18 09:44,,,34,0.03,8,8
+●,8_RR,Trump´s Lawyers,0,Trump’s legal team,maxku,24-05-18 09:45,,,18,0.02,8,8
+●,8_RR,USA\Trump,0,Trump,maxku,24-05-18 09:45,,,5,0,8,8
+●,8_RR,Properties\Other\Other,0,did not immediately respond,maxku,24-05-18 09:45,USA,,27,0.03,9,9
+●,8_RR,USA\Mueller,0,Mueller,maxku,24-05-18 09:46,,,7,0.01,10,10
+●,8_RR,Trump´s Lawyers,0,the president’s attorneys,maxku,24-05-18 09:46,,,25,0.02,10,10
+●,8_RR,USA\Trump,0,the president,maxku,24-05-18 09:46,,,13,0.01,10,10
+●,8_RR,Properties\Power & Strength\Powerful & Leading,0,has discussed the possibility of interviewing Trump,maxku,24-05-18 09:46,Mueller,,51,0.05,10,10
+●,8_RR,RUS meddling investigation,0,the investigation,maxku,24-05-18 09:47,,,17,0.02,10,10
+●,8_RR,USA\Trump,0,Trump,maxku,24-05-18 09:47,,,5,0,11,11
+●,8_RR,Properties\Difficulty\Difficult,0,appear to have been divided,maxku,24-05-18 09:49,Inquieries for Trump,,27,0.03,11,11
+●,8_RR,USA\Trump,0,Trump,maxku,24-05-18 10:01,,,5,0,12,12
+●,8_RR,Trump´s Lawyers,0,his legal team,maxku,24-05-18 10:01,,,14,0.01,12,12
+●,8_RR,USA\Mueller,0,Mueller,maxku,24-05-18 10:01,,,7,0.01,12,12
+●,8_RR,USA\Trump,0,the president,maxku,24-05-18 10:01,,,13,0.01,12,12
+●,8_RR,Properties\Power & Strength\Powerful & Leading,0,would try to reach a deal,maxku,24-05-18 10:02,Trump´s Lawyers-I,,25,0.02,12,12
+●,8_RR,Inquieries for Trump,0,the questions,maxku,24-05-18 10:02,,,13,0.01,13,13
+●,8_RR,USA\Trump,0,Trump,maxku,24-05-18 10:02,,,5,0,13,13
+●,8_RR,RUS\RUS-I,0,the Russian lawyer,maxku,24-05-18 10:02,,,18,0.02,13,13
+●,8_RR,USA\USA-I,0,former FBI director,maxku,24-05-18 10:03,,,19,0.02,13,13
+●,8_RR,USA\USA-I,0,James Comey,maxku,24-05-18 10:03,,,11,0.01,13,13
+●,8_RR,Inquieries for Trump,0,one question,maxku,24-05-18 10:04,,,12,0.01,14,14
+●,8_RR,USA\USA-I,0,Mr Flynn,maxku,24-05-18 10:04,,,8,0.01,15,15
+●,8_RR,Properties\Power & Strength\Weak & Following,0,seeking immunity or possible pardon,maxku,24-05-18 10:05,USA-I,,35,0.03,15,15
+●,8_RR,USA\Mueller,0,Mueller,maxku,24-05-18 10:05,,,7,0.01,16,16
+●,8_RR,USA\Trump,0,Trump,maxku,24-05-18 10:05,,,5,0,16,16
+●,8_RR,RUS\Putin,0,Russian President,maxku,24-05-18 10:05,,,17,0.02,16,16
+●,8_RR,RUS\Putin,0,Vladimir Putin,maxku,24-05-18 10:05,,,14,0.01,16,16
+●,8_RR,Properties\Behaviour & character\Fair ,0,none of the questions are accusatory,maxku,24-05-18 10:05,Inquieries for Trump,,36,0.03,17,17
+●,8_RR,Properties\Safety\Unsafe,0,carry the risk,maxku,24-05-18 10:06,Inquieries for Trump,,14,0.01,17,17
+●,8_RR,USA\Trump,0,Trump,maxku,24-05-18 10:06,,,5,0,17,17
+●,8_RR,Properties\Behaviour & character\Not trustworthy,0,being trapped in a lie,maxku,24-05-18 10:06,Trump,,22,0.02,17,17
+●,8_RR,USA\Mueller,0,Mueller,maxku,24-05-18 10:06,,,7,0.01,17,17
+●,8_RR,Properties\Behaviour & character\Trustworthy,0,provided evidence,maxku,24-05-18 10:07,USA-I,,17,0.02,17,17
+●,8_RR,USA\USA-I,0,former campaign staff,maxku,24-05-18 10:07,,,21,0.02,17,17
+●,8_R,RUS meddling,0,Russian involvement,maxku,24-05-18 10:10,,,19,0,2,2
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,at its helm,maxku,24-05-18 10:10,Mueller,,11,0,2,2
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,took over,maxku,24-05-18 10:10,Mueller,,9,0,3,3
+●,8_R,Properties\Other\Other,0,alleged,maxku,24-05-18 10:10,RUS meddling,,7,0,3,3
+●,8_R,Properties\Quality\Functioning,0,has led to charges for four Trump campaign associates,maxku,24-05-18 10:11,RUS meddling investigation,,53,0.01,3,3
+●,8_R,Properties\Behaviour & character\Confident,0,expressed willingness to testify under oath,maxku,24-05-18 10:18,Trump,,43,0.01,4,4
+●,8_R,Properties\Importance\Important & Intense,0,has repeatedly denied any “collusion”,maxku,24-05-18 10:18,RUS meddling investigation,,37,0.01,4,4
+●,8_R,Inquieries for Trump,0,the charges,maxku,24-05-18 10:18,,,11,0,3,3
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,overseeing,maxku,24-05-18 10:19,Mueller,,10,0,5,5
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,oversee,maxku,24-05-18 10:19,Mueller,,7,0,6,6
+●,8_R,Properties\Other\Other,0,alleged,maxku,24-05-18 10:20,RUS meddling,,7,0,6,6
+●,8_R,RUS meddling,0,Russia’s alleged meddling,maxku,24-05-18 10:20,,,25,0.01,6,6
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,a growing cry,maxku,24-05-18 10:21,USA-Misc,,13,0,7,7
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,led the FBI through,maxku,24-05-18 10:21,Mueller,,19,0,8,8
+●,8_R,Inquieries for Trump,0,the inquiry,maxku,24-05-18 10:23,,,11,0,9,9
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,has the authority,maxku,24-05-18 10:23,Mueller,,17,0,9,9
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,prosecute any crimes,maxku,24-05-18 10:24,Mueller,,20,0.01,9,9
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,was given wide authority to investigate,maxku,24-05-18 10:24,Mueller,,39,0.01,9,9
+●,8_R,RUS meddling,0,colluded with the Kremlin,maxku,24-05-18 10:27,,,25,0.01,9,9
+●,8_R,USA\Mueller,0,Mueller,maxku,24-05-18 10:27,,,7,0,11,11
+●,8_R,USA\USA-I,0,Manafort,maxku,24-05-18 10:28,,,8,0,12,12
+●,8_R,USA\USA-I,0,Trump’s former campaign chairman,maxku,24-05-18 10:28,,,32,0.01,12,12
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 10:28,,,5,0,12,12
+●,8_R,Properties\Law\Unlawful,0,were indicted on Oct. 27 on multiple counts,maxku,24-05-18 10:28,USA-I,,43,0.01,12,12
+●,8_R,Properties\Law\Unlawful,0,conspiracy against the U.S.,maxku,24-05-18 10:28,USA-I,,27,0.01,12,12
+●,8_R,Properties\Law\Unlawful,0,conspiracy to launder money,maxku,24-05-18 10:28,USA-I,,27,0.01,12,12
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,false statements,maxku,24-05-18 10:29,USA-I,,16,0,12,12
+●,8_R,Properties\Law\Unlawful,0,failure to file reports of foreign bank and financial accounts,maxku,24-05-18 10:29,USA-I,,62,0.02,12,12
+●,8_R,USA\USA-I,0,Manafort,maxku,24-05-18 10:29,,,8,0,12,12
+●,8_R,USA\USA-I,0,Gates,maxku,24-05-18 10:29,,,5,0,12,12
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,initially pleaded not guilty,maxku,24-05-18 10:29,USA-I,,28,0.01,12,12
+●,8_R,USA\USA-I,0,Manafort,maxku,24-05-18 10:30,,,8,0,13,13
+●,8_R,Properties\Law\Unlawful,0,laundering through offshore accounts,maxku,24-05-18 10:30,USA-I,,36,0.01,13,13
+●,8_R,Properties\Law\Unlawful,0,federal conspiracy,maxku,24-05-18 10:31,USA-I,,18,0,14,14
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,false-statements,maxku,24-05-18 10:31,USA-I,,16,0,14,14
+●,8_R,USA\USA-I,0,Gates,maxku,24-05-18 10:31,,,5,0,14,14
+●,8_R,Properties\Other\Other,0,possibly suggesting,maxku,24-05-18 10:31,Mueller,,19,0,14,14
+●,8_R,USA\USA-I,0,the former Trump campaign official,maxku,24-05-18 10:32,,,34,0.01,14,14
+●,8_R,Properties\Behaviour & character\Trustworthy,0,cooperating and providing good information,maxku,24-05-18 10:32,USA-I,,42,0.01,14,14
+●,8_R,USA\Mueller,0,Mueller,maxku,24-05-18 10:32,,,7,0,15,15
+●,8_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,accused,maxku,24-05-18 10:37,Mueller,,7,0,15,15
+●,8_R,Properties\Violence & Unfair\Victim (receiving violence),0,accused,maxku,24-05-18 10:37,USA-I,,7,0,15,15
+●,8_R,USA\USA-I,0,Manafort,maxku,24-05-18 10:37,,,8,0,15,15
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,secretly paying former European politicians to lobby,maxku,24-05-18 10:37,USA-I,,52,0.01,15,15
+●,8_R,USA\USA-I,0,Manafort,maxku,24-05-18 10:37,,,8,0,15,15
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,continued to maintain his innocence,maxku,24-05-18 10:37,USA-I,,35,0.01,15,15
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,pleading not guilty,maxku,24-05-18 10:38,USA-I,,19,0,15,15
+●,8_R,USA,0,the administration,maxku,24-05-18 10:38,,,18,0,16,16
+●,8_R,Properties\Violence & Unfair\Victim (receiving violence),0,was charged in December,maxku,24-05-18 10:39,USA-I,,23,0.01,16,16
+●,8_R,Properties\Importance\Unimportant,0,short-lived,maxku,24-05-18 10:39,USA-I,,11,0,16,16
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,lying to the FBI,maxku,24-05-18 10:39,USA-I,,16,0,16,16
+●,8_R,USA,0,the FBI,maxku,24-05-18 10:39,,,7,0,16,16
+●,8_R,Properties\Behaviour & character\Trustworthy,0,pleaded guilty,maxku,24-05-18 10:40,USA-I,,14,0,16,16
+●,8_R,Properties\Behaviour & character\Trustworthy,0,pleaded guilty,maxku,24-05-18 10:40,USA-I,,14,0,17,17
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,making false statements,maxku,24-05-18 10:40,USA-I,,23,0.01,17,17
+●,8_R,USA,0,investigating FBI agents,maxku,24-05-18 10:40,,,24,0.01,17,17
+●,8_R,USA\USA-I,0,Papadopoulos,maxku,24-05-18 10:41,,,12,0,17,17
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 10:41,,,5,0,17,17
+●,8_R,USA\USA-I,0,a foreign policy adviser,maxku,24-05-18 10:41,,,24,0.01,17,17
+●,8_R,USA\USA-I,0,an attorney,maxku,24-05-18 10:44,,,11,0,18,18
+●,8_R,USA\USA-I,0,Alex van der Zwaan,maxku,24-05-18 10:45,,,18,0,18,18
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,lying to investigators,maxku,24-05-18 10:45,USA-I,,22,0.01,18,18
+●,8_R,USA\USA-I,0,Gates,maxku,24-05-18 10:45,,,5,0,18,18
+●,8_R,Inquieries for Trump,0,the Russia inquiry,maxku,24-05-18 10:45,,,18,0,18,18
+●,8_R,RUS,0,Russia,maxku,24-05-18 10:45,,,6,0,18,18
+●,8_R,Properties\Violence & Unfair\Victim (receiving violence),0,was sentenced to 30 days in prison,maxku,24-05-18 10:45,USA-I,,34,0.01,18,18
+●,8_R,USA\USA-I,0,Richard Pinedo,maxku,24-05-18 10:46,,,14,0,19,19
+●,8_R,USA\USA-I,0,a California man,maxku,24-05-18 10:46,,,16,0,19,19
+●,8_R,Properties\Behaviour & character\Trustworthy,0,pleaded guilty,maxku,24-05-18 10:46,USA-I,,14,0,19,19
+●,8_R,Properties\Law\Unlawful,0,using stolen identities,maxku,24-05-18 10:46,USA-I,,23,0.01,19,19
+●,8_R,USA,0,The U.S. government,maxku,24-05-18 10:46,,,19,0,19,19
+●,8_R,USA\USA-I,0,Pinedo,maxku,24-05-18 10:47,,,6,0,19,19
+●,8_R,RUS,0,Russians,maxku,24-05-18 10:47,,,8,0,19,19
+●,8_R,Properties\Other\Positive,0,was not aware,maxku,24-05-18 10:47,USA-I,,13,0,19,19
+●,8_R,RUS,0,Russian entities,maxku,24-05-18 10:47,,,16,0,20,20
+●,8_R,RUS\RUS-I,0,13 Russian nationals,maxku,24-05-18 10:47,,,20,0.01,20,20
+●,8_R,Properties\Violence & Unfair\Victim (receiving violence),0,were indicted by a federal grand jury,maxku,24-05-18 10:48,"RUS
+RUS-I",,37,0.01,20,20
+●,8_R,RUS meddling,0,interfering in the election,maxku,24-05-18 10:48,,,27,0.01,20,20
+●,8_R,USA\Mueller,0,Mueller,maxku,24-05-18 10:48,,,7,0,20,20
+●,8_R,RUS,0,those involved,maxku,24-05-18 10:49,,,14,0,20,20
+●,8_R,RUS\RUS-I,0,those involved,maxku,24-05-18 10:49,,,14,0,20,20
+●,8_R,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,sophisticated,maxku,24-05-18 10:49,"RUS
+RUS-I",,13,0,20,20
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,a sophisticated plot,maxku,24-05-18 10:50,"RUS
+RUS-I",,20,0.01,20,20
+●,8_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,wage “information warfare”,maxku,24-05-18 10:50,"USA
+USA-I",,26,0.01,20,20
+●,8_R,USA,0,the U.S.,maxku,24-05-18 10:50,,,8,0,20,20
+●,8_R,USA,0,the Justice Department,maxku,24-05-18 10:52,,,22,0.01,21,21
+●,8_R,RUS meddling,0,the actions,maxku,24-05-18 10:52,,,11,0,21,21
+●,8_R,USA\USA-I,0,Deputy Attorney Gen.,maxku,24-05-18 10:52,,,20,0.01,21,21
+●,8_R,USA\USA-I,0,Rod Rosenstein,maxku,24-05-18 10:52,,,14,0,21,21
+●,8_R,USA,0,any American,maxku,24-05-18 10:53,,,12,0,21,21
+●,8_R,RUS meddling,0,this illegal activity,maxku,24-05-18 10:53,,,21,0.01,21,21
+●,8_R,Properties\Law\Unlawful,0,illegal,maxku,24-05-18 10:53,RUS meddling,,7,0,21,21
+●,8_R,Properties\Law\Unlawful,0,a knowing participant,maxku,24-05-18 10:53,USA,,21,0.01,21,21
+●,8_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,a knowing participant,maxku,24-05-18 10:54,USA,,21,0.01,21,21
+●,8_R,Inquieries for Trump,0,this indictment,maxku,24-05-18 10:54,,,15,0,21,21
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 10:54,,,5,0,22,22
+●,8_R,USA\Trump,0,The president,maxku,24-05-18 10:54,,,13,0,23,23
+●,8_R,USA\Mueller,0,Mueller,maxku,24-05-18 10:55,,,7,0,23,23
+●,8_R,USA,0,his team,maxku,24-05-18 10:55,,,8,0,23,23
+●,8_R,Inquieries for Trump,0,questions,maxku,24-05-18 10:55,,,9,0,24,24
+●,8_R,USA\Mueller,0,Mueller,maxku,24-05-18 10:55,,,7,0,24,24
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 10:55,,,5,0,24,24
+●,8_R,USA\Trump,0,the president,maxku,24-05-18 10:55,,,13,0,24,24
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,has provided,maxku,24-05-18 10:56,Mueller,,12,0,24,24
+●,8_R,USA\USA-I,0,Flynn,maxku,24-05-18 10:58,,,5,0,24,24
+●,8_R,USA\USA-I,0,Sessions,maxku,24-05-18 10:58,,,8,0,24,24
+●,8_R,USA\USA-I,0,fired FBI Director,maxku,24-05-18 10:58,,,18,0,24,24
+●,8_R,USA\USA-I,0,James Comey,maxku,24-05-18 10:58,,,11,0,24,24
+●,8_R,USA\USA-I,0,former deputy FBI director,maxku,24-05-18 10:58,,,26,0.01,24,24
+●,8_R,USA\USA-I,0,Andrew McCabe,maxku,24-05-18 10:58,,,13,0,24,24
+●,8_R,RUS,0,Russia,maxku,24-05-18 10:58,,,6,0,24,24
+●,8_R,USA\USA-I,0,Manafort,maxku,24-05-18 10:58,,,8,0,24,24
+●,8_R,USA\USA-I,0,"Donald Trump, Jr.",maxku,24-05-18 10:58,,,17,0,24,24
+●,8_R,USA\USA-I,0,the president,maxku,24-05-18 10:58,,,13,0,24,24
+●,8_R,RUS\RUS-I,0,Russian lawyer ,maxku,24-05-18 10:58,,,14,0,24,24
+●,8_R,RUS\RUS-I,0,Natalia Veselnitskaya,maxku,24-05-18 10:58,,,21,0.01,24,24
+●,8_R,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,disgraceful,maxku,24-05-18 10:59,Mueller,,11,0,25,25
+●,8_R,Inquieries for Trump,0,the questions,maxku,24-05-18 10:59,,,13,0,25,25
+●,8_R,RUS meddling investigation,0,the Russian Witch Hunt,maxku,24-05-18 10:59,,,22,0.01,25,25
+●,8_R,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,Witch Hunt,maxku,24-05-18 10:59,RUS meddling investigation,,10,0,25,25
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 11:00,,,5,0,25,25
+●,8_R,RUS meddling,0,"a made up, phony crime",maxku,24-05-18 11:00,,,22,0.01,25,25
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,a made up,maxku,24-05-18 11:00,Mueller,,9,0,25,25
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,phony,maxku,24-05-18 11:01,Mueller,,5,0,25,25
+●,8_R,RUS meddling,0,Collusion,maxku,24-05-18 11:01,,,9,0,25,25
+●,8_R,Properties\Importance\Unimportant,0,that never existed,maxku,24-05-18 11:01,RUS meddling,,18,0,25,25
+●,8_R,RUS meddling investigation,0,an investigation,maxku,24-05-18 11:01,,,16,0,25,25
+●,8_R,Properties\Law\Unlawful,0,illegally leaked classified information,maxku,24-05-18 11:02,RUS meddling investigation,,39,0.01,25,25
+●,8_R,Properties\Difficulty\Difficult,0,controversy with,maxku,24-05-18 11:03,USA,,16,0,26,26
+●,8_R,USA,0,The Trump administration,maxku,24-05-18 11:03,,,24,0.01,27,27
+●,8_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,sharply criticized,maxku,24-05-18 11:03,"Mueller
+RUS meddling investigation",,18,0,27,27
+●,8_R,USA\Mueller,0,Mueller,maxku,24-05-18 11:04,,,7,0,27,27
+●,8_R,RUS meddling investigation,0,Mueller’s investigation,maxku,24-05-18 11:04,,,23,0.01,27,27
+●,8_R,USA\USA-I,0,several of his attorneys,maxku,24-05-18 11:04,,,24,0.01,27,27
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 11:05,,,5,0,27,27
+●,8_R,USA\USA-Misc,0,Trump’s 2016 rival,maxku,24-05-18 11:05,,,18,0,27,27
+●,8_R,USA\USA-Misc,0,Hillary Clinton,maxku,24-05-18 11:05,,,15,0,27,27
+●,8_R,USA\USA-I,0,two FBI officials,maxku,24-05-18 11:05,,,17,0,28,28
+●,8_R,USA\USA-I,0,Peter Strzok,maxku,24-05-18 11:05,,,12,0,28,28
+●,8_R,USA\USA-I,0,Lisa Page,maxku,24-05-18 11:05,,,9,0,28,28
+●,8_R,Properties\Violence & Unfair\Victim (receiving violence),0,are under fire,maxku,24-05-18 11:06,USA-I,,14,0,28,28
+●,8_R,USA\USA-I,0,Strzok,maxku,24-05-18 11:07,,,6,0,28,28
+●,8_R,USA\USA-I,0,Mueller,maxku,24-05-18 11:07,,,7,0,28,28
+●,8_R,Properties\Other\Negative,0,was removed,maxku,24-05-18 11:07,USA-I,,11,0,28,28
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 11:07,,,5,0,29,29
+●,8_R,USA\Mueller,0,Mueller,maxku,24-05-18 11:07,,,7,0,29,29
+●,8_R,RUS meddling investigation,0,Mueller’s investigation,maxku,24-05-18 11:07,,,23,0.01,29,29
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 11:07,,,5,0,30,30
+●,8_R,Properties\Affection\Refusal,0,oftentimes dismissed,maxku,24-05-18 11:07,RUS meddling investigation,,20,0.01,30,30
+●,8_R,RUS meddling investigation,0,the allegations,maxku,24-05-18 11:08,,,15,0,30,30
+●,8_R,RUS meddling,0,colluded with Russia,maxku,24-05-18 11:08,,,20,0.01,30,30
+●,8_R,RUS,0,Russia,maxku,24-05-18 11:08,,,6,0,30,30
+●,8_R,Properties\Affection\Affection or empathy,0,looking forward,maxku,24-05-18 11:08,Inquieries for Trump,,15,0,30,30
+●,8_R,Inquieries for Trump,0,being questioned under oath,maxku,24-05-18 11:08,,,27,0.01,30,30
+●,8_R,USA\Mueller,0,Mueller,maxku,24-05-18 11:08,,,7,0,30,30
+●,8_R,RUS meddling investigation,0,the allegations,maxku,24-05-18 11:08,,,15,0,31,31
+●,8_R,Properties\Behaviour & character\Not trustworthy,0,fake story,maxku,24-05-18 11:13,RUS meddling investigation,,10,0,31,31
+●,8_R,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,demeaning,maxku,24-05-18 11:14,RUS meddling investigation,,9,0,31,31
+●,8_R,Properties\Honor & patriotic values\Dishonor,0,demeaning to our country,maxku,24-05-18 11:14,RUS meddling investigation,,24,0.01,31,31
+●,8_R,USA,0,our country,maxku,24-05-18 11:14,,,11,0,31,31
+●,8_R,USA,0,our Constitution,maxku,24-05-18 11:14,,,16,0,31,31
+●,8_R,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,demeaning,maxku,24-05-18 11:14,RUS meddling investigation,,9,0,31,31
+●,8_R,RUS meddling investigation,0,the final determination,maxku,24-05-18 11:15,,,23,0.01,32,32
+●,8_R,Properties\Behaviour & character\Fair ,0,truly honest,maxku,24-05-18 11:15,RUS meddling investigation,,12,0,32,32
+●,8_R,USA,0,millions of people who gave us our big win,maxku,24-05-18 11:15,,,42,0.01,32,32
+●,8_R,USA,0,all Americans,maxku,24-05-18 11:15,,,13,0,32,32
+●,8_R,Properties\Power & Strength\Powerful & Leading,0,want a better future,maxku,24-05-18 11:16,USA,,20,0.01,32,32
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 11:16,,,5,0,32,32
+●,8_R,Properties\Other\Positive,0,deserve,maxku,24-05-18 11:16,USA,,7,0,32,32
+●,8_R,USA\Trump,0,The president,maxku,24-05-18 11:16,,,13,0,33,33
+●,8_R,Properties\Behaviour & character\Fair ,0,stay within certain boundaries,maxku,24-05-18 11:17,Mueller,,30,0.01,33,33
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 11:17,,,5,0,34,34
+●,8_R,USA\Mueller,0,Mueller,maxku,24-05-18 11:17,,,7,0,34,34
+●,8_R,USA\Trump,0,Trump,maxku,24-05-18 11:17,,,5,0,34,34
+●,8_R,USA,0,Trump’s outside counsel,maxku,24-05-18 11:17,,,23,0.01,34,34
+●,8_R,USA\USA-I,0,A spokesman,maxku,24-05-18 11:17,,,11,0,34,34
+●,8_R,USA\USA-I,0,Mueller,maxku,24-05-18 11:17,,,7,0,34,34
+●,8_R,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,very professional,maxku,24-05-18 11:17,"Trump
+Mueller",,17,0,34,34
+●,8_M,Properties\Power & Strength\Powerful & Leading,0,provides,maxku,24-05-18 11:18,Mueller,,8,0.24,1,1
+●,8_M,USA\USA-I,0,James Comey,maxku,24-05-18 11:18,,,11,0.32,2,2
+●,8_M,Properties\Law\Unlawful,0,an attack on the rule of law,maxku,24-05-18 11:19,Trump,,28,0.83,2,2
+●,8_M,Properties\Importance\Important & Intense,0,that we have not seen in our lifetime,maxku,24-05-18 11:20,Trump,,37,1.09,2,2
+●,8_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,fire,maxku,24-05-18 11:22,Trump,,4,0.12,2,2
+●,8_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,firing,maxku,24-05-18 11:22,Trump,,6,0.18,4,4
+●,8_M,Properties\Violence & Unfair\Victim (receiving violence),0,firing,maxku,24-05-18 11:22,USA-I,,6,0.18,4,4
+●,8_M,USA\USA-I,0,James Comey,maxku,24-05-18 11:22,,,11,0.32,4,4
+●,8_M,USA\USA-I,0,FBI Director,maxku,24-05-18 11:22,,,12,0.35,4,4
+●,8_M,Properties\Other\Positive,0,not considered a target,maxku,24-05-18 16:43,Trump,,23,0.68,5,5
+●,8_M,Properties\Law\Unlawful,0,obstruction of justice,maxku,24-05-18 16:45,Trump,,22,0.65,5,5
+●,8_M,Properties\Power & Strength\Powerful & Leading,0,resolve the investigation as quickly as possible,maxku,24-05-18 16:45,Trump´s Lawyers,,48,1.42,5,5
+●,8_RR,Properties\Other\Other,0,according to,maxku,24-05-18 16:47,Trump´s Lawyers,,12,0.01,10,10
+●,8_M,Properties\Difficulty\Difficult,0,no agreement,maxku,24-05-18 16:47,Trump´s Lawyers,,12,0.35,5,5
+●,8_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,angrily criticized,maxku,24-05-18 16:48,Trump,,18,0.53,6,6
+●,8_M,Properties\Other\Other,0,declined to comment,maxku,24-05-18 16:48,"Trump´s Lawyers-I
+USA-I",,19,0.56,7,7
+●,8_M,RUS meddling,0,the Russian meddling,maxku,24-05-18 16:49,,,20,0.59,7,7
+●,8_M,Inquieries for Trump,0,The questions,maxku,24-05-18 16:49,,,13,0.38,7,7
+●,8_M,RUS meddling,0,coordinated with the Kremlin,maxku,24-05-18 16:50,,,28,0.83,7,7
+●,8_M,Inquieries for Trump,0,one question,maxku,24-05-18 16:51,,,12,0.35,7,7
+●,8_M,Properties\Power & Strength\Weak & Following,0,reaching out,maxku,24-05-18 16:51,USA-I,,12,0.35,7,7
+●,8_M,USA\USA-I,0,former campaign chairman Paul Manafort,maxku,24-05-18 16:51,,,38,1.12,7,7
+●,8_M,USA\Mueller,0,Mueller,maxku,24-05-18 16:52,,,7,0.21,8,8
+●,8_M,Properties\Power & Strength\Powerful & Leading,0,brought several charges against,maxku,24-05-18 16:52,Mueller,,31,0.91,8,8
+●,8_M,USA\USA-I,0,Manafort,maxku,24-05-18 16:52,,,8,0.24,8,8
+●,8_M,RUS meddling,0,Russian election interference,maxku,24-05-18 16:52,,,29,0.86,8,8
+●,8_M,Properties\Importance\Unimportant,0,none are for any crimes related to,maxku,24-05-18 16:53,RUS meddling,,34,1,8,8
+●,8_M,RUS meddling,0,such an effort,maxku,24-05-18 16:53,,,14,0.41,8,8
+●,8_M,Inquieries for Trump,0,The queries,maxku,24-05-18 16:53,,,11,0.32,9,9
+●,8_M,USA\Trump,0,Trump,maxku,24-05-18 16:54,,,5,0.15,9,9
+●,8_M,Inquieries for Trump,0,One question,maxku,24-05-18 16:54,,,12,0.35,9,9
+●,8_M,USA\Trump,0,Trump,maxku,24-05-18 16:54,,,5,0.15,9,9
+●,8_M,RUS\Putin,0,Mr. Putin,maxku,24-05-18 16:54,,,9,0.27,9,9
+●,8_M,RUS\Putin,0,Russian President Vladimir Putin,maxku,24-05-18 16:55,,,32,0.94,9,9
+●,8_M,USA\Trump,0,the president,maxku,24-05-18 16:55,,,13,0.38,9,9
+●,8_M,USA\USA-I,0,Jared Kushner,maxku,24-05-18 16:55,,,13,0.38,9,9
+●,8_M,USA\USA-I,0,his son-in-law,maxku,24-05-18 16:55,,,14,0.41,9,9
+●,8_M,RUS,0,Russia,maxku,24-05-18 16:55,,,6,0.18,9,9
+●,8_M,Properties\Other\Other,0,a possible attempt,maxku,24-05-18 16:56,USA-I,,18,0.53,9,9
+●,8_M,Properties\Power & Strength\Powerful & Leading,0,set up a back channel with Russia,maxku,24-05-18 16:57,USA-I,,33,0.97,9,9
+●,8_M,Inquieries for Trump,0,Additional questions,maxku,24-05-18 16:57,,,20,0.59,10,10
+●,8_M,USA\USA-I,0,Michael Flynn,maxku,24-05-18 16:57,,,13,0.38,10,10
+●,8_M,USA\USA-I,0,Trump’s former national security adviser,maxku,24-05-18 16:57,,,40,1.18,10,10
+●,8_M,USA\Trump,0,Trump,maxku,24-05-18 16:57,,,5,0.15,10,10
+●,8_M,Properties\Behaviour & character\Trustworthy,0,has pleaded guilty,maxku,24-05-18 16:57,USA-I,,18,0.53,10,10
+●,8_M,Properties\Behaviour & character\Not trustworthy,0,lying to the FBI,maxku,24-05-18 16:57,USA-I,,16,0.47,10,10
+●,8_M,USA,0,the FBI,maxku,24-05-18 16:58,,,7,0.21,10,10
+●,8_M,RUS,0,Russia,maxku,24-05-18 16:58,,,6,0.18,10,10
+●,8_M,RUS\RUS-I,0,Sergey Kislyak,maxku,24-05-18 16:58,,,14,0.41,10,10
+●,8_M,USA\USA-I,0,Flynn,maxku,24-05-18 16:58,,,5,0.15,10,10
+●,8_M,USA\Mueller,0,Mueller,maxku,24-05-18 16:58,,,7,0.21,10,10
+●,8_M,USA\USA-I,0,Mr. Flynn,maxku,24-05-18 16:58,,,9,0.27,11,11
+●,8_M,RUS\RUS-I,0,Sergey I. Kislyak,maxku,24-05-18 16:59,,,17,0.5,11,11
+●,8_M,Inquieries for Trump,0,one question,maxku,24-05-18 16:59,,,12,0.35,11,11
+●,8_M,USA\USA-I,0,Flynn,maxku,24-05-18 16:59,,,5,0.15,11,11
+●,8_M,Properties\Power & Strength\Weak & Following,0,seeking immunity or possible pardon,maxku,24-05-18 17:00,USA-I,,35,1.03,11,11
+●,8_M,USA\USA-I,0,Flynn,maxku,24-05-18 17:00,,,5,0.15,12,12
+●,8_M,USA,0,White House officials,maxku,24-05-18 17:00,,,21,0.62,12,12
+●,8_M,Properties\Behaviour & character\Not trustworthy,0,misled them,maxku,24-05-18 17:00,USA-I,,11,0.32,12,12
+●,8_M,RUS,0,Russian contacts,maxku,24-05-18 17:00,,,16,0.47,12,12
+●,8_M,USA\USA-I,0,Comey,maxku,24-05-18 17:00,,,5,0.15,13,13
+●,8_M,USA\Trump,0,Trump,maxku,24-05-18 17:00,,,5,0.15,13,13
+●,8_M,USA,0,the Oval Office,maxku,24-05-18 17:01,,,15,0.44,13,13
+●,8_M,USA\USA-I,0,Comey,maxku,24-05-18 17:01,,,5,0.15,13,13
+●,8_M,USA\USA-I,0,Flynn,maxku,24-05-18 17:01,,,5,0.15,13,13
+●,8_M,USA,0,other officials,maxku,24-05-18 17:01,,,15,0.44,13,13
+●,8_M,Properties\Power & Strength\Powerful & Leading,0,encouraged,maxku,24-05-18 17:01,Trump,,10,0.29,13,13
+●,8_L,Properties\Importance\Important & Intense,0,Dozens of,maxku,24-05-18 17:02,Inquieries for Trump,,9,0.1,1,1
+●,8_L,Properties\Importance\Important & Intense,0,Broad Quest,maxku,24-05-18 17:03,RUS meddling investigation,,11,0.12,1,1
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,trying to determine,maxku,24-05-18 17:03,Mueller,,19,0.21,2,2
+●,8_L,Properties\Law\Unlawful,0,had criminal intent,maxku,24-05-18 17:03,Trump,,19,0.21,2,2
+●,8_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,fired,maxku,24-05-18 17:04,Trump,,5,0.05,2,2
+●,8_L,Properties\Violence & Unfair\Victim (receiving violence),0,fired,maxku,24-05-18 17:04,USA-I,,5,0.05,2,2
+●,8_L,USA\USA-I,0,James B. Comey,maxku,24-05-18 17:05,,,14,0.15,2,2
+●,8_L,USA\USA-I,0,the F.B.I. director,maxku,24-05-18 17:05,,,19,0.21,2,2
+●,8_L,Properties\Importance\Important & Intense,0,at least four dozen,maxku,24-05-18 17:05,Inquieries for Trump,,19,0.21,3,3
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,exhaustive array of subjects,maxku,24-05-18 17:06,Inquieries for Trump,,28,0.3,3,3
+●,8_L,Inquieries for Trump,0,the inquiry,maxku,24-05-18 17:06,,,11,0.12,3,3
+●,8_L,Properties\Behaviour & character\Not trustworthy,0,obstructed the inquiry,maxku,24-05-18 17:06,Trump,,22,0.24,3,3
+●,8_L,Properties\Other\Other,0,according to,maxku,24-05-18 17:06,Inquieries for Trump,,12,0.13,3,3
+●,8_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,attempt to penetrate,maxku,24-05-18 17:09,Inquieries for Trump,,20,0.22,4,4
+●,8_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,most combative Twitter posts,maxku,24-05-18 17:09,Trump,,28,0.3,4,4
+●,8_L,USA\USA-I,0,the F.B.I. director,maxku,24-05-18 17:12,,,19,0.21,4,4
+●,8_L,USA\USA-I,0,his first national security adviser,maxku,24-05-18 17:12,,,35,0.38,4,4
+●,8_L,USA\USA-I,0,Attorney General Jeff Sessions,maxku,24-05-18 17:12,,,30,0.32,4,4
+●,8_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,offering dirt,maxku,24-05-18 17:12,RUS,,13,0.14,4,4
+●,8_L,USA\USA-Misc,0,Hillary Clinton,maxku,24-05-18 17:12,,,15,0.16,4,4
+●,8_L,Properties\Importance\Important & Intense,0,high-profile firings,maxku,24-05-18 17:13,"Trump
+USA-I",,20,0.22,4,4
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,personal lawyer,maxku,24-05-18 17:14,,,15,0.16,5,5
+●,8_L,Properties\Importance\Important & Intense,0,longtime personal lawyer,maxku,24-05-18 17:14,Trump´s Lawyers-I,,24,0.26,5,5
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,set up a back channel to Russia,maxku,24-05-18 17:15,USA-I,,31,0.33,5,5
+●,8_L,USA\USA-I,0,Mr. Trump’s son-in-law,maxku,24-05-18 17:15,,,22,0.24,5,5
+●,8_L,USA\USA-I,0,Jared Kushner,maxku,24-05-18 17:15,,,13,0.14,5,5
+●,8_L,USA\USA-I,0,a longtime adviser,maxku,24-05-18 17:15,,,18,0.19,5,5
+●,8_L,Properties\Importance\Important & Intense,0,longtime adviser,maxku,24-05-18 17:16,USA-I,,16,0.17,5,5
+●,8_L,Properties\Other\Other,0,claimed to,maxku,24-05-18 17:16,USA-I,,10,0.11,5,5
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,have inside information,maxku,24-05-18 17:16,USA-I,,23,0.25,5,5
+●,8_L,RUS meddling,0,Democratic email hackings,maxku,24-05-18 17:17,,,25,0.27,5,5
+●,8_L,USA\Trump,0,Mr. Trump,maxku,24-05-18 17:17,,,9,0.1,6,6
+●,8_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,disgraceful,maxku,24-05-18 17:17,Mueller,,11,0.12,6,6
+●,8_L,Inquieries for Trump,0,questions,maxku,24-05-18 17:41,,,9,0.1,6,6
+●,8_L,USA,0,the special counsel,maxku,24-05-18 17:41,,,19,0.21,6,6
+●,8_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,incorrectly noted,maxku,24-05-18 17:41,Trump,,17,0.18,6,6
+●,8_L,USA\Trump,0,The president,maxku,24-05-18 17:41,,,13,0.14,6,6
+●,8_L,Properties\Behaviour & character\Not trustworthy,0,“phony” crime,maxku,24-05-18 17:42,RUS meddling,,13,0.14,6,6
+●,8_L,RUS meddling,0,collusion,maxku,24-05-18 17:42,,,9,0.1,6,6
+●,8_L,Inquieries for Trump,0,The questions,maxku,24-05-18 17:42,,,13,0.14,7,7
+●,8_L,Properties\Importance\Important & Intense,0,most detailed look yet,maxku,24-05-18 17:43,Inquieries for Trump,,22,0.24,7,7
+●,8_L,Properties\Quality\Functioning,0,most detailed look yet,maxku,24-05-18 17:43,Inquieries for Trump,,22,0.24,7,7
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,24-05-18 17:43,,,11,0.12,7,7
+●,8_L,RUS meddling investigation,0,Mr. Mueller’s investigation,maxku,24-05-18 17:43,,,27,0.29,7,7
+●,8_L,Properties\Other\Other,0,shrouded in secrecy,maxku,24-05-18 17:43,RUS meddling investigation,,19,0.21,7,7
+●,8_L,Properties\Law\Unlawful,0,obstruction of justice,maxku,24-05-18 17:44,"RUS
+Trump",,22,0.24,7,7
+●,8_L,Properties\Other\Other,0,possible,maxku,24-05-18 17:44,Inquieries for Trump,,8,0.09,7,7
+●,8_L,Properties\Importance\Important & Intense,0,grew to include an examination of the president’s conduct in office,maxku,24-05-18 17:45,RUS meddling investigation,,67,0.72,7,7
+●,8_L,Inquieries for Trump,0,queries,maxku,24-05-18 17:45,,,7,0.08,7,7
+●,8_L,USA\Trump,0,Mr. Trump,maxku,24-05-18 17:45,,,9,0.1,7,7
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,24-05-18 17:45,,,11,0.12,7,7
+●,8_L,USA\Trump,0,the president,maxku,24-05-18 17:45,,,13,0.14,7,7
+●,8_L,USA\USA-I,0,Michael T. Flynn,maxku,24-05-18 17:45,,,16,0.17,7,7
+●,8_L,USA\USA-I,0,the former national security adviser,maxku,24-05-18 17:45,,,36,0.39,7,7
+●,8_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,attempts to fire,maxku,24-05-18 17:46,Trump,,16,0.17,7,7
+●,8_L,Properties\Violence & Unfair\Victim (receiving violence),0,attempts to fire,maxku,24-05-18 17:46,Mueller,,16,0.17,7,7
+●,8_L,Properties\Other\Other,0,possible,maxku,24-05-18 17:46,Trump,,8,0.09,7,7
+●,8_L,Properties\Other\Other,0,pardon offers,maxku,24-05-18 17:46,Trump,,13,0.14,7,7
+●,8_L,USA\USA-I,0,Mr. Flynn,maxku,24-05-18 17:46,,,9,0.1,8,8
+●,8_L,Properties\Power & Strength\Weak & Following,0,seeking immunity or possible pardon,maxku,24-05-18 17:47,USA-I,,35,0.38,8,8
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,24-05-18 17:47,,,11,0.12,8,8
+●,8_L,Inquieries for Trump,0,questions,maxku,24-05-18 17:47,,,9,0.1,8,8
+●,8_L,Inquieries for Trump,0,a list,maxku,24-05-18 17:47,,,6,0.06,8,8
+●,8_L,USA\USA-I,0,a person outside Mr. Trump’s legal team,maxku,24-05-18 17:47,,,39,0.42,8,8
+●,8_L,USA\Trump,0,Mr. Trump,maxku,24-05-18 17:47,,,9,0.1,8,8
+●,8_L,Trump´s Lawyers,0,Mr. Trump’s legal team,maxku,24-05-18 17:47,,,22,0.24,8,8
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,24-05-18 17:48,,,11,0.12,9,9
+●,8_L,Inquieries for Trump,0,A few questions,maxku,24-05-18 17:48,,,15,0.16,9,9
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,is still investigating,maxku,24-05-18 17:48,Mueller,,22,0.24,9,9
+●,8_L,Inquieries for Trump,0,more tantalizing inquiries,maxku,25-05-18 10:06,,,26,0.28,9,9
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:06,,,11,0.12,9,9
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:07,,,9,0.1,9,9
+●,8_L,USA\Trump,0,the former chairman Paul Manafort,maxku,25-05-18 10:07,,,33,0.36,9,9
+●,8_L,Properties\Power & Strength\Weak & Following,0,seeking assistance from,maxku,25-05-18 10:07,USA-I,,23,0.25,9,9
+●,8_L,Properties\Importance\Important & Intense,0,tantalizing,maxku,25-05-18 10:07,Inquieries for Trump,,11,0.12,9,9
+●,8_L,RUS,0,Moscow,maxku,25-05-18 10:07,,,6,0.06,9,9
+●,8_L,USA\USA-I,0,Paul Manafort,maxku,25-05-18 10:07,,,13,0.14,9,9
+●,8_L,RUS,0,Russia,maxku,25-05-18 10:08,,,6,0.06,9,9
+●,8_L,Properties\Other\Other,0,potential assistance,maxku,25-05-18 10:08,"USA-I
+RUS",,20,0.22,9,9
+●,8_L,Properties\Safety\Unsafe,0,No such outreach has been revealed,maxku,25-05-18 10:08,RUS meddling,,34,0.37,9,9
+●,8_L,RUS meddling,0,such outreach,maxku,25-05-18 10:09,,,13,0.14,9,9
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Jay Sekulow,maxku,25-05-18 10:09,,,11,0.12,10,10
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,a lawyer for Mr. Trump,maxku,25-05-18 10:09,,,22,0.24,10,10
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:09,,,9,0.1,10,10
+●,8_L,Properties\Other\Other,0,declined to comment,maxku,25-05-18 10:09,Trump´s Lawyers-I,,19,0.21,10,10
+●,8_L,USA\USA-I,0,A spokesman for the special counsel’s office,maxku,25-05-18 10:10,,,44,0.48,10,10
+●,8_L,USA,0,the special counsel,maxku,25-05-18 10:10,,,19,0.21,10,10
+●,8_L,Properties\Other\Other,0,did not respond,maxku,25-05-18 10:10,USA-I,,15,0.16,10,10
+●,8_L,Inquieries for Trump,0,The questions,maxku,25-05-18 10:10,,,13,0.14,11,11
+●,8_L,Properties\Safety\Unsafe,0,chaotic,maxku,25-05-18 10:10,Trump,,7,0.08,11,11
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:11,,,11,0.12,11,11
+●,8_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,public threats,maxku,25-05-18 10:11,Trump,,14,0.15,11,11
+●,8_L,USA\Trump,0,the president,maxku,25-05-18 10:11,,,13,0.14,11,11
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:11,,,9,0.1,11,11
+●,8_L,RUS,0,Russian officials,maxku,25-05-18 10:11,,,17,0.18,11,11
+●,8_L,USA,0,White House aides,maxku,25-05-18 10:11,,,17,0.18,11,11
+●,8_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,salacious,maxku,25-05-18 10:12,RUS meddling,,9,0.1,11,11
+●,8_L,RUS meddling,0,salacious accusations,maxku,25-05-18 10:12,,,21,0.23,11,11
+●,8_L,Properties\Importance\Important & Intense,0,dramatic,maxku,25-05-18 10:12,USA-I,,8,0.09,11,11
+●,8_L,USA,0,The special counsel,maxku,25-05-18 10:14,,,19,0.21,12,12
+●,8_L,USA\Trump,0,the president,maxku,25-05-18 10:14,,,13,0.14,12,12
+●,8_L,RUS,0,Russia,maxku,25-05-18 10:14,,,6,0.06,12,12
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:14,,,11,0.12,12,12
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:14,,,9,0.1,12,12
+●,8_L,RUS\Putin,0,President Vladimir V. Putin,maxku,25-05-18 10:15,,,27,0.29,12,12
+●,8_L,RUS,0,Russia,maxku,25-05-18 10:15,,,6,0.06,12,12
+●,8_L,RUS,0,Russia,maxku,25-05-18 10:15,,,6,0.06,12,12
+●,8_L,RUS\Putin,0,Mr. Putin,maxku,25-05-18 10:15,,,9,0.1,12,12
+●,8_L,Inquieries for Trump,0,would like to ask,maxku,25-05-18 10:15,,,17,0.18,12,12
+●,8_L,USA,0,American sanctions,maxku,25-05-18 10:15,,,18,0.19,12,12
+●,8_L,Inquieries for Trump,0,his questions,maxku,25-05-18 10:15,,,13,0.14,13,13
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:15,,,11,0.12,13,13
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,tries to tease,maxku,25-05-18 10:16,Mueller,,14,0.15,13,13
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:16,,,9,0.1,13,13
+●,8_L,USA,0,law enforcement officials,maxku,25-05-18 10:16,,,25,0.27,13,13
+●,8_L,USA,0,independent investigators,maxku,25-05-18 10:16,,,25,0.27,13,13
+●,8_L,USA,0,people who should loyally protect him,maxku,25-05-18 10:16,,,37,0.4,13,13
+●,8_L,Properties\Affection\Affection or empathy,0,loyally,maxku,25-05-18 10:16,Trump,,7,0.08,13,13
+●,8_L,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,independent,maxku,25-05-18 10:17,USA,,11,0.12,13,13
+●,8_L,USA\USA-I,0,the F.B.I. director,maxku,25-05-18 10:18,,,19,0.21,14,14
+●,8_L,USA\USA-I,0,James B. Comey,maxku,25-05-18 10:18,,,14,0.15,14,14
+●,8_L,USA,0,the White House,maxku,25-05-18 10:19,,,15,0.16,14,14
+●,8_L,Properties\Law\Unlawful,0,broke with Justice Department policy,maxku,25-05-18 10:19,USA-I,,36,0.39,14,14
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,spoke publicly,maxku,25-05-18 10:20,USA-I,,14,0.15,14,14
+●,8_L,USA\USA-Misc,0,Mrs. Clinton,maxku,25-05-18 10:20,,,12,0.13,14,14
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:20,,,11,0.12,14,14
+●,8_L,Inquieries for Trump,0,Mr. Mueller’s questions,maxku,25-05-18 10:20,,,23,0.25,14,14
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,put that statement to the test,maxku,25-05-18 10:22,Inquieries for Trump,,30,0.32,14,14
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:22,,,9,0.1,14,14
+●,8_L,USA\USA-I,0,Mr. Comey,maxku,25-05-18 10:23,,,9,0.1,14,14
+●,8_L,Properties\Law\Lawful,0,had abided by policy,maxku,25-05-18 10:23,USA-I,,20,0.22,14,14
+●,8_L,Properties\Behaviour & character\Confident,0,no concerns,maxku,25-05-18 10:24,Trump,,11,0.12,14,14
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:24,,,9,0.1,14,14
+●,8_L,USA\USA-I,0,Mr. Comey,maxku,25-05-18 10:24,,,9,0.1,14,14
+●,8_L,RUS meddling investigation,0,the Russia investigation,maxku,25-05-18 10:25,,,24,0.26,14,14
+●,8_L,Properties\Violence & Unfair\Victim (receiving violence),0,was fired,maxku,25-05-18 10:25,USA-I,,9,0.1,14,14
+●,8_L,Inquieries for Trump,0,the questions,maxku,25-05-18 10:26,,,13,0.14,15,15
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:26,,,9,0.1,15,15
+●,8_L,USA\USA-I,0,Mr. Sessions,maxku,25-05-18 10:26,,,12,0.13,15,15
+●,8_L,USA\USA-I,0,the attorney general,maxku,25-05-18 10:26,,,20,0.22,15,15
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,recuse himself,maxku,25-05-18 10:27,USA-I,,14,0.15,15,15
+●,8_L,RUS meddling investigation,0,the Russia investigation,maxku,25-05-18 10:28,,,24,0.26,15,15
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:28,,,9,0.1,15,15
+●,8_L,USA\USA-I,0,Mr. Sessions,maxku,25-05-18 10:28,,,12,0.13,15,15
+●,8_L,Properties\Power & Strength\Weak & Following,0,needed him in place for protection,maxku,25-05-18 10:28,Trump,,34,0.37,15,15
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,needed him in place for protection,maxku,25-05-18 10:29,USA-I,,34,0.37,15,15
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:29,,,11,0.12,16,16
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:29,,,9,0.1,16,16
+●,8_L,Properties\Other\Other,0,appears to be,maxku,25-05-18 10:29,Mueller,,13,0.14,16,16
+●,8_M,Properties\Other\Other,0,according to,maxku,25-05-18 10:30,Mueller,,12,0.35,3,3
+●,8_R,Properties\Other\Other,0,allegedly,maxku,25-05-18 10:30,"RUS
+RUS-I",,9,0,20,20
+●,8_R,Properties\Other\Other,0,alleged,maxku,25-05-18 10:31,"Mueller
+RUS
+RUS-I",,7,0,20,20
+●,8_R,Properties\Other\Other,0,did not say the actions had an impact,maxku,25-05-18 10:32,USA,,37,0.01,21,21
+●,8_R,Properties\Other\Other,0,no allegation in this indictment,maxku,25-05-18 10:32,Inquieries for Trump,,32,0.01,21,21
+●,8_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,took steps last year to fire,maxku,25-05-18 10:34,Trump,,28,0.3,16,16
+●,8_L,Properties\Violence & Unfair\Victim (receiving violence),0,took steps last year to fire,maxku,25-05-18 10:34,Mueller,,28,0.3,16,16
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,took steps last year to fire,maxku,25-05-18 10:34,Trump,,28,0.3,16,16
+●,8_L,USA\Trump,0,The president,maxku,25-05-18 10:34,,,13,0.14,16,16
+●,8_L,USA\USA-I,0,the White House counsel,maxku,25-05-18 10:34,,,23,0.25,16,16
+●,8_L,USA\USA-I,0,Donald F. McGahn II,maxku,25-05-18 10:35,,,19,0.21,16,16
+●,8_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threatened to resign,maxku,25-05-18 10:35,USA-I,,20,0.22,16,16
+●,8_L,USA,0,the special counsel,maxku,25-05-18 10:35,,,19,0.21,16,16
+●,8_L,USA,0,the special counsel,maxku,25-05-18 10:35,,,19,0.21,17,17
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,terminating the special counsel,maxku,25-05-18 10:35,Trump,,31,0.33,17,17
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:35,,,11,0.12,17,17
+●,8_L,Inquieries for Trump,0,the list of questions,maxku,25-05-18 10:36,,,21,0.23,17,17
+●,8_L,USA\USA-I,0,Don McGahn,maxku,25-05-18 10:36,,,10,0.11,17,17
+●,8_L,USA,0,the special counsel,maxku,25-05-18 10:36,,,19,0.21,17,17
+●,8_L,Properties\Affection\Affection or empathy,0,backing,maxku,25-05-18 10:38,Trump,,7,0.08,17,17
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:38,,,11,0.12,18,18
+●,8_L,Properties\Importance\Important & Intense,0,sought for months to,maxku,25-05-18 10:39,Inquieries for Trump,,20,0.22,18,18
+●,8_L,USA\Trump,0,the president,maxku,25-05-18 10:39,,,13,0.14,18,18
+●,8_L,Properties\Affection\Affection or empathy,0,"expressed a desire, at times, to be interviewed",maxku,25-05-18 10:39,Inquieries for Trump,,47,0.51,18,18
+●,8_L,Inquieries for Trump,0,an avenue to end the inquiry more quickly,maxku,25-05-18 10:40,,,41,0.44,18,18
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,have been negotiating,maxku,25-05-18 10:40,Trump´s Lawyers,,21,0.23,18,18
+●,8_L,USA\Trump,0,their client,maxku,25-05-18 10:40,,,12,0.13,18,18
+●,8_L,Properties\Power & Strength\Weak & Following,0,out of concern,maxku,25-05-18 10:40,Trump´s Lawyers,,14,0.15,18,18
+●,8_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,exaggerations,maxku,25-05-18 10:40,Trump,,13,0.14,18,18
+●,8_L,Properties\Behaviour & character\Not trustworthy,0,half-truths,maxku,25-05-18 10:40,Trump,,11,0.12,18,18
+●,8_L,Properties\Behaviour & character\Not trustworthy,0,outright falsehoods,maxku,25-05-18 10:41,Trump,,19,0.21,18,18
+●,8_L,Properties\Behaviour & character\Not trustworthy,0,provide false statements,maxku,25-05-18 10:41,Trump,,24,0.26,18,18
+●,8_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,easily become distracted,maxku,25-05-18 10:41,Trump,,24,0.26,18,18
+●,8_L,USA\USA-I,0,Mr. Flynn,maxku,25-05-18 10:41,,,9,0.1,18,18
+●,8_L,Properties\Behaviour & character\Not trustworthy,0,lying to investigators,maxku,25-05-18 10:42,USA-I,,22,0.24,18,18
+●,8_L,Inquieries for Trump,0,the Russia inquiry,maxku,25-05-18 10:42,,,18,0.19,18,18
+●,8_L,Inquieries for Trump,0,The list of questions,maxku,25-05-18 10:42,,,21,0.23,19,19
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:42,,,11,0.12,19,19
+●,8_L,USA\Trump,0,the president,maxku,25-05-18 10:42,,,13,0.14,19,19
+●,8_L,USA,0,the special counsel,maxku,25-05-18 10:43,,,19,0.21,19,19
+●,8_L,Properties\Power & Strength\Weak & Following,0,Concerned about,maxku,25-05-18 10:43,Trump´s Laywers-I,,15,0.16,19,19
+●,8_L,Properties\Difficulty\Difficult,0,legal jeopardy,maxku,25-05-18 10:43,"Trump
+Trump´s Lawyers",,14,0.15,19,19
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,lead lawyer,maxku,25-05-18 10:44,,,11,0.12,19,19
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,trying to convince,maxku,25-05-18 10:44,Trump´s Lawyers-I,,18,0.19,19,19
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:44,,,11,0.12,19,19
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:44,,,9,0.1,19,19
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:44,,,11,0.12,20,20
+●,8_L,Properties\Other\Other,0,was apparently,maxku,25-05-18 10:44,Mueller,,14,0.15,20,20
+●,8_L,Properties\Other\Negative,0,unsatisfied,maxku,25-05-18 10:45,Mueller,,11,0.12,20,20
+●,8_L,Inquieries for Trump,0,question the president,maxku,25-05-18 10:45,,,22,0.24,20,20
+●,8_L,USA\Trump,0,the president,maxku,25-05-18 10:45,,,13,0.14,20,20
+●,8_L,Properties\Law\Unlawful,0,had criminal intent,maxku,25-05-18 10:45,Trump,,19,0.21,20,20
+●,8_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,fired,maxku,25-05-18 10:45,Trump,,5,0.05,20,20
+●,8_L,Properties\Violence & Unfair\Victim (receiving violence),0,fired,maxku,25-05-18 10:45,USA-I,,5,0.05,20,20
+●,8_L,USA\USA-I,0,Mr. Comey,maxku,25-05-18 10:49,,,9,0.1,20,20
+●,8_L,Properties\Behaviour & character\Confident,0,held firm,maxku,25-05-18 10:49,Trump´s Lawyers-I,,9,0.1,21,21
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:49,,,11,0.12,21,21
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Mr. Dowd,maxku,25-05-18 10:50,,,8,0.09,21,21
+●,8_L,Inquieries for Trump,0,the questions,maxku,25-05-18 10:50,,,13,0.14,21,21
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:50,,,9,0.1,21,21
+●,8_L,USA\Trump,0,Mr. Mueller,maxku,25-05-18 10:50,,,11,0.12,22,22
+●,8_L,USA\USA-I,0,Mr. Mueller’s team,maxku,25-05-18 10:50,,,18,0.19,22,22
+●,8_L,USA\Trump,0,the president,maxku,25-05-18 10:50,,,13,0.14,22,22
+●,8_L,Properties\Other\Negative,0,tone and detailed nature cemented Mr. Dowd’s view that the president should not sit for an interview,maxku,25-05-18 10:50,Inquieries for Trump,,100,1.08,22,22
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:51,,,9,0.1,22,22
+●,8_L,Properties\Behaviour & character\Confident,0,remained firm in his insistence,maxku,25-05-18 10:51,Trump,,31,0.33,22,22
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:51,,,11,0.12,22,22
+●,8_L,USA\Trump,0,his client,maxku,25-05-18 10:51,,,10,0.11,22,22
+●,8_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,ignoring his advice,maxku,25-05-18 10:51,Trump,,19,0.21,22,22
+●,8_L,Properties\Power & Strength\Weak & Following,0,misgivings,maxku,25-05-18 10:52,Trump´s Lawyers-I,,10,0.11,22,22
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:52,,,9,0.1,23,23
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Mr. Trump’s new lawyer in the investigation,maxku,25-05-18 10:52,,,43,0.46,23,23
+●,8_L,Properties\Importance\Important & Intense,0,longtime confidant,maxku,25-05-18 10:53,Trump´s Lawyers-I,,18,0.19,23,23
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Rudolph W. Giuliani,maxku,25-05-18 10:53,,,19,0.21,23,23
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:53,,,11,0.12,23,23
+●,8_L,USA,0,the special counsel,maxku,25-05-18 10:53,,,19,0.21,23,23
+●,8_L,USA\USA-I,0,his staff,maxku,25-05-18 10:53,,,9,0.1,23,23
+●,8_L,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,truly objective,maxku,25-05-18 10:53,"Mueller
+USA
+USA-I",,15,0.16,23,23
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:54,,,11,0.12,24,24
+●,8_L,Properties\Other\Other,0,remains a mystery,maxku,25-05-18 10:54,Mueller,,17,0.18,24,24
+●,8_L,USA\Trump,0,the president,maxku,25-05-18 10:54,,,13,0.14,24,24
+●,8_L,Properties\Law\Unlawful,0,broke the law,maxku,25-05-18 10:54,Trump,,13,0.14,24,24
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,cannot be charged with a crime while they are in office,maxku,25-05-18 10:57,Trump,,55,0.59,24,24
+●,8_L,USA,0,The special counsel,maxku,25-05-18 10:57,,,19,0.21,24,24
+●,8_L,USA\Trump,0,the president,maxku,25-05-18 10:57,,,13,0.14,24,24
+●,8_L,Properties\Other\Positive,0,not a target of the investigation,maxku,25-05-18 10:58,Trump,,33,0.36,24,24
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:58,,,11,0.12,24,24
+●,8_L,Properties\Other\Positive,0,does not expect to charge him,maxku,25-05-18 10:58,Trump,,29,0.31,24,24
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 10:58,,,11,0.12,25,25
+●,8_L,Inquieries for Trump,0,Mr. Mueller’s inquiries,maxku,25-05-18 10:58,,,23,0.25,25,25
+●,8_L,USA\Trump,0,Mr. Trump,maxku,25-05-18 10:58,,,9,0.1,25,25
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,offered them,maxku,25-05-18 10:58,Trump,,12,0.13,25,25
+●,8_L,USA\USA-I,0,former top aides,maxku,25-05-18 10:59,,,16,0.17,25,25
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,influence their decisions,maxku,25-05-18 10:59,Trump,,25,0.27,25,25
+●,8_L,RUS meddling investigation,0,the special counsel investigation,maxku,25-05-18 10:59,,,33,0.36,25,25
+●,8_L,USA\USA-I,0,Mr. Flynn,maxku,25-05-18 10:59,,,9,0.1,26,26
+●,8_L,USA\USA-I,0,Mr. Manafort,maxku,25-05-18 10:59,,,12,0.13,26,26
+●,8_L,Properties\Other\Other,0,according to,maxku,25-05-18 10:59,USA-I,,12,0.13,26,26
+●,8_L,USA\USA-I,0,people with knowledge of the discussions,maxku,25-05-18 11:00,,,40,0.43,26,26
+●,8_L,USA\USA-I,0,Mr. Manafort,maxku,25-05-18 11:00,,,12,0.13,26,26
+●,8_L,Properties\Law\Unlawful,0,charges of money laundering,maxku,25-05-18 11:00,USA-I,,27,0.29,26,26
+●,8_L,Properties\Law\Unlawful,0,financial crimes,maxku,25-05-18 11:00,USA-I,,16,0.17,26,26
+●,8_L,Properties\Other\Other,0,pleaded not guilty,maxku,25-05-18 11:00,USA-I,,18,0.19,26,26
+●,8_L,USA\USA-I,0,Mr. Flynn,maxku,25-05-18 11:03,,,9,0.1,27,27
+●,8_L,USA\USA-I,0,a retired Army lieutenant general,maxku,25-05-18 11:03,,,33,0.36,27,27
+●,8_L,Properties\Violence & Unfair\Victim (receiving violence),0,was ousted from,maxku,25-05-18 11:03,USA-I,,15,0.16,27,27
+●,8_L,USA,0,the United States,maxku,25-05-18 11:04,,,17,0.18,27,27
+●,8_L,Properties\Behaviour & character\Trustworthy,0,pleaded guilty,maxku,25-05-18 11:05,USA-I,,14,0.15,27,27
+●,8_L,Properties\Behaviour & character\Not trustworthy,0,lying to federal authorities,maxku,25-05-18 11:05,USA-I,,28,0.3,27,27
+●,8_L,USA,0,federal authorities,maxku,25-05-18 11:06,,,19,0.21,27,27
+●,8_L,Properties\Power & Strength\Powerful & Leading,0,agreed to cooperate,maxku,25-05-18 11:06,USA-I,,19,0.21,27,27
+●,8_L,USA,0,the special counsel,maxku,25-05-18 11:06,,,19,0.21,27,27
+●,8_L,USA\USA-I,0,General Flynn,maxku,25-05-18 11:06,,,13,0.14,28,28
+●,8_L,USA\USA-I,0,General Flynn,maxku,25-05-18 11:06,,,13,0.14,28,28
+●,8_L,USA\USA-I,0,Flynn,maxku,25-05-18 11:06,,,5,0.05,28,28
+●,8_L,Properties\Power & Strength\Weak & Following,0,seeking immunity or possible pardon,maxku,25-05-18 11:06,USA-I,,35,0.38,28,28
+●,8_L,USA\Mueller,0,Mr. Mueller,maxku,25-05-18 11:07,,,11,0.12,28,28
+●,8_LL,Properties\Other\Other,0,Reportedly,maxku,25-05-18 11:07,Mueller,,10,0.32,1,1
+●,8_LL,Inquieries for Trump,0,Wants To Ask,maxku,25-05-18 11:07,,,12,0.39,1,1
+●,8_LL,Inquieries for Trump,0,his inquiry,maxku,25-05-18 11:07,,,11,0.35,3,3
+●,8_LL,Properties\Law\Unlawful,0,obstructed justice,maxku,25-05-18 11:08,Trump,,18,0.58,4,4
+●,8_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,firings of,maxku,25-05-18 11:08,Trump,,10,0.32,4,4
+●,8_LL,Properties\Violence & Unfair\Victim (receiving violence),0,firings of,maxku,25-05-18 11:08,USA-I,,10,0.32,4,4
+●,8_LL,USA\USA-I,0,FBI Director James Comey,maxku,25-05-18 11:08,,,24,0.77,4,4
+●,8_LL,USA\USA-I,0,national security adviser Michael Flynn,maxku,25-05-18 11:08,,,39,1.26,4,4
+●,8_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,attempts to fire,maxku,25-05-18 11:09,Trump,,16,0.52,4,4
+●,8_LL,Properties\Violence & Unfair\Victim (receiving violence),0,attempts to fire,maxku,25-05-18 11:09,Mueller,,16,0.52,4,4
+●,8_LL,Properties\Power & Strength\Weak & Following,0,seeking immunity or possible pardon,maxku,25-05-18 11:09,USA-I,,35,1.13,5,5
+●,8_LL,USA\USA-I,0,Mr. Flynn,maxku,25-05-18 11:09,,,9,0.29,5,5
+●,8_LL,USA\USA-I,0,unnamed official,maxku,25-05-18 11:09,,,16,0.52,5,5
+●,8_LL,Trump´s Lawyers,0,the president’s legal team,maxku,25-05-18 11:10,,,26,0.84,5,5
+●,8_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,terminating,maxku,25-05-18 11:10,Trump,,11,0.35,5,5
+●,8_LL,Properties\Power & Strength\Powerful & Leading,0,shed light on,maxku,25-05-18 11:10,Inquieries for Trump,,13,0.42,6,6
+●,8_LL,Inquieries for Trump,0,The questions,maxku,25-05-18 11:10,,,13,0.42,6,6
+●,8_LL,Properties\Power & Strength\Powerful & Leading,0,homing in on,maxku,25-05-18 11:11,Mueller,,12,0.39,6,6
+●,8_LL,Properties\Power & Strength\Powerful & Leading,0,shed light on,maxku,25-05-18 11:11,Inquieries for Trump,,13,0.42,6,6
+●,8_LL,Properties\Affection\Affection or empathy,0,willing to talk,maxku,25-05-18 11:14,Inquieries for Trump,,15,0.48,7,7
+●,8_LL,RUS meddling,0,collusion with the Russians,maxku,25-05-18 11:14,,,27,0.87,7,7
+●,8_LL,Properties\Importance\Important & Intense,0,vehemently denied,maxku,25-05-18 16:15,"RUS meddling
+Trump",,17,0.55,7,7
+●,8_LL,Properties\Affection\Affection or empathy,0,looking forward,maxku,25-05-18 16:15,Inquieries for Trump,,15,0.48,7,7
+●,8_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,lashed out,maxku,25-05-18 16:15,Trump,,10,0.32,8,8
+●,8_LL,Properties\Violence & Unfair\Victim (receiving violence),0,lashed out,maxku,25-05-18 16:15,RUS meddling investigation,,10,0.32,8,8
+●,8_LL,Properties\Power & Strength\Weak & Following,0,cautioned against,maxku,25-05-18 16:16,Trump´s Lawyers,,17,0.55,9,9
+●,8_LL,Properties\Power & Strength\Powerful & Leading,0,have sought to strictly limit,maxku,25-05-18 16:16,Trump´s Lawyers,,29,0.93,9,9
+●,8_LL,Properties\Power & Strength\Weak & Following,0,worried,maxku,25-05-18 16:17,Trump´s Lawyers,,7,0.23,9,9
+●,8_LL,Properties\Behaviour & character\Trustworthy,0,pleaded guilty,maxku,25-05-18 16:17,USA-I,,14,0.45,9,9
+●,8_LL,USA\USA-I,0,four people in the president’s orbit,maxku,25-05-18 16:17,,,36,1.16,9,9
+●,8_LL,Properties\Behaviour & character\Not trustworthy,0,lying to federal investigators,maxku,25-05-18 16:18,USA-I,,30,0.97,9,9
+●,8_LL,Inquieries for Trump,0,The questions,maxku,25-05-18 16:18,,,13,0.42,10,10
+●,8_LL,Properties\Importance\Important & Intense,0,the result of months of negotiations,maxku,25-05-18 16:18,Inquieries for Trump,,36,1.16,10,10
+●,8_LL,USA,0,the special counsel,maxku,25-05-18 16:18,,,19,0.61,10,10
+●,8_LL,USA\Mueller,0,Mueller,maxku,25-05-18 16:19,,,7,0.23,10,10
+●,8_LL,Inquieries for Trump,0,his ideal list,maxku,25-05-18 16:19,,,14,0.45,10,10
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,Trump’s former lead lawyer,maxku,25-05-18 16:19,,,26,0.84,10,10
+●,8_LL,Inquieries for Trump,0,the Russia inquiry,maxku,25-05-18 16:19,,,18,0.58,10,10
+●,8_LL,Properties\Difficulty\Difficult,0,the back and forth,maxku,25-05-18 16:20,"Trump´s Lawyers
+USA",,18,0.58,10,10
+●,8_LL,USA\Trump,0,Trump,maxku,25-05-18 16:20,,,5,0.16,11,11
+●,8_LL,Properties\Power & Strength\Powerful & Leading,0,urged Trump to reject any request,maxku,25-05-18 16:21,Trump´s Lawyers-I,,33,1.06,11,11
+●,8_LL,RUS meddling investigation,0,the investigation,maxku,25-05-18 16:21,,,17,0.55,11,11
+●,8_LL,Properties\Power & Strength\Weak & Following,0,wary,maxku,25-05-18 16:21,Trump´s Lawyers-I,,4,0.13,11,11
+●,8_LL,Inquieries for Trump,0,the list,maxku,25-05-18 16:22,,,8,0.26,11,11
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,the lawyer,maxku,25-05-18 16:22,,,10,0.32,11,11
+●,8_LL,Properties\Power & Strength\Weak & Following,0,resigned,maxku,25-05-18 16:22,Trump´s Lawyers-I,,8,0.26,11,11
+●,8_LL,Properties\Other\Other,0,reports that,maxku,25-05-18 16:22,"Trump´s Lawyers-I
+Trump",,12,0.39,11,11
+●,8_LL,USA\Trump,0,the president,maxku,25-05-18 16:22,,,13,0.42,11,11
+●,8_LL,USA\Trump,0,Trump,maxku,25-05-18 16:23,,,5,0.16,11,11
+●,8_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,planned to ignore his advice,maxku,25-05-18 16:23,Trump,,28,0.9,11,11
+●,8_LL,Trump´s Lawyers\Trump´s Lawyers-I,0,former New York City Mayor Rudy Giuliani,maxku,25-05-18 16:24,,,40,1.29,12,12
+●,8_LL,USA\Trump,0,Trump,maxku,25-05-18 16:24,,,5,0.16,13,13
+●,8_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,ramped up his criticism,maxku,25-05-18 16:25,Trump,,23,0.74,13,13
+●,8_LL,Properties\Violence & Unfair\Victim (receiving violence),0,ramped up his criticism,maxku,25-05-18 16:25,USA,,23,0.74,13,13
+●,8_LL,USA,0,the special counsel’s office,maxku,25-05-18 16:25,,,28,0.9,13,13
+●,8_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,FBI raids,maxku,25-05-18 16:25,USA,,9,0.29,13,13
+●,8_LL,Properties\Violence & Unfair\Victim (receiving violence),0,FBI raids,maxku,25-05-18 16:25,Trump´s Lawyers-I,,9,0.29,13,13
+●,8_LL,USA,0,FBI,maxku,25-05-18 16:26,,,3,0.1,13,13
+●,8_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,a total witch-hunt,maxku,25-05-18 16:26,RUS meddling investigation,,18,0.58,13,13
+●,8_LL,USA\Trump,0,Trump,maxku,25-05-18 16:27,,,5,0.16,13,13
+●,8_LL,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,saying it for a long time,maxku,25-05-18 16:27,Trump,,25,0.81,13,13
+●,8_LL,USA\Trump,0,The president,maxku,25-05-18 16:27,,,13,0.42,14,14
+●,8_LL,Properties\Affection\Refusal,0,distance himself,maxku,25-05-18 16:27,Trump´s Lawyers-I,,16,0.52,14,14
+●,8_LL,Properties\Importance\Unimportant,0,"handled only a “tiny, tiny little fraction”",maxku,25-05-18 16:28,Trump´s Lawyers-I,,43,1.39,14,14
+●,8_LL,USA\Mueller,0,Mueller,maxku,25-05-18 16:28,,,7,0.23,15,15
+●,8_LL,Inquieries for Trump,0,Mueller’s list of questions,maxku,25-05-18 16:28,,,27,0.87,15,15
+●,8_LL,Properties\Other\Other,0,according to,maxku,25-05-18 16:29,Inquieries for Trump,,12,0.39,15,15
+●,8_R,RUS,0,a Russian ambassador,felix,07-12-18 18:07,,,20,0.01,16,16
+●,8_M,RUS,0,Russian Ambassador,felix,07-12-18 18:08,,,18,0.53,10,10
+●,8_L,RUS,0,Russian ambassador to the United States,felix,07-12-18 18:09,,,39,0.42,27,27
+●,8_M,RUS,0,Russian ambassador,felix,07-12-18 18:09,,,18,0.53,11,11
+●,8_RR,RUS meddling investigation,0,the probe,AnZhu,16-01-19 21:48,,,9,0.01,12,12
+●,8_L,USA\Trump,0,the president,AnZhu,16-01-19 21:51,,,13,0.14,11,11
+●,8_L,RUS meddling investigation,0,Mr. Mueller’s endgame,AnZhu,16-01-19 22:23,,,21,0.23,24,24
+●,8_L,RUS meddling investigation,0,the investigation,AnZhu,16-01-19 22:23,,,17,0.18,24,24
+●,8_R,RUS meddling investigation,0,the investigation,AnZhu,16-01-19 22:32,,,17,0,18,18
+●,8_R,USA\Mueller\Investigators,0,Mueller's team,AnZhu,17-01-19 12:27,,,14,0,14,14
+●,8_RR,USA\Mueller\Investigators,0,Mueller’s office,AnZhu,17-01-19 12:27,,,16,0.02,9,9
+●,8_R,USA\Mueller\Investigators,0,Mueller’s staff,AnZhu,17-01-19 12:27,,,15,0,26,26
+●,8_M,USA\Mueller\Investigators,0,Mueller’s team,AnZhu,17-01-19 12:27,,,14,0.41,5,5
+●,8_RR,USA\Mueller\Investigators,0,Mueller’s team,AnZhu,17-01-19 12:27,,,14,0.01,7,7
+●,8_R,USA\Mueller\Investigators,0,Mueller’s team,AnZhu,17-01-19 12:27,,,14,0,28,28
+●,8_LL,USA\Mueller\Investigators,0,federal investigators,AnZhu,17-01-19 12:28,,,21,0.68,9,9
+●,8_L,USA\Mueller\Investigators,0,the special counsel investigators,AnZhu,17-01-19 12:28,,,33,0.36,8,8
+●,8_L,USA\Mueller\Investigators,0,investigators,AnZhu,17-01-19 12:29,,,13,0.14,18,18
+●,8_L,USA\Mueller\Investigators,0,investigators for Mr. Mueller,AnZhu,17-01-19 12:29,,,29,0.31,21,21
+●,8_M,USA\Mueller\Investigators,0,investigators,AnZhu,17-01-19 12:29,,,13,0.38,5,5
+●,8_M,USA\Mueller\Investigators,0,Mueller’s investigators,AnZhu,17-01-19 12:29,,,23,0.68,10,10
+●,8_R,USA\Mueller\Investigators,0,investigators,AnZhu,17-01-19 12:30,,,13,0,18,18
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Mr. Dowd,AnZhu,17-01-19 22:15,,,8,0.09,26,26
+●,8_L,Trump´s Lawyers\Trump´s Lawyers-I,0,Mr. Dowd,AnZhu,17-01-19 22:16,,,8,0.09,22,22
+●,8_L,USA\USA-I,0,Roger J. Stone Jr.,AnZhu,08-04-19 18:12,,,18,0.19,5,5
+●,8_L,Properties\Behaviour & character\Trustworthy,0,according to people with knowledge of the discussions,AnZhu,08-04-19 18:18,USA-I,,53,0.57,26,26
+●,8_R,USA\USA-I,0,the pair,AnZhu,08-04-19 18:39,,,8,0,13,13
+●,8_R,Properties\Violence & Unfair\Victim (receiving violence),0,was hit with,AnZhu,08-04-19 18:40,USA-I,,12,0,13,13
+●,8_R,USA\USA-I,0,Richard Gates ,AnZhu,08-04-19 18:41,,,13,0,12,12
+●,8_R,USA\USA-I,0,Paul Manafort,AnZhu,08-04-19 18:41,,,13,0,11,11
+●,8_R,USA\USA-I,0,Gates,AnZhu,08-04-19 18:42,,,5,0,14,14
+●,8_R,USA\Mueller,0,Mueller,AnZhu,08-04-19 18:43,,,7,0,14,14
+●,8_R,Properties\Behaviour & character\Trustworthy,0,pleaded guilty,AnZhu,08-04-19 18:44,USA-I,,14,0,14,14
+●,8_R,Properties\Behaviour & character\Trustworthy,0,pleaded guilty,AnZhu,08-04-19 18:46,USA-I,,14,0,18,18
+●,8_R,Inquieries for Trump,0,The questions,AnZhu,08-04-19 18:48,,,13,0,24,24
+●,8_R,USA\USA-Misc,0,Democratic campaigns,AnZhu,08-04-19 18:49,,,20,0.01,27,27
+●,8_R,USA\Mueller,0,Mueller ,AnZhu,08-04-19 18:50,,,7,0,33,33

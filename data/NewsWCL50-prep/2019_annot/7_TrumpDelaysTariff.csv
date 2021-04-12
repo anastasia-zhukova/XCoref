@@ -1,0 +1,815 @@
+﻿Color,Document name,Code,Weight score,Segment,Author,Creation date,Comment,Document group,Area,Coverage %,Beginning,End
+●,7_RR,USA,0,US,maxku,10-May-18 14:15:16,,,2,0.12,1,1
+●,7_RR,USA\Trump,0,US President Donald Trump,maxku,10-May-18 14:17:01,,,25,1.52,2,2
+●,7_RR,EU,0,the European Union,maxku,10-May-18 14:17:11,,,18,1.09,2,2
+●,7_RR,USA,0,senior administration official,maxku,10-May-18 14:17:48,,,30,1.82,2,2
+●,7_RR,EU,0,the EU,maxku,10-May-18 14:18:01,,,6,0.36,3,3
+●,7_RR,USA\Trump,0,Trump,maxku,10-May-18 14:19:00,,,5,0.30,5,5
+●,7_RR,EU,0,the European Union,maxku,10-May-18 14:19:10,,,18,1.09,5,5
+●,7_RR,USA,0,The Trump administration,maxku,10-May-18 14:19:15,,,24,1.45,6,6
+●,7_RR,USA,0,the Trump administration,maxku,10-May-18 14:21:21,,,24,1.45,8,8
+●,7_RR,USA\Trump,0,Trump,maxku,10-May-18 14:21:34,,,5,0.30,9,9
+●,7_RR,USA\Trump,0,the US leader,maxku,10-May-18 14:21:45,,,13,0.79,9,9
+●,7_RR,EU,0,The EU,maxku,10-May-18 14:25:49,,,6,0.36,7,7
+●,7_RR,USA,0,The US official,maxku,10-May-18 14:26:00,,,15,0.91,8,8
+●,7_R,USA,0,White House,maxku,10-May-18 14:27:02,,,11,0.17,1,1
+●,7_R,EU,0,EU,maxku,10-May-18 14:27:15,,,2,0.03,1,1
+●,7_R,USA,0,the White House,maxku,10-May-18 14:27:57,,,15,0.23,3,3
+●,7_R,EU,0,the European Union,maxku,10-May-18 14:28:21,,,18,0.27,3,3
+●,7_R,USA,0,The Trump administration,maxku,10-May-18 14:28:30,,,24,0.36,4,4
+●,7_R,EU,0,the European Union,maxku,10-May-18 14:29:13,,,18,0.27,4,4
+●,7_R,CAN,0,Canada,maxku,10-May-18 14:31:35,,,6,0.09,4,4
+●,7_R,MEX,0,Mexico,maxku,10-May-18 14:32:46,,,6,0.09,4,4
+●,7_R,MEX,0,Mexico,maxku,10-May-18 14:33:47,,,6,0.09,1,1
+●,7_R,CAN,0,Canada,maxku,10-May-18 14:33:50,,,6,0.09,1,1
+●,7_R,MEX,0,Mexico,maxku,10-May-18 14:33:57,,,6,0.09,3,3
+●,7_R,CAN,0,Canada,maxku,10-May-18 14:34:01,,,6,0.09,3,3
+●,7_R,MEX,0,Mexico,maxku,10-May-18 14:34:09,,,6,0.09,7,7
+●,7_R,CAN,0,Canada,maxku,10-May-18 14:34:14,,,6,0.09,7,7
+●,7_R,EU,0,the EU,maxku,10-May-18 14:34:19,,,6,0.09,7,7
+●,7_R,CHN,0,China,maxku,10-May-18 14:35:26,,,5,0.08,4,4
+●,7_R,CHN,0,China,maxku,10-May-18 14:35:30,,,5,0.08,1,1
+●,7_R,USA,0,The White House,maxku,10-May-18 14:35:41,,,15,0.23,5,5
+●,7_R,USA,0,U.S. and South Korean officials,maxku,10-May-18 14:35:51,,,31,0.47,5,5
+●,7_R,KOR,0,South Korean officials,maxku,10-May-18 14:36:08,,,22,0.33,5,5
+●,7_R,KOR,0,South Korea,maxku,10-May-18 14:37:48,,,11,0.17,5,5
+●,7_R,USA,0,The administration,maxku,10-May-18 14:38:01,,,18,0.27,5,5
+●,7_R,USA,0,White House,maxku,10-May-18 14:38:09,,,11,0.17,6,6
+●,7_R,USA,0,the Administration,maxku,10-May-18 14:38:14,,,18,0.27,6,6
+●,7_R,USA\Trump,0,President Trump,maxku,10-May-18 14:38:24,,,15,0.23,7,7
+●,7_R,USA,0,his administration,maxku,10-May-18 14:38:46,,,18,0.27,7,7
+●,7_R,USA,0,The White House,maxku,10-May-18 14:38:50,,,15,0.23,7,7
+●,7_RR,MEX,0,Mexico,maxku,10-May-18 14:39:31,,,6,0.36,3,3
+●,7_RR,CAN,0,Canada,maxku,10-May-18 14:39:35,,,6,0.36,3,3
+●,7_RR,CAN,0,Canada,maxku,10-May-18 14:39:47,,,6,0.36,11,11
+●,7_RR,USA,0,Washington,maxku,10-May-18 14:39:54,,,10,0.61,11,11
+●,7_RR,MEX,0,Mexico City,maxku,10-May-18 14:39:59,,,11,0.67,11,11
+●,7_RR,CAN,0,Ottawa,maxku,10-May-18 14:40:03,,,6,0.36,11,11
+●,7_RR,KOR,0,the government in Seoul,maxku,10-May-18 14:40:15,,,23,1.39,10,10
+●,7_RR,USA,0,Washington,maxku,10-May-18 14:40:21,,,10,0.61,10,10
+●,7_RR,KOR\Moon,0,South Korean President,maxku,10-May-18 14:40:33,,,22,1.33,9,9
+●,7_M,USA\Trump,0,Trump,maxku,10-May-18 14:41:33,,,5,0.17,1,1
+●,7_M,CHN,0,China,maxku,10-May-18 14:41:53,,,5,0.17,2,2
+●,7_M,USA\Trump,0,President Trump,maxku,10-May-18 14:43:38,,,15,0.50,3,3
+●,7_M,EU,0,European leaders,maxku,10-May-18 14:44:03,,,16,0.53,3,3
+●,7_M,EU,0,the European Union,maxku,10-May-18 14:44:15,,,18,0.60,4,4
+●,7_M,CAN,0,Canada,maxku,10-May-18 14:44:18,,,6,0.20,4,4
+●,7_M,MEX,0,Mexico,maxku,10-May-18 14:44:22,,,6,0.20,4,4
+●,7_M,USA,0,the United States,maxku,10-May-18 14:44:28,,,17,0.57,4,4
+●,7_M,USA,0,the administration,maxku,10-May-18 14:44:37,,,18,0.60,4,4
+●,7_M,USA,0,Officials,maxku,10-May-18 14:44:51,,,9,0.30,5,5
+●,7_M,USA\Trump,0,Trump,maxku,10-May-18 14:44:57,,,5,0.17,6,6
+●,7_M,EU,0,the Europe Union,maxku,10-May-18 14:45:17,,,16,0.53,6,6
+●,7_M,CAN,0,Canada,maxku,10-May-18 14:45:21,,,6,0.20,6,6
+●,7_M,MEX,0,Mexico,maxku,10-May-18 14:45:25,,,6,0.20,6,6
+●,7_M,CHN,0,China,maxku,10-May-18 14:45:45,,,5,0.17,7,7
+●,7_M,USA\Trump,0,Trump,maxku,10-May-18 14:48:42,,,5,0.17,8,8
+●,7_M,EU,0,European nations,maxku,10-May-18 14:48:55,,,16,0.53,8,8
+●,7_M,USA,0,Trump officials,maxku,10-May-18 14:49:07,,,15,0.50,9,9
+●,7_M,EU,0,Europe,maxku,10-May-18 14:49:18,,,6,0.20,9,9
+●,7_M,USA\USA-Misc,0,some Republicans,maxku,10-May-18 14:49:44,,,16,0.53,9,9
+●,7_M,EU,0,European officials,maxku,10-May-18 14:50:46,,,18,0.60,9,9
+●,7_M,EU\EU-I,0,French President Emmanuel Macron,maxku,10-May-18 14:51:32,,,32,1.07,8,8
+●,7_M,EU\EU-I,0,German Chancellor Angela Merkel,maxku,10-May-18 14:51:36,,,31,1.04,8,8
+●,7_M,EU\EU-I,0,Merkel,maxku,10-May-18 14:51:43,,,6,0.20,8,8
+●,7_M,USA,0,the White House,maxku,10-May-18 14:51:59,,,15,0.50,10,10
+●,7_M,EU,0,European Union,maxku,10-May-18 14:52:19,,,14,0.47,10,10
+●,7_M,CAN,0,Canada,maxku,10-May-18 14:52:22,,,6,0.20,10,10
+●,7_M,MEX,0,Mexico,maxku,10-May-18 14:52:27,,,6,0.20,10,10
+●,7_M,USA,0,The Trump administration,maxku,10-May-18 14:52:31,,,24,0.80,11,11
+●,7_M,USA\Trump,0,the president,maxku,10-May-18 14:52:51,,,13,0.43,11,11
+●,7_L,USA,0,White House,maxku,10-May-18 14:54:44,,,11,0.13,1,1
+●,7_L,USA,0,The Trump administration,maxku,10-May-18 14:55:22,,,24,0.29,2,2
+●,7_L,EU,0,E.U.,maxku,10-May-18 14:55:32,,,4,0.05,1,1
+●,7_L,CAN,0,Canada,maxku,10-May-18 14:55:37,,,6,0.07,1,1
+●,7_L,MEX,0,Mexico,maxku,10-May-18 14:55:41,,,6,0.07,1,1
+●,7_L,EU,0,the European Union,maxku,10-May-18 14:56:06,,,18,0.22,2,2
+●,7_L,CAN,0,Canada,maxku,10-May-18 14:56:12,,,6,0.07,2,2
+●,7_L,MEX,0,Mexico,maxku,10-May-18 14:56:16,,,6,0.07,2,2
+●,7_L,USA,0,the White House,maxku,10-May-18 14:56:23,,,15,0.18,2,2
+●,7_L,USA,0,the Trump administration,maxku,10-May-18 14:56:39,,,24,0.29,3,3
+●,7_L,EU,0,European Union nations,maxku,10-May-18 14:56:44,,,22,0.27,3,3
+●,7_L,USA,0,the Trump administration,maxku,10-May-18 14:56:49,,,24,0.29,3,3
+●,7_L,CHN,0,China,maxku,10-May-18 14:56:56,,,5,0.06,3,3
+●,7_L,USA,0,The administration,maxku,10-May-18 14:57:27,,,18,0.22,4,4
+●,7_L,USA,0,the White House,maxku,10-May-18 14:57:50,,,15,0.18,4,4
+●,7_L,USA\Trump,0,President Trump,maxku,10-May-18 14:57:54,,,15,0.18,5,5
+●,7_L,USA,0,the United States,maxku,10-May-18 14:59:15,,,17,0.21,5,5
+●,7_L,EU,0,European Union leaders,maxku,10-May-18 14:59:32,,,22,0.27,5,5
+●,7_L,USA\Trump,0,the president,maxku,10-May-18 14:59:38,,,13,0.16,5,5
+●,7_L,USA,0,The White House,maxku,10-May-18 14:59:56,,,15,0.18,5,5
+●,7_L,USA,0,advisers,maxku,10-May-18 15:00:48,,,8,0.10,5,5
+●,7_L,USA,0,The Trump administration,maxku,10-May-18 15:00:54,,,24,0.29,6,6
+●,7_L,EU,0,Europe,maxku,10-May-18 15:00:58,,,6,0.07,6,6
+●,7_L,CAN,0,Canada,maxku,10-May-18 15:01:01,,,6,0.07,6,6
+●,7_L,MEX,0,Mexico,maxku,10-May-18 15:01:05,,,6,0.07,6,6
+●,7_L,USA,0,America,maxku,10-May-18 15:01:11,,,7,0.08,6,6
+●,7_L,USA,0,the United States,maxku,10-May-18 15:01:17,,,17,0.21,6,6
+●,7_L,USA,0,the United States,maxku,10-May-18 15:02:11,,,17,0.21,7,7
+●,7_L,USA\Trump,0,Mr. Trump,maxku,10-May-18 15:02:16,,,9,0.11,7,7
+●,7_L,USA,0,the White House,maxku,10-May-18 15:02:22,,,15,0.18,7,7
+●,7_L,USA,0,American negotiators,maxku,10-May-18 15:02:28,,,20,0.24,8,8
+●,7_LL,USA\Trump,0,Trump,maxku,10-May-18 15:02:40,,,5,0.08,1,1
+●,7_LL,USA\Trump,0,President Donald Trump,maxku,10-May-18 15:03:10,,,22,0.34,3,3
+●,7_LL,CAN,0,Canada,maxku,10-May-18 15:03:23,,,6,0.09,3,3
+●,7_LL,EU,0,the European Union,maxku,10-May-18 15:03:28,,,18,0.28,3,3
+●,7_LL,MEX,0,Mexico,maxku,10-May-18 15:03:42,,,6,0.09,3,3
+●,7_LL,USA,0,the White House,maxku,10-May-18 15:03:59,,,15,0.23,3,3
+●,7_LL,USA,0,the White House,maxku,10-May-18 15:05:22,,,15,0.23,5,5
+●,7_LL,USA,0,The administration,maxku,10-May-18 15:05:40,,,18,0.28,6,6
+●,7_LL,CAN,0,Canada,maxku,10-May-18 15:05:47,,,6,0.09,6,6
+●,7_LL,MEX,0,Mexico,maxku,10-May-18 15:05:50,,,6,0.09,6,6
+●,7_LL,EU,0,the European Union,maxku,10-May-18 15:05:55,,,18,0.28,6,6
+●,7_LL,USA,0,the administration,maxku,10-May-18 15:06:49,,,18,0.28,6,6
+●,7_LL,USA,0,the White House,maxku,10-May-18 15:06:56,,,15,0.23,6,6
+●,7_LL,USA\Trump,0,President Donald Trump,maxku,10-May-18 15:07:39,,,22,0.34,8,8
+●,7_LL,CAN,0,Canada,maxku,10-May-18 15:08:03,,,6,0.09,8,8
+●,7_LL,EU,0,the European Union.,maxku,10-May-18 15:08:09,,,19,0.29,8,8
+●,7_LL,USA\Trump,0,President Donald Trump,maxku,10-May-18 15:08:16,,,22,0.34,9,9
+●,7_LL,CAN,0,Canada,maxku,10-May-18 15:08:33,,,6,0.09,9,9
+●,7_LL,EU,0,the European Union,maxku,10-May-18 15:08:38,,,18,0.28,9,9
+●,7_LL,MEX,0,Mexico,maxku,10-May-18 15:08:42,,,6,0.09,9,9
+●,7_LL,USA\Trump,0,Trump,maxku,10-May-18 15:09:16,,,5,0.08,10,10
+●,7_LL,CAN,0,Canada,maxku,10-May-18 15:09:57,,,6,0.09,10,10
+●,7_LL,MEX,0,Mexico,maxku,10-May-18 15:10:01,,,6,0.09,10,10
+●,7_LL,EU,0,the EU,maxku,10-May-18 15:10:07,,,6,0.09,10,10
+●,7_LL,USA\Trump,0,Trump,maxku,10-May-18 15:10:11,,,5,0.08,10,10
+●,7_LL,KOR,0,South Korea,maxku,10-May-18 15:10:32,,,11,0.17,10,10
+●,7_LL,USA\Trump,0,Trump,maxku,10-May-18 15:10:39,,,5,0.08,11,11
+●,7_LL,CHN,0,China,maxku,10-May-18 15:10:56,,,5,0.08,11,11
+●,7_RR,Reactions to the permanent exemption,0,must make concessions to win permanent exemptions,maxku,23-May-18 08:22:55,,,49,2.97,6,6
+●,7_R,Reactions to the permanent exemption,0,compiled a list of retaliatory tariffs,maxku,23-May-18 08:23:40,,,38,0.57,20,20
+●,7_LL,Reactions to the permanent exemption,0,should be fully and permanently exempted,maxku,23-May-18 08:25:01,,,40,0.62,27,27
+●,7_LL,Reactions to the permanent exemption,0,was pleased with the exemption.,maxku,23-May-18 08:25:14,,,31,0.48,16,16
+●,7_LL,Reactions to the permanent exemption,0,earned its permanent exemption,maxku,23-May-18 08:25:26,,,30,0.47,18,18
+●,7_LL,Reactions to the permanent exemption,0,will not accept quotas to gain permanent exemptions,maxku,23-May-18 08:25:44,,,51,0.79,25,25
+●,7_LL,Reactions to the permanent exemption,0,welcomed the tariff exemption,maxku,23-May-18 08:25:56,,,29,0.45,14,14
+●,7_L,Tariff imposition consequences,0,put other political goals at risk,maxku,23-May-18 08:26:38,,,33,0.40,5,5
+●,7_LL,Permanent exemptions,0,permanent exemption on steel tariffs,maxku,23-May-18 08:29:13,,,36,0.56,10,10
+●,7_LL,Permanent exemptions,0,permanent exemption from steel tariffs,maxku,23-May-18 08:29:28,,,38,0.59,18,18
+●,7_LL,Permanent exemptions,0,permanent exemptions from the U.S. tariffs,maxku,23-May-18 08:29:38,,,42,0.65,25,25
+●,7_LL,Permanent exemptions,0,The exemption,maxku,23-May-18 08:29:56,,,13,0.20,15,15
+●,7_L,Permanent exemptions,0,permanent and unconditional exemption from the tariffs,maxku,23-May-18 08:31:02,,,54,0.65,13,13
+●,7_LL,Tariffs,0,"Steel, Aluminum Tariffs",maxku,23-May-18 08:34:08,,,23,0.36,1,1
+●,7_LL,Tariffs,0,the imposition of steel and aluminum tariffs,maxku,23-May-18 08:34:24,,,44,0.68,3,3
+●,7_LL,Tariffs,0,quotas,maxku,23-May-18 08:35:03,,,6,0.09,6,6
+●,7_LL,Tariffs,0,a 25 percent tariff on steel imports,maxku,23-May-18 08:35:27,,,36,0.56,10,10
+●,7_LL,Tariffs,0,a 10 percent tariff on aluminum,maxku,23-May-18 08:35:33,,,31,0.48,10,10
+●,7_LL,Tariffs,0,protections,maxku,23-May-18 08:36:10,,,11,0.17,11,11
+●,7_LL,Tariffs,0,the tariffs,maxku,23-May-18 08:38:02,,,11,0.17,24,24
+●,7_LL,Tariffs,0,a “very bad idea”,maxku,23-May-18 08:38:26,,,17,0.26,32,32
+●,7_LL,Tariffs,0,tariffs,maxku,23-May-18 08:38:36,,,7,0.11,33,33
+●,7_LL,Tariffs,0,administration efforts,maxku,23-May-18 08:39:18,,,22,0.34,20,20
+●,7_LL,Tariffs,0,The tariffs,maxku,23-May-18 08:39:33,,,11,0.17,2,2
+●,7_LL,Tariffs,0,tariffs,maxku,23-May-18 08:39:43,,,7,0.11,4,4
+●,7_LL,Tariffs,0,tariffs,maxku,23-May-18 08:39:53,,,7,0.11,7,7
+●,7_LL,Tariffs,0,steel and aluminum tariffs,maxku,23-May-18 08:40:02,,,26,0.40,8,8
+●,7_LL,Tariffs,0,steel and aluminum tariffs,maxku,23-May-18 08:40:10,,,26,0.40,9,9
+●,7_LL,Tariffs,0,the tariffs,maxku,23-May-18 08:40:19,,,11,0.17,9,9
+●,7_LL,Tariffs,0,steel tariffs,maxku,23-May-18 08:40:33,,,13,0.20,10,10
+●,7_LL,Tariffs,0,The tariffs,maxku,23-May-18 08:40:39,,,11,0.17,12,12
+●,7_RR,Tariffs,0,tariff decision,maxku,23-May-18 08:41:05,,,15,0.91,1,1
+●,7_RR,Tariffs,0,controversial tariffs on steel and aluminum,maxku,23-May-18 08:41:14,,,43,2.61,2,2
+●,7_RR,Tariffs,0,punishing import duties,maxku,23-May-18 08:42:28,,,23,1.39,3,3
+●,7_RR,Tariffs,0,the tariffs,maxku,23-May-18 08:42:44,,,11,0.67,5,5
+●,7_RR,Tariffs,0,the tariffs,maxku,23-May-18 08:42:49,,,11,0.67,6,6
+●,7_RR,Tariffs,0,the tariffs,maxku,23-May-18 08:42:54,,,11,0.67,8,8
+●,7_R,Tariffs,0,tariffs,maxku,23-May-18 08:43:11,,,7,0.11,1,1
+●,7_R,Tariffs,0,steel and aluminum tariffs,maxku,23-May-18 08:43:27,,,26,0.39,3,3
+●,7_R,Tariffs,0,tariffs on steel and aluminum imports,maxku,23-May-18 08:43:35,,,37,0.56,4,4
+●,7_R,Tariffs,0,steel and aluminum tariffs,maxku,23-May-18 08:43:42,,,26,0.39,7,7
+●,7_R,Tariffs,0,tariffs on U.S. goods,maxku,23-May-18 08:43:52,,,21,0.32,8,8
+●,7_R,Tariffs,0,tariffs of 25 percent on imported steel and 10 percent on imported aluminum,maxku,23-May-18 08:44:07,,,75,1.13,9,9
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,Postpones,maxku,23-May-18 08:48:51,Trump,,9,0.14,1,1
+●,7_LL,Properties\Importance\Important & Intense,0,have increased frictions,maxku,23-May-18 08:49:10,Tariffs,,24,0.37,2,2
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,have prompted,maxku,23-May-18 08:49:41,Tariffs,,13,0.20,2,2
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,has reached agreements for permanent exemptions,maxku,23-May-18 08:50:22,Trump,,47,0.73,3,3
+●,7_LL,Properties\Other\Other,0,did not disclose terms,maxku,23-May-18 08:51:56,USA,,22,0.34,5,5
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,extending negotiations,maxku,23-May-18 08:52:18,USA,,22,0.34,6,6
+●,7_LL,Properties\Economy\Negative - economy,0,restrain imports,maxku,23-May-18 08:53:19,Tariffs,,16,0.25,6,6
+●,7_LL,Properties\Economy\Negative - economy,0,prevent transshipment,maxku,23-May-18 08:53:28,Tariffs,,21,0.33,6,6
+●,7_LL,Properties\Safety\Safe,0,protect the national security,maxku,23-May-18 08:53:42,Tariffs,,29,0.45,6,6
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,has postponed the imposition of steel and aluminum tariffs,maxku,23-May-18 08:55:22,Trump,,58,0.90,3,3
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,has postponed the imposition of steel and aluminum tariffs,maxku,23-May-18 08:55:30,Trump,,58,0.90,8,8
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,has postponed the imposition of steel and aluminum tariffs,maxku,23-May-18 08:55:33,Trump,,58,0.90,9,9
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,imposed,maxku,23-May-18 08:59:37,Trump,,7,0.11,10,10
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,granted temporary exemptions,maxku,23-May-18 08:59:52,Trump,,28,0.43,10,10
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,granted a permanent exemption,maxku,23-May-18 09:00:05,Trump,,29,0.45,10,10
+●,7_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,sharply criticized,maxku,23-May-18 09:00:28,Trump,,18,0.28,10,10
+●,7_LL,Properties\Violence & Unfair\Victim (receiving violence),0,sharply criticized,maxku,23-May-18 09:00:48,KOR,,18,0.28,10,10
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,has invoked,maxku,23-May-18 09:01:00,Trump,,11,0.17,11,11
+●,7_LL,Properties\Safety\Safe,0,to erect protections,maxku,23-May-18 09:01:12,USA,,20,0.31,11,11
+●,7_LL,Properties\Violence & Unfair\Victim (receiving violence),0,largely blamed on,maxku,23-May-18 09:02:03,CHN,,17,0.26,11,11
+●,7_LL,Properties\Difficulty\Difficult,0,worldwide glut of both metals,maxku,23-May-18 09:02:31,USA,,29,0.45,11,11
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,have increased frictions,maxku,23-May-18 09:02:41,Tariffs,,24,0.37,12,12
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,have prompted several challenges,maxku,23-May-18 09:02:57,Tariffs,,32,0.50,12,12
+●,7_LL,Properties\Economy\Positive - economy,0,increase their capacity utilization rates,maxku,23-May-18 09:03:33,USA,,41,0.64,12,12
+●,7_LL,USA,0,Trump administration officials,maxku,23-May-18 09:03:46,,,30,0.47,13,13
+●,7_LL,New import quotas,0,quotas,maxku,23-May-18 09:06:16,,,6,0.09,13,13
+●,7_LL,Properties\Economy\Positive - economy,0,achieve similar protections,maxku,23-May-18 09:06:32,New import quotas,,27,0.42,13,13
+●,7_LL,Properties\Affection\Affection or empathy,0,welcomed,maxku,23-May-18 09:07:03,Permanent exemptions,,8,0.12,14,14
+●,7_LL,USA,0,Washington,maxku,23-May-18 09:07:29,,,10,0.16,14,14
+●,7_LL,USA,0,the United States,maxku,23-May-18 09:07:46,,,17,0.26,15,15
+●,7_LL,Properties\Affection\Affection or empathy,0,unbreakable friendship,maxku,23-May-18 09:07:52,USA,,22,0.34,15,15
+●,7_LL,USA,0,the United States,maxku,23-May-18 09:08:23,,,17,0.26,16,16
+●,7_LL,Properties\Affection\Affection or empathy,0,pleased with,maxku,23-May-18 09:08:33,Permanent exemptions,,12,0.19,16,16
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,earned its permanent exemption,maxku,23-May-18 09:10:54,KOR,,30,0.47,18,18
+●,7_LL,New import quotas,0,quotas,maxku,23-May-18 09:11:02,,,6,0.09,18,18
+●,7_LL,Properties\Affection\Affection or empathy,0,agreeing to,maxku,23-May-18 09:11:08,New import quotas,,11,0.17,18,18
+●,7_LL,Properties\Economy\Negative - economy,0,cut its steel shipments,maxku,23-May-18 09:11:24,KOR,,23,0.36,18,18
+●,7_LL,KOR,0,Seoul,maxku,23-May-18 09:11:36,,,5,0.08,18,18
+●,7_LL,Properties\Violence & Unfair\Victim (receiving violence),0,is still subject to,maxku,23-May-18 09:11:44,KOR,,19,0.29,18,18
+●,7_LL,Tariffs,0,aluminum tariffs.,maxku,23-May-18 09:11:56,,,17,0.26,18,18
+●,7_LL,USA,0,The White House,maxku,23-May-18 09:12:19,,,15,0.23,20,20
+●,7_LL,Properties\Behaviour & character\Fair ,0,reach fair outcomes with allies,maxku,23-May-18 09:12:41,USA,,31,0.48,20,20
+●,7_LL,Properties\Safety\Safe,0,protect our national security,maxku,23-May-18 09:12:51,USA,,29,0.45,20,20
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,address global challenges to the steel and aluminum industries,maxku,23-May-18 09:13:14,Tariffs,,62,0.96,20,20
+●,7_LL,USA\USA-I,0,Todd Leebow,maxku,23-May-18 09:14:16,,,11,0.17,21,21
+●,7_LL,USA\USA-I,0,president of Majestic Steel USA,maxku,23-May-18 09:14:20,,,31,0.48,21,21
+●,7_LL,Properties\Power & Strength\Weak & Following,0,needed certainty,maxku,23-May-18 09:14:27,USA,,16,0.25,21,21
+●,7_LL,Properties\Behaviour & character\Confident,0,hopeful,maxku,23-May-18 09:15:04,USA,,7,0.11,22,22
+●,7_LL,Tariffs,0,the tariffs,maxku,23-May-18 09:19:04,,,11,0.17,22,22
+●,7_LL,USA\Trump,0,President Trump,maxku,23-May-18 09:19:10,,,15,0.23,22,22
+●,7_LL,New import quotas,0,a quota system,maxku,23-May-18 09:19:18,,,14,0.22,22,22
+●,7_LL,USA,0,our country,maxku,23-May-18 09:19:25,,,11,0.17,22,22
+●,7_LL,USA\USA-I,0,Leebow,maxku,23-May-18 09:19:28,,,6,0.09,22,22
+●,7_LL,Properties\Economy\Positive - economy,0,limit the amount of imports flooding our country,maxku,23-May-18 09:19:44,New import quotas,,48,0.74,22,22
+●,7_LL,Properties\Economy\Positive - economy,0,most productive path,maxku,23-May-18 09:20:06,Tariffs,,20,0.31,22,22
+●,7_LL,Tariffs,0,The metals tariffs,maxku,23-May-18 09:20:18,,,18,0.28,23,23
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,have caused some divisions,maxku,23-May-18 09:20:26,Tariffs,,26,0.40,23,23
+●,7_LL,USA\Trump,0,Trump,maxku,23-May-18 09:20:37,,,5,0.08,23,23
+●,7_LL,USA,0,Trump’s Republican Party,maxku,23-May-18 09:20:42,,,24,0.37,23,23
+●,7_LL,Properties\Economy\Negative - economy,0,higher prices would hurt their competitiveness,maxku,23-May-18 09:21:18,Tariffs,,46,0.71,23,23
+●,7_LL,USA,0,House Ways and Means Committee,maxku,23-May-18 09:21:50,,,30,0.47,24,24
+●,7_LL,USA\USA-I,0,Chairman Kevin Brady,maxku,23-May-18 09:21:56,,,20,0.31,24,24
+●,7_LL,USA\USA-I,0,a pro-trade Republican from Texas,maxku,23-May-18 09:22:01,,,33,0.51,24,24
+●,7_LL,Properties\Power & Strength\Powerful & Leading,0,would work to ensure,maxku,23-May-18 09:22:13,USA-I,,20,0.31,24,24
+●,7_LL,Properties\Economy\Positive - economy,0,to protect our workers and job creators,maxku,23-May-18 09:22:43,Tariffs,,39,0.61,24,24
+●,7_LL,USA,0,here at home,maxku,23-May-18 09:22:54,,,12,0.19,24,24
+●,7_LL,Properties\Quality\Functioning,0,narrow,maxku,23-May-18 09:23:07,Tariffs,,6,0.09,24,24
+●,7_LL,CAN,0,Canada,maxku,23-May-18 09:23:21,,,6,0.09,25,25
+●,7_LL,MEX,0,Mexico,maxku,23-May-18 09:23:25,,,6,0.09,25,25
+●,7_LL,EU,0,the European Union,maxku,23-May-18 09:23:33,,,18,0.28,25,25
+●,7_LL,Properties\Affection\Refusal,0,will not accept,maxku,23-May-18 09:23:50,New import quotas,,15,0.23,25,25
+●,7_LL,New import quotas,0,quotas,maxku,23-May-18 09:24:03,,,6,0.09,25,25
+●,7_LL,Tariffs,0,the U.S. tariffs,maxku,23-May-18 09:24:11,,,16,0.25,25,25
+●,7_LL,EU,0,The European Commission,maxku,23-May-18 09:24:21,,,23,0.36,26,26
+●,7_LL,Properties\Economy\Negative - economy,0,already affecting business decisions,maxku,23-May-18 09:24:43,Tariffs,,36,0.56,26,26
+●,7_LL,EU,0,The EU,maxku,23-May-18 09:24:55,,,6,0.09,27,27
+●,7_LL,Permanent exemptions,0,fully and permanently exempted,maxku,23-May-18 09:25:00,,,30,0.47,27,27
+●,7_LL,Tariffs,0,these measures,maxku,23-May-18 09:25:08,,,14,0.22,27,27
+●,7_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,cannot be justified on the grounds of national security,maxku,23-May-18 09:25:31,"Tariffs
+New import quotas",,55,0.85,27,27
+●,7_LL,EU,0,the EU,maxku,23-May-18 09:25:57,,,6,0.09,28,28
+●,7_LL,Tariffs,0,these tariffs,maxku,23-May-18 09:26:12,,,13,0.20,29,29
+●,7_LL,Properties\Difficulty\Difficult,0,concerned about,maxku,23-May-18 09:26:22,Tariffs,,15,0.23,29,29
+●,7_LL,EU,0,the EU,maxku,23-May-18 09:26:37,,,6,0.09,29,29
+●,7_LL,Tariffs,0,U.S. steel and aluminum tariff,maxku,23-May-18 09:27:17,,,30,0.47,30,30
+●,7_LL,CAN,0,Canada,maxku,23-May-18 09:27:23,,,6,0.09,30,30
+●,7_LL,MEX,0,Mexico,maxku,23-May-18 09:27:28,,,6,0.09,30,30
+●,7_LL,Properties\Difficulty\Difficult,0,intertwined with intensified talks,maxku,23-May-18 09:28:07,"CAN
+MEX",,34,0.53,30,30
+●,7_LL,CAN,0,Canada,maxku,23-May-18 09:28:22,,,6,0.09,31,31
+●,7_LL,USA,0,the United States,maxku,23-May-18 09:28:28,,,17,0.26,31,31
+●,7_LL,Properties\Importance\Important & Intense,0,the largest steel exporter to the United States,maxku,23-May-18 09:28:40,CAN,,47,0.73,31,31
+●,7_LL,CAN,0,its industry,maxku,23-May-18 09:28:50,,,12,0.19,31,31
+●,7_LL,Properties\Importance\Important & Intense,0,highly integrated with that of its southern neighbor,maxku,23-May-18 09:29:04,CAN,,52,0.81,31,31
+●,7_LL,USA,0,the United States,maxku,23-May-18 09:29:20,,,17,0.26,32,32
+●,7_LL,Tariffs,0,tariffs,maxku,23-May-18 09:29:25,,,7,0.11,32,32
+●,7_LL,CAN,0,Canadian steel and aluminum,maxku,23-May-18 09:29:37,,,27,0.42,32,32
+●,7_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,a “very bad idea”,maxku,23-May-18 09:29:45,Tariffs,,17,0.26,32,32
+●,7_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,impose tariffs on,maxku,23-May-18 09:30:02,USA,,17,0.26,32,32
+●,7_LL,Properties\Violence & Unfair\Victim (receiving violence),0,impose tariffs on,maxku,23-May-18 09:30:09,CAN,,17,0.26,32,32
+●,7_LL,Properties\Economy\Negative - economy,0,guaranteed to disrupt trade,maxku,23-May-18 09:30:21,Tariffs,,27,0.42,32,32
+●,7_LL,CAN,0,the two countries,maxku,23-May-18 09:30:30,,,17,0.26,32,32
+●,7_LL,USA,0,the two countries,maxku,23-May-18 09:30:37,,,17,0.26,32,32
+●,7_LL,CAN\Trudeau,0,Canadian Prime Minister,maxku,23-May-18 09:30:44,,,23,0.36,32,32
+●,7_LL,CAN\Trudeau,0,Justin Trudeau,maxku,23-May-18 09:30:47,,,14,0.22,32,32
+●,7_LL,EU,0,the EU,maxku,23-May-18 09:30:52,,,6,0.09,33,33
+●,7_LL,Properties\Violence & Unfair\Victim (receiving violence),0,is subject to,maxku,23-May-18 09:30:59,EU,,13,0.20,33,33
+●,7_LL,USA,0,the United States,maxku,23-May-18 09:31:16,,,17,0.26,33,33
+●,7_LL,USA,0,U.S. exports,maxku,23-May-18 09:31:37,,,12,0.19,33,33
+●,7_LL,Properties\Power & Strength\Weak & Following,0,will set its own duties,maxku,23-May-18 09:31:44,EU,,23,0.36,33,33
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,Delays Tariffs,maxku,23-May-18 09:32:40,USA,,14,0.17,1,1
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,would delay a decision to impose steel and aluminum tariffs,maxku,23-May-18 09:33:06,USA,,59,0.71,2,2
+●,7_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,impose steel and aluminum tariffs on,maxku,23-May-18 09:33:32,USA,,36,0.44,2,2
+●,7_L,Properties\Violence & Unfair\Victim (receiving violence),0,impose steel and aluminum tariffs on,maxku,23-May-18 09:33:38,EU,,36,0.44,2,2
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,giving key allies a reprieve,maxku,23-May-18 09:33:52,USA,,28,0.34,2,2
+●,7_L,Properties\Power & Strength\Weak & Following,0,giving key allies a reprieve,maxku,23-May-18 09:34:16,"EU
+CAN
+MEX",,28,0.34,2,2
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,tries to extract concessions from trading partners,maxku,23-May-18 09:34:40,USA,,50,0.60,2,2
+●,7_L,Properties\Affection\Refusal,0,resisted those demands,maxku,23-May-18 09:34:53,Tariffs,,22,0.27,2,2
+●,7_L,Properties\Safety\Unsafe,0,concerns by,maxku,23-May-18 09:35:11,USA,,11,0.13,3,3
+●,7_L,Properties\Power & Strength\Weak & Following,0,swift retaliation on American products,maxku,23-May-18 09:35:25,EU,,38,0.46,3,3
+●,7_L,Properties\Importance\Important & Intense,0,swift retaliation,maxku,23-May-18 09:35:51,EU,,17,0.21,3,3
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,give the Trump administration more breathing room,maxku,23-May-18 09:36:39,Tariffs,,49,0.59,3,3
+●,7_L,Tariffs,0,The 25 percent tariffs on steel and 10 percent on aluminum,maxku,23-May-18 09:41:30,,,58,0.70,4,4
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,granted temporary exemptions,maxku,23-May-18 09:42:03,USA,,28,0.34,4,4
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,had reached initial agreements,maxku,23-May-18 09:42:28,USA,,30,0.36,4,4
+●,7_L,Tariffs,0,President Trump’s decision,maxku,23-May-18 09:42:52,,,26,0.31,5,5
+●,7_L,Properties\Difficulty\Difficult,0,could have enraged key American allies,maxku,23-May-18 09:43:10,Tariffs,,38,0.46,5,5
+●,7_L,Properties\Importance\Important & Intense,0,enraged key American allies at a delicate moment,maxku,23-May-18 09:43:43,Tariffs,,48,0.58,5,5
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,heads toward tricky negotiations with North Korea,maxku,23-May-18 09:44:35,USA,,49,0.59,5,5
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,considering abandoning the Iran nuclear deal,maxku,23-May-18 09:44:51,USA,,44,0.53,5,5
+●,7_L,Properties\Other\Other,0,tough stance,maxku,23-May-18 09:45:25,Trump,,12,0.15,5,5
+●,7_L,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,leery of initiating trade clashes,maxku,23-May-18 09:45:55,USA,,33,0.40,5,5
+●,7_L,Tariffs,0,could destabilize stock markets,maxku,23-May-18 09:46:14,,,31,0.37,5,5
+●,7_L,Properties\Other\Negative,0,put other political goals at risk,maxku,23-May-18 09:46:26,Tariffs,,33,0.40,5,5
+●,7_L,Properties\Economy\Negative - economy,0,destabilize stock markets,maxku,23-May-18 09:46:32,Tariffs,,25,0.30,5,5
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,try to soothe tensions,maxku,23-May-18 09:47:17,USA,,22,0.27,5,5
+●,7_LL,Tariff imposition consequences,0,have increased frictions,maxku,23-May-18 09:47:53,,,24,0.37,12,12
+●,7_LL,Tariff imposition consequences,0,have prompted several challenges,maxku,23-May-18 09:48:18,,,32,0.50,2,2
+●,7_LL,Tariff imposition consequences,0,restrain imports,maxku,23-May-18 09:48:35,,,16,0.25,6,6
+●,7_LL,Tariff imposition consequences,0,prevent transshipment,maxku,23-May-18 09:48:39,,,21,0.33,6,6
+●,7_LL,Tariff imposition consequences,0,protect the national security,maxku,23-May-18 09:48:43,,,29,0.45,6,6
+●,7_LL,Tariff imposition consequences,0,have prompted several challenges,maxku,23-May-18 09:49:14,,,32,0.50,12,12
+●,7_LL,Tariff imposition consequences,0,increase their capacity utilization rates,maxku,23-May-18 09:49:23,,,41,0.64,12,12
+●,7_LL,Tariff imposition consequences,0,reflects the fair and reciprocal trade relationship Australia shares with the United States,maxku,23-May-18 09:49:39,,,91,1.41,15,15
+●,7_LL,Tariff imposition consequences,0,underpins the unbreakable friendship,maxku,23-May-18 09:49:46,,,36,0.56,15,15
+●,7_LL,Tariff imposition consequences,0,will cut its steel shipments by about 30 percent,maxku,23-May-18 09:50:03,,,48,0.74,18,18
+●,7_LL,Tariff imposition consequences,0,aluminum and steel-linked materials eased on prospects supply could be cheaper to come by,maxku,23-May-18 09:50:33,,,89,1.38,19,19
+●,7_LL,Tariff imposition consequences,0,reach fair outcomes with allies,maxku,23-May-18 09:50:54,,,31,0.48,20,20
+●,7_LL,Tariff imposition consequences,0,protect our national security,maxku,23-May-18 09:50:57,,,29,0.45,20,20
+●,7_LL,Tariff imposition consequences,0,address global challenges to the steel and aluminum industries,maxku,23-May-18 09:51:02,,,62,0.96,20,20
+●,7_LL,Tariff imposition consequences,0,moves us toward the most productive path for our domestic steel industry,maxku,23-May-18 09:51:15,,,72,1.12,22,22
+●,7_LL,Tariff imposition consequences,0,limit the amount of imports flooding,maxku,23-May-18 09:51:28,,,36,0.56,22,22
+●,7_LL,Tariff imposition consequences,0,have caused some divisions,maxku,23-May-18 09:51:33,,,26,0.40,23,23
+●,7_LL,Tariff imposition consequences,0,higher prices would hurt their competitiveness,maxku,23-May-18 09:51:44,,,46,0.71,23,23
+●,7_LL,Tariff imposition consequences,0,protect our workers and job creators,maxku,23-May-18 09:51:58,,,36,0.56,24,24
+●,7_LL,Tariff imposition consequences,0,the impact of these tariffs on global trade,maxku,23-May-18 09:52:19,,,43,0.67,29,29
+●,7_LL,Tariff imposition consequences,0,guaranteed to disrupt trade,maxku,23-May-18 09:52:42,,,27,0.42,32,32
+●,7_LL,Reactions to the permanent exemption,0,will set its own duties,maxku,23-May-18 09:53:20,,,23,0.36,33,33
+●,7_L,Reactions to the permanent exemption,0,a swift retaliation on American products by European Union nations,maxku,23-May-18 09:54:27,,,66,0.80,3,3
+●,7_L,Tariff imposition consequences,0,could have enraged key American allies at a delicate moment,maxku,23-May-18 09:55:00,,,59,0.71,5,5
+●,7_L,Tariff imposition consequences,0,destabilize stock markets,maxku,23-May-18 09:56:06,,,25,0.30,5,5
+●,7_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,had been trying to pressure,maxku,23-May-18 09:56:21,USA,,27,0.33,6,6
+●,7_L,Properties\Violence & Unfair\Victim (receiving violence),0,had been trying to pressure,maxku,23-May-18 09:56:23,"EU
+CAN
+MEX",,27,0.33,6,6
+●,7_L,Tariffs,0,the tariffs,maxku,23-May-18 09:57:14,,,11,0.13,6,6
+●,7_L,Properties\Affection\Affection or empathy,0,agreed to meet its demands,maxku,23-May-18 09:57:28,"Tariffs
+New import quotas",,26,0.31,6,6
+●,7_L,New import quotas,0,its demands,maxku,23-May-18 09:57:46,,,11,0.13,6,6
+●,7_L,Tariffs,0,its demands,maxku,23-May-18 09:57:49,,,11,0.13,6,6
+●,7_L,Tariffs,0,the threat of tariffs,maxku,23-May-18 09:57:59,,,21,0.25,6,6
+●,7_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,the threat of tariffs,maxku,23-May-18 09:58:06,USA,,21,0.25,6,6
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,had helped finalize a continuing deal with South Korea,maxku,23-May-18 09:58:25,Tariffs,,54,0.65,6,6
+●,7_L,Properties\Safety\Unsafe,0,little indication that other nations will bend,maxku,23-May-18 09:58:43,USA,,46,0.56,6,6
+●,7_L,Properties\Difficulty\Difficult,0,were bracing for damage,maxku,23-May-18 10:01:48,Tariffs,,23,0.28,7,7
+●,7_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,is more bark than bite,maxku,23-May-18 10:02:09,Trump,,22,0.27,7,7
+●,7_L,Properties\Difficulty\Difficult,0,increase the pressure,maxku,23-May-18 10:02:25,USA,,21,0.25,7,7
+●,7_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,squeeze concessions,maxku,23-May-18 10:02:39,USA,,19,0.23,7,7
+●,7_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,have pressed allies,maxku,23-May-18 10:03:05,USA,,19,0.23,8,8
+●,7_L,USA,0,the United States,maxku,23-May-18 10:03:19,,,17,0.21,8,8
+●,7_L,Tariffs,0,the tariffs,maxku,23-May-18 10:03:29,,,11,0.13,8,8
+●,7_L,USA,0,the administration,maxku,23-May-18 10:03:41,,,18,0.22,9,9
+●,7_L,New import quotas,0,quotas,maxku,23-May-18 10:03:51,,,6,0.07,9,9
+●,7_L,Tariff imposition consequences,0,restrain imports,maxku,23-May-18 10:05:07,,,16,0.19,9,9
+●,7_L,Tariff imposition consequences,0,prevent transshipment,maxku,23-May-18 10:05:10,,,21,0.25,9,9
+●,7_L,Tariff imposition consequences,0,protect the national security,maxku,23-May-18 10:05:15,,,29,0.35,9,9
+●,7_L,USA,0,the White House,maxku,23-May-18 10:05:21,,,15,0.18,9,9
+●,7_L,Properties\Economy\Negative - economy,0,restrain imports,maxku,23-May-18 10:05:33,New import quotas,,16,0.19,9,9
+●,7_L,Properties\Economy\Negative - economy,0,prevent transshipment,maxku,23-May-18 10:05:46,New import quotas,,21,0.25,9,9
+●,7_L,Properties\Safety\Safe,0,protect the national security,maxku,23-May-18 10:06:03,USA,,29,0.35,9,9
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,protect the national security,maxku,23-May-18 10:06:12,New import quotas,,29,0.35,9,9
+●,7_L,CHN,0,China,maxku,23-May-18 10:06:35,,,5,0.06,10,10
+●,7_L,CHN,0,China,maxku,23-May-18 10:06:39,,,5,0.06,10,10
+●,7_L,Tariffs,0,a 25 percent tariff on steel imports,maxku,23-May-18 10:06:48,,,36,0.44,10,10
+●,7_L,USA,0,the United States,maxku,23-May-18 10:06:54,,,17,0.21,10,10
+●,7_L,Properties\Power & Strength\Weak & Following,0,will face,maxku,23-May-18 10:07:17,CHN,,9,0.11,10,10
+●,7_L,USA,0,officials,maxku,23-May-18 10:07:34,,,9,0.11,11,11
+●,7_L,USA,0,Commerce Secretary,maxku,23-May-18 10:07:39,,,18,0.22,11,11
+●,7_L,USA,0,Wilbur Ross,maxku,23-May-18 10:07:42,,,11,0.13,11,11
+●,7_L,EU,0,the European Union,maxku,23-May-18 10:07:50,,,18,0.22,11,11
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,pushing for,maxku,23-May-18 10:08:23,USA,,11,0.13,11,11
+●,7_L,EU,0,the bloc,maxku,23-May-18 10:08:33,,,8,0.10,11,11
+●,7_L,Tariffs,0,tariffs on imported cars,maxku,23-May-18 10:08:40,,,24,0.29,11,11
+●,7_L,USA,0,the United States,maxku,23-May-18 10:08:47,,,17,0.21,11,11
+●,7_L,Properties\Safety\Unsafe,0,were left in suspense,maxku,23-May-18 10:09:15,Tariffs,,21,0.25,12,12
+●,7_L,Tariffs,0,the tariffs,maxku,23-May-18 10:09:31,,,11,0.13,12,12
+●,7_L,Tariff imposition consequences,0,would play out,maxku,23-May-18 10:09:39,,,14,0.17,12,12
+●,7_L,Properties\Safety\Unsafe,0,the uncertainty created by the situation,maxku,23-May-18 10:09:49,Tariffs,,40,0.48,12,12
+●,7_L,EU,0,European officials,maxku,23-May-18 10:10:01,,,18,0.22,13,13
+●,7_L,Properties\Behaviour & character\Confident,0,have held firm,maxku,23-May-18 10:10:09,EU,,14,0.17,13,13
+●,7_L,Tariffs,0,the trade measures,maxku,23-May-18 10:10:22,,,18,0.22,13,13
+●,7_L,New import quotas,0,the trade measures,maxku,23-May-18 10:10:25,,,18,0.22,13,13
+●,7_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,violate international trading law,maxku,23-May-18 10:24:25,"Tariffs
+New import quotas",,33,0.40,13,13
+●,7_L,Properties\Other\Other,0,unlikely to satisfy,maxku,23-May-18 10:25:09,EU,,19,0.23,13,13
+●,7_L,EU,0,the European Union,maxku,23-May-18 10:25:20,,,18,0.22,13,13
+●,7_L,EU\EU-I,0,whose leaders,maxku,23-May-18 10:25:29,,,13,0.16,13,13
+●,7_L,Properties\Affection\Refusal,0,do not want to negotiate under threat,maxku,23-May-18 10:25:46,USA,,37,0.45,13,13
+●,7_L,Properties\Violence & Unfair\Victim (receiving violence),0,do not want to negotiate under threat,maxku,23-May-18 10:25:57,EU-I,,37,0.45,13,13
+●,7_L,Reactions to the permanent exemption,0,demanded a permanent and unconditional exemption from the tariffs,maxku,23-May-18 10:26:10,,,65,0.79,13,13
+●,7_L,Tariffs,0,the tariffs,maxku,23-May-18 10:26:15,,,11,0.13,13,13
+●,7_L,Tariffs,0,the tariffs,maxku,23-May-18 10:26:27,,,11,0.13,14,14
+●,7_L,EU,0,Europe,maxku,23-May-18 10:26:34,,,6,0.07,14,14
+●,7_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,promised swift retaliation,maxku,23-May-18 10:26:39,EU,,26,0.31,14,14
+●,7_L,Properties\Power & Strength\Weak & Following,0,would penalize in return,maxku,23-May-18 10:26:55,EU,,24,0.29,14,14
+●,7_L,CHN,0,China,maxku,23-May-18 10:27:13,,,5,0.06,14,14
+●,7_L,Tariffs,0,the steel and aluminum tariffs,maxku,23-May-18 10:27:18,,,30,0.36,14,14
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,asked to join a dispute,maxku,23-May-18 10:27:27,EU,,23,0.28,14,14
+●,7_L,Properties\Safety\Unsafe,0,prolongs market uncertainty,maxku,23-May-18 10:28:01,Tariffs,,27,0.33,15,15
+●,7_L,Properties\Economy\Negative - economy,0,prolongs market uncertainty,maxku,23-May-18 10:28:09,Tariffs,,27,0.33,15,15
+●,7_L,Tariffs,0,The U.S. decision,maxku,23-May-18 10:28:20,,,17,0.21,15,15
+●,7_L,Properties\Economy\Negative - economy,0,already affecting business decisions,maxku,23-May-18 10:28:27,Tariffs,,36,0.44,15,15
+●,7_L,EU,0,the European Union,maxku,23-May-18 10:28:36,,,18,0.22,15,15
+●,7_L,EU,0,The E.U.,maxku,23-May-18 10:28:41,,,8,0.10,15,15
+●,7_L,Reactions to the permanent exemption,0,should be fully and permanently exempted from these measures,maxku,23-May-18 10:28:46,,,60,0.73,15,15
+●,7_L,Tariff imposition consequences,0,prolongs market uncertainty,maxku,23-May-18 10:28:54,,,27,0.33,15,15
+●,7_L,Tariff imposition consequences,0,already affecting business decisions,maxku,23-May-18 10:29:01,,,36,0.44,15,15
+●,7_L,Tariff imposition consequences,0,promised swift retaliation,maxku,23-May-18 10:29:16,,,26,0.31,14,14
+●,7_L,Reactions to the permanent exemption,0,promised swift retaliation,maxku,23-May-18 10:29:19,,,26,0.31,14,14
+●,7_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,they cannot be justified on the grounds of national security,maxku,23-May-18 10:29:32,Tariffs,,60,0.73,15,15
+●,7_L,Tariffs,0,the move,maxku,23-May-18 10:30:17,,,8,0.10,16,16
+●,7_L,Properties\Affection\Affection or empathy,0,"was “positive,”",maxku,23-May-18 10:30:26,Tariffs,,15,0.18,16,16
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,will ensure our trade relationship continues to grow in a fair and reciprocal manner,maxku,23-May-18 10:30:52,Tariffs,,84,1.02,16,16
+●,7_L,Properties\Behaviour & character\Fair ,0,to grow in a fair and reciprocal manner,maxku,23-May-18 10:31:07,Tariffs,,39,0.47,16,16
+●,7_L,Tariffs,0,the tariff,maxku,23-May-18 10:31:18,,,10,0.12,17,17
+●,7_L,CAN,0,Canada,maxku,23-May-18 10:31:24,,,6,0.07,17,17
+●,7_L,MEX,0,Mexico,maxku,23-May-18 10:31:29,,,6,0.07,17,17
+●,7_L,USA,0,the United States,maxku,23-May-18 10:31:34,,,17,0.21,17,17
+●,7_L,Properties\Difficulty\Difficult,0,still in negotiations,maxku,23-May-18 10:31:51,"MEX
+USA",,21,0.25,17,17
+●,7_L,Properties\Difficulty\Difficult,0,differences of opinion remain,maxku,23-May-18 10:32:09,"USA
+MEX",,29,0.35,17,17
+●,7_L,MEX,0,officials from the countries,maxku,23-May-18 10:32:17,,,28,0.34,17,17
+●,7_L,USA,0,officials from the countries,maxku,23-May-18 10:32:22,,,28,0.34,17,17
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,making quick progress,maxku,23-May-18 10:32:40,"MEX
+USA",,21,0.25,17,17
+●,7_L,CAN,0,Canada,maxku,23-May-18 10:32:53,,,6,0.07,18,18
+●,7_L,MEX,0,Mexico,maxku,23-May-18 10:32:56,,,6,0.07,18,18
+●,7_L,Tariffs,0,tariffs,maxku,23-May-18 10:33:03,,,7,0.08,18,18
+●,7_L,Tariff imposition consequences,0,could upend delicate negotiations,maxku,23-May-18 10:33:19,,,33,0.40,18,18
+●,7_L,Properties\Difficulty\Difficult,0,upend delicate negotiations,maxku,23-May-18 10:33:55,Tariffs,,27,0.33,18,18
+●,7_L,CAN\Trudeau,0,Prime Minister Justin Trudeau of Canada,maxku,23-May-18 10:34:12,,,39,0.47,18,18
+●,7_L,Properties\Behaviour & character\Confident,0,was “optimistic”,maxku,23-May-18 10:34:22,Trudeau,,16,0.19,18,18
+●,7_L,CAN,0,his country,maxku,23-May-18 10:34:35,,,11,0.13,18,18
+●,7_L,USA,0,the Trump administration,maxku,23-May-18 10:34:44,,,24,0.29,18,18
+●,7_L,Tariffs,0,tariffs on Canada,maxku,23-May-18 10:35:00,,,17,0.21,18,18
+●,7_L,CAN,0,Canada,maxku,23-May-18 10:35:05,,,6,0.07,18,18
+●,7_L,Tariff imposition consequences,0,would hurt jobs on both sides,maxku,23-May-18 10:35:11,,,29,0.35,18,18
+●,7_L,Properties\Economy\Negative - economy,0,would hurt jobs on both sides,maxku,23-May-18 10:35:20,Tariffs,,29,0.35,18,18
+●,7_L,USA,0,The administration,maxku,23-May-18 10:35:33,,,18,0.22,19,19
+●,7_L,Tariffs,0,the tariffs,maxku,23-May-18 10:36:49,,,11,0.13,19,19
+●,7_L,USA,0,the United States,maxku,23-May-18 10:36:59,,,17,0.21,19,19
+●,7_L,USA,0,the Trump administration,maxku,23-May-18 10:37:05,,,24,0.29,19,19
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,hoped to urge the country into one-on-one trade talks,maxku,23-May-18 10:37:19,USA,,53,0.64,19,19
+●,7_L,USA,0,the United States,maxku,23-May-18 10:37:45,,,17,0.21,20,20
+●,7_L,USA\Trump,0,Mr. Trump,maxku,23-May-18 10:39:06,,,9,0.11,20,20
+●,7_L,USA\Trump,0,Mr. Trump,maxku,23-May-18 10:39:15,,,9,0.11,20,20
+●,7_L,Properties\Economy\Negative - economy,0,prolongs the state of uncertainty hanging over the global economy,maxku,23-May-18 10:40:02,Tariffs,,65,0.79,21,21
+●,7_L,Properties\Safety\Unsafe,0,prolongs the state of uncertainty,maxku,23-May-18 10:40:19,Tariffs,,33,0.40,21,21
+●,7_L,Properties\Difficulty\Difficult,0,making it difficult,maxku,23-May-18 10:41:57,Tariffs,,19,0.23,21,21
+●,7_L,Properties\Economy\Negative - economy,0,difficult for businesses to plan,maxku,23-May-18 10:42:14,Tariffs,,32,0.39,21,21
+●,7_L,Properties\Economy\Negative - economy,0,discouraging them from investing in new factories or hiring more workers,maxku,23-May-18 10:42:34,Tariffs,,72,0.87,21,21
+●,7_L,Properties\Safety\Unsafe,0,unpredictability,maxku,23-May-18 10:43:37,Tariffs,,16,0.19,22,22
+●,7_L,Properties\Economy\Negative - economy,0,has plagued even steel and aluminum companies that support the measure,maxku,23-May-18 10:43:50,Tariffs,,70,0.85,22,22
+●,7_L,Tariffs,0,the measure,maxku,23-May-18 10:44:07,,,11,0.13,22,22
+●,7_L,Properties\Affection\Affection or empathy,0,companies that support,maxku,23-May-18 10:44:22,Tariffs,,22,0.27,22,22
+●,7_L,USA\USA-I,0,Todd Leebow,maxku,23-May-18 10:44:34,,,11,0.13,22,22
+●,7_L,USA\USA-I,0,the president and chief executive,maxku,23-May-18 10:44:42,,,33,0.40,22,22
+●,7_L,USA,0,Majestic Steel USA,maxku,23-May-18 10:44:46,,,18,0.22,22,22
+●,7_L,Tariffs,0,the tariffs,maxku,23-May-18 10:44:56,,,11,0.13,22,22
+●,7_L,Properties\Economy\Positive - economy,0,already helping to revive the American industry,maxku,23-May-18 10:45:11,Tariffs,,47,0.57,22,22
+●,7_L,USA,0,the American industry,maxku,23-May-18 10:45:21,,,21,0.25,22,22
+●,7_L,Properties\Safety\Unsafe,0,where prices might head,maxku,23-May-18 10:46:05,Tariffs,,23,0.28,22,22
+●,7_L,Properties\Safety\Unsafe,0,did not know where they would be able to purchase metals from,maxku,23-May-18 10:46:15,Tariffs,,61,0.74,22,22
+●,7_L,Properties\Safety\Unsafe,0,creates uncertainty,maxku,23-May-18 10:46:30,Tariffs,,19,0.23,23,23
+●,7_L,USA\USA-I,0,Mr. Leebow,maxku,23-May-18 10:46:39,,,10,0.12,23,23
+●,7_L,Tariffs,0,the measures,maxku,23-May-18 10:46:46,,,12,0.15,24,24
+●,7_L,USA,0,the administration,maxku,23-May-18 10:47:03,,,18,0.22,24,24
+●,7_L,Properties\Economy\Positive - economy,0,combating an overcapacity of metals,maxku,23-May-18 10:50:07,Tariffs,,35,0.42,24,24
+●,7_L,CHN,0,China,maxku,23-May-18 10:50:17,,,5,0.06,24,24
+●,7_L,EU,0,The European Union,maxku,23-May-18 10:50:22,,,18,0.22,24,24
+●,7_L,CAN,0,Canada,maxku,23-May-18 10:50:29,,,6,0.07,24,24
+●,7_L,CHN,0,China,maxku,23-May-18 10:51:22,,,5,0.06,24,24
+●,7_L,USA,0,the United States,maxku,23-May-18 10:51:29,,,17,0.21,24,24
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,crack down on cheap flows of steel into their markets,maxku,23-May-18 10:51:39,"EU
+CAN",,53,0.64,24,24
+●,7_L,USA\USA-I,0,Scott Paul,maxku,23-May-18 10:52:01,,,10,0.12,25,25
+●,7_L,USA\USA-I,0,the president of the Alliance for American Manufacturing,maxku,23-May-18 10:52:12,,,56,0.68,25,25
+●,7_L,Properties\Affection\Affection or empathy,0,supports,maxku,23-May-18 10:52:39,Tariffs,,8,0.10,25,25
+●,7_L,Tariffs,0,the metal restrictions,maxku,23-May-18 10:52:47,,,22,0.27,25,25
+●,7_L,Tariffs,0,the approach,maxku,23-May-18 10:52:53,,,12,0.15,25,25
+●,7_L,Properties\Quality\Functioning,0,is working,maxku,23-May-18 10:52:59,Tariffs,,10,0.12,25,25
+●,7_L,Tariffs,0,the tariffs,maxku,23-May-18 10:53:28,,,11,0.13,26,26
+●,7_L,EU,0,Europe,maxku,23-May-18 10:53:45,,,6,0.07,27,27
+●,7_L,Tariffs,0,the tariffs,maxku,23-May-18 10:53:50,,,11,0.13,27,27
+●,7_L,Tariff imposition consequences,0,have driven down steel prices,maxku,23-May-18 10:53:56,,,29,0.35,27,27
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,have driven down steel prices,maxku,23-May-18 10:54:05,Tariffs,,29,0.35,27,27
+●,7_L,USA,0,the United States,maxku,23-May-18 10:54:21,,,17,0.21,27,27
+●,7_L,EU,0,the European steel industry,maxku,23-May-18 10:54:27,,,27,0.33,28,28
+●,7_L,Properties\Power & Strength\Weak & Following,0,is bouncing back from a crisis,maxku,23-May-18 10:54:49,EU,,30,0.36,28,28
+●,7_L,CHN,0,Chinese producers,maxku,23-May-18 10:55:00,,,17,0.21,28,28
+●,7_L,EU,0,the industry,maxku,23-May-18 10:55:18,,,12,0.15,29,29
+●,7_L,Properties\Power & Strength\Weak & Following,0,are worried,maxku,23-May-18 10:55:27,EU,,11,0.13,29,29
+●,7_L,EU\EU-I,0,Martin Theuringer,maxku,23-May-18 10:55:38,,,17,0.21,29,29
+●,7_L,EU,0,the German Steel Federation,maxku,23-May-18 10:56:09,,,27,0.33,29,29
+●,7_L,EU,0,European steel makers,maxku,23-May-18 10:56:14,,,21,0.25,29,29
+●,7_M,Properties\Power & Strength\Powerful & Leading,0,extends exemptions,maxku,23-May-18 10:56:28,Trump,,18,0.60,1,1
+●,7_M,JPN,0,Japanese Foreign Minister,maxku,23-May-18 11:00:09,,,25,0.83,2,2
+●,7_M,JPN,0,Taro Kono,maxku,23-May-18 11:00:13,,,9,0.30,2,2
+●,7_M,JPN,0,the world’s third and second-largest economies,maxku,23-May-18 11:00:22,,,46,1.54,2,2
+●,7_M,CHN,0,the world’s third and second-largest economies,maxku,23-May-18 11:00:30,,,46,1.54,2,2
+●,7_L,JPN,0,Japan,maxku,23-May-18 11:00:40,,,5,0.06,19,19
+●,7_L,Properties\Other\Other,0,the largest American ally to be left off the initial list of countries,maxku,23-May-18 11:00:58,JPN,,70,0.85,19,19
+●,7_L,Properties\Economy\Positive - economy,0,a large surplus with the United States,maxku,23-May-18 11:01:29,JPN,,38,0.46,19,19
+●,7_L,JPN\Abe,0,Prime Minister Shinzo Abe of Japan,maxku,23-May-18 11:01:41,,,34,0.41,20,20
+●,7_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,dashed those plans,maxku,23-May-18 11:01:47,Abe,,18,0.22,20,20
+●,7_L,JPN\Abe,0,Mr. Abe,maxku,23-May-18 11:01:59,,,7,0.08,20,20
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,insisted,maxku,23-May-18 11:02:09,Abe,,8,0.10,20,20
+●,7_M,JPN,0,Japan,maxku,23-May-18 11:02:38,,,5,0.17,2,2
+●,7_R,JPN,0,Japan,maxku,23-May-18 11:02:47,,,5,0.08,17,17
+●,7_R,CHN,0,China,maxku,23-May-18 11:02:52,,,5,0.08,17,17
+●,7_M,Properties\Power & Strength\Powerful & Leading,0,delayed steep steel and aluminum tariffs,maxku,23-May-18 11:03:20,Trump,,40,1.34,3,3
+●,7_M,Properties\Power & Strength\Powerful & Leading,0,putting off a showdown,maxku,23-May-18 11:03:35,Trump,,22,0.73,3,3
+●,7_M,Properties\Economy\Positive - economy,0,will be able to export steel to the United States through June 1 without paying the 25% tariff,maxku,23-May-18 11:04:14,"EU
+CAN
+MEX",,94,3.14,4,4
+●,7_M,Properties\Power & Strength\Powerful & Leading,0,imposed,maxku,23-May-18 11:04:27,USA,,7,0.23,4,4
+●,7_M,Properties\Power & Strength\Powerful & Leading,0,allow those countries to avoid tariffs for longer,maxku,23-May-18 11:04:45,USA,,49,1.64,5,5
+●,7_M,Tariffs,0,a 25% tariff on steel,maxku,23-May-18 11:05:46,,,21,0.70,6,6
+●,7_M,Tariffs,0,a 10% tariff on aluminum,maxku,23-May-18 11:05:50,,,24,0.80,6,6
+●,7_M,Tariffs,0,tariffs,maxku,23-May-18 11:05:56,,,7,0.23,5,5
+●,7_M,Tariffs,0,steep steel and aluminum tariffs,maxku,23-May-18 11:06:06,,,32,1.07,3,3
+●,7_M,Properties\Importance\Important & Intense,0,steep,maxku,23-May-18 11:06:11,Tariffs,,5,0.17,3,3
+●,7_M,Tariffs,0,the 25% tariff,maxku,23-May-18 11:06:25,,,14,0.47,4,4
+●,7_M,Properties\Power & Strength\Powerful & Leading,0,announced,maxku,23-May-18 11:06:38,Trump,,9,0.30,6,6
+●,7_M,Properties\Power & Strength\Powerful & Leading,0,offered temporary exemptions,maxku,23-May-18 11:06:50,Trump,,28,0.93,6,6
+●,7_M,Tariffs,0,The tariffs,maxku,23-May-18 11:07:10,,,11,0.37,7,7
+●,7_M,Tariffs,0,The tariffs,maxku,23-May-18 11:07:20,,,11,0.37,8,8
+●,7_M,Properties\Importance\Important & Intense,0,a central issue,maxku,23-May-18 11:07:26,Tariffs,,15,0.50,8,8
+●,7_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threatened,maxku,23-May-18 11:07:52,EU-I,,10,0.33,8,8
+●,7_M,Reactions to the permanent exemption,0,would retaliate if the U.S. tariffs take effect,maxku,23-May-18 11:08:08,,,47,1.57,8,8
+●,7_M,Properties\Power & Strength\Weak & Following,0,retaliate,maxku,23-May-18 11:08:18,EU,,9,0.30,8,8
+●,7_M,Reactions to the permanent exemption,0,placing their own barriers on American products,maxku,23-May-18 11:08:33,,,47,1.57,8,8
+●,7_M,Tariff imposition consequences,0,placing their own barriers on American products,maxku,23-May-18 11:08:37,,,47,1.57,8,8
+●,7_M,Tariff imposition consequences,0,would retaliate if the U.S. tariffs take effect,maxku,23-May-18 11:08:43,,,47,1.57,8,8
+●,7_M,Properties\Affection\Refusal,0,sparking an outcry,maxku,23-May-18 11:09:00,USA,,18,0.60,9,9
+●,7_M,Tariffs,0,retaliatory measures,maxku,23-May-18 11:09:45,,,20,0.67,9,9
+●,7_M,Tariff imposition consequences,0,would hurt home state industries,maxku,23-May-18 11:09:53,,,32,1.07,9,9
+●,7_M,Properties\Economy\Negative - economy,0,would hurt home state industries,maxku,23-May-18 11:09:56,Tariffs,,32,1.07,9,9
+●,7_M,USA\USA-I,0,some Republicans on Capitol Hill,maxku,23-May-18 11:10:20,,,32,1.07,9,9
+●,7_M,Tariff imposition consequences,0,imposing duties,maxku,23-May-18 11:10:34,,,15,0.50,9,9
+●,7_M,Reactions to the permanent exemption,0,"imposing duties on U.S.-made motorcycles, orange juice and bourbon",maxku,23-May-18 11:10:41,,,66,2.20,9,9
+●,7_M,Properties\Power & Strength\Weak & Following,0,imposing duties,maxku,23-May-18 11:10:49,EU,,15,0.50,9,9
+●,7_M,Properties\Safety\Safe,0,national security purposes,maxku,23-May-18 11:11:19,Tariffs,,26,0.87,11,11
+●,7_M,Properties\Affection\Affection or empathy,0,justified,maxku,23-May-18 11:11:51,Tariffs,,9,0.30,11,11
+●,7_M,Tariffs,0,the tariffs,maxku,23-May-18 11:11:59,,,11,0.37,11,11
+●,7_M,Properties\Economy\Negative - economy,0,shuttered plants and mills,maxku,23-May-18 11:12:13,USA,,26,0.87,11,11
+●,7_M,Properties\Economy\Negative - economy,0,decades-long slide of manufacturing,maxku,23-May-18 11:12:22,USA,,35,1.17,11,11
+●,7_M,USA,0,The U.S.,maxku,23-May-18 11:12:44,,,8,0.27,12,12
+●,7_M,USA,0,the U.S. Department of Commerce,maxku,23-May-18 11:12:53,,,31,1.04,12,12
+●,7_M,CAN,0,Canada,maxku,23-May-18 11:12:58,,,6,0.20,12,12
+●,7_M,Properties\Importance\Important & Intense,0,the largest exporter of steel to the U.S.,maxku,23-May-18 11:13:06,CAN,,41,1.37,12,12
+●,7_M,USA,0,the U.S.,maxku,23-May-18 11:13:15,,,8,0.27,12,12
+●,7_M,KOR,0,South Korea,maxku,23-May-18 11:13:19,,,11,0.37,12,12
+●,7_M,MEX,0,Mexico,maxku,23-May-18 11:13:24,,,6,0.20,12,12
+●,7_M,USA,0,Officials,maxku,23-May-18 11:13:28,,,9,0.30,13,13
+●,7_M,USA,0,the administration,maxku,23-May-18 11:13:31,,,18,0.60,13,13
+●,7_M,KOR,0,South Korea,maxku,23-May-18 11:13:37,,,11,0.37,13,13
+●,7_M,Properties\Power & Strength\Powerful & Leading,0,reached a final agreement with South Korea,maxku,23-May-18 11:13:46,USA,,42,1.40,13,13
+●,7_M,KOR,0,South Korea,maxku,23-May-18 11:14:03,,,11,0.37,13,13
+●,7_M,New import quotas,0,limit exports to the U.S. in exchange for an exemption from tariffs,maxku,23-May-18 11:14:16,,,67,2.24,13,13
+●,7_M,CAN,0,Canada,maxku,23-May-18 11:14:23,,,6,0.20,14,14
+●,7_M,MEX,0,Mexico,maxku,23-May-18 11:14:27,,,6,0.20,14,14
+●,7_M,Properties\Power & Strength\Powerful & Leading,0,negotiating a new trade deal,maxku,23-May-18 11:14:36,"MEX
+CAN",,28,0.93,14,14
+●,7_M,USA,0,the U.S.,maxku,23-May-18 11:14:47,,,8,0.27,14,14
+●,7_M,USA\Trump,0,Trump,maxku,23-May-18 11:14:50,,,5,0.17,14,14
+●,7_M,USA,0,the U.S.,maxku,23-May-18 11:15:23,,,8,0.27,14,14
+●,7_M,Tariffs,0,Metal tariffs,maxku,23-May-18 11:15:29,,,13,0.43,14,14
+●,7_M,MEX,0,those two countries,maxku,23-May-18 11:15:35,,,19,0.63,14,14
+●,7_M,CAN,0,those two countries,maxku,23-May-18 11:15:56,,,19,0.63,14,14
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,delays tariffs,maxku,23-May-18 11:16:19,USA,,14,0.21,1,1
+●,7_R,Properties\Difficulty\Difficult,0,tense,maxku,23-May-18 11:16:34,"USA
+CHN",,5,0.08,1,1
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,delay a decision about whether to impose steel and aluminum tariffs,maxku,23-May-18 11:17:07,USA,,67,1.01,3,3
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,deciding whether to impose tariffs on steel and aluminum imports,maxku,23-May-18 11:17:28,USA,,64,0.96,4,4
+●,7_R,Properties\Power & Strength\Weak & Following,0,avoiding a potential trade war wth the 28-member bloc,maxku,23-May-18 11:17:52,USA,,53,0.80,4,4
+●,7_R,Properties\Importance\Important & Intense,0,crucial trade talks,maxku,23-May-18 11:18:21,CHN,,19,0.29,4,4
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,had reached an agreement,maxku,23-May-18 11:18:36,USA,,24,0.36,5,5
+●,7_R,New import quotas,0,a revised trade agreement,maxku,23-May-18 11:19:02,,,25,0.38,5,5
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,had reached agreements,maxku,23-May-18 11:19:12,USA,,22,0.33,5,5
+●,7_R,Tariffs,0,quotas,maxku,23-May-18 11:19:35,,,6,0.09,6,6
+●,7_R,Tariff imposition consequences,0,will restrain imports,maxku,23-May-18 11:19:39,,,21,0.32,6,6
+●,7_R,Tariff imposition consequences,0,prevent transshipment,maxku,23-May-18 11:19:43,,,21,0.32,6,6
+●,7_R,Tariff imposition consequences,0,protect the national security,maxku,23-May-18 11:19:47,,,29,0.44,6,6
+●,7_R,Properties\Safety\Safe,0,protect the national security,maxku,23-May-18 11:19:50,USA,,29,0.44,6,6
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,protect the national security,maxku,23-May-18 11:19:55,Tariffs,,29,0.44,6,6
+●,7_R,Properties\Economy\Negative - economy,0,will restrain imports,maxku,23-May-18 11:20:10,Tariffs,,21,0.32,6,6
+●,7_R,Properties\Economy\Negative - economy,0,prevent transshipment,maxku,23-May-18 11:20:25,Tariffs,,21,0.32,6,6
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,imposed,maxku,23-May-18 11:20:48,USA,,7,0.11,7,7
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,provided temporary exemptions,maxku,23-May-18 11:20:57,USA,,29,0.44,7,7
+●,7_R,EU,0,The EU,maxku,23-May-18 11:21:10,,,6,0.09,8,8
+●,7_R,Reactions to the permanent exemption,0,will retaliate with its own tariffs,maxku,23-May-18 11:21:20,,,35,0.53,8,8
+●,7_R,Tariff imposition consequences,0,will retaliate with its own tariffs,maxku,23-May-18 11:21:22,,,35,0.53,8,8
+●,7_R,Properties\Power & Strength\Weak & Following,0,retaliate with,maxku,23-May-18 11:21:31,EU,,14,0.21,8,8
+●,7_R,USA\Trump,0,the president,maxku,23-May-18 12:17:32,,,13,0.20,9,9
+●,7_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,slap,maxku,23-May-18 12:17:51,Trump,,4,0.06,9,9
+●,7_R,USA\Trump,0,Trump,maxku,23-May-18 12:18:09,,,5,0.08,9,9
+●,7_R,Properties\Affection\Affection or empathy,0,justified,maxku,23-May-18 12:18:19,Tariffs,,9,0.14,9,9
+●,7_R,Tariffs,0,the action,maxku,23-May-18 12:18:32,,,10,0.15,9,9
+●,7_R,Properties\Importance\Important & Intense,0,was needed,maxku,23-May-18 12:18:45,Tariffs,,10,0.15,9,9
+●,7_R,Properties\Economy\Positive - economy,0,protect American metal producers from unfair competition,maxku,23-May-18 12:19:11,USA,,56,0.84,9,9
+●,7_R,Properties\Safety\Safe,0,bolster national security,maxku,23-May-18 12:19:30,USA,,25,0.38,9,9
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,bolster national security,maxku,23-May-18 12:19:42,USA,,25,0.38,9,9
+●,7_R,Properties\Difficulty\Difficult,0,intense internal White House debate,maxku,23-May-18 12:20:02,USA,,35,0.53,9,9
+●,7_R,Properties\Affection\Refusal,0,harsh criticism,maxku,23-May-18 12:20:19,"USA-I
+USA-Misc",,15,0.23,9,9
+●,7_R,USA\USA-Misc,0,Democrats,maxku,23-May-18 12:20:31,,,9,0.14,9,9
+●,7_R,USA\USA-I,0,Republicans,maxku,23-May-18 12:20:34,,,11,0.17,9,9
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,roiled financial markets,maxku,23-May-18 12:20:41,Tariffs,,24,0.36,9,9
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,triggered harsh criticism,maxku,23-May-18 12:20:56,Tariffs,,25,0.38,9,9
+●,7_R,USA\Trump,0,Trump,maxku,23-May-18 12:21:07,,,5,0.08,10,10
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,excluded,maxku,23-May-18 12:21:16,Trump,,8,0.12,10,10
+●,7_R,Tariffs,0,the tariffs,maxku,23-May-18 12:21:27,,,11,0.17,10,10
+●,7_R,EU,0,the European Union,maxku,23-May-18 12:21:31,,,18,0.27,10,10
+●,7_R,MEX,0,Mexico,maxku,23-May-18 12:21:35,,,6,0.09,10,10
+●,7_R,CAN,0,Canada,maxku,23-May-18 12:21:39,,,6,0.09,10,10
+●,7_R,Tariffs,0,the steel tariff,maxku,23-May-18 12:21:50,,,16,0.24,11,11
+●,7_R,Properties\Other\Negative,0,covered just 30 percent of all imports,maxku,23-May-18 12:22:02,Tariffs,,38,0.57,11,11
+●,7_R,Tariffs,0,the tariffs,maxku,23-May-18 12:22:20,,,11,0.17,11,11
+●,7_R,Tariffs,0,the tariffs,maxku,23-May-18 12:22:37,,,11,0.17,11,11
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,Stock prices fell nearly 2 percent,maxku,23-May-18 12:22:45,Tariffs,,34,0.51,11,11
+●,7_R,USA,0,the Trump administration,maxku,23-May-18 12:23:08,,,24,0.36,12,12
+●,7_R,Permanent exemptions,0,permanent exemptions,maxku,23-May-18 12:23:33,,,20,0.30,12,12
+●,7_R,CAN,0,the countries,maxku,23-May-18 12:23:59,,,13,0.20,12,12
+●,7_R,EU,0,the countries,maxku,23-May-18 12:24:03,,,13,0.20,12,12
+●,7_R,MEX,0,the countries,maxku,23-May-18 12:24:07,,,13,0.20,12,12
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,efforts to secure,maxku,23-May-18 12:24:15,"CAN
+EU
+MEX",,17,0.26,12,12
+●,7_R,USA\USA-I,0,One of the officials,maxku,23-May-18 12:24:40,,,20,0.30,13,13
+●,7_R,USA,0,the U.S. trade representative,maxku,23-May-18 12:24:45,,,29,0.44,13,13
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,has been overseeing the process,maxku,23-May-18 12:24:55,USA,,31,0.47,13,13
+●,7_R,EU,0,the European Union,maxku,23-May-18 12:25:07,,,18,0.27,13,13
+●,7_R,Tariffs,0,tariffs,maxku,23-May-18 12:25:12,,,7,0.11,13,13
+●,7_R,USA,0,the Commerce Department,maxku,23-May-18 12:25:17,,,23,0.35,13,13
+●,7_R,USA,0,The officials,maxku,23-May-18 12:25:23,,,13,0.20,14,14
+●,7_R,Properties\Other\Other,0,condition of anonymity,maxku,23-May-18 12:25:44,USA,,22,0.33,14,14
+●,7_R,EU,0,The EU,maxku,23-May-18 12:25:52,,,6,0.09,15,15
+●,7_R,USA,0,the United States,maxku,23-May-18 12:26:07,,,17,0.26,15,15
+●,7_R,USA,0,the U.S.,maxku,23-May-18 12:26:14,,,8,0.12,15,15
+●,7_R,USA,0,the U.S.,maxku,23-May-18 12:26:23,,,8,0.12,15,15
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,had been asked to spell out what limits they could accept,maxku,23-May-18 12:26:32,USA,,57,0.86,15,15
+●,7_R,KOR,0,South Korea,maxku,23-May-18 12:27:06,,,11,0.17,16,16
+●,7_R,USA,0,the United States,maxku,23-May-18 12:27:12,,,17,0.26,16,16
+●,7_R,New import quotas,0,limit its exports,maxku,23-May-18 12:27:18,,,17,0.26,16,16
+●,7_R,New import quotas,0,what limits they could accept on the amount of steel they export,maxku,23-May-18 12:27:25,,,64,0.96,15,15
+●,7_R,Properties\Affection\Affection or empathy,0,agreed to,maxku,23-May-18 12:27:38,New import quotas,,9,0.14,16,16
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,updating its bilateral trade agreement,maxku,23-May-18 12:28:00,KOR,,38,0.57,16,16
+●,7_R,USA,0,the U.S.,maxku,23-May-18 12:28:09,,,8,0.12,16,16
+●,7_R,Permanent exemptions,0,permanent exemption,maxku,23-May-18 12:28:17,,,19,0.29,16,16
+●,7_R,Tariff imposition consequences,0,Stock prices fell nearly 2 percent when the tariffs were announced,maxku,23-May-18 12:28:30,,,66,0.99,11,11
+●,7_R,Tariff imposition consequences,0,triggered harsh criticism from Democrats and some Republicans and roiled financial markets,maxku,23-May-18 12:29:02,,,90,1.35,9,9
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,was granted,maxku,23-May-18 12:29:34,USA,,11,0.17,16,16
+●,7_R,Properties\Power & Strength\Weak & Following,0,was granted,maxku,23-May-18 12:29:36,KOR,,11,0.17,16,16
+●,7_R,CHN,0,those countries,maxku,23-May-18 12:29:57,,,15,0.23,17,17
+●,7_R,JPN,0,those countries,maxku,23-May-18 12:29:59,,,15,0.23,17,17
+●,7_R,USA,0,Commerce Secretary,maxku,23-May-18 12:30:08,,,18,0.27,17,17
+●,7_R,USA,0,Wilbur Ross,maxku,23-May-18 12:30:11,,,11,0.17,17,17
+●,7_R,New import quotas,0,quotas on imports,maxku,23-May-18 12:30:19,,,17,0.26,17,17
+●,7_R,EU,0,Europe,maxku,23-May-18 12:30:23,,,6,0.09,17,17
+●,7_R,EU,0,those countries,maxku,23-May-18 12:30:29,,,15,0.23,17,17
+●,7_R,CHN,0,Chinese imports,maxku,23-May-18 12:30:35,,,15,0.23,17,17
+●,7_R,Tariffs,0,the tariffs,maxku,23-May-18 12:30:39,,,11,0.17,17,17
+●,7_R,Properties\Economy\Negative - economy,0,reduce total steel imports,maxku,23-May-18 12:30:52,Tariffs,,26,0.39,17,17
+●,7_R,Properties\Economy\Positive - economy,0,boost U.S. production,maxku,23-May-18 12:31:06,USA,,21,0.32,17,17
+●,7_R,Tariffs,0,the tariff,maxku,23-May-18 12:31:38,,,10,0.15,18,18
+●,7_R,New import quotas,0,any kind of quota,maxku,23-May-18 12:31:44,,,17,0.26,18,18
+●,7_R,USA,0,Ross,maxku,23-May-18 12:31:51,,,4,0.06,18,18
+●,7_R,USA,0,Ross,maxku,23-May-18 12:31:57,,,4,0.06,18,18
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,is set to discuss the issue,maxku,23-May-18 12:32:10,USA,,27,0.41,18,18
+●,7_R,EU,0,EU Trade Commissioner,maxku,23-May-18 12:32:21,,,21,0.32,18,18
+●,7_R,EU,0,Cecilia Malmstrom,maxku,23-May-18 12:32:24,,,17,0.26,18,18
+●,7_R,EU,0,the EU,maxku,23-May-18 12:37:02,,,6,0.09,19,19
+●,7_R,USA,0,the U.S.,maxku,23-May-18 12:37:10,,,8,0.12,19,19
+●,7_R,KOR,0,South Korea,maxku,23-May-18 12:37:24,,,11,0.17,19,19
+●,7_R,Properties\Importance\Important & Intense,0,made up the largest share,maxku,23-May-18 12:37:38,KOR,,25,0.38,19,19
+●,7_R,USA,0,U.S. imports,maxku,23-May-18 12:37:48,,,12,0.18,19,19
+●,7_R,USA,0,American Iron and Steel Institute,maxku,23-May-18 12:37:56,,,33,0.50,19,19
+●,7_R,EU,0,The EU,maxku,23-May-18 12:38:00,,,6,0.09,20,20
+●,7_R,Properties\Power & Strength\Weak & Following,0,has compiled a list of retaliatory tariffs,maxku,23-May-18 12:38:08,EU,,42,0.63,20,20
+●,7_R,Reactions to the permanent exemption,0,will impose if its steel and aluminum isn't exempted,maxku,23-May-18 12:38:22,,,52,0.78,20,20
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,it will impose,maxku,23-May-18 12:38:42,EU,,14,0.21,20,20
+●,7_R,Properties\Affection\Refusal,0,have resisted,maxku,23-May-18 12:39:15,New import quotas,,13,0.20,21,21
+●,7_R,EU\EU-I,0,German Chancellor Angela Merkel,maxku,23-May-18 12:39:34,,,31,0.47,21,21
+●,7_R,New import quotas,0,a quota,maxku,23-May-18 12:39:39,,,7,0.11,21,21
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,discussed the issue,maxku,23-May-18 12:39:49,EU-I,,19,0.29,21,21
+●,7_R,EU\EU-I,0,French President Emmanuel Macron,maxku,23-May-18 12:40:26,,,32,0.48,21,21
+●,7_R,EU\EU-I,0,British Prime Minister Theresa May,maxku,23-May-18 12:40:31,,,34,0.51,21,21
+●,7_R,EU\EU-I,0,The three European leaders,maxku,23-May-18 12:41:07,,,26,0.39,22,22
+●,7_R,USA,0,the U.S.,maxku,23-May-18 12:41:13,,,8,0.12,22,22
+●,7_R,Reactions to the permanent exemption,0,ought not to take any trade measures against the European Union,maxku,23-May-18 12:41:20,,,63,0.95,22,22
+●,7_R,EU,0,the European Union,maxku,23-May-18 12:41:25,,,18,0.27,22,22
+●,7_R,EU\EU-I,0,Merkel,maxku,23-May-18 12:45:05,,,6,0.09,22,22
+●,7_R,Properties\Behaviour & character\Confident,0,resolved to defend its interests,maxku,23-May-18 12:45:12,EU,,32,0.48,22,22
+●,7_R,USA\Trump,0,Trump,maxku,23-May-18 12:45:17,,,5,0.08,23,23
+●,7_R,EU\EU-I,0,Merkel,maxku,23-May-18 12:45:22,,,6,0.09,23,23
+●,7_R,Reactions to the permanent exemption,0,saw little progress in obtaining permanent exemptions,maxku,23-May-18 12:45:32,,,53,0.80,23,23
+●,7_R,Permanent exemptions,0,permanent exemptions,maxku,23-May-18 12:45:37,,,20,0.30,23,23
+●,7_R,Permanent exemptions,0,to permanently exempt,maxku,23-May-18 12:45:47,,,21,0.32,7,7
+●,7_R,USA\Trump,0,the president,maxku,23-May-18 12:46:19,,,13,0.20,23,23
+●,7_R,Properties\Difficulty\Difficult,0,little progress,maxku,23-May-18 12:46:31,Permanent exemptions,,15,0.23,23,23
+●,7_R,CHN,0,China,maxku,23-May-18 12:46:46,,,5,0.08,24,24
+●,7_R,USA,0,the United States,maxku,23-May-18 12:46:51,,,17,0.26,24,24
+●,7_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,has threatened to impose tariffs,maxku,23-May-18 12:47:01,USA,,32,0.48,24,24
+●,7_R,Tariffs,0,tariffs,maxku,23-May-18 12:47:11,,,7,0.11,24,24
+●,7_R,CHN,0,Chinese goods,maxku,23-May-18 12:47:19,,,13,0.20,24,24
+●,7_R,Properties\Power & Strength\Weak & Following,0,in retaliation,maxku,23-May-18 12:47:27,USA,,14,0.21,24,24
+●,7_R,CHN,0,Beijing,maxku,23-May-18 12:47:39,,,7,0.11,24,24
+●,7_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,unfair trade practices,maxku,23-May-18 12:47:51,CHN,,22,0.33,24,24
+●,7_R,USA,0,U.S. companies,maxku,23-May-18 12:48:04,,,14,0.21,24,24
+●,7_R,USA,0,The White House,maxku,23-May-18 12:48:14,,,15,0.23,24,24
+●,7_R,CHN,0,China,maxku,23-May-18 12:48:22,,,5,0.08,24,24
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,wants China to agree to reduce its $375 billion goods trade surplus,maxku,23-May-18 12:48:37,USA,,67,1.01,24,24
+●,7_R,USA,0,the U.S.,maxku,23-May-18 12:48:58,,,8,0.12,24,24
+●,7_R,CHN,0,China,maxku,23-May-18 12:49:04,,,5,0.08,25,25
+●,7_R,USA,0,U.S. goods,maxku,23-May-18 12:49:14,,,10,0.15,25,25
+●,7_R,Tariffs,0,tariffs,maxku,23-May-18 12:49:18,,,7,0.11,25,25
+●,7_R,USA,0,the U.S.,maxku,23-May-18 12:49:25,,,8,0.12,25,25
+●,7_R,USA\Trump,0,Trump,maxku,23-May-18 12:49:30,,,5,0.08,25,25
+●,7_R,USA,0,an administration delegation,maxku,23-May-18 12:49:59,,,28,0.42,25,25
+●,7_R,USA\USA-I,0,Steven Mnuchin,maxku,23-May-18 12:50:11,,,14,0.21,25,25
+●,7_R,USA,0,U.S. Trade Representative,maxku,23-May-18 12:50:14,,,25,0.38,25,25
+●,7_R,USA\USA-I,0,Robert Lighthizer,maxku,23-May-18 12:50:25,,,17,0.26,25,25
+●,7_R,USA\USA-I,0,trade adviser Peter Navarro,maxku,23-May-18 12:50:31,,,27,0.41,25,25
+●,7_R,CHN,0,Beijing,maxku,23-May-18 12:50:40,,,7,0.11,25,25
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,will visit Beijing for negotiations,maxku,23-May-18 12:50:45,"USA
+USA-I",,35,0.53,25,25
+●,7_R,USA\USA-I,0,Mnuchin,maxku,23-May-18 12:51:00,,,7,0.11,26,26
+●,7_R,USA\USA-I,0,Lighthizer,maxku,23-May-18 12:51:03,,,10,0.15,26,26
+●,7_R,USA\USA-I,0,Ross,maxku,23-May-18 12:51:08,,,4,0.06,26,26
+●,7_R,USA\USA-I,0,Navarro,maxku,23-May-18 12:51:12,,,7,0.11,26,26
+●,7_R,USA\USA-I,0,economic adviser Larry Kudlow,maxku,23-May-18 12:51:16,,,29,0.44,26,26
+●,7_R,USA,0,U.S. Ambassador to China,maxku,23-May-18 12:51:21,,,24,0.36,26,26
+●,7_R,CHN,0,China,maxku,23-May-18 12:51:26,,,5,0.08,26,26
+●,7_R,USA\USA-I,0,Terry Branstad,maxku,23-May-18 12:51:31,,,14,0.21,26,26
+●,7_R,USA\USA-I,0,Everett Eissenstat,maxku,23-May-18 12:51:36,,,18,0.27,26,26
+●,7_R,USA,0,deputy assistant to the president for International Economic Affairs,maxku,23-May-18 12:51:41,,,68,1.02,26,26
+●,7_R,USA\Trump,0,the president,maxku,23-May-18 12:51:48,,,13,0.20,26,26
+●,7_R,Properties\Difficulty\Difficult,0,very frank discussions,maxku,23-May-18 12:52:51,"USA
+USA-I",,22,0.33,27,27
+●,7_R,USA\USA-I,0,Mnuchin,maxku,23-May-18 12:53:02,,,7,0.11,27,27
+●,7_RR,Properties\Power & Strength\Powerful & Leading,0,delay EU tariff,maxku,23-May-18 12:53:30,USA,,15,0.91,1,1
+●,7_RR,Properties\Power & Strength\Powerful & Leading,0,push back his decision on whether to impose controversial tariffs,maxku,23-May-18 12:53:45,Trump,,65,3.94,2,2
+●,7_RR,Properties\Violence & Unfair\Victim (receiving violence),0,would face punishing import duties,maxku,23-May-18 12:54:37,"EU
+CAN
+MEX",,34,2.06,3,3
+●,7_RR,Properties\Power & Strength\Powerful & Leading,0,announced,maxku,23-May-18 12:55:39,Trump,,9,0.55,5,5
+●,7_RR,Properties\Power & Strength\Powerful & Leading,0,exempted the European Union,maxku,23-May-18 12:55:50,Trump,,27,1.64,5,5
+●,7_RR,Properties\Affection\Affection or empathy,0,has justified,maxku,23-May-18 12:56:07,Tariffs,,13,0.79,6,6
+●,7_RR,CHN,0,Chinese overproduction,maxku,23-May-18 12:56:19,,,22,1.33,6,6
+●,7_RR,New import quotas,0,concessions to win permanent exemptions,maxku,23-May-18 12:56:37,,,39,2.36,6,6
+●,7_RR,Permanent exemptions,0,permanent exemptions,maxku,23-May-18 12:56:42,,,20,1.21,6,6
+●,7_RR,Properties\Power & Strength\Powerful & Leading,0,insisted it will not negotiate without first obtaining a permanent exemption,maxku,23-May-18 12:57:07,EU,,76,4.61,7,7
+●,7_RR,Permanent exemptions,0,permanent exemption,maxku,23-May-18 12:57:16,,,19,1.15,7,7
+●,7_RR,Reactions to the permanent exemption,0,insisted it will not negotiate without first obtaining a permanent exemption,maxku,23-May-18 12:57:23,,,76,4.61,7,7
+●,7_RR,Properties\Other\Other,0,on condition of anonymity,maxku,23-May-18 12:57:33,USA,,25,1.52,8,8
+●,7_RR,Properties\Power & Strength\Powerful & Leading,0,had reached a deal,maxku,23-May-18 12:57:51,USA,,18,1.09,8,8
+●,7_RR,Permanent exemptions,0,exempt South Korea from the tariffs,maxku,23-May-18 12:58:02,,,35,2.12,8,8
+●,7_RR,KOR,0,South Korea,maxku,23-May-18 12:58:09,,,11,0.67,8,8
+●,7_RR,Reactions to the permanent exemption,0,had made concessions to secure a revised trade deal with Washington and escape its steel duties,maxku,23-May-18 12:58:39,,,95,5.76,10,10
+●,7_RR,Properties\Power & Strength\Powerful & Leading,0,had made concessions to secure a revised trade deal,maxku,23-May-18 12:58:54,KOR,,51,3.09,10,10
+●,7_RR,Properties\Power & Strength\Powerful & Leading,0,work on revamping the North American Free Trade Agreement,maxku,23-May-18 12:59:07,"USA
+CAN
+MEX",,57,3.45,11,11
+●,7_R,EU,0,European leaders,felix,07-Dec-18 17:40:51,,,16,0.24,21,21
+●,7_R,USA,0,Treasury Secretary,felix,07-Dec-18 17:44:10,,,18,0.27,25,25
+●,7_LL,Tariff imposition consequences,0,increased frictions with U.S. trading partners worldwide,AnZhu,16-Jan-19 17:00:42,,,56,0.87,2,2
+●,7_LL,Tariffs,0,tariffs,AnZhu,16-Jan-19 17:07:13,,,7,0.11,13,13
+●,7_LL,USA\Steel producers,0,U.S. steel and aluminum producers,AnZhu,16-Jan-19 17:08:21,,,33,0.51,11,11
+●,7_LL,USA\Steel producers,0,the two U.S. metals industries,AnZhu,16-Jan-19 17:08:32,,,30,0.47,12,12
+●,7_LL,USA\Steel producers,0,U.S. producers,AnZhu,16-Jan-19 17:08:43,,,14,0.22,13,13
+●,7_LL,USA\Steel producers,0,a Cleveland-based distributor of domestic steel products,AnZhu,16-Jan-19 17:12:41,,,56,0.87,21,21
+●,7_LL,USA\Steel producers,0,American steelmakers,AnZhu,16-Jan-19 17:12:55,,,20,0.31,21,21
+●,7_LL,USA\Steel producers,0,our domestic steel industry,AnZhu,16-Jan-19 17:13:13,,,27,0.42,22,22
+●,7_LL,USA\Steel producers,0,steel- and aluminum-consuming industries,AnZhu,16-Jan-19 17:13:57,,,40,0.62,23,23
+●,7_LL,EU,0,the UK steel and aluminum industries,AnZhu,16-Jan-19 17:18:13,,,36,0.56,28,28
+●,7_L,USA\Steel producers,0,the Alliance for American Manufacturing,AnZhu,16-Jan-19 17:22:38,,,39,0.47,25,25
+●,7_R,USA\Steel producers,0,American metal producers,AnZhu,16-Jan-19 17:25:29,,,24,0.36,9,9
+●,7_R,USA\Steel producers,0,American companies,AnZhu,16-Jan-19 17:25:42,,,18,0.27,11,11
+●,7_M,Tariffs,0,trade restrictions for national security purposes,AnZhu,16-Jan-19 17:28:29,,,49,1.64,11,11
+●,7_M,USA,0,the White House,AnZhu,16-Jan-19 17:29:58,,,15,0.50,8,8
+●,7_M,USA\Steel producers,0,"“shuttered plants and mills,”",AnZhu,16-Jan-19 17:31:03,,,29,0.97,11,11
+●,7_M,New import quotas,0,a final agreement with South Korea on steel,AnZhu,16-Jan-19 17:31:45,,,43,1.44,13,13
+●,7_M,New import quotas,0,That deal,AnZhu,16-Jan-19 17:31:56,,,9,0.30,13,13
+●,7_M,New import quotas,0,a new trade deal with the U.S.,AnZhu,16-Jan-19 17:32:56,,,30,1.00,14,14
+●,7_LL,New import quotas,0,quotas,AnZhu,16-Jan-19 17:49:53,,,6,0.09,6,6
+●,7_LL,USA,0,administration,AnZhu,16-Jan-19 17:55:17,,,14,0.22,20,20
+●,7_LL,New import quotas,0,the deals,AnZhu,16-Jan-19 19:36:28,,,9,0.14,5,5
+●,7_LL,New import quotas,0,agreements for permanent exemptions,AnZhu,16-Jan-19 19:37:10,,,35,0.54,3,3
+●,7_LL,Permanent exemptions,0,permanent exemptions,AnZhu,16-Jan-19 19:37:19,,,20,0.31,3,3
+●,7_L,USA,0,delegation of top officials,AnZhu,08-Apr-19 17:45:14,,,27,0.33,5,5
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,set off a global scramble,AnZhu,08-Apr-19 17:47:30,Tariffs,,25,0.30,4,4
+●,7_L,KOR,0,South Korea,AnZhu,08-Apr-19 17:52:08,,,11,0.13,6,6
+●,7_R,EU,0,EU,AnZhu,08-Apr-19 17:56:40,,,2,0.03,2,2
+●,7_R,Tariffs,0,tariffs,AnZhu,08-Apr-19 17:56:50,,,7,0.11,2,2
+●,7_R,Properties\Power & Strength\Powerful & Leading,0,postpones imposing tariffs,AnZhu,08-Apr-19 17:58:24,Trump,,26,0.39,2,2
+●,7_L,Properties\Power & Strength\Powerful & Leading,0,have introduced steeper measures,AnZhu,08-Apr-19 18:09:11,"EU
+CAN",,32,0.39,24,24
+●,7_RR,KOR\Moon,0,Moon Jae-in,AnZhu,08-Apr-19 18:10:14,,,11,0.67,9,9
+●,7_RR,MEX,0,Mexico,AnZhu,08-Apr-19 18:10:31,,,6,0.36,11,11

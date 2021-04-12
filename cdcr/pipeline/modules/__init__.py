@@ -1,0 +1,4 @@
+from cdcr.pipeline.modules.news_please_reader import NewsPleaseReader
+from cdcr.pipeline.modules.preprocessor import Preprocessor
+from cdcr.pipeline.modules.candidate_extractor import CandidateExtractor
+from cdcr.pipeline.modules.entity_identifier import EntityIdentifier

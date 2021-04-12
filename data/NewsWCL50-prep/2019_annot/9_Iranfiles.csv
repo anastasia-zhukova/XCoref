@@ -1,0 +1,745 @@
+﻿Color,Document name,Code,Weight score,Segment,Author,Creation date,Comment,Document group,Area,Coverage %,Beginning,End
+●,9_L,ISR,0,Israel,maxku,15-May-18 21:43:21,,,6,0.02,1,1
+●,9_L,IRN,0,Iran,maxku,15-May-18 21:43:29,,,4,0.01,1,1
+●,9_L,USA,0,U.S.,maxku,15-May-18 21:43:33,,,4,0.01,1,1
+●,9_L,Nuclear deal,0,Nuclear Deal,maxku,15-May-18 21:43:37,,,12,0.04,1,1
+●,9_L,ISR\Netanyahu,0,Prime Minister Benjamin Netanyahu,maxku,15-May-18 21:43:42,,,33,0.11,2,2
+●,9_L,ISR,0,Israel,maxku,15-May-18 21:43:46,,,6,0.02,2,2
+●,9_L,USA,0,Secretary of State,maxku,15-May-18 21:43:52,,,18,0.06,2,2
+●,9_L,USA,0,Mike Pompeo,maxku,15-May-18 21:43:55,,,11,0.04,2,2
+●,9_L,ISR\Netanyahu,0,The prime minister,maxku,15-May-18 21:44:01,,,18,0.06,2,2
+●,9_L,USA,0,Mr. Pompeo,maxku,15-May-18 21:44:06,,,10,0.03,2,2
+●,9_L,USA,0,The Trump administration,maxku,15-May-18 21:44:14,,,24,0.08,3,3
+●,9_L,ISR,0,Israel,maxku,15-May-18 21:44:21,,,6,0.02,3,3
+●,9_L,IRN,0,Iran,maxku,15-May-18 21:44:24,,,4,0.01,3,3
+●,9_L,Nuclear deal,0,a nuclear deal,maxku,15-May-18 21:44:29,,,14,0.05,3,3
+●,9_L,USA,0,The administration,maxku,15-May-18 21:44:43,,,18,0.06,4,4
+●,9_L,ISR\Netanyahu,0,Prime Minister Benjamin Netanyahu,maxku,15-May-18 21:44:50,,,33,0.11,4,4
+●,9_L,USA,0,the White House,maxku,15-May-18 21:44:58,,,15,0.05,4,4
+●,9_L,USA\Trump,0,President Trump,maxku,15-May-18 21:45:03,,,15,0.05,4,4
+●,9_L,USA\Trump,0,Mr. Trump,maxku,15-May-18 21:45:09,,,9,0.03,5,5
+●,9_L,Nuclear deal,0,the deal,maxku,15-May-18 21:45:27,,,8,0.03,5,5
+●,9_L,USA,0,The White House,maxku,15-May-18 21:45:35,,,15,0.05,5,5
+●,9_L,ISR\Netanyahu,0,Mr. Netanyahu,maxku,15-May-18 21:45:39,,,13,0.04,5,5
+●,9_L,IRN files,0,documents,maxku,15-May-18 21:45:44,,,9,0.03,5,5
+●,9_L,Nuclear deal,0,the agreement,maxku,15-May-18 21:45:58,,,13,0.04,5,5
+●,9_L,Nuclear deal,0,The deal,maxku,15-May-18 21:46:01,,,8,0.03,6,6
+●,9_L,Nuclear deal,0,the deal,maxku,15-May-18 21:46:32,,,8,0.03,6,6
+●,9_L,USA,0,the White House,maxku,15-May-18 21:46:43,,,15,0.05,7,7
+●,9_L,ISR,0,the Israelis,maxku,15-May-18 21:46:50,,,12,0.04,7,7
+●,9_L,ISR,0,A senior Israeli official,maxku,15-May-18 21:46:56,,,25,0.08,7,7
+●,9_L,USA\Trump,0,Mr. Trump,maxku,15-May-18 21:47:21,,,9,0.03,7,7
+●,9_L,ISR\Netanyahu,0,Mr. Netanyahu,maxku,15-May-18 21:47:29,,,13,0.04,7,7
+●,9_L,USA,0,Secretary of State,maxku,15-May-18 21:47:34,,,18,0.06,7,7
+●,9_L,USA,0,Mike Pompeo,maxku,15-May-18 21:47:37,,,11,0.04,7,7
+●,9_L,Presentation,0,presentation,maxku,28-May-18 09:47:09,,,12,0.04,2,2
+●,9_L,Presentation,0,a dramatic PowerPoint presentation,maxku,28-May-18 09:47:16,,,34,0.11,4,4
+●,9_L,Presentation,0,Mr. Netanyahu's theatrical presentation,maxku,28-May-18 09:47:22,,,39,0.13,5,5
+●,9_L,Presentation,0,Mr. Netanyahu's presentation,maxku,28-May-18 09:47:29,,,28,0.09,8,8
+●,9_L,Presentation,0,Mr. Netanyahu's presentation,maxku,28-May-18 09:47:35,,,28,0.09,14,14
+●,9_L,Presentation,0,The Israeli prime minister's presentation,maxku,28-May-18 09:47:42,,,41,0.13,15,15
+●,9_L,Presentation,0,his presentation,maxku,28-May-18 13:03:49,,,16,0.05,24,24
+●,9_L,Presentation,0,Mr. Netanyahu's presentation,maxku,28-May-18 09:48:08,,,28,0.09,27,27
+●,9_L,Presentation,0,last night's presentation,maxku,28-May-18 09:48:17,,,25,0.08,28,28
+●,9_L,Presentation,0,Mr. Netanyahu's presentation,maxku,28-May-18 09:48:24,,,28,0.09,29,29
+●,9_L,IRN nuclear activity,0,"a robust, clandestine nuclear weapons program",maxku,28-May-18 09:49:09,,,45,0.15,10,10
+●,9_L,IRN nuclear activity,0,Tehran's nuclear ambitions,maxku,28-May-18 09:49:28,,,26,0.08,15,15
+●,9_L,IRN nuclear activity,0,the country's nuclear program,maxku,28-May-18 09:54:54,,,29,0.09,18,18
+●,9_L,IRN nuclear activity,0,activities in Iran relevant to the development of a nuclear explosive device,maxku,28-May-18 09:55:26,,,76,0.25,19,19
+●,9_L,IRN nuclear activity,0,research into nuclear weapons technology,maxku,28-May-18 09:55:46,,,40,0.13,15,15
+●,9_L,IRN nuclear activity,0,work on nuclear weapons designs,maxku,28-May-18 09:56:01,,,31,0.10,18,18
+●,9_L,IRN nuclear activity,0,active program to manufacture a nuclear weapon,maxku,28-May-18 09:56:11,,,46,0.15,22,22
+●,9_L,Reaction to IRN deal,0,rip up the agreement,maxku,28-May-18 10:16:15,,,20,0.06,4,4
+●,9_L,Reaction to IRN deal,0,President Trump's decision,maxku,28-May-18 10:16:32,,,26,0.08,4,4
+●,9_L,Reaction to IRN deal,0,scrap the deal,maxku,28-May-18 10:16:43,,,14,0.05,5,5
+●,9_L,Reaction to IRN deal,0,decide to reimpose sanctions,maxku,28-May-18 11:00:33,,,28,0.09,8,8
+●,9_L,Reaction to IRN deal,0,lobbied Mr. Trump not to scuttle the deal,maxku,28-May-18 10:17:06,,,41,0.13,14,14
+●,9_L,Reaction to IRN deal,0,Mr. Trump's decision,maxku,28-May-18 10:18:16,,,20,0.06,27,27
+●,9_L,Properties\Other\Other,0,Claims on,maxku,28-May-18 10:42:45,ISR,,9,0.03,1,1
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,Divide,maxku,28-May-18 10:42:56,ISR,,6,0.02,1,1
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,briefed,maxku,28-May-18 10:48:19,Netanyahu,,7,0.02,2,2
+●,9_L,Properties\Behaviour & character\Not trustworthy,0,under false pretenses,maxku,28-May-18 10:49:35,IRN,,21,0.07,3,3
+●,9_L,Nuclear deal,0,the 2015 deal,maxku,28-May-18 10:49:52,,,13,0.04,3,3
+●,9_L,Properties\Other\Other,0,stark divergence,maxku,28-May-18 10:50:26,USA,,16,0.05,3,3
+●,9_L,Properties\Affection\Affection or empathy,0,embraced,maxku,28-May-18 10:50:48,ISR,,8,0.03,3,3
+●,9_L,Properties\Affection\Affection or empathy,0,echoed the claims,AnZhu,08-Apr-19 19:12:10,Netanyahu,,17,0.06,4,4
+●,9_L,Properties\Importance\Important & Intense,0,dramatic,maxku,28-May-18 10:51:10,Presentation,,8,0.03,4,4
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,set the stage for,maxku,28-May-18 10:51:28,"Netanyahu
+USA",,17,0.06,4,4
+●,9_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,rip up,maxku,28-May-18 10:51:41,Trump,,6,0.02,4,4
+●,9_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threatened to scrap,maxku,28-May-18 10:51:55,Trump,,19,0.06,5,5
+●,9_L,Properties\Violence & Unfair\Victim (receiving violence),0,threatened to scrap,maxku,28-May-18 10:51:57,Nuclear deal,,19,0.06,5,5
+●,9_L,Properties\Importance\Important & Intense,0,theatrical,maxku,28-May-18 10:52:24,Presentation,,10,0.03,5,5
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,nighttime raid,maxku,28-May-18 10:56:19,IRN,,14,0.05,5,5
+●,9_L,Properties\Quality\Bad Quality,0,flaws,maxku,28-May-18 10:56:28,Nuclear deal,,5,0.02,5,5
+●,9_L,Properties\Quality\Bad Quality,0,made on a completely false pretense,maxku,28-May-18 10:56:38,Nuclear deal,,35,0.11,6,6
+●,9_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,made on a completely false pretense,maxku,28-May-18 10:56:43,Nuclear deal,,35,0.11,6,6
+●,9_L,Properties\Behaviour & character\Not trustworthy,0,lied,maxku,28-May-18 10:56:51,IRN,,4,0.01,6,6
+●,9_L,IRN,0,dishonest actors,maxku,28-May-18 10:57:01,,,16,0.05,6,6
+●,9_L,Properties\Behaviour & character\Not trustworthy,0,dishonest,maxku,28-May-18 10:57:07,IRN,,9,0.03,6,6
+●,9_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,made on things that weren't accurate,maxku,28-May-18 10:57:18,Nuclear deal,,36,0.12,6,6
+●,9_L,Properties\Quality\Bad Quality,0,made on things that weren't accurate,maxku,28-May-18 10:57:20,Nuclear deal,,36,0.12,6,6
+●,9_L,Properties\Affection\Refusal,0,have a big problem with that,maxku,28-May-18 10:57:38,Nuclear deal,,28,0.09,6,6
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,discussed the rollout of the new information,maxku,28-May-18 10:57:55,USA,,44,0.14,7,7
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,informed Mr. Trump of the operation,maxku,28-May-18 10:58:15,"ISR
+ISR-I",,35,0.11,7,7
+●,9_L,ISR\ISR-I,0,Yossi Cohen,maxku,28-May-18 10:58:51,,,11,0.04,7,7
+●,9_L,ISR\ISR-I,0,Mossad,maxku,28-May-18 10:59:00,,,6,0.02,7,7
+●,9_L,ISR\ISR-I,0,the chief of Israel's intelligence agency,maxku,28-May-18 10:59:06,,,41,0.13,7,7
+●,9_L,ISR,0,Israel's intelligence agency,maxku,28-May-18 10:59:10,,,28,0.09,7,7
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,briefed,maxku,28-May-18 10:59:20,Netanyahu,,7,0.02,7,7
+●,9_L,USA,0,United States intelligence agencies,felix,10-Dec-18 12:57:31,,,35,0.11,8,8
+●,9_L,IRN files,0,Iranian files,maxku,28-May-18 11:00:00,,,13,0.04,8,8
+●,9_L,ISR\Netanyahu,0,Mr. Netanyahu's,maxku,28-May-18 11:00:07,,,15,0.05,8,8
+●,9_L,Nuclear deal,0,the Iran deal,maxku,28-May-18 11:00:19,,,13,0.04,8,8
+●,9_L,USA\Trump,0,Mr. Trump,maxku,28-May-18 11:00:23,,,9,0.03,8,8
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,decide to reimpose sanctions,maxku,28-May-18 11:00:38,Trump,,28,0.09,8,8
+●,9_L,Properties\Economy\Negative - economy,0,decide to reimpose sanctions,maxku,28-May-18 11:00:52,IRN,,28,0.09,8,8
+●,9_L,IRN,0,Tehran,maxku,28-May-18 11:01:00,,,6,0.02,8,8
+●,9_L,Properties\Other\Other,0,starkly divergent reactions,maxku,28-May-18 11:01:26,USA,,27,0.09,8,8
+●,9_L,USA,0,The White House,maxku,28-May-18 11:01:34,,,15,0.05,9,9
+●,9_L,IRN files,0,the files,maxku,28-May-18 11:01:39,,,9,0.03,9,9
+●,9_L,IRN,0,Iran,maxku,28-May-18 11:01:43,,,4,0.01,9,9
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,demonstrated that Iran was in violation of the 2015 agreement,maxku,28-May-18 11:01:58,IRN files,,61,0.20,9,9
+●,9_L,Properties\Law\Unlawful,0,in violation of,maxku,28-May-18 11:14:23,IRN,,15,0.05,9,9
+●,9_L,Nuclear deal,0,the 2015 agreement,maxku,28-May-18 11:14:32,,,18,0.06,9,9
+●,9_L,USA\USA-I,0,Ms. Sanders,maxku,28-May-18 11:14:43,,,11,0.04,9,9
+●,9_L,USA\USA-I,0,Sarah Huckabee Sanders,maxku,28-May-18 11:14:59,,,22,0.07,6,6
+●,9_L,USA\USA-I,0,the White House press secretary,maxku,28-May-18 11:15:04,,,31,0.10,6,6
+●,9_L,USA\USA-I,0,Ms. Sanders,maxku,28-May-18 11:15:10,,,11,0.04,7,7
+●,9_L,IRN,0,Iran,maxku,28-May-18 11:15:26,,,4,0.01,9,9
+●,9_L,Properties\Law\Unlawful,0,deceit,maxku,28-May-18 11:15:41,IRN,,6,0.02,9,9
+●,9_L,Nuclear deal,0,the deal,maxku,28-May-18 11:15:56,,,8,0.03,9,9
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,further undermining,maxku,28-May-18 11:16:02,USA-I,,19,0.06,9,9
+●,9_L,USA,0,the administration,maxku,28-May-18 11:16:12,,,18,0.06,10,10
+●,9_L,IRN,0,Iran,maxku,28-May-18 11:16:17,,,4,0.01,10,10
+●,9_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,tough line on,maxku,28-May-18 11:16:21,USA,,13,0.04,10,10
+●,9_L,Properties\Violence & Unfair\Victim (receiving violence),0,tough line on,maxku,28-May-18 11:16:23,IRN,,13,0.04,10,10
+●,9_L,USA\USA-I,0,Ms. Sanders,maxku,28-May-18 11:16:35,,,11,0.04,10,10
+●,9_L,Properties\Quality\Bad Quality,0,potentially dangerous typo,maxku,28-May-18 11:17:24,USA,,26,0.08,10,10
+●,9_L,IRN files,0,the Israeli disclosures,maxku,28-May-18 11:17:38,,,23,0.07,10,10
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,"robust, clandestine",maxku,28-May-18 11:17:59,IRN nuclear activity,,19,0.06,10,10
+●,9_L,Properties\Behaviour & character\Not trustworthy,0,tried and failed to hide,maxku,28-May-18 11:18:41,IRN,,24,0.08,10,10
+●,9_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,tried and failed to hide,maxku,28-May-18 11:18:45,IRN,,24,0.08,10,10
+●,9_L,USA,0,White House officials,maxku,28-May-18 11:19:03,,,21,0.07,11,11
+●,9_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,a clerical error,maxku,28-May-18 11:20:07,USA,,16,0.05,11,11
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,a robust” program,maxku,28-May-18 11:20:58,IRN,,17,0.06,11,11
+●,9_L,IRN,0,Iran,maxku,28-May-18 11:21:03,,,4,0.01,11,11
+●,9_L,USA\USA-I,0,Ms. Sanders,maxku,28-May-18 12:37:19,,,11,0.04,11,11
+●,9_L,Properties\Quality\Bad Quality,0,biggest mistake,maxku,28-May-18 12:37:39,Nuclear deal,,15,0.05,11,11
+●,9_L,Nuclear deal,0,the deal,maxku,28-May-18 12:38:10,,,8,0.03,11,11
+●,9_L,ISR,0,Israel,maxku,28-May-18 12:38:15,,,6,0.02,12,12
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,not finished with its lobbying campaign,maxku,28-May-18 12:38:22,ISR,,39,0.13,12,12
+●,9_L,ISR,0,Officials,maxku,28-May-18 12:38:46,,,9,0.03,12,12
+●,9_L,IRN files,0,the data,maxku,28-May-18 12:38:58,,,8,0.03,12,12
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,planned to share much of the data,maxku,28-May-18 12:39:13,ISR,,33,0.11,12,12
+●,9_L,IRN,0,Iran,maxku,28-May-18 12:39:55,,,4,0.01,12,12
+●,9_L,IRN nuclear activity,0,previously unknown nuclear sites,maxku,28-May-18 12:40:04,,,32,0.10,12,12
+●,9_L,Properties\Importance\Important & Intense,0,previously unknown,maxku,28-May-18 12:40:13,IRN files,,18,0.06,12,12
+●,9_L,ISR,0,Israel,maxku,28-May-18 12:40:27,,,6,0.02,13,13
+●,9_L,IRN,0,the Iranians,maxku,28-May-18 12:40:40,,,12,0.04,13,13
+●,9_L,IRN,0,Iran,maxku,28-May-18 12:40:50,,,4,0.01,13,13
+●,9_L,ISR,0,the Israelis,maxku,28-May-18 12:40:57,,,12,0.04,13,13
+●,9_L,USA,0,some American officials,maxku,28-May-18 12:41:02,,,23,0.07,13,13
+●,9_L,IRN,0,the Iranians,maxku,28-May-18 12:41:06,,,12,0.04,13,13
+●,9_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,force,maxku,28-May-18 12:41:59,ISR,,5,0.02,13,13
+●,9_L,Properties\Power & Strength\Weak & Following,0,allow inspections,maxku,28-May-18 12:42:18,IRN,,17,0.06,13,13
+●,9_L,Properties\Power & Strength\Weak & Following,0,balk at the demand,maxku,28-May-18 12:43:01,IRN,,18,0.06,13,13
+●,9_L,Nuclear deal,0,the deal,maxku,28-May-18 12:43:11,,,8,0.03,13,13
+●,9_L,Properties\Difficulty\Difficult,0,another crisis,maxku,28-May-18 12:43:18,Nuclear deal,,14,0.05,13,13
+●,9_L,ISR\Netanyahu,0,Mr. Netanyahu,maxku,28-May-18 12:43:29,,,13,0.04,14,14
+●,9_L,Properties\Importance\Unimportant,0,no signs that Mr. Netanyahu's presentation on Monday swayed,maxku,28-May-18 12:43:53,Netanyahu,,59,0.19,14,14
+●,9_L,Properties\Importance\Important & Intense,0,lobbied Mr. Trump not to scuttle the deal,maxku,28-May-18 12:44:23,Trump,,41,0.13,14,14
+●,9_L,ISR\Netanyahu,0,The Israeli prime minister,maxku,28-May-18 12:44:42,,,26,0.08,15,15
+●,9_L,IRN,0,Iran,maxku,28-May-18 12:44:47,,,4,0.01,15,15
+●,9_L,Properties\Importance\Important & Intense,0,importance,maxku,28-May-18 12:45:02,Nuclear deal,,10,0.03,15,15
+●,9_L,Nuclear deal,0,the Iran nuclear deal,maxku,28-May-18 12:45:13,,,21,0.07,15,15
+●,9_L,IRN,0,Tehran,maxku,28-May-18 12:45:17,,,6,0.02,15,15
+●,9_L,Nuclear deal,0,The Iran nuclear deal,maxku,28-May-18 12:47:11,,,21,0.07,15,15
+●,9_L,Properties\Safety\Unsafe,0,not based on trust,maxku,28-May-18 12:47:21,Nuclear deal,,18,0.06,15,15
+●,9_L,IRN,0,Iran,maxku,28-May-18 12:47:28,,,4,0.01,15,15
+●,9_L,Properties\Behaviour & character\Not trustworthy,0,not based on trust about Iran's intentions,maxku,28-May-18 12:47:35,IRN,,42,0.14,15,15
+●,9_L,Properties\Importance\Important & Intense,0,based on tough verification,maxku,28-May-18 12:47:47,Nuclear deal,,27,0.09,15,15
+●,9_L,ISR,0,Israel,maxku,28-May-18 12:48:11,,,6,0.02,16,16
+●,9_L,Nuclear deal,0,the Iranian program,maxku,28-May-18 12:48:29,,,19,0.06,16,16
+●,9_L,Properties\Importance\Important & Intense,0,need for longer-term assurances,maxku,28-May-18 12:48:39,Nuclear deal,,31,0.10,16,16
+●,9_L,IRN,0,the inspection regime,maxku,28-May-18 12:48:54,,,21,0.07,16,16
+●,9_L,IRN,0,one of the most exhaustive and robust regimes,maxku,28-May-18 12:49:01,,,45,0.15,16,16
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,most exhaustive and robust,maxku,28-May-18 12:49:11,IRN,,26,0.08,16,16
+●,9_L,IRN nuclear activity,0,nuclear nonproliferation,maxku,28-May-18 12:49:23,,,24,0.08,16,16
+●,9_L,USA\Trump,0,Mr. Trump,maxku,28-May-18 12:49:31,,,9,0.03,17,17
+●,9_L,Nuclear deal,0,the deal,maxku,28-May-18 12:49:37,,,8,0.03,17,17
+●,9_L,IRN,0,Iran,maxku,28-May-18 12:51:06,,,4,0.01,17,17
+●,9_L,Properties\Difficulty\Difficult,0,years of accusations and negotiations,maxku,28-May-18 12:52:02,"IRN
+USA",,37,0.12,18,18
+●,9_L,IRN,0,Iran,maxku,28-May-18 12:52:16,,,4,0.01,18,18
+●,9_L,USA,0,the Bush and Obama administrations,maxku,28-May-18 12:52:22,,,34,0.11,18,18
+●,9_L,IRN,0,Tehran,maxku,28-May-18 12:52:27,,,6,0.02,18,18
+●,9_L,Properties\Affection\Refusal,0,dismissed,maxku,28-May-18 12:52:57,USA,,9,0.03,18,18
+●,9_L,Properties\Behaviour & character\Trustworthy,0,peaceful in nature,maxku,28-May-18 12:53:13,"IRN nuclear activity
+IRN",,18,0.06,18,18
+●,9_L,IRN,0,Iranian deceptions,maxku,28-May-18 12:53:34,,,18,0.06,18,18
+●,9_L,IRN nuclear activity,0,hidden facilities,maxku,28-May-18 12:53:42,,,17,0.06,18,18
+●,9_L,ISR\Netanyahu,0,Mr. Netanyahu,maxku,28-May-18 12:53:56,,,13,0.04,18,18
+●,9_L,IRN,0,Iranian deception,maxku,28-May-18 12:54:38,,,17,0.06,20,20
+●,9_L,Properties\Behaviour & character\Not trustworthy,0,the legacy of Iranian deception,maxku,28-May-18 12:54:47,IRN,,31,0.10,20,20
+●,9_L,IRN files,0,nuclear files,maxku,28-May-18 12:54:57,,,13,0.04,20,20
+●,9_L,Nuclear deal,0,the deal,maxku,28-May-18 12:55:07,,,8,0.03,20,20
+●,9_L,USA\USA-I,0,Mr. Obama's secretary of state,maxku,28-May-18 12:55:14,,,30,0.10,21,21
+●,9_L,USA\USA-I,0,John Kerry,maxku,28-May-18 12:55:17,,,10,0.03,21,21
+●,9_L,Nuclear deal,0,the agreement,maxku,28-May-18 12:55:34,,,13,0.04,21,21
+●,9_L,IRN nuclear activity,0,Iran's program,maxku,28-May-18 12:55:47,,,14,0.05,21,21
+●,9_L,IRN,0,Iran,maxku,28-May-18 12:55:56,,,4,0.01,21,21
+●,9_L,Properties\Other\Other,0,no visibility into,maxku,28-May-18 12:56:05,"IRN nuclear activity
+IRN",,18,0.06,21,21
+●,9_L,ISR\Netanyahu,0,Mr. Netanyahu,maxku,28-May-18 12:56:32,,,13,0.04,22,22
+●,9_L,USA,0,Former and current intelligence officials,maxku,28-May-18 12:56:36,,,41,0.13,22,22
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,closely monitored,maxku,28-May-18 12:56:42,USA,,17,0.06,22,22
+●,9_L,IRN,0,Iran,maxku,28-May-18 12:57:24,,,4,0.01,22,22
+●,9_L,IRN nuclear activity,0,Iran's programs,maxku,28-May-18 12:57:28,,,15,0.05,22,22
+●,9_L,IRN,0,Iran,maxku,28-May-18 12:57:37,,,4,0.01,22,22
+●,9_L,Properties\Quality\Bad Quality,0,nothing that Mr. Netanyahu made public indicated,maxku,28-May-18 12:57:53,"Presentation
+Netanyahu",,48,0.16,22,22
+●,9_L,IRN,0,Iran,maxku,28-May-18 13:03:01,,,4,0.01,24,24
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,suspended its nuclear program,maxku,28-May-18 13:03:17,IRN,,29,0.09,24,24
+●,9_L,IRN nuclear activity,0,continued to build other facilities,maxku,28-May-18 13:03:29,,,35,0.11,24,24
+●,9_L,IRN nuclear activity,0,giant underground enrichment center,maxku,28-May-18 13:03:38,,,35,0.11,24,24
+●,9_L,ISR\Netanyahu,0,Mr. Netanyahu,maxku,28-May-18 13:03:43,,,13,0.04,24,24
+●,9_L,IRN nuclear activity,0,that site,maxku,28-May-18 13:03:58,,,9,0.03,24,24
+●,9_L,IRN,0,Iran,maxku,28-May-18 13:06:33,,,4,0.01,25,25
+●,9_L,Properties\Economy\Negative - economy,0,sanctions,maxku,28-May-18 13:06:39,IRN,,9,0.03,24,24
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,refuses to allow,maxku,28-May-18 13:06:57,IRN,,16,0.05,25,25
+●,9_L,IRN files,0,the stolen archive,maxku,28-May-18 13:07:08,,,18,0.06,25,25
+●,9_L,IRN nuclear activity,0,sites identified by the stolen archive,maxku,28-May-18 13:07:12,,,38,0.12,25,25
+●,9_L,Properties\Difficulty\Difficult,0,inspection crisis,maxku,28-May-18 13:07:28,IRN,,17,0.06,25,25
+●,9_L,IRN,0,The Iranians,maxku,28-May-18 13:07:38,,,12,0.04,25,25
+●,9_L,IRN nuclear activity,0,military sites,maxku,28-May-18 13:07:46,,,14,0.05,25,25
+●,9_L,IRN nuclear activity,0,such sites,maxku,28-May-18 13:09:51,,,10,0.03,25,25
+●,9_L,Nuclear deal,0,the agreement,maxku,28-May-18 13:10:14,,,13,0.04,26,26
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,resolve the disputes,maxku,28-May-18 13:10:19,Nuclear deal,,20,0.06,26,26
+●,9_L,ISR,0,the Israeli strategy,maxku,28-May-18 13:10:28,,,20,0.06,26,26
+●,9_L,USA,0,the United States,maxku,28-May-18 13:10:33,,,17,0.06,26,26
+●,9_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,force,maxku,28-May-18 13:10:38,"ISR
+USA",,5,0.02,26,26
+●,9_L,Properties\Violence & Unfair\Victim (receiving violence),0,force,maxku,28-May-18 13:10:40,IRN,,5,0.02,26,26
+●,9_L,IRN,0,the Iranians,maxku,28-May-18 13:10:55,,,12,0.04,26,26
+●,9_L,Properties\Law\Lawful,0,force the Iranians into the first violations,maxku,28-May-18 13:11:18,IRN,,44,0.14,26,26
+●,9_L,ISR\ISR-I,0,one former Israeli official,maxku,28-May-18 13:11:28,,,27,0.09,26,26
+●,9_L,IRN,0,the Iranians,maxku,28-May-18 13:11:32,,,12,0.04,26,26
+●,9_L,Properties\Behaviour & character\Not trustworthy,0,trying to deceive,maxku,28-May-18 13:11:39,IRN,,17,0.06,26,26
+●,9_L,ISR,0,Israel,maxku,28-May-18 13:11:52,,,6,0.02,27,27
+●,9_L,ISR\Netanyahu,0,Mr. Netanyahu,maxku,28-May-18 13:11:57,,,13,0.04,27,27
+●,9_L,Properties\Quality\Bad Quality,0,would do much,maxku,28-May-18 13:12:04,"Netanyahu
+Presentation",,13,0.04,27,27
+●,9_L,Properties\Importance\Unimportant,0,would do much,maxku,28-May-18 13:12:09,Presentation,,13,0.04,27,27
+●,9_L,USA\Trump,0,Mr. Trump,maxku,28-May-18 13:12:35,,,9,0.03,27,27
+●,9_L,ISR,0,the Israeli discovery,maxku,28-May-18 13:12:43,,,21,0.07,27,27
+●,9_L,Properties\Power & Strength\Powerful & Leading,0,provide additional cover or supporting evidence,maxku,28-May-18 13:12:53,ISR,,47,0.15,27,27
+●,9_L,ISR\ISR-I,0,several analysts,maxku,28-May-18 13:13:04,,,16,0.05,27,27
+●,9_L,USA\Trump,0,Mr. Trump,maxku,28-May-18 13:13:27,,,9,0.03,27,27
+●,9_L,Reaction to IRN deal,0,justify his decision,maxku,28-May-18 13:13:33,,,20,0.06,27,27
+●,9_L,ISR\ISR-I,0,officials in Mr. Netanyahu's government,maxku,28-May-18 13:13:38,,,39,0.13,27,27
+●,9_L,ISR,0,Mr. Netanyahu's government,maxku,28-May-18 13:13:42,,,26,0.08,27,27
+●,9_L,ISR\Netanyahu,0,Mr. Netanyahu,maxku,28-May-18 13:13:46,,,13,0.04,27,27
+●,9_L,Properties\Other\Other,0,are said to have concluded,maxku,28-May-18 13:13:54,ISR-I,,26,0.08,27,27
+●,9_L,ISR\ISR-I,0,the former chief of military intelligence for the Israeli Defense Forces,maxku,28-May-18 13:14:19,,,72,0.23,28,28
+●,9_L,ISR\ISR-I,0,Amos Yadlin,maxku,28-May-18 13:14:22,,,11,0.04,28,28
+●,9_L,ISR,0,the Israeli Defense Forces,maxku,28-May-18 13:14:27,,,26,0.08,28,28
+●,9_L,IRN,0,the Iranians,maxku,28-May-18 13:14:39,,,12,0.04,28,28
+●,9_L,ISR,0,Israel,maxku,28-May-18 13:14:44,,,6,0.02,28,28
+●,9_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,penetrated,maxku,28-May-18 13:14:51,ISR,,10,0.03,28,28
+●,9_L,Properties\Violence & Unfair\Victim (receiving violence),0,penetrated,maxku,28-May-18 13:14:52,IRN,,10,0.03,28,28
+●,9_L,IRN,0,Iranian public opinion,maxku,28-May-18 13:16:52,,,22,0.07,28,28
+●,9_L,IRN\IRN-Misc,0,the opposition,maxku,28-May-18 13:16:59,,,14,0.05,28,28
+●,9_L,USA\Trump,0,Trump,maxku,28-May-18 13:17:03,,,5,0.02,28,28
+●,9_L,Properties\Violence & Unfair\Victim (receiving violence),0,the target,maxku,28-May-18 13:17:14,Trump,,10,0.03,28,28
+●,9_L,ISR\Netanyahu,0,the prime minister,maxku,28-May-18 13:17:25,,,18,0.06,28,28
+●,9_L,Reaction to IRN deal,0,not to walk away,maxku,28-May-18 13:17:38,,,16,0.05,28,28
+●,9_L,ISR\Netanyahu,0,Mr. Netanyahu,maxku,28-May-18 13:17:44,,,13,0.04,29,29
+●,9_L,Properties\Affection\Refusal,0,skeptical reaction,maxku,28-May-18 13:17:50,"Netanyahu
+Presentation",,18,0.06,29,29
+●,9_L,ISR\Netanyahu,0,the Israeli leader,maxku,28-May-18 13:18:14,,,18,0.06,29,29
+●,9_L,USA\Trump,0,Mr. Trump,maxku,28-May-18 13:18:19,,,9,0.03,29,29
+●,9_L,Properties\Importance\Unimportant,0,an audience of one,maxku,28-May-18 13:18:30,"Netanyahu
+Presentation",,18,0.06,29,29
+●,9_L,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 13:18:47,,,9,0.03,30,30
+●,9_L,Properties\Importance\Important & Intense,0,a real opportunity,maxku,28-May-18 13:18:51,Netanyahu,,18,0.06,30,30
+●,9_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,achieve things,maxku,28-May-18 13:19:05,Netanyahu,,14,0.05,30,30
+●,9_L,USA\USA-I,0,a former American ambassador to Israel,maxku,28-May-18 13:19:18,,,38,0.12,30,30
+●,9_L,USA\USA-I,0,Daniel B. Shapiro,maxku,28-May-18 13:19:21,,,17,0.06,30,30
+●,9_L,ISR,0,Israel,maxku,28-May-18 13:19:27,,,6,0.02,30,30
+●,9_L,Nuclear deal,0,the deal,AnZhu,17-Jan-19 12:56:10,,,8,0.03,17,17
+●,9_L,IRN files,0,the disclosures,AnZhu,17-Jan-19 14:24:00,,,15,0.05,3,3
+●,9_L,IRN files,0,the disclosures,AnZhu,17-Jan-19 14:24:06,,,15,0.05,9,9
+●,9_LL,ISR\Netanyahu,0,Benjamin Netanyahu,maxku,15-May-18 21:47:47,,,18,0.57,1,1
+●,9_LL,Nuclear deal,0,Iran Nuclear Agreement,maxku,15-May-18 21:47:51,,,22,0.70,1,1
+●,9_LL,IRN,0,Iran's leaders,maxku,15-May-18 21:47:56,,,14,0.44,2,2
+●,9_LL,IRN nuclear activity,0,pursuing nuclear weapons,maxku,15-May-18 21:48:01,,,24,0.76,2,2
+●,9_LL,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:48:04,,,9,0.28,2,2
+●,9_LL,ISR,0,Israel,maxku,15-May-18 21:48:10,,,6,0.19,3,3
+●,9_LL,IRN files,0,evidence,maxku,15-May-18 21:48:48,,,8,0.25,3,3
+●,9_LL,IRN,0,Iran,maxku,15-May-18 21:48:52,,,4,0.13,3,3
+●,9_LL,IRN nuclear activity,0,continued gathering nuclear knowledge,maxku,28-May-18 10:20:42,,,37,1.17,3,3
+●,9_LL,Nuclear deal,0,a 2015 agreement,maxku,15-May-18 21:49:07,,,16,0.51,3,3
+●,9_LL,Nuclear deal,0,the agreement,maxku,15-May-18 21:49:14,,,13,0.41,3,3
+●,9_LL,USA,0,Washington,maxku,15-May-18 21:49:17,,,10,0.32,3,3
+●,9_LL,IRN,0,Iran's leaders,maxku,15-May-18 21:49:39,,,14,0.44,4,4
+●,9_LL,IRN nuclear activity,0,pursuing nuclear weapons,maxku,15-May-18 21:49:44,,,24,0.76,4,4
+●,9_LL,ISR\Netanyahu,0,Prime Minister Benjamin Netanyahu,maxku,15-May-18 21:49:48,,,33,1.04,4,4
+●,9_LL,IRN,0,Iran,maxku,15-May-18 21:49:56,,,4,0.13,4,4
+●,9_LL,IRN,0,Iran,maxku,15-May-18 21:49:59,,,4,0.13,5,5
+●,9_LL,IRN nuclear activity,0,a nuclear weapons program,maxku,15-May-18 21:50:08,,,25,0.79,5,5
+●,9_LL,IRN files,0,secret files,maxku,15-May-18 21:50:16,,,12,0.38,5,5
+●,9_LL,IRN,0,Iran,maxku,15-May-18 21:50:25,,,4,0.13,5,5
+●,9_LL,Nuclear deal,0,the deal,maxku,15-May-18 21:50:33,,,8,0.25,5,5
+●,9_LL,IRN nuclear activity,0,preserve and expand its nuclear weapons knowledge,maxku,15-May-18 21:50:40,,,49,1.55,5,5
+●,9_LL,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:50:44,,,9,0.28,5,5
+●,9_LL,IRN,0,Iran,maxku,15-May-18 21:50:48,,,4,0.13,6,6
+●,9_LL,Nuclear deal,0,the nuclear deal,maxku,15-May-18 21:50:56,,,16,0.51,6,6
+●,9_LL,ISR\Netanyahu,0,The Israeli leader,maxku,15-May-18 21:51:01,,,18,0.57,7,7
+●,9_LL,IRN nuclear activity,0,historic secret Iranian nuclear facilities,maxku,28-May-18 09:57:29,,,42,1.33,7,7
+●,9_LL,IRN files,0,Iranian documents,maxku,15-May-18 21:51:16,,,17,0.54,7,7
+●,9_LL,IRN nuclear activity,0,plans to develop atomic weapons,maxku,28-May-18 09:57:51,,,31,0.98,7,7
+●,9_LL,Nuclear deal,0,the nuclear deal,maxku,15-May-18 21:51:26,,,16,0.51,8,8
+●,9_LL,IRN,0,Iran,maxku,15-May-18 21:51:29,,,4,0.13,8,8
+●,9_LL,IRN files,0,secret files,maxku,15-May-18 21:51:35,,,12,0.38,8,8
+●,9_LL,IRN,0,Iran,maxku,15-May-18 21:51:40,,,4,0.13,8,8
+●,9_LL,IRN files,0,nuclear weapons files,maxku,15-May-18 21:51:45,,,21,0.66,8,8
+●,9_LL,IRN nuclear activity,0,attempt of Iran to acquire nuclear weapons,maxku,28-May-18 09:56:54,,,42,1.33,14,14
+●,9_LL,IRN nuclear activity,0,Iran's dangerous escalation of threats,maxku,28-May-18 09:58:08,,,38,1.20,13,13
+●,9_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,Disparages,maxku,28-May-18 10:19:23,Netanyahu,,10,0.32,1,1
+●,9_LL,Properties\Violence & Unfair\Victim (receiving violence),0,Disparages,maxku,28-May-18 10:19:24,Nuclear deal,,10,0.32,1,1
+●,9_LL,Properties\Importance\Important & Intense,0,repeatedly deny,maxku,28-May-18 10:19:57,"IRN nuclear activity
+Nuclear deal",,15,0.47,2,2
+●,9_LL,Properties\Behaviour & character\Not trustworthy,0,lied,maxku,28-May-18 10:20:19,IRN,,4,0.13,2,2
+●,9_LL,IRN,0,Iran,maxku,28-May-18 10:20:22,,,4,0.13,2,2
+●,9_LL,Properties\Behaviour & character\Not trustworthy,0,continued gathering nuclear knowledge after signing a 2015 agreement,maxku,28-May-18 10:21:14,IRN,,68,2.15,3,3
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,continued gathering nuclear knowledge,maxku,28-May-18 10:21:24,IRN,,37,1.17,3,3
+●,9_LL,Properties\Importance\Important & Intense,0,repeatedly deny,maxku,28-May-18 10:21:40,"IRN nuclear activity
+Nuclear deal",,15,0.47,4,4
+●,9_LL,Properties\Behaviour & character\Not trustworthy,0,lied,maxku,28-May-18 10:22:03,IRN,,4,0.13,4,4
+●,9_LL,Properties\Behaviour & character\Not trustworthy,0,lied about,maxku,28-May-18 10:22:09,IRN,,10,0.32,5,5
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,prove it did,maxku,28-May-18 10:22:28,IRN files,,12,0.38,5,5
+●,9_LL,Properties\Behaviour & character\Not trustworthy,0,"even after the deal, Iran continued to preserve and expand its nuclear weapons knowledge",maxku,28-May-18 10:22:44,IRN,,88,2.78,5,5
+●,9_LL,Properties\Behaviour & character\Not trustworthy,0,lied,maxku,28-May-18 10:22:57,IRN,,4,0.13,6,6
+●,9_LL,Properties\Law\Unlawful,0,didn't come clear to the IAEA as required,maxku,28-May-18 10:28:23,IRN,,41,1.30,6,6
+●,9_LL,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,spoke in English,maxku,28-May-18 10:28:37,Netanyahu,,16,0.51,7,7
+●,9_LL,Properties\Importance\Important & Intense,0,historic secret,maxku,28-May-18 10:28:56,IRN nuclear activity,,15,0.47,7,7
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,plans to,maxku,28-May-18 10:29:14,IRN,,8,0.25,7,7
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,intensified its efforts,maxku,28-May-18 10:29:25,IRN,,23,0.73,8,8
+●,9_LL,IRN nuclear activity,0,moved its nuclear weapons files to a highly secret location,maxku,28-May-18 10:29:45,,,59,1.87,8,8
+●,9_LL,Properties\Importance\Important & Intense,0,highly secret,maxku,28-May-18 10:29:50,IRN nuclear activity,,13,0.41,8,8
+●,9_LL,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 10:30:57,,,9,0.28,9,9
+●,9_LL,IRN nuclear activity,0,secret Iranian nuclear project,maxku,28-May-18 10:31:04,,,30,0.95,9,9
+●,9_LL,Properties\Importance\Important & Intense,0,secret,maxku,28-May-18 10:31:12,IRN nuclear activity,,6,0.19,9,9
+●,9_LL,IRN nuclear activity,0,Amad,maxku,28-May-18 10:31:30,,,4,0.13,9,9
+●,9_LL,IRN nuclear activity,0,work in the field had continued,maxku,28-May-18 10:31:48,,,31,0.98,9,9
+●,9_LL,USA\Trump,0,U.S. President Donald Trump,maxku,28-May-18 10:31:58,,,27,0.85,10,10
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,criticized,maxku,28-May-18 10:32:02,Trump,,10,0.32,10,10
+●,9_LL,Properties\Power & Strength\Weak & Following,0,criticized,maxku,28-May-18 10:32:04,Nuclear deal,,10,0.32,10,10
+●,9_LL,Nuclear deal,0,the 2015 agreement,maxku,28-May-18 10:32:37,,,18,0.57,10,10
+●,9_LL,Properties\Economy\Positive - economy,0,lifted economic sanctions,maxku,28-May-18 10:32:50,IRN,,25,0.79,10,10
+●,9_LL,IRN,0,Iran,maxku,28-May-18 10:33:00,,,4,0.13,10,10
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,curbs to its nuclear program,maxku,28-May-18 10:33:55,Nuclear deal,,28,0.89,10,10
+●,9_LL,USA\Trump,0,Trump,maxku,28-May-18 10:34:02,,,5,0.16,11,11
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,threatened,maxku,28-May-18 10:34:07,Trump,,10,0.32,11,11
+●,9_LL,Reaction to IRN deal,0,pull out of,maxku,28-May-18 10:34:19,,,11,0.35,11,11
+●,9_LL,Nuclear deal,0,the agreement,maxku,28-May-18 10:34:25,,,13,0.41,11,11
+●,9_LL,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 10:34:32,,,9,0.28,11,11
+●,9_LL,USA\Trump,0,Trump,maxku,28-May-18 10:34:36,,,5,0.16,11,11
+●,9_LL,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,do “the right thing”,maxku,28-May-18 10:34:41,Trump,,20,0.63,11,11
+●,9_LL,Nuclear deal,0,the Iran deal,maxku,28-May-18 10:35:02,,,13,0.41,11,11
+●,9_LL,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 10:35:05,,,9,0.28,12,12
+●,9_LL,USA\USA-I,0,new U.S. Secretary of State Mike Pompeo,maxku,28-May-18 10:35:11,,,39,1.23,12,12
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,talked tough about,maxku,28-May-18 10:35:25,"Netanyahu
+USA-I",,18,0.57,12,12
+●,9_LL,Properties\Importance\Important & Intense,0,tough,maxku,28-May-18 10:35:39,IRN,,5,0.16,12,12
+●,9_LL,IRN,0,Iran,maxku,28-May-18 10:35:47,,,4,0.13,12,12
+●,9_LL,Properties\Power & Strength\Weak & Following,0,deeply concerned,maxku,28-May-18 10:35:57,"Netanyahu
+USA-I",,16,0.51,13,13
+●,9_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threats,maxku,28-May-18 10:36:10,IRN,,7,0.22,13,13
+●,9_LL,Properties\Violence & Unfair\Victim (receiving violence),0,threats,maxku,28-May-18 10:36:11,ISR,,7,0.22,13,13
+●,9_LL,USA\USA-I,0,Pompeo,maxku,28-May-18 10:36:26,,,6,0.19,13,13
+●,9_LL,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 10:36:31,,,9,0.28,14,14
+●,9_LL,ISR,0,our two countries,maxku,28-May-18 10:36:39,,,17,0.54,14,14
+●,9_LL,USA,0,our two countries,maxku,28-May-18 10:36:43,,,17,0.54,14,14
+●,9_LL,IRN,0,militant Islam,maxku,28-May-18 10:36:53,,,14,0.44,14,14
+●,9_LL,IRN nuclear activity,0,marriage of militant Islam with nuclear weapons,maxku,28-May-18 10:37:00,,,47,1.49,14,14
+●,9_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,greatest threat,maxku,28-May-18 10:37:08,"IRN
+IRN nuclear activity",,15,0.47,14,14
+●,9_LL,Properties\Violence & Unfair\Victim (receiving violence),0,greatest threat,maxku,28-May-18 10:37:09,"USA
+ISR",,15,0.47,14,14
+●,9_LL,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 10:37:26,,,9,0.28,15,15
+●,9_LL,IRN,0,Iran,maxku,28-May-18 10:37:29,,,4,0.13,15,15
+●,9_LL,USA\Trump,0,Trump,maxku,28-May-18 10:37:34,,,5,0.16,15,15
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,discussed Iran,maxku,28-May-18 10:37:47,"Netanyahu
+Trump",,14,0.44,15,15
+●,9_LL,Properties\Importance\Important & Intense,0,discussed,maxku,28-May-18 10:37:59,IRN,,9,0.28,15,15
+●,9_LL,ISR,0,Israel,maxku,28-May-18 10:38:08,,,6,0.19,16,16
+●,9_LL,Nuclear deal,0,the agreement,maxku,28-May-18 10:38:12,,,13,0.41,16,16
+●,9_LL,Properties\Affection\Refusal,0,opposed,maxku,28-May-18 10:38:21,Nuclear deal,,7,0.22,16,16
+●,9_LL,USA,0,Washington,maxku,28-May-18 10:38:29,,,10,0.32,16,16
+●,9_LL,USA,0,the Trump administration,maxku,28-May-18 10:38:34,,,24,0.76,16,16
+●,9_LL,Reaction to IRN deal,0,urged the Trump administration not to abandon it,maxku,28-May-18 10:38:41,,,48,1.52,16,16
+●,9_LL,Reaction to IRN deal,0,argue that Iran is abiding by its terms,maxku,28-May-18 10:38:47,,,39,1.23,16,16
+●,9_LL,IRN,0,Iran,maxku,28-May-18 10:38:50,,,4,0.13,16,16
+●,9_LL,Properties\Law\Lawful,0,abiding by its terms,maxku,28-May-18 10:39:01,IRN,,20,0.63,16,16
+●,9_LL,IRN\IRN-I,0,The head of Iran's Atomic Energy organization,AnZhu,08-Apr-19 19:18:23,,,45,1.42,17,17
+●,9_LL,IRN,0,Iran's Atomic Energy organization,maxku,28-May-18 10:39:34,,,33,1.04,17,17
+●,9_LL,IRN,0,Iran,maxku,28-May-18 10:39:37,,,4,0.13,17,17
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,has the technical capability,maxku,28-May-18 10:39:43,IRN,,28,0.89,17,17
+●,9_LL,Nuclear deal,0,the multinational deal,maxku,28-May-18 10:39:57,,,22,0.70,17,17
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,enrich uranium to a higher level than it could before,maxku,28-May-18 10:40:16,IRN,,53,1.68,17,17
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,fully prepared,maxku,28-May-18 10:40:26,IRN,,14,0.44,18,18
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,enrich uranium higher than we used to produce before the deal was reached,maxku,28-May-18 10:40:37,IRN,,73,2.31,18,18
+●,9_LL,USA\Trump,0,Trump,maxku,28-May-18 10:40:45,,,5,0.16,18,18
+●,9_LL,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,comes to his senses,maxku,28-May-18 10:40:49,Trump,,19,0.60,18,18
+●,9_LL,Reaction to IRN deal,0,stays in the deal,maxku,28-May-18 10:40:59,,,17,0.54,18,18
+●,9_LL,Nuclear deal,0,the deal,maxku,28-May-18 10:41:03,,,8,0.25,18,18
+●,9_LL,IRN\IRN-I,0,Ali Akbar Salehi,maxku,28-May-18 10:41:08,,,16,0.51,18,18
+●,9_LL,IRN,0,Iranian state television,maxku,28-May-18 10:41:13,,,24,0.76,18,18
+●,9_LL,ISR,0,Israel,maxku,28-May-18 10:41:25,,,6,0.19,19,19
+●,9_LL,Properties\Power & Strength\Powerful & Leading,0,the only nuclear-armed state in the Middle East,maxku,28-May-18 10:41:38,ISR,,47,1.49,19,19
+●,9_LL,Properties\Other\Other,0,widely believed to be,maxku,28-May-18 10:41:48,ISR,,21,0.66,19,19
+●,9_LL,Properties\Other\Other,0,neither confirms nor denies,maxku,28-May-18 10:42:08,ISR,,27,0.85,19,19
+●,9_M,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:36:31,,,9,0.24,1,1
+●,9_M,IRN files,0,Evidence,maxku,15-May-18 21:36:35,,,8,0.21,1,1
+●,9_M,ISR\Netanyahu,0,Israel's prime minister,maxku,15-May-18 21:36:45,,,23,0.62,2,2
+●,9_M,IRN,0,his government,maxku,15-May-18 21:36:50,,,14,0.38,2,2
+●,9_M,IRN files,0,secret Iranian documents,maxku,15-May-18 21:38:22,,,24,0.64,2,2
+●,9_M,IRN,0,the Tehran government,maxku,15-May-18 21:38:31,,,21,0.56,2,2
+●,9_M,IRN nuclear activity,0,a nuclear weapons program,maxku,15-May-18 21:38:35,,,25,0.67,2,2
+●,9_M,IRN files,0,secret files,maxku,15-May-18 21:38:43,,,12,0.32,3,3
+●,9_M,ISR\Netanyahu,0,Israeli Prime Minister,maxku,15-May-18 21:39:08,,,22,0.59,3,3
+●,9_M,ISR\Netanyahu,0,Benjamin Netanyahu,maxku,15-May-18 21:39:11,,,18,0.48,3,3
+●,9_M,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:39:15,,,9,0.24,4,4
+●,9_M,ISR,0,Israel,maxku,15-May-18 21:39:20,,,6,0.16,4,4
+●,9_M,IRN,0,Iran,maxku,15-May-18 21:39:25,,,4,0.11,4,4
+●,9_M,IRN nuclear activity,0,nuclear weapons,maxku,15-May-18 21:39:30,,,15,0.40,4,4
+●,9_M,IRN,0,Iran,maxku,15-May-18 21:39:51,,,4,0.11,5,5
+●,9_M,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:40:01,,,9,0.24,5,5
+●,9_M,USA\Trump,0,President Trump,maxku,15-May-18 21:40:06,,,15,0.40,6,6
+●,9_M,IRN,0,Iran,maxku,15-May-18 21:40:17,,,4,0.11,6,6
+●,9_M,USA\Trump,0,Trump,maxku,15-May-18 21:40:21,,,5,0.13,7,7
+●,9_M,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:40:26,,,9,0.24,7,7
+●,9_M,ISR\Netanyahu,0,the Israeli leader,maxku,15-May-18 21:40:33,,,18,0.48,7,7
+●,9_M,IRN,0,Iran,maxku,15-May-18 21:40:39,,,4,0.11,7,7
+●,9_M,IRN,0,Iran,maxku,15-May-18 21:40:48,,,4,0.11,8,8
+●,9_M,IRN nuclear activity,0,develop nuclear weapons,maxku,15-May-18 21:40:58,,,23,0.62,8,8
+●,9_M,USA\Trump,0,Trump,maxku,15-May-18 21:41:03,,,5,0.13,8,8
+●,9_M,Nuclear deal,0,a horrible agreement,maxku,15-May-18 21:41:51,,,20,0.54,8,8
+●,9_M,Nuclear deal,0,Iran deal,maxku,15-May-18 21:42:01,,,9,0.24,1,1
+●,9_M,Nuclear deal,0,the 2015 nuclear deal,maxku,15-May-18 21:42:08,,,21,0.56,3,3
+●,9_M,Nuclear deal,0,the deal,maxku,15-May-18 21:42:16,,,8,0.21,4,4
+●,9_M,Nuclear deal,0,the deal,maxku,15-May-18 21:42:22,,,8,0.21,5,5
+●,9_M,Nuclear deal,0,the deal,maxku,15-May-18 21:42:28,,,8,0.21,6,6
+●,9_M,Nuclear deal,0,a new deal,maxku,15-May-18 21:42:35,,,10,0.27,7,7
+●,9_M,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 09:46:24,,,9,0.24,12,12
+●,9_M,Presentation,0,present his case to an international audience,maxku,28-May-18 13:46:12,,,45,1.21,12,12
+●,9_M,Presentation,0,Netanyahu's presentation,maxku,28-May-18 09:46:53,,,24,0.64,14,14
+●,9_M,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 09:46:57,,,9,0.24,14,14
+●,9_M,Reaction to IRN deal,0,will announce within the next two weeks the fate of the deal,maxku,28-May-18 10:15:31,,,60,1.61,6,6
+●,9_M,Reaction to IRN deal,0,repeatedly blasted the pact,maxku,28-May-18 10:15:51,,,27,0.73,6,6
+●,9_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,based on lies,maxku,28-May-18 13:19:53,Nuclear deal,,13,0.35,1,1
+●,9_M,Properties\Quality\Bad Quality,0,based on lies,maxku,28-May-18 13:19:57,Nuclear deal,,13,0.35,1,1
+●,9_M,IRN,0,Iranian deception,maxku,28-May-18 13:20:09,,,17,0.46,1,1
+●,9_M,Properties\Behaviour & character\Not trustworthy,0,deception,maxku,28-May-18 13:20:13,IRN,,9,0.24,1,1
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,proving,maxku,28-May-18 13:24:08,IRN files,,7,0.19,2,2
+●,9_M,Properties\Quality\Bad Quality,0,based on lies,maxku,28-May-18 13:24:31,Nuclear deal,,13,0.35,3,3
+●,9_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,based on lies,maxku,28-May-18 13:24:35,Nuclear deal,,13,0.35,3,3
+●,9_M,IRN,0,Iranian deception,maxku,28-May-18 13:24:49,,,17,0.46,3,3
+●,9_M,Properties\Behaviour & character\Not trustworthy,0,deception,maxku,28-May-18 13:24:54,IRN,,9,0.24,3,3
+●,9_M,Reaction to IRN deal,0,should be thrown out,maxku,28-May-18 13:25:04,,,20,0.54,3,3
+●,9_M,Properties\Affection\Refusal,0,should be thrown out,maxku,28-May-18 13:25:07,Nuclear deal,,20,0.54,3,3
+●,9_M,Properties\Behaviour & character\Not trustworthy,0,lied,maxku,28-May-18 13:25:27,IRN,,4,0.11,4,4
+●,9_M,Properties\Behaviour & character\Not trustworthy,0,cheated,maxku,28-May-18 13:25:41,IRN,,7,0.19,4,4
+●,9_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,failing to reveal,maxku,28-May-18 13:25:54,IRN,,17,0.46,4,4
+●,9_M,IRN nuclear activity,0,weapons program information,maxku,28-May-18 13:27:09,,,27,0.73,4,4
+●,9_M,IRN nuclear activity,0,preserve and expand its nuclear know-how,maxku,28-May-18 13:27:22,,,40,1.07,5,5
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,continued to preserve and expand its nuclear know-how,maxku,28-May-18 13:27:32,IRN,,53,1.42,5,5
+●,9_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,repeatedly blasted,maxku,28-May-18 13:29:31,Trump,,18,0.48,6,6
+●,9_M,Properties\Violence & Unfair\Victim (receiving violence),0,repeatedly blasted,maxku,28-May-18 13:29:32,Nuclear deal,,18,0.48,6,6
+●,9_M,Nuclear deal,0,the pact,maxku,28-May-18 13:29:44,,,8,0.21,6,6
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,demanding,maxku,28-May-18 13:29:51,Trump,,9,0.24,6,6
+●,9_M,Reaction to IRN deal,0,not dismiss the possibility of negotiating a new deal,maxku,28-May-18 13:30:26,,,53,1.42,7,7
+●,9_M,Nuclear deal,0,that deal,AnZhu,08-Apr-19 19:19:47,,,9,0.24,8,8
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,free to go ahead and develop nuclear weapons,maxku,28-May-18 13:30:53,IRN,,44,1.18,8,8
+●,9_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,horrible,maxku,28-May-18 13:37:26,Nuclear deal,,8,0.21,8,8
+●,9_M,Reaction to IRN deal,0,a horrible agreement,maxku,28-May-18 13:37:37,,,20,0.54,8,8
+●,9_M,USA,0,The White House,maxku,28-May-18 13:37:41,,,15,0.40,9,9
+●,9_M,IRN files,0,this information,maxku,28-May-18 13:37:49,,,16,0.43,9,9
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,provides new and compelling details,maxku,28-May-18 13:37:55,IRN files,,35,0.94,9,9
+●,9_M,Properties\Importance\Important & Intense,0,provides new and compelling details,maxku,28-May-18 13:37:56,IRN files,,35,0.94,9,9
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:38:14,,,4,0.11,9,9
+●,9_M,IRN nuclear activity,0,efforts to develop missile-deliverable nuclear weapons,maxku,28-May-18 13:39:06,,,54,1.45,9,9
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,develop missile-deliverable nuclear weapons,maxku,28-May-18 13:39:13,IRN,,43,1.16,9,9
+●,9_M,IRN files,0,"""These facts",maxku,28-May-18 13:39:24,,,12,0.32,10,10
+●,9_M,USA,0,the United States,maxku,28-May-18 13:39:29,,,17,0.46,10,10
+●,9_M,IRN,0, Iran,maxku,28-May-18 13:39:33,,,4,0.11,10,10
+●,9_M,IRN nuclear activity,0,"a robust, clandestine nuclear weapons program",maxku,28-May-18 13:39:39,,,45,1.21,10,10
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,"a robust, clandestine nuclear weapons program",maxku,28-May-18 13:39:55,IRN,,45,1.21,10,10
+●,9_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,tried and failed to hide,maxku,28-May-18 13:40:12,IRN,,24,0.64,10,10
+●,9_M,Properties\Behaviour & character\Not trustworthy,0,tried and failed to hide,maxku,28-May-18 13:40:13,IRN,,24,0.64,10,10
+●,9_M,IRN,0,"""The Iranian regime",maxku,28-May-18 13:40:29,,,19,0.51,10,10
+●,9_M,IRN nuclear activity,0,will use destructive weapons,maxku,28-May-18 13:40:42,,,28,0.75,10,10
+●,9_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,will use destructive weapons,maxku,28-May-18 13:40:49,IRN,,28,0.75,10,10
+●,9_M,Properties\Violence & Unfair\Victim (receiving violence),0,will use destructive weapons,maxku,28-May-18 13:40:53,IRS,,28,0.75,10,10
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:41:08,,,4,0.11,10,10
+●,9_M,Reaction to IRN deal,0,must never have nuclear weapons,maxku,28-May-18 13:41:14,,,31,0.83,10,10
+●,9_M,IRN nuclear activity,0,nuclear weapons,maxku,28-May-18 13:41:18,,,15,0.40,10,10
+●,9_M,Nuclear deal,0,The deal,maxku,28-May-18 13:41:25,,,8,0.21,11,11
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:41:29,,,4,0.11,11,11
+●,9_M,Nuclear deal,0,The deal,maxku,28-May-18 13:41:35,,,8,0.21,11,11
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,led to easing,maxku,28-May-18 13:41:43,Nuclear deal,,13,0.35,11,11
+●,9_M,Properties\Economy\Negative - economy,0,broad range of economic sanctions,maxku,28-May-18 13:41:59,IRN,,33,0.89,11,11
+●,9_M,IRN,0,the Shiite nation,maxku,28-May-18 13:42:09,,,17,0.46,11,11
+●,9_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,bitterly opposed,maxku,28-May-18 13:42:17,Netanyahu,,16,0.43,12,12
+●,9_M,Properties\Violence & Unfair\Victim (receiving violence),0,bitterly opposed,maxku,28-May-18 13:42:19,Nuclear deal,,16,0.43,12,12
+●,9_M,Nuclear deal,0,the deal,maxku,28-May-18 13:42:32,,,8,0.21,12,12
+●,9_M,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,spoke in English,maxku,28-May-18 13:45:03,Netanyahu,,16,0.43,12,12
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,present his case to an international audience,maxku,28-May-18 13:45:27,Netanyahu,,45,1.21,12,12
+●,9_M,IRN files,0,"""half a ton"" of evidence",maxku,28-May-18 13:46:20,,,24,0.64,12,12
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:46:24,,,4,0.11,12,12
+●,9_M,Properties\Behaviour & character\Not trustworthy,0,has not been faithful,maxku,28-May-18 13:46:32,IRN,,21,0.56,12,12
+●,9_M,Nuclear deal,0,the deal,maxku,28-May-18 13:46:41,,,8,0.21,12,12
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:46:45,,,4,0.11,12,12
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,provides Iran with a clear path to building a nuclear arsenal,maxku,28-May-18 13:47:10,Nuclear deal,,61,1.64,12,12
+●,9_M,IRN nuclear activity,0,building a nuclear arsenal,maxku,28-May-18 13:47:23,,,26,0.70,12,12
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:47:28,,,4,0.11,12,12
+●,9_M,IRN nuclear activity,0,continue to work on the program,maxku,28-May-18 13:47:38,,,31,0.83,12,12
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,"planned ""at the highest levels"" to continue to work on the program",maxku,28-May-18 13:47:48,IRN,,66,1.77,12,12
+●,9_M,Properties\Importance\Important & Intense,0,"planned ""at the highest levels""",maxku,28-May-18 13:48:07,IRN nuclear activity,,31,0.83,12,12
+●,9_M,Reaction to IRN deal,0,a terrible deal,maxku,28-May-18 13:49:12,,,15,0.40,13,13
+●,9_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,terrible,maxku,28-May-18 13:49:16,Nuclear deal,,8,0.21,13,13
+●,9_M,Properties\Quality\Bad Quality,0,terrible,maxku,28-May-18 13:49:19,Nuclear deal,,8,0.21,13,13
+●,9_M,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 13:49:29,,,9,0.24,13,13
+●,9_M,USA\Trump,0,President Trump,maxku,28-May-18 13:49:35,,,15,0.40,13,13
+●,9_M,Reaction to IRN deal,0,make his decision,maxku,28-May-18 13:49:39,,,17,0.46,13,13
+●,9_M,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,do the right thing,maxku,28-May-18 13:49:45,Trump,,18,0.48,13,13
+●,9_M,USA,0,the United States,maxku,28-May-18 13:49:59,,,17,0.46,13,13
+●,9_M,ISR,0,Israel,maxku,28-May-18 13:50:05,,,6,0.16,13,13
+●,9_M,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,the right thing for,maxku,28-May-18 13:50:15,Trump,,19,0.51,13,13
+●,9_M,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,the right thing for,maxku,28-May-18 13:50:24,Trump,,19,0.51,13,13
+●,9_M,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,the right thing for,maxku,28-May-18 13:50:31,Trump,,19,0.51,13,13
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:50:40,,,4,0.11,14,14
+●,9_M,IRN\IRN-I,0,Iran's deputy foreign minister,maxku,28-May-18 13:50:44,,,30,0.81,14,14
+●,9_M,IRN\IRN-I,0,senior nuclear negotiator,maxku,28-May-18 13:50:49,,,25,0.67,14,14
+●,9_M,IRN\IRN-I,0,Abbas Araghchi,maxku,28-May-18 13:50:53,,,14,0.38,14,14
+●,9_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,childish,maxku,28-May-18 13:51:08,Presentation,,8,0.21,14,14
+●,9_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,ridiculous,maxku,28-May-18 13:51:11,Presentation,,10,0.27,14,14
+●,9_M,IRN files,0,the purported evidence,maxku,28-May-18 13:51:30,,,22,0.59,14,14
+●,9_M,Properties\Behaviour & character\Not trustworthy,0,fake,maxku,28-May-18 13:51:46,IRN files,,4,0.11,14,14
+●,9_M,Properties\Behaviour & character\Not trustworthy,0,fabricated,maxku,28-May-18 13:51:49,IRN files,,10,0.27,14,14
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:52:28,,,4,0.11,15,15
+●,9_M,IRN nuclear activity,0,seeking nuclear weapons,maxku,28-May-18 13:52:33,,,23,0.62,15,15
+●,9_M,USA\USA-I,0,Secretary of State Mike Pompeo,maxku,28-May-18 13:52:41,,,30,0.81,16,16
+●,9_M,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 13:52:47,,,9,0.24,16,16
+●,9_M,ISR,0,Israel,maxku,28-May-18 13:52:53,,,6,0.16,16,16
+●,9_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,accused,maxku,28-May-18 13:52:58,USA-I,,7,0.19,16,16
+●,9_M,Properties\Violence & Unfair\Victim (receiving violence),0,accused,maxku,28-May-18 13:52:59,IRN,,7,0.19,16,16
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:53:12,,,4,0.11,16,16
+●,9_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,behaving worse,maxku,28-May-18 13:53:24,IRN,,14,0.38,16,16
+●,9_M,Nuclear deal,0,the deal,maxku,28-May-18 13:53:35,,,8,0.21,16,16
+●,9_M,USA\USA-I,0,Pompeo,maxku,28-May-18 13:53:38,,,6,0.16,17,17
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:53:43,,,4,0.11,17,17
+●,9_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,destabilizing the Middle East by supporting terrorist groups,maxku,28-May-18 13:53:53,IRN,,60,1.61,17,17
+●,9_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,accused,maxku,28-May-18 13:54:03,USA-I,,7,0.19,17,17
+●,9_M,Properties\Violence & Unfair\Victim (receiving violence),0,accused,maxku,28-May-18 13:54:04,IRN,,7,0.19,17,17
+●,9_M,Properties\Power & Strength\Weak & Following,0,remain deeply concerned,maxku,28-May-18 13:56:17,USA-I,,23,0.62,18,18
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:56:28,,,4,0.11,18,18
+●,9_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threats,maxku,28-May-18 13:56:35,IRN,,7,0.19,18,18
+●,9_M,Properties\Violence & Unfair\Victim (receiving violence),0,threats,maxku,28-May-18 13:56:36,ISR,,7,0.19,18,18
+●,9_M,ISR,0,Israel,maxku,28-May-18 13:56:52,,,6,0.16,18,18
+●,9_M,IRN,0,Iran,maxku,28-May-18 13:56:57,,,4,0.11,18,18
+●,9_M,Properties\Power & Strength\Powerful & Leading,0,ambition to dominate,maxku,28-May-18 13:57:06,IRN,,20,0.54,18,18
+●,9_M,Properties\Importance\Important & Intense,0,dangerous,maxku,28-May-18 13:57:16,IRN,,9,0.24,18,18
+●,9_M,USA\USA-I,0,Pompeo,maxku,28-May-18 13:57:26,,,6,0.16,18,18
+●,9_M,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 13:57:31,,,9,0.24,18,18
+●,9_M,USA,0,The United States,maxku,28-May-18 13:57:35,,,17,0.46,18,18
+●,9_M,ISR,0,Israel,maxku,28-May-18 13:57:42,,,6,0.16,18,18
+●,9_M,Properties\Affection\Affection or empathy,0,is with Israel in this fight,maxku,28-May-18 13:58:00,ISR,,28,0.75,18,18
+●,9_M,Properties\Affection\Affection or empathy,0,expressed solidarity,felix,18-Dec-18 18:58:25,Netanyahu,,20,0.54,7,7
+●,9_R,ISR,0,Israeli Ambassador,maxku,15-May-18 21:30:52,,,18,0.03,1,1
+●,9_R,USA,0,US,maxku,15-May-18 21:30:55,,,2,0.00,1,1
+●,9_R,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:31:01,,,9,0.02,1,1
+●,9_R,IRN files,0,Iran Intel,maxku,15-May-18 21:31:35,,,10,0.02,1,1
+●,9_R,ISR,0,Israel's ambassador,maxku,15-May-18 21:31:57,,,19,0.04,2,2
+●,9_R,USA,0,the United States,maxku,15-May-18 21:32:02,,,17,0.03,2,2
+●,9_R,ISR\Netanyahu,0,Prime Minister Benjamin Netanyahu,maxku,15-May-18 21:32:10,,,33,0.06,2,2
+●,9_R,IRN nuclear activity,0,Iran's nuclear program,maxku,15-May-18 21:32:14,,,22,0.04,2,2
+●,9_R,ISR\Netanyahu,0,Israeli Prime Minister,maxku,15-May-18 21:32:31,,,22,0.04,4,4
+●,9_R,ISR\Netanyahu,0,Benjamin Netanyahu,maxku,15-May-18 21:32:35,,,18,0.03,4,4
+●,9_R,IRN,0,Iran,maxku,15-May-18 21:32:47,,,4,0.01,4,4
+●,9_R,IRN nuclear activity,0,nuclear weapons program,maxku,15-May-18 21:32:55,,,23,0.04,4,4
+●,9_R,IRN,0,the country,maxku,15-May-18 21:32:59,,,11,0.02,4,4
+●,9_R,ISR,0,Israeli officials,maxku,15-May-18 21:33:10,,,17,0.03,5,5
+●,9_R,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:33:13,,,9,0.02,5,5
+●,9_R,IRN files,0,"""half a ton"" of files",maxku,15-May-18 21:33:19,,,21,0.04,5,5
+●,9_R,IRN files,0,files,maxku,15-May-18 21:33:37,,,5,0.01,5,5
+●,9_R,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:34:26,,,9,0.02,6,6
+●,9_R,IRN files,0,"""an exact copy"" of the original materials",maxku,15-May-18 21:34:37,,,41,0.08,6,6
+●,9_R,ISR\Netanyahu,0,Israel's prime minister,maxku,15-May-18 21:34:54,,,23,0.04,6,6
+●,9_R,IRN nuclear activity,0,the Iranian program,maxku,15-May-18 21:35:02,,,19,0.04,6,6
+●,9_R,IRN nuclear activity,0,"""Project Amad,""",maxku,15-May-18 21:35:26,,,15,0.03,6,6
+●,9_R,IRN nuclear activity,0,develop a weapon,maxku,28-May-18 14:08:06,,,16,0.03,6,6
+●,9_R,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:35:37,,,9,0.02,7,7
+●,9_R,IRN,0,the Iranian wolf,maxku,15-May-18 21:35:42,,,16,0.03,7,7
+●,9_R,USA,0,U.S. intelligence,maxku,15-May-18 21:35:46,,,17,0.03,8,8
+●,9_R,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:35:51,,,9,0.02,8,8
+●,9_R,IRN files,0,Netanyahu's intel,maxku,15-May-18 21:35:56,,,17,0.03,8,8
+●,9_R,USA\Trump,0,Trump,maxku,15-May-18 21:36:19,,,5,0.01,9,9
+●,9_R,Nuclear deal,0,the vaunted nuclear deal,maxku,15-May-18 21:42:50,,,24,0.05,4,4
+●,9_R,Nuclear deal,0,the deal,maxku,15-May-18 21:42:55,,,8,0.02,5,5
+●,9_R,Nuclear deal,0,the Iran nuclear deal,maxku,15-May-18 21:43:01,,,21,0.04,9,9
+●,9_R,IRN nuclear activity,0,Smoking Bomb,maxku,28-May-18 10:01:53,,,12,0.02,1,1
+●,9_R,IRN nuclear activity,0,smoking bomb,maxku,28-May-18 10:02:03,,,12,0.02,3,3
+●,9_R,IRN nuclear activity,0,not complying with the vaunted nuclear deal,maxku,28-May-18 10:02:46,,,43,0.08,4,4
+●,9_R,Properties\Importance\Important & Intense,0,Presented a Smoking Bomb,maxku,28-May-18 13:58:43,IRn files,,24,0.05,1,1
+●,9_R,Presentation,0,slideshow,maxku,28-May-18 14:00:34,,,9,0.02,2,2
+●,9_R,Properties\Power & Strength\Powerful & Leading,0,unveiled facts,maxku,28-May-18 14:00:45,"Presentation
+Netanyahu",,14,0.03,2,2
+●,9_R,Properties\Importance\Important & Intense,0,"worse than a ""smoking gun.""",maxku,28-May-18 14:01:09,"IRN files
+IRN nuclear activity",,27,0.05,2,2
+●,9_R,Properties\Importance\Important & Intense,0,presented a smoking bomb,maxku,28-May-18 14:01:31,"Presentation
+IRN nuclear activity",,24,0.05,3,3
+●,9_R,Properties\Power & Strength\Powerful & Leading,0,revealed,maxku,28-May-18 14:01:53,Netanyahu,,8,0.02,4,4
+●,9_R,IRN files,0,"new ""dramatic"" intelligence",maxku,28-May-18 14:02:06,,,27,0.05,4,4
+●,9_R,Properties\Importance\Important & Intense,0,dramatic,maxku,28-May-18 14:02:12,IRN files,,8,0.02,4,4
+●,9_R,Properties\Behaviour & character\Not trustworthy,0,brazenly lying,maxku,28-May-18 14:02:25,IRN,,14,0.03,4,4
+●,9_R,Properties\Law\Unlawful,0,not complying with the vaunted nuclear deal,AnZhu,08-Apr-19 19:20:35,IRN,,43,0.08,4,4
+●,9_R,IRN files,0,The information,maxku,28-May-18 14:03:04,,,15,0.03,5,5
+●,9_R,Properties\Importance\Important & Intense,0,highly secret,maxku,28-May-18 14:03:30,IRN files,,13,0.02,5,5
+●,9_R,Properties\Power & Strength\Powerful & Leading,0,displayed,maxku,28-May-18 14:03:53,Netanyahu,,9,0.02,6,6
+●,9_R,Properties\Importance\Important & Intense,0,"now in a ""very safe place""",maxku,28-May-18 14:04:12,IRN files,,26,0.05,6,6
+●,9_R,Properties\Difficulty\Difficult,0,incriminating documents,maxku,28-May-18 14:04:38,IRN,,23,0.04,6,6
+●,9_R,Properties\Power & Strength\Powerful & Leading,0,incriminating documents,maxku,28-May-18 14:04:53,IRN files,,23,0.04,6,6
+●,9_R,IRN files,0,the material,maxku,28-May-18 14:05:21,,,12,0.02,6,6
+●,9_R,Properties\Power & Strength\Powerful & Leading,0,filled with incriminating evidence,maxku,28-May-18 14:07:27,IRN files,,34,0.07,6,6
+●,9_R,Properties\Difficulty\Difficult,0,filled with incriminating evidence,maxku,28-May-18 14:07:38,IRN,,34,0.07,6,6
+●,9_R,ISR\ISR-I,0,Ron Dermer,maxku,28-May-18 14:08:51,,,10,0.02,3,3
+●,9_R,ISR\ISR-I,0,Dermer said,maxku,28-May-18 14:08:57,,,11,0.02,7,7
+●,9_R,ISR\ISR-I,0,Dermer,maxku,28-May-18 14:09:02,,,6,0.01,9,9
+●,9_R,ISR\ISR-I,0,Dermer,maxku,28-May-18 14:09:04,,,6,0.01,10,10
+●,9_R,ISR\ISR-I,0,Dermer,maxku,28-May-18 14:09:07,,,6,0.01,13,13
+●,9_R,USA\Trump,0,President Donald Trump,maxku,28-May-18 14:09:12,,,22,0.04,13,13
+●,9_R,Nuclear deal,0,the deal,maxku,28-May-18 14:09:17,,,8,0.02,13,13
+●,9_R,USA\Trump,0,The president,maxku,28-May-18 14:09:22,,,13,0.02,13,13
+●,9_R,Reaction to IRN deal,0,decide whether to re-ratify it,maxku,28-May-18 14:09:28,,,30,0.06,13,13
+●,9_R,IRN,0,Iran,maxku,28-May-18 14:09:34,,,4,0.01,12,12
+●,9_R,Nuclear deal,0,the nuclear deal,maxku,28-May-18 14:09:39,,,16,0.03,12,12
+●,9_R,IRN,0,Iran,maxku,28-May-18 14:09:43,,,4,0.01,12,12
+●,9_R,Nuclear deal,0,this deal,maxku,28-May-18 14:09:55,,,9,0.02,11,11
+●,9_R,IRN,0,Iran,maxku,28-May-18 14:10:01,,,4,0.01,10,10
+●,9_R,Nuclear deal,0,the deal,maxku,28-May-18 14:10:06,,,8,0.02,10,10
+●,9_R,Properties\Power & Strength\Powerful & Leading,0,exposed the fangs of the Iranian wolf,maxku,28-May-18 14:10:31,Netanyahu,,37,0.07,7,7
+●,9_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,the Iranian wolf,maxku,28-May-18 14:10:47,IRN,,16,0.03,7,7
+●,9_R,Properties\Affection\Affection or empathy,0,will back up,maxku,28-May-18 14:11:01,IRN files,,12,0.02,8,8
+●,9_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,ripped,maxku,28-May-18 14:11:16,ISR-I,,6,0.01,9,9
+●,9_R,Properties\Violence & Unfair\Victim (receiving violence),0,ripped,maxku,28-May-18 14:11:17,IRN-I,,6,0.01,9,9
+●,9_R,IRN\IRN-I,0,Iranian diplomat,maxku,28-May-18 14:11:35,,,16,0.03,9,9
+●,9_R,IRN\IRN-I,0,Mohammad Javad Zarif,maxku,28-May-18 14:11:39,,,20,0.04,9,9
+●,9_R,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,impetuous,maxku,28-May-18 14:11:48,Trump,,9,0.02,9,9
+●,9_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,sabotaging,maxku,28-May-18 14:11:56,Trump,,10,0.02,9,9
+●,9_R,Properties\Violence & Unfair\Victim (receiving violence),0,sabotaging,maxku,28-May-18 14:11:58,Nuclear deal,,10,0.02,9,9
+●,9_R,Properties\Quality\Bad Quality,0,not being hurt in any way,maxku,28-May-18 14:12:10,Nuclear deal,,25,0.05,10,10
+●,9_R,Properties\Power & Strength\Powerful & Leading,0,not being hurt in any way,maxku,28-May-18 14:12:14,IRN,,25,0.05,10,10
+●,9_R,Properties\Economy\Positive - economy,0,increase in the ability to sell oil,maxku,28-May-18 14:12:26,IRN,,35,0.07,10,10
+●,9_R,Properties\Economy\Positive - economy,0,an influx of money,maxku,28-May-18 14:12:36,IRN,,18,0.03,10,10
+●,9_R,Nuclear deal,0,the agreement,maxku,28-May-18 14:12:45,,,13,0.02,10,10
+●,9_R,IRN nuclear activity,0,getting a bomb,maxku,28-May-18 14:15:01,,,14,0.03,11,11
+●,9_R,IRN,0,the foremost sponsor of terrorism in the world,maxku,28-May-18 14:15:19,,,46,0.09,11,11
+●,9_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,sponsor of terrorism,maxku,28-May-18 14:15:23,IRN,,20,0.04,11,11
+●,9_R,Properties\Other\Positive,0,in much better shape,maxku,28-May-18 14:15:38,IRN,,20,0.04,12,12
+●,9_R,Properties\Affection\Affection or empathy,0,"is ""right",maxku,28-May-18 14:15:53,Trump,,9,0.02,13,13
+●,9_R,Properties\Power & Strength\Powerful & Leading,0,call attention to,maxku,28-May-18 14:16:04,Trump,,17,0.03,13,13
+●,9_R,Properties\Importance\Important & Intense,0,call attention to,maxku,28-May-18 14:16:06,Nuclear deal,,17,0.03,13,13
+●,9_RR,USA,0,U.S.,maxku,15-May-18 21:20:52,,,4,0.01,1,1
+●,9_RR,ISR,0,Israel,maxku,15-May-18 21:22:43,,,6,0.01,1,1
+●,9_RR,IRN,0,Iran,maxku,15-May-18 21:24:24,,,4,0.01,1,1
+●,9_RR,IRN files,0,Iran Nuclear Files,maxku,15-May-18 21:25:27,,,18,0.03,1,1
+●,9_RR,USA,0,U.S. intelligence,maxku,15-May-18 21:25:45,,,17,0.02,2,2
+●,9_RR,IRN files,0,tens of thousands of files,maxku,15-May-18 21:25:50,,,26,0.04,2,2
+●,9_RR,ISR,0,Israel,maxku,15-May-18 21:25:55,,,6,0.01,2,2
+●,9_RR,IRN,0,Iran,maxku,15-May-18 21:25:59,,,4,0.01,2,2
+●,9_RR,ISR\Netanyahu,0,Israeli Prime Minister,maxku,15-May-18 21:26:25,,,22,0.03,2,2
+●,9_RR,ISR\Netanyahu,0,Benjamin Netanyahu,maxku,15-May-18 21:26:29,,,18,0.03,2,2
+●,9_RR,IRN,0,Iran,maxku,15-May-18 21:26:33,,,4,0.01,2,2
+●,9_RR,IRN nuclear activity,0,nuclear weapons program,maxku,15-May-18 21:27:13,,,23,0.03,2,2
+●,9_RR,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:27:41,,,9,0.01,3,3
+●,9_RR,ISR,0,Israel,maxku,15-May-18 21:27:48,,,6,0.01,3,3
+●,9_RR,IRN files,0,hundreds of thousands of Iranian files,maxku,15-May-18 21:27:54,,,38,0.05,3,3
+●,9_RR,IRN,0,the regime,maxku,15-May-18 21:28:08,,,10,0.01,3,3
+●,9_RR,IRN files,0,The files,maxku,15-May-18 21:28:38,,,9,0.01,4,4
+●,9_RR,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:28:42,,,9,0.01,4,4
+●,9_RR,IRN,0,Iran,maxku,15-May-18 21:28:49,,,4,0.01,4,4
+●,9_RR,IRN nuclear activity,0,developing nuclear weapons,maxku,28-May-18 14:22:33,,,26,0.04,4,4
+●,9_RR,IRN nuclear activity,0,a nuclear bomb,maxku,15-May-18 21:29:00,,,14,0.02,4,4
+●,9_RR,IRN nuclear activity,0,research on nuclear warheads,maxku,28-May-18 14:22:39,,,28,0.04,4,4
+●,9_RR,IRN nuclear activity,0,development of testing sites,maxku,28-May-18 14:22:51,,,28,0.04,4,4
+●,9_RR,IRN,0,Iran,maxku,15-May-18 21:29:20,,,4,0.01,5,5
+●,9_RR,IRN nuclear activity,0,a nuclear weapons program,maxku,15-May-18 21:29:30,,,25,0.03,5,5
+●,9_RR,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:29:34,,,9,0.01,5,5
+●,9_RR,ISR,0,Israel,maxku,15-May-18 21:29:43,,,6,0.01,5,5
+●,9_RR,IRN files,0,secret Iranian files,maxku,15-May-18 21:29:49,,,20,0.03,5,5
+●,9_RR,USA\Trump,0,Trump,maxku,15-May-18 21:29:53,,,5,0.01,5,5
+●,9_RR,USA,0,the United States,maxku,15-May-18 21:30:02,,,17,0.02,5,5
+●,9_RR,ISR,0,Israel,maxku,15-May-18 21:30:07,,,6,0.01,5,5
+●,9_RR,ISR\Netanyahu,0,Netanyahu,maxku,15-May-18 21:30:19,,,9,0.01,6,6
+●,9_RR,ISR,0,Israel,maxku,15-May-18 21:30:23,,,6,0.01,6,6
+●,9_RR,IRN files,0,the Iranian files,maxku,15-May-18 21:30:29,,,17,0.02,6,6
+●,9_RR,USA,0,the U.S.,maxku,15-May-18 21:30:34,,,8,0.01,6,6
+●,9_RR,USA,0,the U.S.,maxku,15-May-18 21:30:39,,,8,0.01,6,6
+●,9_RR,IRN files,0,the material,maxku,15-May-18 21:30:44,,,12,0.02,6,6
+●,9_RR,Presentation,0,Netanyahu's presentation,maxku,28-May-18 09:44:36,,,24,0.03,8,8
+●,9_RR,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 09:44:41,,,9,0.01,8,8
+●,9_RR,Presentation,0,Netanyahu's presentation,maxku,28-May-18 09:45:15,,,24,0.03,9,9
+●,9_RR,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 09:45:19,,,9,0.01,9,9
+●,9_RR,Reaction to IRN deal,0,withdraw from the Iran nuclear deal,maxku,28-May-18 10:14:51,,,35,0.05,8,8
+●,9_RR,Reaction to IRN deal,0,a US exit,maxku,28-May-18 10:15:06,,,9,0.01,10,10
+●,9_RR,Properties\Power & Strength\Powerful & Leading,0,Seized by,maxku,28-May-18 14:16:44,ISR,,9,0.01,1,1
+●,9_RR,Properties\Behaviour & character\Trustworthy,0,Authentic,maxku,28-May-18 14:16:53,IRN files,,9,0.01,1,1
+●,9_RR,Properties\Other\Other,0,reportedly,maxku,28-May-18 14:18:15,USA,,10,0.01,2,2
+●,9_RR,Properties\Affection\Affection or empathy,0,confirmed,maxku,28-May-18 14:18:25,IRN files,,9,0.01,2,2
+●,9_RR,Properties\Power & Strength\Powerful & Leading,0,seized by,maxku,28-May-18 14:18:36,ISR,,9,0.01,2,2
+●,9_RR,Properties\Behaviour & character\Trustworthy,0,authentic,maxku,28-May-18 14:21:08,IRN files,,9,0.01,2,2
+●,9_RR,Properties\Power & Strength\Powerful & Leading,0,revealed,maxku,28-May-18 14:21:29,Netanyahu,,8,0.01,3,3
+●,9_RR,Properties\Other\Other,0,allegedly,maxku,28-May-18 14:21:58,IRN,,9,0.01,3,3
+●,9_RR,Reaction to IRN deal,0,hid its nuclear weapons research archive,maxku,28-May-18 14:22:12,,,40,0.06,3,3
+●,9_RR,Properties\Behaviour & character\Not trustworthy,0,lied,maxku,28-May-18 14:22:22,IRN,,4,0.01,4,4
+●,9_RR,Properties\Behaviour & character\Not trustworthy,0,lied,maxku,28-May-18 14:23:04,IRN,,4,0.01,5,5
+●,9_RR,Properties\Power & Strength\Powerful & Leading,0,uncovered,maxku,28-May-18 14:23:14,ISR,,9,0.01,5,5
+●,9_RR,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,do the right thing,maxku,28-May-18 14:23:25,Trump,,18,0.03,5,5
+●,9_RR,Properties\Affection\Affection or empathy,0,I'm sure he'll do the right thing,maxku,28-May-18 14:23:30,Trump,,33,0.05,5,5
+●,9_RR,Properties\Affection\Affection or empathy,0,the right thing for,maxku,28-May-18 14:23:44,Trump,,19,0.03,5,5
+●,9_RR,Properties\Affection\Affection or empathy,0,the right thing for,maxku,28-May-18 14:23:48,Trump,,19,0.03,5,5
+●,9_RR,Properties\Affection\Affection or empathy,0,the right thing for,maxku,28-May-18 14:23:53,Trump,,19,0.03,5,5
+●,9_RR,USA\USA-I,0,US official,maxku,28-May-18 14:24:15,,,11,0.02,6,6
+●,9_RR,Properties\Affection\Affection or empathy,0,confirms,maxku,28-May-18 14:24:22,Netanyahu,,8,0.01,6,6
+●,9_RR,Properties\Affection\Affection or empathy,0,verified,maxku,28-May-18 14:24:33,IRN files,,8,0.01,6,6
+●,9_RR,Properties\Behaviour & character\Trustworthy,0,authentic,maxku,28-May-18 14:24:49,IRN files,,9,0.01,6,6
+●,9_RR,Properties\Other\Other,0,I'm told,maxku,28-May-18 14:25:00,IRN files,,8,0.01,6,6
+●,9_RR,USA,0,U.S. intelligence,maxku,28-May-18 14:25:16,,,17,0.02,7,7
+●,9_RR,Properties\Other\Other,0,unclear if,maxku,28-May-18 14:25:30,"USA
+Netanyahu
+IRN files",,10,0.01,7,7
+●,9_RR,Properties\Affection\Affection or empathy,0,verified,maxku,28-May-18 14:25:42,"Netanyahu
+IRN files",,8,0.01,7,7
+●,9_RR,ISR\Netanyahu,0,Netanyahu,maxku,28-May-18 14:26:02,,,9,0.01,7,7
+●,9_RR,IRN files,0,the files,maxku,28-May-18 14:26:06,,,9,0.01,7,7
+●,9_RR,Properties\Importance\Important & Intense,0,highly-anticipated,maxku,28-May-18 14:26:33,Reaction to IRN deal,,18,0.03,8,8
+●,9_RR,Properties\Importance\Important & Intense,0,self-imposed,maxku,28-May-18 14:26:58,Nuclear deal,,12,0.02,8,8
+●,9_RR,USA,0,the Trump administration,maxku,28-May-18 14:27:08,,,24,0.03,8,8
+●,9_RR,USA\Trump,0,President Donald Trump,maxku,28-May-18 14:27:18,,,22,0.03,8,8
+●,9_RR,USA\Trump,0,President Trump,maxku,28-May-18 14:27:30,,,15,0.02,9,9
+●,9_RR,Properties\Affection\Affection or empathy,0,found it convincing,maxku,28-May-18 14:27:42,"Netanyahu
+Presentation",,19,0.03,9,9
+●,9_RR,Properties\Other\Other,0,would not yet announce his plans,maxku,28-May-18 14:27:59,Trump,,32,0.04,9,9
+●,9_RR,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,open to re-negotiating,maxku,28-May-18 14:28:21,Trump,,22,0.03,9,9
+●,9_RR,Nuclear deal,0,the deal,maxku,28-May-18 14:28:30,,,8,0.01,9,9
+●,9_RR,IRN\IRN-I,0,Iran's deputy foreign minister,maxku,28-May-18 14:28:35,,,30,0.04,10,10
+●,9_RR,IRN\IRN-I,0,Abbas Araghchi,maxku,28-May-18 14:28:38,,,14,0.02,10,10
+●,9_RR,IRN,0,Iran,maxku,28-May-18 14:28:41,,,4,0.01,10,10
+●,9_RR,Properties\Other\Other,0,reportedly,maxku,28-May-18 14:28:46,IRN-I,,10,0.01,10,10
+●,9_RR,Nuclear deal,0,The Iran nuclear deal,maxku,28-May-18 14:28:59,,,21,0.03,10,10
+●,9_RR,Properties\Difficulty\Difficult,0,no longer sustainable,maxku,28-May-18 14:29:08,Nuclear deal,,21,0.03,10,10
+●,9_RR,IRN,0,Iran,maxku,28-May-18 14:29:14,,,4,0.01,10,10

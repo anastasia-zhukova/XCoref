@@ -1,0 +1,39 @@
+{"rounds_to_execute": ["round0", "round1", "round2", "round3", "round4", "round5"], 
+ "general": {
+     "very_similar_add_value": 0.2
+ },
+ "preprocessing": {
+     "non_ner_exclusion_threshold": 0.1,
+     "split_person_ne": false,
+     "unfreq_entity_type_filter": 0.19, 
+     "exclude_time": true,
+     "exclude_general_nouns": true,
+     "exclude_dt": true, 
+     "exclude_single_adj": true
+ }, 
+ "round2": {
+     "merge_labeling_proportion_threshold": 0.3,
+     "merge_labeling_min_dim_number": 2, 
+     "damping": 0.7, 
+     "max_iter": 100
+ }, 
+ "round3": {
+     "merge_compound_proportion_threshold": 0.5
+ }, 
+ "round4": {
+     "merge_freq_phrases_proportion": 0.3,
+     "min_support": 4,
+     "very_freq_item_threshold": 0.9, 
+     "representative_word_num": 6
+ },
+ "round5": {
+     "merge_string_proportion_threshold": 0.4
+ }, 
+ "round6": {
+     "local_freq_weight": 0.6,
+     "labeling_rarity_rate": 0.2
+ },
+ "evaluation": {
+     "evaluation_mode": true, 
+     "check_previous_saves": true 
+ }}

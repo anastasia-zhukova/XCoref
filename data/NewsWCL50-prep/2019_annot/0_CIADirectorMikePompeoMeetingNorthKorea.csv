@@ -1,0 +1,694 @@
+﻿Color,Document name,Code,Weight score,Segment,Author,Creation date,Comment,Document group,Area,Coverage %,Beginning,End
+●,0_R,PRK,0,Kim Jong Un,maxku,19-Apr-18 17:15:58,,,11,0.30,1,1
+●,0_R,USA,0,CIA director,maxku,19-Apr-18 17:18:30,,,12,0.32,2,2
+●,0_R,PRK\Jong Un,0,North Korean leader,maxku,19-Apr-18 17:18:38,,,19,0.51,2,2
+●,0_R,USA,0,chief White House correspondent,maxku,19-Apr-18 17:18:48,,,31,0.83,2,2
+●,0_R,PRK\Jong Un,0,North Korean dictator,maxku,19-Apr-18 17:19:18,,,21,0.56,3,3
+●,0_R,USA\Mike Pompeo,0,Mike Pompeo,maxku,19-Apr-18 17:20:23,,,11,0.30,1,1
+●,0_R,USA\Mike Pompeo,0,Mike Pompeo,maxku,19-Apr-18 17:20:29,,,11,0.30,3,3
+●,0_R,PRK\Jong Un,0,Kim Jong Un,maxku,19-Apr-18 17:20:37,,,11,0.30,3,3
+●,0_R,PRK\Jong Un,0,Kim,maxku,19-Apr-18 17:20:51,,,3,0.08,3,3
+●,0_R,USA\Trump,0,President Trump,maxku,19-Apr-18 17:20:57,,,15,0.40,3,3
+●,0_R,USA\Mike Pompeo,0,Pompeo,maxku,19-Apr-18 17:21:03,,,6,0.16,4,4
+●,0_R,USA\Trump,0,Trump,maxku,19-Apr-18 17:21:11,,,5,0.13,4,4
+●,0_R,USA,0,U.S.,maxku,19-Apr-18 17:21:17,,,4,0.11,4,4
+●,0_R,PRK,0,North Korea,maxku,19-Apr-18 17:21:24,,,11,0.30,4,4
+●,0_R,PRK,0,Pyongyang,maxku,19-Apr-18 17:21:45,,,9,0.24,4,4
+●,0_R,USA,0,White House,maxku,19-Apr-18 17:22:05,,,11,0.30,5,5
+●,0_R,USA\Trump,0,Trump,maxku,19-Apr-18 17:22:14,,,5,0.13,5,5
+●,0_R,USA\Mike Pompeo,0,Mike Pompeo,maxku,19-Apr-18 17:22:24,,,11,0.30,6,6
+●,0_R,PRK\Jong Un,0,Kim Jong Un,maxku,19-Apr-18 17:22:30,,,11,0.30,6,6
+●,0_R,PRK,0,North Korea,maxku,19-Apr-18 17:22:35,,,11,0.30,6,6
+●,0_R,PRK,0,North Korea,maxku,19-Apr-18 17:23:00,,,11,0.30,6,6
+●,0_R,USA\Mike Pompeo,0,Mike Pompeo,maxku,19-Apr-18 17:24:35,,,11,0.30,7,7
+●,0_R,PRK\Jong Un,0,Kim Jong Un,maxku,19-Apr-18 17:24:41,,,11,0.30,7,7
+●,0_R,PRK,0,North Korea,maxku,19-Apr-18 17:24:46,,,11,0.30,7,7
+●,0_R,PRK,0,North Korea,maxku,19-Apr-18 17:25:03,,,11,0.30,7,7
+●,0_R,JPN\Abe,0,Shinzo Abe,maxku,19-Apr-18 17:27:19,,,10,0.27,8,8
+●,0_R,USA\Trump,0,president,maxku,19-Apr-18 17:27:40,,,9,0.24,8,8
+●,0_R,USA\Trump,0,President Trump,maxku,19-Apr-18 17:27:47,,,15,0.40,9,9
+●,0_R,JPN\Abe,0,Japanese Prime Minister,maxku,19-Apr-18 17:28:00,,,23,0.62,9,9
+●,0_R,JPN\Abe,0,Shinzo Abe,maxku,19-Apr-18 17:28:09,,,10,0.27,9,9
+●,0_R,USA\Trump,0,Trump,maxku,19-Apr-18 17:28:29,,,5,0.13,8,8
+●,0_R,JPN\Abe,0,Japanese Prime Minister,maxku,19-Apr-18 17:28:37,,,23,0.62,8,8
+●,0_R,USA\Trump,0,Trump,maxku,19-Apr-18 17:28:53,,,5,0.13,10,10
+●,0_R,USA\Trump,0,president,maxku,19-Apr-18 17:29:08,,,9,0.24,11,11
+●,0_R,PRK\Jong Un,0,Kim,maxku,19-Apr-18 17:29:16,,,3,0.08,11,11
+●,0_R,PRK\Jong Un,0,Kim,maxku,19-Apr-18 17:29:22,,,3,0.08,12,12
+●,0_R,USA\Trump,0,Trump,maxku,19-Apr-18 17:29:30,,,5,0.13,12,12
+●,0_R,PRK,0,South Korea,maxku,19-Apr-18 17:29:38,,,11,0.30,12,12
+●,0_R,USA,0,U.S. officials,maxku,19-Apr-18 17:29:49,,,14,0.38,12,12
+●,0_R,PRK,0,North Korea's government,maxku,19-Apr-18 17:30:04,,,24,0.64,12,12
+●,0_R,USA,0,Washington,maxku,19-Apr-18 17:30:11,,,10,0.27,12,12
+●,0_R,PRK,0,Pyongyang,maxku,19-Apr-18 17:30:24,,,9,0.24,13,13
+●,0_R,KOR,0,Seoul,maxku,19-Apr-18 17:30:43,,,5,0.13,13,13
+●,0_R,USA,0,chief White House correspondent,maxku,19-Apr-18 17:32:40,,,31,0.83,13,13
+●,0_R,JPN\Abe,0,Abe,maxku,19-Apr-18 17:32:51,,,3,0.08,14,14
+●,0_R,JPN,0,Japan,maxku,19-Apr-18 17:32:58,,,5,0.13,14,14
+●,0_R,USA\Trump,0,Trump,maxku,19-Apr-18 17:33:13,,,5,0.13,14,14
+●,0_R,PRK\Jong Un,0,North Korean dictator,maxku,19-Apr-18 17:33:21,,,21,0.56,14,14
+●,0_R,USA\Trump,0,Donald,maxku,19-Apr-18 17:33:27,,,6,0.16,15,15
+●,0_R,PRK\Jong Un,0,North Korean leader,maxku,19-Apr-18 17:33:34,,,19,0.51,15,15
+●,0_R,JPN\Abe,0,Abe,maxku,19-Apr-18 17:33:40,,,3,0.08,15,15
+●,0_R,USA,0,U.S.,maxku,19-Apr-18 17:33:51,,,4,0.11,14,14
+●,0_R,USA\Trump,0,Trump,maxku,19-Apr-18 17:34:04,,,5,0.13,16,16
+●,0_R,PRK\Jong Un,0,Kim,maxku,19-Apr-18 17:35:02,,,3,0.08,16,16
+●,0_R,KOR\Moon Jae,0,South Korean President,maxku,19-Apr-18 17:35:11,,,22,0.59,16,16
+●,0_R,KOR\Moon Jae,0,Moon Jae,maxku,19-Apr-18 17:35:15,,,8,0.21,16,16
+●,0_R,KOR,0,the Koreas,maxku,19-Apr-18 17:35:41,,,10,0.27,16,16
+●,0_R,PRK,0,North Korea,maxku,19-Apr-18 17:36:11,,,11,0.30,17,17
+●,0_R,PRK,0,the Koreas,maxku,19-Apr-18 17:36:21,,,10,0.27,16,16
+●,0_R,USA,0,U.S.,maxku,19-Apr-18 17:36:31,,,4,0.11,17,17
+●,0_R,PRK,0,North,maxku,19-Apr-18 17:36:39,,,5,0.13,17,17
+●,0_R,KOR,0,South Korea,maxku,19-Apr-18 17:36:46,,,11,0.30,17,17
+●,0_R,USA,0,Washington,maxku,19-Apr-18 17:36:52,,,10,0.27,17,17
+●,0_R,PRK,0,North Korea,maxku,19-Apr-18 17:37:09,,,11,0.30,17,17
+●,0_R,CHN,0,China,maxku,19-Apr-18 17:37:18,,,5,0.13,17,17
+●,0_R,KOR,0,South Korea,maxku,19-Apr-18 17:39:21,,,11,0.30,17,17
+●,0_R,USA\Trump,0,Trump,maxku,19-Apr-18 17:39:29,,,5,0.13,18,18
+●,0_R,KOR,0,two Koreas,maxku,19-Apr-18 17:39:38,,,10,0.27,18,18
+●,0_R,PRK,0,two Koreas,maxku,19-Apr-18 17:39:53,,,10,0.27,18,18
+●,0_R,PRK USA Summit,0,Summit,maxku,19-Apr-18 17:41:49,,,6,0.16,6,6
+●,0_R,PRK USA Summit,0,Summit,maxku,19-Apr-18 17:42:08,,,6,0.16,7,7
+●,0_R,PRK USA Summit,0,meeting,maxku,19-Apr-18 17:42:49,,,7,0.19,16,16
+●,0_RR,USA\Mike Pompeo,0,Mike Pompeo,maxku,19-Apr-18 17:46:32,,,11,0.76,1,1
+●,0_RR,PRK\Jong Un,0,Kim Jong-un,maxku,19-Apr-18 17:46:37,,,11,0.76,1,1
+●,0_RR,USA,0,CIA Director,maxku,19-Apr-18 17:47:35,,,12,0.83,2,2
+●,0_RR,USA\Mike Pompeo,0,Mike Pompeo,maxku,19-Apr-18 17:47:40,,,11,0.76,2,2
+●,0_RR,USA\Trump,0,President Donald Trump,maxku,19-Apr-18 17:47:49,,,22,1.52,2,2
+●,0_RR,PRK,0,North Korea,maxku,19-Apr-18 17:48:01,,,11,0.76,2,2
+●,0_RR,PRK\Jong Un,0,North Korean dictator,maxku,19-Apr-18 17:48:06,,,21,1.45,2,2
+●,0_RR,PRK\Jong Un,0,Kim Jong-un,maxku,19-Apr-18 17:48:10,,,11,0.76,2,2
+●,0_RR,USA\Mike Pompeo,0,Pompeo,maxku,19-Apr-18 17:48:16,,,6,0.41,3,3
+●,0_RR,USA\Trump,0,Trump,maxku,19-Apr-18 17:48:32,,,5,0.34,3,3
+●,0_RR,USA\Trump,0,Trump,maxku,19-Apr-18 17:48:41,,,5,0.34,4,4
+●,0_RR,USA\USA-I,0,Rex Tillerson,maxku,19-Apr-18 17:49:06,,,13,0.90,4,4
+●,0_RR,USA\Mike Pompeo,0,Pompeo,maxku,19-Apr-18 17:49:12,,,6,0.41,4,4
+●,0_RR,USA,0,CIA director,maxku,19-Apr-18 17:49:17,,,12,0.83,4,4
+●,0_RR,USA\USA-I,0,Tillerson,maxku,19-Apr-18 17:49:24,,,9,0.62,4,4
+●,0_RR,USA\Mike Pompeo,0,Pompeo,maxku,19-Apr-18 17:49:31,,,6,0.41,5,5
+●,0_RR,USA,0,U.S. Senators,maxku,19-Apr-18 17:49:41,,,13,0.90,5,5
+●,0_RR,USA\Trump,0,Trump,maxku,19-Apr-18 17:49:47,,,5,0.34,5,5
+●,0_RR,PRK,0,North Korea,maxku,19-Apr-18 17:49:59,,,11,0.76,6,6
+●,0_RR,USA\Trump,0,The president,maxku,19-Apr-18 17:50:04,,,13,0.90,6,6
+●,0_RR,JPN\Abe,0,Japanese Prime Minister,maxku,19-Apr-18 17:50:10,,,23,1.59,6,6
+●,0_RR,JPN\Abe,0,Shinzo Abe,maxku,19-Apr-18 17:50:16,,,10,0.69,6,6
+●,0_RR,USA,0,White House,maxku,19-Apr-18 17:50:26,,,11,0.76,7,7
+●,0_RR,USA\Trump,0,Trump,maxku,19-Apr-18 17:50:37,,,5,0.34,8,8
+●,0_RR,PRK,0,North Korea,maxku,19-Apr-18 17:50:46,,,11,0.76,8,8
+●,0_RR,USA,0,United States,maxku,19-Apr-18 17:50:56,,,13,0.90,9,9
+●,0_RR,JPN,0,Japan,maxku,19-Apr-18 17:51:02,,,5,0.34,9,9
+●,0_M,USA\Mike Pompeo,0,Mike Pompeo,maxku,19-Apr-18 17:56:07,,,11,0.16,1,1
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 17:56:11,,,5,0.07,1,1
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 17:56:17,,,11,0.16,1,1
+●,0_M,USA\Trump,0,President Donald Trump,maxku,19-Apr-18 17:56:22,,,22,0.33,2,2
+●,0_M,PRK,0,North and South Korea,maxku,19-Apr-18 17:56:34,,,21,0.31,2,2
+●,0_M,KOR,0,North and South Korea,maxku,19-Apr-18 17:56:44,,,21,0.31,2,2
+●,0_R,KOR,0,North and South Korea,maxku,19-Apr-18 17:57:09,,,21,0.56,16,16
+●,0_R,PRK,0,North and South Korea,maxku,19-Apr-18 17:57:19,,,21,0.56,16,16
+●,0_M,USA\Trump,0,President Trump,maxku,19-Apr-18 17:57:45,,,15,0.22,3,3
+●,0_M,JPN\Abe,0,leader of Japan,maxku,19-Apr-18 17:57:54,,,15,0.22,3,3
+●,0_M,PRK,0,North and South Korea,maxku,19-Apr-18 17:58:08,,,21,0.31,3,3
+●,0_M,KOR,0,North and South Korea,maxku,19-Apr-18 17:58:17,,,21,0.31,3,3
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 17:58:31,,,5,0.07,4,4
+●,0_M,JPN\Abe,0,Japanese Prime Minister,maxku,19-Apr-18 17:58:43,,,23,0.34,4,4
+●,0_M,JPN\Abe,0,Shinzo Abe,maxku,19-Apr-18 17:58:48,,,10,0.15,4,4
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 17:58:55,,,11,0.16,4,4
+●,0_M,USA\Trump,0,The president,maxku,19-Apr-18 17:59:06,,,13,0.19,5,5
+●,0_M,PRK\Jong Un,0,Kim Jong Un,maxku,19-Apr-18 17:59:22,,,11,0.16,5,5
+●,0_M,PRK\Jong Un,0,North Korea leader,maxku,19-Apr-18 17:59:36,,,18,0.27,5,5
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 17:59:44,,,11,0.16,5,5
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:00:15,,,5,0.07,5,5
+●,0_M,PRK\Jong Un,0,Kim,maxku,19-Apr-18 18:00:20,,,3,0.04,5,5
+●,0_M,USA\Mike Pompeo,0,Mike Pompeo,maxku,19-Apr-18 18:00:40,,,11,0.16,5,5
+●,0_M,USA,0,CIA director and secretary of State-designate,maxku,19-Apr-18 18:00:45,,,45,0.67,5,5
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 18:01:00,,,11,0.16,5,5
+●,0_M,PRK\Jong Un,0,Kim,maxku,19-Apr-18 18:01:05,,,3,0.04,5,5
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:01:09,,,3,0.04,6,6
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:01:15,,,5,0.07,6,6
+●,0_M,PRK\Jong Un,0,Kim,maxku,19-Apr-18 18:01:21,,,3,0.04,6,6
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:02:52,,,5,0.07,7,7
+●,0_M,CHN,0,China,maxku,19-Apr-18 18:02:59,,,5,0.07,7,7
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 18:03:11,,,11,0.16,7,7
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:03:21,,,5,0.07,8,8
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:03:51,,,5,0.07,9,9
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:03:57,,,3,0.04,9,9
+●,0_M,KOR,0,North and South Korea,maxku,19-Apr-18 18:04:14,,,21,0.31,9,9
+●,0_M,PRK,0,North and South Korea,maxku,19-Apr-18 18:04:23,,,21,0.31,9,9
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:04:35,,,5,0.07,10,10
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 18:04:48,,,11,0.16,10,10
+●,0_M,KOR,0,South Korea,maxku,19-Apr-18 18:04:55,,,11,0.16,10,10
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 18:05:06,,,11,0.16,11,11
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:05:29,,,5,0.07,11,11
+●,0_M,JPN\Abe,0,his Japanese counterpart,maxku,19-Apr-18 18:05:51,,,24,0.36,11,11
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:05:57,,,3,0.04,12,12
+●,0_M,USA,0,U.S.,maxku,19-Apr-18 18:06:06,,,4,0.06,12,12
+●,0_M,USA\Trump,0,president,maxku,19-Apr-18 18:06:12,,,9,0.13,12,12
+●,0_M,PRK\Jong Un,0,Kim,maxku,19-Apr-18 18:06:22,,,3,0.04,12,12
+●,0_M,USA\Trump,0,Donald,maxku,19-Apr-18 18:06:29,,,6,0.09,13,13
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:06:33,,,3,0.04,13,13
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:06:42,,,3,0.04,14,14
+●,0_M,USA,0,southern White House,maxku,19-Apr-18 18:07:08,,,20,0.30,14,14
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:07:19,,,5,0.07,14,14
+●,0_M,JPN\Abe,0,prime minister,maxku,19-Apr-18 18:07:31,,,14,0.21,14,14
+●,0_M,JPN,0,Japanese officials,maxku,19-Apr-18 18:07:45,,,18,0.27,15,15
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:07:51,,,5,0.07,15,15
+●,0_M,PRK\Jong Un,0,Kim,maxku,19-Apr-18 18:07:58,,,3,0.04,15,15
+●,0_M,USA,0,United States,maxku,19-Apr-18 18:08:05,,,13,0.19,15,15
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 18:08:10,,,11,0.16,15,15
+●,0_M,JPN,0,Japan,maxku,19-Apr-18 18:08:19,,,5,0.07,15,15
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:08:24,,,3,0.04,16,16
+●,0_M,USA,0,U.S.,maxku,19-Apr-18 18:08:29,,,4,0.06,16,16
+●,0_M,JPN,0,his government,maxku,19-Apr-18 18:08:42,,,14,0.21,16,16
+●,0_M,JPN\JPN-I,0,Japanese kidnap victims,maxku,19-Apr-18 18:08:57,,,23,0.34,16,16
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 18:09:03,,,11,0.16,16,16
+●,0_M,USA,0,Matthew Pottinger,maxku,19-Apr-18 18:09:14,,,17,0.25,17,17
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:09:21,,,5,0.07,17,17
+●,0_M,USA,0,National Security Council,maxku,19-Apr-18 18:09:29,,,25,0.37,17,17
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:09:38,,,5,0.07,17,17
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 18:09:45,,,11,0.16,17,17
+●,0_M,PRK\Jong Un,0,Kim,maxku,19-Apr-18 18:09:51,,,3,0.04,17,17
+●,0_M,PRK,0,North Korea,maxku,19-Apr-18 18:09:57,,,11,0.16,17,17
+●,0_M,JPN,0,Abe's government,maxku,19-Apr-18 18:10:08,,,16,0.24,18,18
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:10:14,,,5,0.07,18,18
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:10:23,,,5,0.07,19,19
+●,0_M,JPN,0,Japan,maxku,19-Apr-18 18:10:33,,,5,0.07,19,19
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:10:40,,,5,0.07,20,20
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:10:47,,,3,0.04,20,20
+●,0_M,USA,0,director of Trump's National Economic Council,maxku,19-Apr-18 18:11:36,,,45,0.67,20,20
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:11:42,,,5,0.07,20,20
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:11:48,,,5,0.07,20,20
+●,0_M,JPN,0,Japan,maxku,19-Apr-18 18:11:55,,,5,0.07,21,21
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:12:04,,,5,0.07,21,21
+●,0_M,JPN,0,Japan,maxku,19-Apr-18 18:12:22,,,5,0.07,21,21
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:12:30,,,5,0.07,22,22
+●,0_M,USA,0,United States,maxku,19-Apr-18 18:12:37,,,13,0.19,22,22
+●,0_M,USA,0,Americans,maxku,19-Apr-18 18:12:45,,,9,0.13,22,22
+●,0_M,JPN,0,Japan,maxku,19-Apr-18 18:12:59,,,5,0.07,23,23
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:13:05,,,5,0.07,23,23
+●,0_M,USA,0,Kudlow,maxku,19-Apr-18 18:13:15,,,6,0.09,24,24
+●,0_M,USA,0,Larry Kudlow,maxku,19-Apr-18 18:13:27,,,12,0.18,20,20
+●,0_M,USA,0,U.S.,maxku,19-Apr-18 18:13:43,,,4,0.06,24,24
+●,0_M,JPN,0,Japan,maxku,19-Apr-18 18:13:49,,,5,0.07,25,25
+●,0_M,USA,0,United States,maxku,19-Apr-18 18:13:55,,,13,0.19,25,25
+●,0_M,CHN,0,China,maxku,19-Apr-18 18:14:00,,,5,0.07,25,25
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:14:14,,,3,0.04,26,26
+●,0_M,JPN,0,Tokyo,maxku,19-Apr-18 18:14:23,,,5,0.07,26,26
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:14:38,,,3,0.04,26,26
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:14:49,,,5,0.07,27,27
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:14:55,,,3,0.04,27,27
+●,0_M,JPN,0,His administration,maxku,19-Apr-18 18:15:03,,,18,0.27,27,27
+●,0_M,RUS,0,Russians,maxku,19-Apr-18 18:16:42,,,8,0.12,27,27
+●,0_M,USA,0,Special Counsel,maxku,19-Apr-18 18:16:57,,,15,0.22,27,27
+●,0_M,USA,0,Robert Mueller,maxku,19-Apr-18 18:17:02,,,14,0.21,27,27
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:17:07,,,5,0.07,27,27
+●,0_M,USA\USA-I,0,Kristi Govella,maxku,19-Apr-18 18:17:18,,,14,0.21,28,28
+●,0_M,USA\USA-I,0,assistant professor with the Asian Studies Program at the University of Hawaii at Manoa,maxku,19-Apr-18 18:17:28,,,87,1.30,28,28
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:17:34,,,3,0.04,28,28
+●,0_M,JPN,0,Japan,maxku,19-Apr-18 18:17:42,,,5,0.07,28,28
+●,0_M,USA,0,United States,maxku,19-Apr-18 18:17:50,,,13,0.19,28,28
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:17:57,,,5,0.07,29,29
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:18:03,,,3,0.04,29,29
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:19:27,,,5,0.07,29,29
+●,0_M,USA\Trump,0,Trump,maxku,19-Apr-18 18:20:07,,,5,0.07,30,30
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:20:29,,,3,0.04,31,31
+●,0_M,JPN\Abe,0,Abe,maxku,19-Apr-18 18:20:39,,,3,0.04,31,31
+●,0_M,USA,0,Center for Strategic & International Studies,maxku,19-Apr-18 18:21:04,,,44,0.66,31,31
+●,0_L,USA\Trump,0,President Trump,maxku,20-Apr-18 00:44:47,,,15,0.18,1,1
+●,0_L,USA,0,C.I.A. director,maxku,20-Apr-18 00:45:00,,,15,0.18,1,1
+●,0_L,USA\Mike Pompeo,0,Mike Pompeo,maxku,20-Apr-18 00:45:05,,,11,0.13,1,1
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 00:45:12,,,11,0.13,1,1
+●,0_L,PRK\Jong Un,0,Kim Jong-un,maxku,20-Apr-18 00:45:18,,,11,0.13,1,1
+●,0_L,PRK\Jong Un,0,Mr. Kim,maxku,20-Apr-18 00:45:23,,,7,0.09,1,1
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 00:45:30,,,9,0.11,1,1
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 00:45:49,,,9,0.11,2,2
+●,0_L,USA\Mike Pompeo,0,Mr. Pompeo,maxku,20-Apr-18 00:45:55,,,10,0.12,2,2
+●,0_L,USA,0,United States,maxku,20-Apr-18 00:46:00,,,13,0.16,2,2
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 00:46:07,,,11,0.13,2,2
+●,0_L,USA,0,White House,maxku,20-Apr-18 00:47:16,,,11,0.13,2,2
+●,0_L,USA,0,White House,maxku,20-Apr-18 00:47:21,,,11,0.13,3,3
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 00:47:27,,,11,0.13,3,3
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 00:47:37,,,9,0.11,3,3
+●,0_L,PRK\Jong Un,0,Mr. Kim,maxku,20-Apr-18 00:47:54,,,7,0.09,3,3
+●,0_L,USA\Mike Pompeo,0,Mr. Pompeo,maxku,20-Apr-18 00:47:59,,,10,0.12,4,4
+●,0_L,PRK,0,North Korean representatives,maxku,20-Apr-18 00:48:08,,,28,0.34,4,4
+●,0_L,USA,0,C.I.A.,maxku,20-Apr-18 00:48:14,,,6,0.07,4,4
+●,0_L,PRK,0,North Korean counterpart,maxku,20-Apr-18 00:48:30,,,24,0.29,4,4
+●,0_L,PRK,0,Reconnaissance General Bureau,maxku,20-Apr-18 00:50:52,,,29,0.35,4,4
+●,0_L,PRK,0,director of South Korea’s National Intelligence Service,maxku,20-Apr-18 00:51:01,,,55,0.67,4,4
+●,0_L,PRK,0,Suh Hoon,maxku,20-Apr-18 00:51:07,,,8,0.10,4,4
+●,0_L,USA,0,American officials,maxku,20-Apr-18 00:51:18,,,18,0.22,4,4
+●,0_L,PRK\Jong Un,0,Mr. Kim,maxku,20-Apr-18 00:51:26,,,7,0.09,4,4
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 00:51:33,,,9,0.11,4,4
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 00:51:38,,,9,0.11,5,5
+●,0_L,PRK,0,North and South Korea,maxku,20-Apr-18 00:51:46,,,21,0.26,5,5
+●,0_L,KOR,0,North and South Korea,maxku,20-Apr-18 00:51:54,,,21,0.26,5,5
+●,0_L,JPN\Abe,0,Prime Minister Shinzo Abe,maxku,20-Apr-18 00:52:36,,,25,0.31,6,6
+●,0_L,PRK\Jong Un,0,Mr. Kim,maxku,20-Apr-18 00:52:50,,,7,0.09,6,6
+●,0_L,USA\Trump,0,The president,maxku,20-Apr-18 00:53:00,,,13,0.16,7,7
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 00:53:09,,,11,0.13,7,7
+●,0_L,PRK USA Summit,0,potential meeting,maxku,20-Apr-18 00:53:29,,,17,0.21,7,7
+●,0_L,PRK USA Summit,0,summit meeting,maxku,20-Apr-18 00:53:42,,,14,0.17,1,1
+●,0_L,USA\Mike Pompeo,0,Mr. Pompeo,maxku,20-Apr-18 00:54:12,,,10,0.12,7,7
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 00:54:22,,,11,0.13,8,8
+●,0_L,PRK,0,the North,maxku,20-Apr-18 00:54:35,,,9,0.11,8,8
+●,0_L,USA,0,American troops,maxku,20-Apr-18 00:54:41,,,15,0.18,8,8
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 00:54:55,,,7,0.09,9,9
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 00:55:00,,,9,0.11,9,9
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 00:55:11,,,11,0.13,9,9
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 00:55:31,,,9,0.11,10,10
+●,0_L,KOR,0,the North and the South,maxku,20-Apr-18 00:55:48,,,23,0.28,11,11
+●,0_L,PRK,0,the North and the South,maxku,20-Apr-18 00:55:59,,,23,0.28,11,11
+●,0_L,PRK\Jong Un,0,Mr. Kim,maxku,20-Apr-18 00:56:05,,,7,0.09,11,11
+●,0_L,PRK\PRK-Misc,0,South Korean newspaper,maxku,20-Apr-18 00:58:59,,,22,0.27,12,12
+●,0_L,PRK\PRK-Misc,0,Munhwa Ilbo,maxku,20-Apr-18 00:59:05,,,11,0.13,12,12
+●,0_L,PRK\Jong Un,0,Mr. Kim,maxku,20-Apr-18 00:59:23,,,7,0.09,12,12
+●,0_L,KOR\Moon Jae,0,President Moon Jae-in of South Korea,maxku,20-Apr-18 00:59:48,,,36,0.44,12,12
+●,0_L,KOR,0,South Korean government official,maxku,20-Apr-18 01:00:00,,,32,0.39,13,13
+●,0_L,KOR\Moon Jae,0,Mr. Moon,maxku,20-Apr-18 01:00:16,,,8,0.10,13,13
+●,0_L,PRK\Jong Un,0,Mr. Kim,maxku,20-Apr-18 01:00:21,,,7,0.09,13,13
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 01:02:00,,,11,0.13,13,13
+●,0_L,KOR,0,South Korea,maxku,20-Apr-18 01:02:13,,,11,0.13,14,14
+●,0_L,PRK,0,the North,maxku,20-Apr-18 01:02:22,,,9,0.11,14,14
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:02:32,,,9,0.11,14,14
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:03:07,,,7,0.09,16,16
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:03:13,,,9,0.11,16,16
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 01:03:19,,,11,0.13,16,16
+●,0_L,USA\Trump,0,the president,maxku,20-Apr-18 01:03:42,,,13,0.16,16,16
+●,0_L,USA\Trump,0,Donald,maxku,20-Apr-18 01:03:49,,,6,0.07,17,17
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 01:03:59,,,11,0.13,17,17
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:04:07,,,7,0.09,18,18
+●,0_L,PRK\Jong Un,0,Mr. Kim,maxku,20-Apr-18 01:04:13,,,7,0.09,18,18
+●,0_L,PRK,0,the North,maxku,20-Apr-18 01:04:23,,,9,0.11,18,18
+●,0_L,JPN,0,Japan,maxku,20-Apr-18 01:05:51,,,5,0.06,18,18
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:05:59,,,9,0.11,18,18
+●,0_L,JPN\JPN-I,0,Japanese citizens,maxku,20-Apr-18 01:06:06,,,17,0.21,18,18
+●,0_L,JPN\Abe,0,Abe,maxku,20-Apr-18 01:06:16,,,3,0.04,19,19
+●,0_L,USA,0,senior vice president at the Center for Strategic and International Studies,maxku,20-Apr-18 01:06:33,,,75,0.92,19,19
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 01:06:44,,,11,0.13,19,19
+●,0_L,USA\Trump,0,president of the United States,maxku,20-Apr-18 01:06:52,,,30,0.37,19,19
+●,0_L,CHN,0,China,maxku,20-Apr-18 01:07:52,,,5,0.06,20,20
+●,0_L,JPN,0,Japan,maxku,20-Apr-18 01:08:02,,,5,0.06,20,20
+●,0_L,USA,0,United States,maxku,20-Apr-18 01:08:13,,,13,0.16,20,20
+●,0_L,PRK,0,the North,maxku,20-Apr-18 01:08:22,,,9,0.11,20,20
+●,0_L,USA,0,United States,maxku,20-Apr-18 01:08:35,,,13,0.16,21,21
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 01:08:40,,,11,0.13,21,21
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 01:08:46,,,11,0.13,21,21
+●,0_L,PRK,0,North and South Korea,maxku,20-Apr-18 01:08:53,,,21,0.26,22,22
+●,0_L,KOR,0,North and South Korea,maxku,20-Apr-18 01:09:09,,,21,0.26,22,22
+●,0_L,USA,0,United States,maxku,20-Apr-18 01:09:19,,,13,0.16,22,22
+●,0_L,CHN,0,China,maxku,20-Apr-18 01:10:21,,,5,0.06,22,22
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:10:27,,,7,0.09,23,23
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:10:37,,,9,0.11,23,23
+●,0_L,USA,0,personal lawyer,maxku,20-Apr-18 01:11:39,,,15,0.18,24,24
+●,0_L,USA\USA-Misc,0,James B. Comey,maxku,20-Apr-18 01:11:56,,,14,0.17,24,24
+●,0_L,USA\USA-Misc,0,the F.B.I. director he ousted,maxku,20-Apr-18 01:12:04,,,29,0.35,24,24
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:12:09,,,9,0.11,24,24
+●,0_L,PRK,0,North Korea,maxku,20-Apr-18 01:12:18,,,11,0.13,24,24
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:12:23,,,7,0.09,24,24
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:12:30,,,7,0.09,25,25
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:12:38,,,7,0.09,26,26
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:15:18,,,9,0.11,26,26
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:15:35,,,7,0.09,26,26
+●,0_L,JPN,0,Japan,maxku,20-Apr-18 01:15:43,,,5,0.06,26,26
+●,0_L,USA,0,White House,maxku,20-Apr-18 01:16:29,,,11,0.13,27,27
+●,0_L,JPN,0,Japan,maxku,20-Apr-18 01:16:37,,,5,0.06,27,27
+●,0_L,USA,0,United States,maxku,20-Apr-18 01:16:42,,,13,0.16,27,27
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:16:48,,,7,0.09,27,27
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:16:54,,,9,0.11,27,27
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:17:04,,,9,0.11,27,27
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:17:11,,,7,0.09,27,27
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:17:22,,,9,0.11,27,27
+●,0_L,JPN,0,Japan,maxku,20-Apr-18 01:17:36,,,5,0.06,27,27
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:17:50,,,9,0.11,28,28
+●,0_L,USA,0,Mr. Trump’s chief economic adviser,maxku,20-Apr-18 01:17:59,,,34,0.42,28,28
+●,0_L,USA,0,Larry Kudlow,maxku,20-Apr-18 01:18:06,,,12,0.15,28,28
+●,0_L,USA,0,Mr. Kudlow,maxku,20-Apr-18 01:18:11,,,10,0.12,29,29
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:18:18,,,7,0.09,29,29
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:18:24,,,9,0.11,29,29
+●,0_L,JPN,0,Japan,maxku,20-Apr-18 01:18:33,,,5,0.06,29,29
+●,0_L,USA,0,United States,maxku,20-Apr-18 01:19:42,,,13,0.16,29,29
+●,0_L,JPN,0,Japan,maxku,20-Apr-18 01:19:50,,,5,0.06,29,29
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:19:58,,,9,0.11,29,29
+●,0_L,USA\Trump,0,Mr. Trump,maxku,20-Apr-18 01:20:11,,,9,0.11,31,31
+●,0_L,JPN\Abe,0,Mr. Abe,maxku,20-Apr-18 01:20:16,,,7,0.09,31,31
+●,0_L,USA,0,American officials,maxku,20-Apr-18 01:20:23,,,18,0.22,31,31
+●,0_L,USA,0,Matthew Pottinger,maxku,20-Apr-18 01:20:32,,,17,0.21,32,32
+●,0_L,USA,0,senior director for Asia at the National Security Council,maxku,20-Apr-18 01:20:38,,,57,0.70,32,32
+●,0_LL,USA,0,CIA Director,maxku,20-Apr-18 01:21:03,,,12,0.42,1,1
+●,0_LL,USA\Mike Pompeo,0,Mike Pompeo,maxku,20-Apr-18 01:21:08,,,11,0.38,1,1
+●,0_LL,PRK\Jong Un,0,North Korean Leader,maxku,20-Apr-18 01:21:14,,,19,0.66,1,1
+●,0_LL,PRK\Jong Un,0,Kim Jong Un,maxku,20-Apr-18 01:21:19,,,11,0.38,1,1
+●,0_LL,USA\Trump,0,Donald Trump,maxku,20-Apr-18 01:21:27,,,12,0.42,2,2
+●,0_LL,PRK\Jong Un,0,North Korean leader,maxku,20-Apr-18 01:21:35,,,19,0.66,2,2
+●,0_LL,USA,0,Central Intelligence Agency Director,maxku,20-Apr-18 01:22:49,,,36,1.25,3,3
+●,0_LL,USA\Mike Pompeo,0,Mike Pompeo,maxku,20-Apr-18 01:22:53,,,11,0.38,3,3
+●,0_LL,PRK\Jong Un,0,North Korean leader,maxku,20-Apr-18 01:22:59,,,19,0.66,3,3
+●,0_LL,PRK\Jong Un,0,Kim Jong Un,maxku,20-Apr-18 01:23:04,,,11,0.38,3,3
+●,0_LL,USA\Mike Pompeo,0,Pompeo,maxku,20-Apr-18 01:23:11,,,6,0.21,4,4
+●,0_LL,PRK,0,North Korea,maxku,20-Apr-18 01:23:16,,,11,0.38,4,4
+●,0_LL,USA\Trump,0,U.S. President,maxku,20-Apr-18 01:23:29,,,14,0.49,4,4
+●,0_LL,USA\Trump,0,Donald Trump,maxku,20-Apr-18 01:23:33,,,12,0.42,4,4
+●,0_LL,PRK\Jong Un,0,Kim,maxku,20-Apr-18 01:23:39,,,3,0.10,4,4
+●,0_LL,PRK,0,Pyongyang,maxku,20-Apr-18 01:23:46,,,9,0.31,4,4
+●,0_LL,USA,0,CIA chief,maxku,20-Apr-18 01:23:55,,,9,0.31,4,4
+●,0_LL,USA,0,senators,maxku,20-Apr-18 01:24:02,,,8,0.28,4,4
+●,0_LL,USA\Trump,0,Trump,maxku,20-Apr-18 01:24:07,,,5,0.17,5,5
+●,0_LL,USA\Mike Pompeo,0,Pompeo,maxku,20-Apr-18 01:24:13,,,6,0.21,5,5
+●,0_LL,USA,0,U.S. secretary of state,maxku,20-Apr-18 01:24:19,,,23,0.80,5,5
+●,0_LL,USA,0,United States government,maxku,20-Apr-18 01:24:28,,,24,0.83,5,5
+●,0_LL,USA\Mike Pompeo,0,Pompeo,maxku,20-Apr-18 01:26:32,,,6,0.21,5,5
+●,0_LL,USA,0,Senate Foreign Relations Committee,maxku,20-Apr-18 01:26:38,,,34,1.18,5,5
+●,0_LL,USA,0,America,maxku,20-Apr-18 01:26:45,,,7,0.24,5,5
+●,0_LL,USA,0,U.S.,maxku,20-Apr-18 01:26:50,,,4,0.14,6,6
+●,0_LL,PRK,0,North Korea,maxku,20-Apr-18 01:26:55,,,11,0.38,6,6
+●,0_LL,PRK,0,Pyongyang,maxku,20-Apr-18 01:27:00,,,9,0.31,6,6
+●,0_LL,USA,0,United States,maxku,20-Apr-18 01:27:06,,,13,0.45,6,6
+●,0_LL,KOR,0,South Korea,maxku,20-Apr-18 01:27:15,,,11,0.38,6,6
+●,0_LL,PRK,0,Pyongyang,maxku,20-Apr-18 01:27:31,,,9,0.31,6,6
+●,0_LL,USA,0,U.S.,maxku,20-Apr-18 01:27:41,,,4,0.14,6,6
+●,0_LL,USA,0,White House,maxku,20-Apr-18 01:27:50,,,11,0.38,7,7
+●,0_LL,USA\Trump,0,Trump,maxku,20-Apr-18 01:27:57,,,5,0.17,8,8
+●,0_LL,USA,0,United States,maxku,20-Apr-18 01:28:24,,,13,0.45,8,8
+●,0_LL,USA\Trump,0,The president,maxku,20-Apr-18 01:28:32,,,13,0.45,8,8
+●,0_LL,JPN\Abe,0,Shinzo Abe,maxku,20-Apr-18 01:28:48,,,10,0.35,8,8
+●,0_LL,JPN\Abe,0,Japanese Prime Minister,maxku,20-Apr-18 01:28:58,,,23,0.80,8,8
+●,0_LL,USA\Trump,0,Trump,maxku,20-Apr-18 01:29:10,,,5,0.17,9,9
+●,0_LL,PRK\Jong Un,0,Kim,maxku,20-Apr-18 01:29:18,,,3,0.10,10,10
+●,0_LL,PRK,0,the North,maxku,20-Apr-18 01:29:27,,,9,0.31,10,10
+●,0_LL,USA,0,U.S. diplomats,maxku,20-Apr-18 01:29:34,,,14,0.49,10,10
+●,0_LL,PRK\Jong Un,0,Kim,maxku,20-Apr-18 01:30:01,,,3,0.10,12,12
+●,0_LL,USA,0,Jeffrey Lewis,maxku,20-Apr-18 01:30:14,,,13,0.45,12,12
+●,0_LL,USA,0,director of the East Asia nonproliferation program at the Middlebury Institute,maxku,20-Apr-18 01:30:21,,,78,2.71,12,12
+●,0_LL,PRK\Jong Un,0,Mr. Kim,maxku,20-Apr-18 01:30:29,,,7,0.24,12,12
+●,0_LL,PRK\Jong Un,0,Kim,maxku,20-Apr-18 01:30:37,,,3,0.10,13,13
+●,0_LL,KOR\Moon Jae,0,South Korean President,maxku,20-Apr-18 01:30:48,,,22,0.76,13,13
+●,0_LL,KOR\Moon Jae,0,Moon Jae-in,maxku,20-Apr-18 01:30:52,,,11,0.38,13,13
+●,0_LL,PRK\Jong Un,0,Kim,maxku,20-Apr-18 01:31:02,,,3,0.10,14,14
+●,0_LL,CHN,0,China,maxku,20-Apr-18 01:31:11,,,5,0.17,14,14
+●,0_LL,CHN\Jinping,0,Xi Jinping,maxku,20-Apr-18 01:31:16,,,10,0.35,14,14
+●,0_LL,CHN\Jinping,0,Xi,maxku,20-Apr-18 01:31:23,,,2,0.07,14,14
+●,0_LL,PRK\Jong Un,0,Kim,maxku,20-Apr-18 01:31:29,,,3,0.10,14,14
+●,0_LL,CHN,0,Chinese,maxku,20-Apr-18 01:31:39,,,7,0.24,14,14
+●,0_LL,USA\Trump,0,Trump,maxku,20-Apr-18 01:31:47,,,5,0.17,15,15
+●,0_L,PRK USA Summit,0,summit meeting,maxku,20-Apr-18 01:36:25,,,14,0.17,12,12
+●,0_L,PRK USA Summit,0,meetings,maxku,20-Apr-18 01:36:59,,,8,0.10,23,23
+●,0_M,PRK USA Summit,0,possible meeting,maxku,20-Apr-18 01:37:32,,,16,0.24,8,8
+●,0_R,PRK USA Summit,0,potential summit,maxku,20-Apr-18 01:38:28,,,16,0.43,8,8
+●,0_R,USA\Mike Pompeo,0,CIA Director,AnZhu,23-Apr-18 10:56:29,,,12,0.32,3,3
+●,0_R,USA\Trump,0,the president,AnZhu,23-Apr-18 11:11:05,,,13,0.35,12,12
+●,0_R,Negotiate about the peace,0,negotiate an end to hostilities,AnZhu,23-Apr-18 11:28:27,,,31,0.83,16,16
+●,0_R,Negotiate about the peace,0,long sought a peace treaty,AnZhu,23-Apr-18 11:28:52,,,26,0.70,17,17
+●,0_R,Negotiate about the peace,0,to seek to broach the issue directly,AnZhu,23-Apr-18 11:29:05,,,36,0.97,17,17
+●,0_R,USA,0,United Nations Command,AnZhu,23-Apr-18 11:30:42,,,22,0.59,17,17
+●,0_R,USA,0,U.S.-led forces,AnZhu,23-Apr-18 11:30:58,,,15,0.40,17,17
+●,0_RR,USA\Mike Pompeo,0,nominee to serve as Secretary of State,AnZhu,23-Apr-18 11:38:11,,,38,2.62,2,2
+●,0_RR,USA\USA-Misc,0,Senate Foreign Relations Committee,AnZhu,23-Apr-18 11:45:59,,,34,2.34,5,5
+●,0_M,USA\Mike Pompeo,0,secretary of State pick,AnZhu,23-Apr-18 11:49:45,,,23,0.34,1,1
+●,0_M,Trip to PRK,0,made top-secret visit to North Korea,AnZhu,23-Apr-18 11:50:05,,,36,0.54,1,1
+●,0_RR,Trip to PRK,0,Secretly Met with Kim Jong-un,AnZhu,23-Apr-18 11:50:22,,,29,2.00,1,1
+●,0_RR,Trip to PRK,0,secretly traveled to North Korea,AnZhu,23-Apr-18 11:50:34,,,32,2.21,2,2
+●,0_RR,Trip to PRK,0,to meet with North Korean dictator Kim Jong-un,AnZhu,23-Apr-18 11:50:55,,,46,3.17,2,2
+●,0_RR,Trip to PRK,0,made the trip for high-level talks,AnZhu,23-Apr-18 11:51:18,,,34,2.34,3,3
+●,0_R,Trip to PRK,0,met with the North Korean leader,AnZhu,23-Apr-18 11:51:38,,,32,0.86,2,2
+●,0_R,Trip to PRK,0,met with North Korean dictator,AnZhu,23-Apr-18 11:52:10,,,30,0.81,3,3
+●,0_M,Negotiate about the peace,0,to end their decades-long war,AnZhu,23-Apr-18 11:52:54,,,29,0.43,2,2
+●,0_M,Negotiate about the peace,0,to formally end a state of war,AnZhu,23-Apr-18 11:53:59,,,30,0.45,3,3
+●,0_M,Negotiate about the peace,0,to discuss the end of the war,AnZhu,23-Apr-18 11:54:11,,,29,0.43,4,4
+●,0_M,Negotiate about the peace,0,to formally end the war,AnZhu,23-Apr-18 12:03:06,,,23,0.34,9,9
+●,0_R,Trip to PRK,0,met with Kim Jong Un,AnZhu,23-Apr-18 12:05:54,,,20,0.54,7,7
+●,0_R,Trip to PRK,0,Meeting,AnZhu,23-Apr-18 12:06:49,,,7,0.19,7,7
+●,0_R,Trip to PRK,0,Meeting,AnZhu,23-Apr-18 12:07:27,,,7,0.19,6,6
+●,0_R,Trip to PRK,0,met with Kim Jong Un,AnZhu,23-Apr-18 12:07:33,,,20,0.54,6,6
+●,0_R,Trip to PRK,0,meeting,AnZhu,23-Apr-18 12:08:17,,,7,0.19,5,5
+●,0_R,Trip to PRK,0,"holding direct talks at ""extremely high levels""",AnZhu,23-Apr-18 12:09:09,,,47,1.26,4,4
+●,0_R,PRK USA Summit,0,an extraordinary meeting,AnZhu,23-Apr-18 12:09:24,,,24,0.64,4,4
+●,0_R,Trip to PRK,0,an effort to lay the groundwork for a summit,AnZhu,23-Apr-18 12:10:45,,,44,1.18,3,3
+●,0_R,PRK USA Summit,0,a very good meeting,AnZhu,23-Apr-18 12:12:33,,,19,0.51,10,10
+●,0_R,PRK USA Summit,0,won't have a good meeting,AnZhu,23-Apr-18 12:13:04,,,25,0.67,10,10
+●,0_R,PRK USA Summit,0,won't even have a meeting at all,AnZhu,23-Apr-18 12:13:24,,,32,0.86,10,10
+●,0_R,PRK USA Summit,0,a great chance to solve a world problem,AnZhu,23-Apr-18 12:13:37,,,39,1.05,10,10
+●,0_R,Trip to PRK,0,communicated directly with Washington,AnZhu,23-Apr-18 12:14:18,,,37,0.99,12,12
+●,0_R,PRK USA Summit,0,discuss its nuclear weapons program,AnZhu,23-Apr-18 12:14:45,,,35,0.94,12,12
+●,0_R,PRK USA Summit,0,the U.S. negotiations,AnZhu,23-Apr-18 12:16:42,,,21,0.56,14,14
+●,0_R,PRK USA Summit,0,meet with the North Korean dictator,AnZhu,23-Apr-18 12:16:59,,,35,0.94,14,14
+●,0_R,PRK USA Summit,0,the upcoming summit meeting,AnZhu,23-Apr-18 12:18:09,,,27,0.73,15,15
+●,0_R,PRK USA Summit,0,the third inter-Korean summit,AnZhu,23-Apr-18 12:18:39,,,29,0.78,16,16
+●,0_RR,Trip to PRK,0,“direct talks at very high levels”,AnZhu,23-Apr-18 12:20:38,,,34,2.34,6,6
+●,0_RR,PRK USA Summit,0,a great chance to solve a world problem,AnZhu,23-Apr-18 12:22:09,,,39,2.69,9,9
+●,0_M,Trip to PRK,0,"had direct talks at very high levels, extremely high levels",AnZhu,23-Apr-18 12:22:41,,,59,0.88,5,5
+●,0_M,PRK USA Summit,0,summit might be called off,AnZhu,23-Apr-18 12:25:18,,,26,0.39,6,6
+●,0_M,PRK USA Summit,0,won’t have the meetings,AnZhu,23-Apr-18 12:25:44,,,23,0.34,7,7
+●,0_M,Negotiate about the peace,0,ended that conflict with a truce,AnZhu,23-Apr-18 12:27:46,,,32,0.48,9,9
+●,0_M,JPN\Abe,0,Abe,AnZhu,23-Apr-18 12:29:04,,,3,0.04,12,12
+●,0_M,JPN USA Meeting,0,meetings with the leader of Japan,AnZhu,23-Apr-18 13:10:59,,,33,0.49,3,3
+●,0_M,JPN USA Meeting,0,talks,AnZhu,23-Apr-18 13:11:28,,,5,0.07,4,4
+●,0_M,PRK USA Summit,0,a one-on-one meeting,AnZhu,23-Apr-18 13:17:14,,,20,0.30,5,5
+●,0_M,JPN USA Meeting,0,The Trump-Abe summit,AnZhu,23-Apr-18 13:17:52,,,20,0.30,9,9
+●,0_R,PRK USA Summit,0,a summit between Kim and President Trump,AnZhu,23-Apr-18 13:20:14,,,40,1.07,3,3
+●,0_R,JPN USA Meeting,0,met with Japanese Prime Minister,AnZhu,23-Apr-18 13:22:03,,,32,0.86,9,9
+●,0_R,PRK USA Summit,0,Kim's offer for a summit,AnZhu,23-Apr-18 13:26:27,,,24,0.64,12,12
+●,0_R,PRK KOR Meeting,0,next week's meeting between Kim and South Korean President Moon Jae In,AnZhu,23-Apr-18 13:30:03,,,70,1.88,16,16
+●,0_R,PRK KOR Meeting,0,the third inter-Korean summit,AnZhu,23-Apr-18 13:30:14,,,29,0.78,16,16
+●,0_R,Negotiate about the peace,0,to discuss the end of the war,AnZhu,23-Apr-18 13:32:09,,,29,0.78,18,18
+●,0_RR,PRK USA Summit,0,the planned bilateral meeting with Trump,AnZhu,23-Apr-18 13:32:57,,,40,2.76,3,3
+●,0_RR,JPN USA Meeting,0,hosting Japanese Prime Minister,AnZhu,23-Apr-18 13:33:38,,,31,2.14,6,6
+●,0_RR,Trip to PRK,0,a successful negotiation with North Korea,AnZhu,23-Apr-18 13:34:59,,,41,2.83,8,8
+●,0_RR,PRK USA Summit,0,the meeting could be canceled at any time,AnZhu,23-Apr-18 13:37:53,,,41,2.83,8,8
+●,0_M,PRK KOR Meeting,0,conversations,AnZhu,23-Apr-18 13:38:41,,,13,0.19,2,2
+●,0_M,PRK KOR Meeting,0,talks,AnZhu,23-Apr-18 13:39:32,,,5,0.07,3,3
+●,0_M,PRK USA Summit,0,plans to meet with Kim,AnZhu,23-Apr-18 13:40:48,,,22,0.33,6,6
+●,0_M,JPN USA Meeting,0,Trump's meetings with his Japanese counterpart,AnZhu,23-Apr-18 13:42:31,,,46,0.69,11,11
+●,0_M,JPN USA Meeting,0,an in-depth discussion with Donald,AnZhu,23-Apr-18 13:43:04,,,34,0.51,13,13
+●,0_M,JPN USA Meeting,0,initial meeting,AnZhu,23-Apr-18 13:43:16,,,15,0.22,13,13
+●,0_M,JPN USA Meeting,0,the two-day summit,AnZhu,23-Apr-18 13:43:52,,,18,0.27,14,14
+●,0_M,PRK USA Summit,0,meeting with Kim,AnZhu,23-Apr-18 13:44:10,,,16,0.24,15,15
+●,0_M,PRK USA Summit,0,any meeting with Kim,AnZhu,23-Apr-18 13:45:53,,,20,0.30,17,17
+●,0_M,JPN USA Meeting,0,the Mar-a-Lago summit,AnZhu,23-Apr-18 13:46:59,,,21,0.31,20,20
+●,0_M,JPN,0,his government,AnZhu,23-Apr-18 13:48:10,,,14,0.21,26,26
+●,0_M,JPN\Abe,0,prime minister,AnZhu,23-Apr-18 13:49:06,,,14,0.21,26,26
+●,0_M,JPN USA Meeting,0,the third Trump-Abe summit,AnZhu,23-Apr-18 13:50:02,,,26,0.39,29,29
+●,0_M,JPN USA Meeting,0,Both of those summits,AnZhu,23-Apr-18 13:50:38,,,21,0.31,29,29
+●,0_L,Trip to PRK,0,to meet with its leader,AnZhu,23-Apr-18 13:52:02,,,23,0.28,1,1
+●,0_L,Trip to PRK,0,to lay the groundwork for a summit meeting,AnZhu,23-Apr-18 13:52:13,,,42,0.51,1,1
+●,0_L,Trip to PRK,0,"in direct talks with North Korea at “extremely high levels,”",AnZhu,23-Apr-18 13:52:28,,,60,0.73,2,2
+●,0_L,PRK USA Summit,0,a potential meeting of the two leaders,AnZhu,23-Apr-18 13:52:55,,,38,0.46,2,2
+●,0_L,PRK USA Summit,0,Mr. Kim’s invitation to meet,AnZhu,23-Apr-18 13:53:26,,,28,0.34,3,3
+●,0_L,USA\Mike Pompeo,0,awaiting confirmation as secretary of state,AnZhu,23-Apr-18 13:57:37,,,43,0.53,4,4
+●,0_L,PRK USA Summit,0,Mr. Kim’s invitation,AnZhu,23-Apr-18 13:57:58,,,20,0.24,4,4
+●,0_L,Negotiate about the peace,0,to “discuss the end of the war”,AnZhu,23-Apr-18 13:58:29,,,31,0.38,5,5
+●,0_L,PRK KOR Meeting,0,the leaders of those countries meet,AnZhu,23-Apr-18 13:59:09,,,35,0.43,5,5
+●,0_L,Negotiate about the peace,0,opening the door to a peace treaty,AnZhu,23-Apr-18 13:59:24,,,34,0.42,5,5
+●,0_L,PRK KOR Meeting,0,a diplomatic thaw underway on the Korean Peninsula,AnZhu,23-Apr-18 14:00:17,,,50,0.61,6,6
+●,0_L,PRK USA Summit,0,a once-unthinkable encounter,AnZhu,23-Apr-18 14:01:09,,,28,0.34,6,6
+●,0_L,Trip to PRK,0,was talking to North Korea,AnZhu,23-Apr-18 14:01:43,,,26,0.32,7,7
+●,0_L,Trip to PRK,0,Mr. Pompeo’s trip,AnZhu,23-Apr-18 14:02:23,,,17,0.21,7,7
+●,0_L,PRK USA Summit,0,A peace treaty,AnZhu,23-Apr-18 14:03:03,,,14,0.17,8,8
+●,0_L,JPN USA Meeting,0,his meeting with Mr. Abe,AnZhu,23-Apr-18 14:03:45,,,24,0.29,9,9
+●,0_L,Negotiate about the peace,0,might announce some kind of deal,AnZhu,23-Apr-18 14:04:55,,,32,0.39,11,11
+●,0_L,Negotiate about the peace,0,"were negotiating an announcement “to ease military tensions and end a military confrontation,”",AnZhu,23-Apr-18 14:05:10,,,94,1.15,12,12
+●,0_L,PRK KOR Meeting,0,the summit meeting planned between Mr. Kim and President Moon Jae-in of South Korea,AnZhu,23-Apr-18 14:05:21,,,83,1.01,12,12
+●,0_L,Negotiate about the peace,0,could involve pulling troops out,AnZhu,23-Apr-18 14:06:04,,,32,0.39,13,13
+●,0_L,Negotiate about the peace,0,was aiming for a comprehensive deal,AnZhu,23-Apr-18 14:06:52,,,35,0.43,14,14
+●,0_L,Negotiate about the peace,0,to discuss the end of the war,AnZhu,23-Apr-18 14:07:20,,,29,0.35,15,15
+●,0_L,Negotiate about the peace,0,are discussing an end to war,AnZhu,23-Apr-18 14:07:38,,,28,0.34,15,15
+●,0_L,PRK USA Summit,0,unwavering determination in addressing the challenge of North Korea,AnZhu,23-Apr-18 14:08:37,,,67,0.82,17,17
+●,0_L,PRK USA Summit,0,the talks with Mr. Kim,AnZhu,23-Apr-18 14:08:58,,,22,0.27,18,18
+●,0_L,PRK\Jong Un,0,Mr. Kim,AnZhu,23-Apr-18 14:09:29,,,7,0.09,18,18
+●,0_L,USA\USA-I,0,Michael J. Green,AnZhu,23-Apr-18 14:09:46,,,16,0.20,19,19
+●,0_L,JPN USA Meeting,0,two days of meetings,AnZhu,23-Apr-18 14:16:28,,,20,0.24,23,23
+●,0_L,JPN\Abe,0,a “truly fine gentleman.”,AnZhu,23-Apr-18 14:17:31,,,25,0.31,24,24
+●,0_L,JPN USA Meeting,0,the meeting,AnZhu,23-Apr-18 14:19:03,,,11,0.13,27,27
+●,0_L,JPN USA Meeting,0,the meeting,AnZhu,23-Apr-18 14:19:57,,,11,0.13,28,28
+●,0_LL,Trip to PRK,0,Secretly Met With North Korean Leader,AnZhu,23-Apr-18 14:24:21,,,37,1.28,1,1
+●,0_LL,PRK USA Summit,0,is planning to meet with the North Korean leader,AnZhu,23-Apr-18 14:24:33,,,48,1.67,2,2
+●,0_LL,Trip to PRK,0,reportedly made the secret visit to North Korea,AnZhu,23-Apr-18 14:25:06,,,47,1.63,4,4
+●,0_LL,Trip to PRK,0,to prepare for direct talks,AnZhu,23-Apr-18 14:25:16,,,27,0.94,4,4
+●,0_LL,PRK USA Summit,0,direct talks between U.S. President Donald Trump and Kim,AnZhu,23-Apr-18 14:25:33,,,56,1.94,4,4
+●,0_LL,PRK USA Summit,0,the meeting,AnZhu,23-Apr-18 14:26:12,,,11,0.38,4,4
+●,0_LL,PRK USA Summit,0,such talks,AnZhu,23-Apr-18 14:26:25,,,10,0.35,4,4
+●,0_LL,Trip to PRK,0,the aim of forging a dialogue with the U.S.,AnZhu,23-Apr-18 14:30:03,,,43,1.49,6,6
+●,0_LL,PRK USA Summit,0,the talks,AnZhu,23-Apr-18 14:30:36,,,9,0.31,7,7
+●,0_LL,PRK USA Summit,0,the summit,AnZhu,23-Apr-18 14:30:50,,,10,0.35,8,8
+●,0_LL,PRK USA Summit,0,the meeting,AnZhu,23-Apr-18 14:31:20,,,11,0.38,8,8
+●,0_LL,PRK KOR Meeting,0,upcoming meeting on April 27 with South Korean President Moon Jae-in,AnZhu,23-Apr-18 14:33:17,,,68,2.36,13,13
+●,0_LL,Denuclearization,0,to disarm,AnZhu,23-Apr-18 14:35:35,,,9,0.31,12,12
+●,0_LL,Denuclearization,0,"to engage in a process, headed toward an ambiguous goal.",AnZhu,23-Apr-18 14:35:42,,,56,1.94,12,12
+●,0_LL,Denuclearization,0,to denuclearize,AnZhu,23-Apr-18 14:36:12,,,15,0.52,10,10
+●,0_LL,Denuclearization,0,a longstanding condition,AnZhu,23-Apr-18 14:36:23,,,24,0.83,10,10
+●,0_LL,Denuclearization,0,Pyongyang’s nuclear program,AnZhu,23-Apr-18 14:38:11,,,27,0.94,4,4
+●,0_L,PRK,0,“the results of a tragic experiment in a laboratory of history.”,AnZhu,23-Apr-18 14:40:54,,,64,0.78,9,9
+●,0_L,Denuclearization,0,broad and “abstract” statements about the need for North Korea to “denuclearize.”,AnZhu,23-Apr-18 14:41:52,,,81,0.99,13,13
+●,0_L,Denuclearization,0,give up its weapons,AnZhu,23-Apr-18 14:42:51,,,19,0.23,14,14
+●,0_L,Denuclearization,0,to address the threats posed by its nuclear and missile programs,AnZhu,23-Apr-18 14:44:18,,,64,0.78,18,18
+●,0_L,Denuclearization,0,yet to take any tangible steps to give up its nuclear arsenal,AnZhu,23-Apr-18 14:44:59,,,61,0.75,20,20
+●,0_L,Denuclearization,0,give up its nuclear program,AnZhu,23-Apr-18 14:45:44,,,27,0.33,21,21
+●,0_M,Denuclearization,0,end North Korea's nuclear weapons program,AnZhu,23-Apr-18 14:47:12,,,41,0.61,4,4
+●,0_M,Denuclearization,0,gives up nuclear weapons,AnZhu,23-Apr-18 14:47:52,,,24,0.36,7,7
+●,0_M,Denuclearization,0,North Korea's nuclear weapons program,AnZhu,23-Apr-18 14:48:11,,,37,0.55,11,11
+●,0_M,Denuclearization,0,a deal to destroy only inter-continental missiles,AnZhu,23-Apr-18 14:48:49,,,49,0.73,15,15
+●,0_M,Denuclearization,0,the permanent denuclearization,AnZhu,23-Apr-18 14:49:57,,,30,0.45,17,17
+●,0_RR,Denuclearization,0,a problem for the world,AnZhu,23-Apr-18 14:51:01,,,23,1.59,9,9
+●,0_R,Denuclearization,0,months of heated rhetoric over Pyongyang's nuclear weapons program,AnZhu,23-Apr-18 14:51:37,,,66,1.77,4,4
+●,0_R,Denuclearization,0,Denuclearization,AnZhu,23-Apr-18 14:52:02,,,16,0.43,6,6
+●,0_R,Denuclearization,0,Denuclearization,AnZhu,23-Apr-18 14:52:21,,,16,0.43,7,7
+●,0_M,Negotiate about the peace,0,negotiating a statement,AnZhu,23-Apr-18 14:55:22,,,23,0.34,9,9
+●,0_M,Properties\Importance\Important & Intense,0,top-secret,maxku,24-Apr-18 16:53:26,Trip to PRK,,10,0.15,1,1
+●,0_M,Properties\Power & Strength\Powerful & Leading,0,have his blessing,maxku,24-Apr-18 16:54:49,Trump,,17,0.25,2,2
+●,0_M,Properties\Difficulty\Difficult,0,war that has lasted more than six decades,maxku,24-Apr-18 16:57:38,PRK KOR Meeting,,41,0.61,3,3
+●,0_M,Properties\Power & Strength\Powerful & Leading,0,blessing to discuss,maxku,24-Apr-18 16:58:35,Trump,,19,0.28,4,4
+●,0_M,Properties\Economy\Positive - economy,0,center on trade,maxku,24-Apr-18 16:59:49,JPN USA Meeting,,15,0.22,4,4
+●,0_M,Properties\Importance\Important & Intense,0,very high levels,maxku,24-Apr-18 17:01:19,PRK USA Summit,,16,0.24,5,5
+●,0_M,Properties\Importance\Important & Intense,0,extremely high levels,maxku,24-Apr-18 17:01:24,PRK USA Summit,,21,0.31,5,5
+●,0_M,Trip to PRK,0,top-secret visit,maxku,24-Apr-18 17:03:08,,,16,0.24,5,5
+●,0_M,Properties\Importance\Important & Intense,0,top-secret,maxku,24-Apr-18 17:03:25,Trip to PRK,,10,0.15,5,5
+●,0_M,Properties\Importance\Important & Intense,0,repeated that he plans,maxku,24-Apr-18 17:04:33,PRK USA Summit,,22,0.33,6,6
+●,0_M,Properties\Difficulty\Difficult,0,might be called off,maxku,24-Apr-18 17:07:10,PRK USA Summit,,19,0.28,6,6
+●,0_M,Properties\Difficulty\Difficult,0,lack of agreement,maxku,24-Apr-18 17:07:57,PRK USA Summit,,17,0.25,6,6
+●,0_M,Properties\Difficulty\Difficult,0,possible things won’t go well,maxku,24-Apr-18 17:09:14,PRK USA Summit,,29,0.43,7,7
+●,0_M,Properties\Power & Strength\Powerful & Leading,0,lobbied China and other countries to cut off economic assistance,maxku,24-Apr-18 17:11:07,Trump,,64,0.96,7,7
+●,0_M,Properties\Power & Strength\Weak & Following,0,cut off economic assistance to North Korea,maxku,24-Apr-18 17:12:18,PRK,,42,0.63,7,7
+●,0_M,Properties\Quality\Bad Quality,0,have technically been at war in the decades since,maxku,24-Apr-18 17:15:11,Negotiate about the peace,,49,0.73,9,9
+●,0_M,Properties\Behaviour & character\Confident,0,took credit,maxku,24-Apr-18 17:22:20,Trump,,11,0.16,10,10
+●,0_M,Properties\Behaviour & character\Confident,0,Without us and without me in particular,maxku,24-Apr-18 17:22:59,Trump,,39,0.58,10,10
+●,0_M,Properties\Power & Strength\Weak & Following,0,they wouldn’t be discussing anything,maxku,24-Apr-18 17:23:28,"PRK
+KOR",,36,0.54,10,10
+●,0_M,Properties\Importance\Important & Intense,0,prime topic,maxku,24-Apr-18 17:24:40,Denuclearization,,11,0.16,11,11
+●,0_M,Properties\Power & Strength\Weak & Following,0,seeking an exemption,maxku,24-Apr-18 17:27:13,Abe,,20,0.30,12,12
+●,0_M,Properties\Power & Strength\Weak & Following,0,assurances that the president will take Japanese security into account,maxku,24-Apr-18 17:27:37,Abe,,70,1.05,12,12
+●,0_M,Properties\Power & Strength\Powerful & Leading,0,assurances that the president will take Japanese security into account,maxku,24-Apr-18 17:27:49,Trump,,70,1.05,12,12
+●,0_M,Properties\Power & Strength\Weak & Following,0,losing political support,maxku,24-Apr-18 17:28:13,Abe,,24,0.36,12,12
+●,0_M,Properties\Other\Negative,0,questionable land sales,maxku,24-Apr-18 17:28:36,Abe,,23,0.34,12,12
+●,0_M,Properties\Importance\Important & Intense,0,in-depth,maxku,24-Apr-18 17:29:12,JPN USA Meeting,,8,0.12,13,13
+●,0_M,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,gets along well with,maxku,24-Apr-18 17:30:44,Trump,,20,0.30,14,14
+●,0_M,Properties\Power & Strength\Weak & Following,0,worried,maxku,24-Apr-18 17:35:17,JPN,,7,0.10,15,15
+●,0_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,strike a deal to destroy,maxku,24-Apr-18 17:35:47,Trump,,24,0.36,15,15
+●,0_M,Properties\Behaviour & character\Not trustworthy,0,destroy only inter-continental missiles that could reach the United States,maxku,24-Apr-18 17:36:25,Trump,,74,1.11,15,15
+●,0_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threaten,maxku,24-Apr-18 17:36:44,PRK,,8,0.12,15,15
+●,0_M,Properties\Violence & Unfair\Victim (receiving violence),0,threaten countries in the region,maxku,24-Apr-18 17:37:21,"JPN
+KOR
+CHN",,32,0.48,15,15
+●,0_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,wants them destroyed,maxku,24-Apr-18 17:38:11,JPN,,20,0.30,15,15
+●,0_M,Properties\Power & Strength\Weak & Following,0,looking for more U.S. support,maxku,24-Apr-18 17:38:53,"Abe
+JPN",,29,0.43,16,16
+●,0_M,Properties\Violence & Unfair\Victim (receiving violence),0,Japanese kidnap victims,maxku,24-Apr-18 17:39:23,JPN-I,,23,0.34,16,16
+●,0_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,believed to be held,maxku,24-Apr-18 17:39:59,PRK,,19,0.28,16,16
+●,0_M,Properties\Other\Other,0,believed to be held,maxku,24-Apr-18 17:40:11,PRK,,19,0.28,16,16
+●,0_M,Properties\Power & Strength\Powerful & Leading,0,"challenge ""the full range of threats",maxku,24-Apr-18 17:40:56,Trump,,36,0.54,17,17
+●,0_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threats that North Korea poses,maxku,24-Apr-18 17:41:20,PRK,,30,0.45,17,17
+●,0_M,Properties\Importance\Important & Intense,0,permanent,maxku,24-Apr-18 17:41:39,Denuclearization,,9,0.13,17,17
+●,0_M,Properties\Power & Strength\Weak & Following,0,fears,maxku,24-Apr-18 17:42:27,JPN,,5,0.07,18,18
+●,0_M,Properties\Economy\Negative - economy,0,reduce trade between the two nations,maxku,24-Apr-18 17:42:58,"USA
+JPN",,36,0.54,18,18
+●,0_M,Properties\Economy\Negative - economy,0,make it more costly,maxku,24-Apr-18 17:43:30,"USA
+JPN",,19,0.28,18,18
+●,0_M,Properties\Power & Strength\Powerful & Leading,0,granted exceptions to a number of allies,maxku,24-Apr-18 17:44:25,USA,,40,0.60,19,19
+●,0_M,USA,0,his administration,maxku,24-Apr-18 17:44:40,,,18,0.27,19,19
+●,0_M,Properties\Behaviour & character\Confident,0,expects Abe to ask for an exemption,maxku,24-Apr-18 17:45:20,Trump,,35,0.52,20,20
+●,0_M,Properties\Violence & Unfair\Victim (receiving violence),0,has hit us,maxku,25-Apr-18 08:18:56,USA,,10,0.15,23,23
+●,0_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,has hit us,maxku,25-Apr-18 08:19:23,JPN,,10,0.15,23,23
+●,0_M,Properties\Violence & Unfair\Victim (receiving violence),0,caught in the middle of a trade war,maxku,25-Apr-18 08:20:11,JPN,,35,0.52,25,25
+●,0_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,trade war between the United States and China,maxku,25-Apr-18 08:20:25,"USA
+CHN",,45,0.67,25,25
+●,0_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,each has threatened the other,maxku,25-Apr-18 08:21:23,"USA
+CHN",,29,0.43,25,25
+●,0_M,Properties\Economy\Negative - economy,0,raise prices,maxku,25-Apr-18 08:22:15,"USA
+CHN",,12,0.18,25,25
+●,0_M,Properties\Economy\Negative - economy,0,affecting trading arrangements,maxku,25-Apr-18 08:22:25,"USA
+CHN",,30,0.45,25,25
+●,0_M,Properties\Power & Strength\Weak & Following,0,worried,maxku,25-Apr-18 08:22:51,JPN,,7,0.10,25,25
+●,0_M,Properties\Power & Strength\Weak & Following,0,personal worries,maxku,25-Apr-18 08:23:04,JPN,,16,0.24,26,26
+●,0_M,Properties\Violence & Unfair\Victim (receiving violence),0,under investigation,maxku,25-Apr-18 08:24:21,JPN,,19,0.28,26,26
+●,0_M,Properties\Behaviour & character\Not trustworthy,0,destruction of evidence,maxku,25-Apr-18 08:24:46,JPN,,23,0.34,26,26
+●,0_M,Properties\Behaviour & character\Not trustworthy,0,sought to influence the 2016 election,maxku,25-Apr-18 08:26:56,RUS,,37,0.55,27,27
+●,0_M,Properties\Behaviour & character\Not trustworthy,0,sought to obstruct justice,maxku,25-Apr-18 08:27:38,Trump,,26,0.39,27,27
+●,0_M,Properties\Power & Strength\Powerful & Leading,0,combat perceptions,maxku,25-Apr-18 08:32:03,Abe,,18,0.27,28,28
+●,0_M,Properties\Importance\Important & Intense,0,stakes are high,maxku,25-Apr-18 08:33:52,Abe,,15,0.22,31,31
+●,0_RR,Properties\Importance\Important & Intense,0,secretly traveled,maxku,25-Apr-18 08:40:47,Trip to PRK,,17,1.17,2,2
+●,0_RR,Properties\Importance\Important & Intense,0,high-level,maxku,25-Apr-18 08:41:22,Trip to PRK,,10,0.69,3,3
+●,0_RR,Properties\Behaviour & character\Confident,0,optimistic,maxku,25-Apr-18 08:41:59,Mike Pompeo,,10,0.69,5,5
+●,0_RR,Properties\Importance\Important & Intense,0,very high levels,maxku,25-Apr-18 08:42:38,Trip to PRK,,16,1.10,6,6
+●,0_RR,Properties\Power & Strength\Powerful & Leading,0,eager to conclude,maxku,25-Apr-18 08:43:35,Trump,,17,1.17,8,8
+●,0_RR,Properties\Difficulty\Difficult,0,could be canceled at any time,maxku,25-Apr-18 08:43:54,PRK USA Summit,,29,2.00,8,8
+●,0_RR,Properties\Importance\Important & Intense,0,chance to solve a world problem,maxku,25-Apr-18 08:46:09,PRK USA Summit,,31,2.14,9,9
+●,0_RR,Properties\Importance\Important & Intense,0,a problem for the world,maxku,25-Apr-18 08:46:41,Denuclearization,,23,1.59,9,9
+●,0_R,Properties\Power & Strength\Powerful & Leading,0,lay the groundwork,maxku,25-Apr-18 08:47:39,Mike Pompeo,,18,0.48,3,3
+●,0_R,Properties\Importance\Important & Intense,0,extremely high levels,maxku,25-Apr-18 08:48:10,Trip to PRK,,21,0.56,4,4
+●,0_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,months of heated rhetoric,maxku,25-Apr-18 08:50:43,Trump,,25,0.67,4,4
+●,0_R,Properties\Quality\Functioning,0,went well,maxku,25-Apr-18 08:52:16,Trip to PRK,,9,0.24,5,5
+●,0_R,Properties\Quality\Functioning,0,very smoothly,maxku,25-Apr-18 08:52:36,Trip to PRK,,13,0.35,6,6
+●,0_R,Properties\Quality\Functioning,0,good relationship was formed,maxku,25-Apr-18 08:52:51,Trip to PRK,,28,0.75,6,6
+●,0_R,Properties\Quality\Functioning,0,very smoothly,maxku,25-Apr-18 08:53:13,Trip to PRK,,13,0.35,7,7
+●,0_R,Properties\Quality\Functioning,0,good relationship was formed,maxku,25-Apr-18 08:53:26,Trip to PRK,,28,0.75,7,7
+●,0_R,Properties\Importance\Important & Intense,0,great thing for World,maxku,25-Apr-18 08:53:45,PRK USA Summit,,21,0.56,6,6
+●,0_R,Properties\Importance\Important & Intense,0,great thing for World,maxku,25-Apr-18 08:54:05,PRK USA Summit,,21,0.56,7,7
+●,0_R,Properties\Importance\Important & Intense,0,world problem,maxku,25-Apr-18 08:55:26,Denuclearization,,13,0.35,10,10
+●,0_R,Properties\Other\Other,0,shocked many,maxku,25-Apr-18 10:46:26,Trump,,12,0.32,12,12
+●,0_R,Properties\Power & Strength\Weak & Following,0,voiced fears,maxku,25-Apr-18 11:54:07,Abe,,12,0.32,14,14
+●,0_R,Properties\Violence & Unfair\Victim (receiving violence),0,pose a threat,maxku,25-Apr-18 11:55:08,JPN,,13,0.35,14,14
+●,0_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,pose a threat,maxku,25-Apr-18 11:55:23,PRK,,13,0.35,14,14
+●,0_R,Properties\Behaviour & character\Confident,0,bravery,maxku,25-Apr-18 11:56:11,Trump,,7,0.19,14,14
+●,0_R,Properties\Behaviour & character\Confident,0,courage,maxku,25-Apr-18 11:56:44,Trump,,7,0.19,15,15
+●,0_R,Properties\Difficulty\Difficult,0,has long sought a peace treaty,maxku,25-Apr-18 11:59:04,Negotiate about the peace,,30,0.81,17,17
+●,0_R,Properties\Power & Strength\Powerful & Leading,0,seek to broach the issue,maxku,25-Apr-18 12:03:41,PRK,,24,0.64,17,17
+●,0_R,Properties\Power & Strength\Powerful & Leading,0,have my blessing,maxku,25-Apr-18 12:19:13,Trump,,16,0.43,18,18
+●,0_L,Properties\Behaviour & character\Confident,0,surprisingly brave,maxku,25-Apr-18 12:20:17,Abe,,18,0.22,19,19
+●,0_L,Properties\Affection\Refusal,0,they offered nothing in return,maxku,25-Apr-18 12:23:33,PRK,,30,0.37,19,19
+●,0_L,Negotiate about the peace,0,peace treaty,maxku,25-Apr-18 12:24:45,,,12,0.15,20,20
+●,0_L,Properties\Importance\Important & Intense,0,extremely high levels,maxku,25-Apr-18 15:15:34,Trip to PRK,,21,0.26,2,2
+●,0_L,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,"used intelligence, rather than diplomatic channels",maxku,25-Apr-18 15:16:20,USA,,50,0.61,3,3
+●,0_L,Properties\Power & Strength\Powerful & Leading,0,give his blessing,maxku,25-Apr-18 15:33:17,Trump,,17,0.21,5,5
+●,0_L,Properties\Difficulty\Difficult,0,once-unthinkable encounter,maxku,25-Apr-18 15:44:27,PRK USA Summit,,26,0.32,6,6
+●,0_L,Properties\Other\Other,0,aura of mystery,maxku,25-Apr-18 15:47:04,PRK USA Summit,,15,0.18,7,7
+●,0_L,Properties\Power & Strength\Powerful & Leading,0,could raise other thorny issues,maxku,25-Apr-18 15:48:31,Trump,,31,0.38,8,8
+●,0_L,Properties\Behaviour & character\Confident,0,projected optimism,maxku,25-Apr-18 15:50:42,Trump,,18,0.22,9,9
+●,0_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,called it cruel and barbaric,maxku,25-Apr-18 15:51:12,Trump,,28,0.34,9,9
+●,0_L,Properties\Other\Other,0,worlds away from the speech he gave in November,maxku,25-Apr-18 15:55:08,Trump,,47,0.57,9,9
+●,0_L,Properties\Quality\Bad Quality,0,tragic experiment in a laboratory of history,maxku,25-Apr-18 15:55:35,PRK,,44,0.54,9,9
+●,0_L,Properties\Power & Strength\Weak & Following,0,lavished praise,maxku,25-Apr-18 16:12:48,Abe,,15,0.18,16,16
+●,0_L,Properties\Power & Strength\Powerful & Leading,0,unwavering determination,maxku,25-Apr-18 16:13:07,Trump,,24,0.29,17,17
+●,0_L,Properties\Difficulty\Difficult,0,challenge of North Korea,maxku,25-Apr-18 16:13:43,PRK,,24,0.29,17,17
+●,0_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threats posed by its nuclear and missile programs,maxku,25-Apr-18 16:14:05,PRK,,49,0.60,18,18
+●,0_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,abduction of Japanese citizens,maxku,25-Apr-18 16:14:18,PRK,,30,0.37,18,18
+●,0_L,Properties\Violence & Unfair\Victim (receiving violence),0,abduction of Japanese citizens,maxku,25-Apr-18 16:14:25,JPN,,30,0.37,18,18
+●,0_L,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,suspicious of one,maxku,25-Apr-18 16:19:24,"JPN
+USA",,17,0.21,20,20
+●,0_L,Properties\Other\Negative,0,reneged on pledges to give up its nuclear program,maxku,25-Apr-18 16:24:59,PRK,,49,0.60,21,21
+●,0_L,Properties\Importance\Important & Intense,0,signers to the armistice,maxku,25-Apr-18 16:25:25,"USA
+CHN",,24,0.29,22,22
+●,0_L,Properties\Safety\Unsafe,0,political storm clouds,maxku,25-Apr-18 16:26:05,"Trump
+Abe",,22,0.27,23,23
+●,0_L,Properties\Other\Negative,0,ominous reports,maxku,25-Apr-18 16:27:00,USA,,15,0.18,24,24
+●,0_L,USA,0,Michael D. Cohen,maxku,25-Apr-18 16:31:58,,,16,0.20,24,24
+●,0_L,Properties\Other\Negative,0,unflattering descriptions,maxku,25-Apr-18 16:32:50,Trump,,25,0.31,24,24
+●,0_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,ousted,maxku,25-Apr-18 16:33:10,Trump,,6,0.07,24,24
+●,0_L,Properties\Violence & Unfair\Victim (receiving violence),0,ousted,maxku,25-Apr-18 16:33:20,USA-Misc,,6,0.07,24,24
+●,0_L,USA,0,F.B.I. director,maxku,25-Apr-18 16:33:46,,,15,0.18,24,24
+●,0_L,Properties\Affection\Affection or empathy,0,truly fine,maxku,25-Apr-18 16:34:31,Trump,,10,0.12,24,24
+●,0_L,Properties\Safety\Unsafe,0,political survival is in doubt,maxku,25-Apr-18 16:40:34,Abe,,30,0.37,25,25
+●,0_L,Properties\Safety\Unsafe,0,sapped his approval ratings,maxku,25-Apr-18 16:45:22,Abe,,27,0.33,25,25
+●,0_L,Properties\Economy\Negative - economy,0,challenges in trade,maxku,25-Apr-18 16:50:05,JPN,,19,0.23,26,26
+●,0_L,Properties\Importance\Important & Intense,0,great ally,maxku,25-Apr-18 16:50:44,JPN,,10,0.12,27,27
+●,0_L,Properties\Power & Strength\Powerful & Leading,0,great ally,maxku,25-Apr-18 16:50:48,JPN,,10,0.12,27,27
+●,0_L,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,sought to put a good face on,maxku,25-Apr-18 16:51:53,USA,,28,0.34,27,27
+●,0_L,Properties\Difficulty\Difficult,0,differences over,maxku,25-Apr-18 16:52:30,JPN USA Meeting,,16,0.20,27,27
+●,0_L,Properties\Violence & Unfair\Victim (receiving violence),0,stung by Mr. Trump’s decision,maxku,25-Apr-18 16:53:39,Abe,,29,0.35,27,27
+●,0_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,stung by Mr. Trump’s decision,maxku,25-Apr-18 16:53:46,Trump,,29,0.35,27,27
+●,0_L,Properties\Importance\Important & Intense,0,anchored by,maxku,25-Apr-18 16:57:57,JPN,,11,0.13,29,29
+●,0_L,Properties\Difficulty\Difficult,0,certain disagreements,maxku,25-Apr-18 17:00:44,JPN USA Meeting,,21,0.26,28,28
+●,0_L,Properties\Power & Strength\Powerful & Leading,0,grant Japan an exemption,maxku,25-Apr-18 17:01:26,Trump,,24,0.29,29,29
+●,0_LL,Properties\Power & Strength\Powerful & Leading,0,planning to meet,maxku,25-Apr-18 17:02:54,Trump,,16,0.56,2,2
+●,0_LL,Properties\Behaviour & character\Confident,0,was encouraged,maxku,25-Apr-18 17:04:41,PRK USA Summit,,14,0.49,4,4
+●,0_LL,Properties\Behaviour & character\Confident,0,I’m optimistic that,maxku,25-Apr-18 17:05:17,Mike Pompeo,,19,0.66,5,5
+●,0_LL,Properties\Importance\Important & Intense,0,so desperately need,maxku,25-Apr-18 17:07:58,PRK USA Summit,,19,0.66,5,5
+●,0_LL,KOR,0,Envoys from the South,maxku,25-Apr-18 17:11:18,,,21,0.73,6,6
+●,0_LL,Properties\Power & Strength\Powerful & Leading,0,forging a dialogue,maxku,25-Apr-18 17:11:27,KOR,,18,0.62,6,6
+●,0_LL,Properties\Importance\Important & Intense,0,longstanding condition,maxku,25-Apr-18 17:12:36,Denuclearization,,22,0.76,10,10
+●,0_LL,Properties\Importance\Important & Intense,0,must be on the table,maxku,25-Apr-18 17:12:50,Denuclearization,,20,0.69,10,10
+●,0_LL,PRK,0,the country,maxku,25-Apr-18 17:15:33,,,11,0.38,11,11
+●,0_M,JPN,0,important partner,felix,03-May-18 14:15:50,,,17,0.25,28,28
+●,0_M,Properties\Importance\Important & Intense,0,important,felix,03-May-18 14:16:42,JPN,,9,0.13,28,28
+●,0_R,Properties\Other\Other,0,have a very good meeting or we won't,felix,03-May-18 14:30:15,PRK USA Summit,,36,0.97,10,10
+●,0_L,PRK,0,"North Korea, a declared nuclear weapons state",AnZhu,05-Jan-19 22:29:43,,,45,0.55,19,19
+●,0_L,PRK,0,North Korea,AnZhu,08-Apr-19 19:52:41,,,11,0.13,26,26
+●,0_R,Properties\Power & Strength\Powerful & Leading,0,U.S.-led forces in the conflict,AnZhu,08-Apr-19 19:53:15,USA,,31,0.83,17,17

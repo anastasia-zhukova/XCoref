@@ -1,0 +1,10 @@
+,person-ne,person-nes,person-nn,person-nns,group-ne,group,country-ne,country,misc
+person-ne,0,0,0.5,0,0,0,0,0,0
+person-nes,0,0.6,0.5,0.5,0,0,0,0,0
+person-nn,0.5,0.5,0.5,0.5,0,0,0,0,0.6
+person-nns,0,0.5,0.5,0.5,0,0,0,0,0.6
+group-ne,0,0,0,0,0.4,0,0,0,0.7
+group,0,0,0,0,0,0.5,0,0,0.7
+country-ne,0,0,0,0,0,0,0,0.5,0.7
+country,0,0,0,0,0,0,0.5,0.5,0.7
+misc,0,0,0.6,0.6,0.7,0.7,0.7,0.7,0.45

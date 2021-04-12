@@ -1,0 +1,992 @@
+﻿Color,Document name,Code,Weight score,Segment,Author,Creation date,Comment,Document group,Area,Coverage %,Beginning,End
+●,6_R,USA,0,Trump administration,maxku,09-05-18 20:23,,,20,0.41,1,1
+●,6_R,Migrant caravan,0,Asylum-seekers,maxku,09-05-18 20:24,,,14,0.29,2,2
+●,6_R,USA,0,Trump administration,maxku,09-05-18 20:25,,,20,0.41,2,2
+●,6_R,Migrant caravan,0,caravan participants,maxku,09-05-18 20:26,,,20,0.41,3,3
+●,6_R,Migrant caravan,0,Migrants,maxku,09-05-18 20:27,,,8,0.17,4,4
+●,6_R,USA,0,the United States,maxku,09-05-18 20:27,,,17,0.35,4,4
+●,6_R,Migrant caravan,0,Immigrants,maxku,09-05-18 20:27,,,10,0.21,5,5
+●,6_R,Migrant caravan,0,the migrants,maxku,09-05-18 20:28,,,12,0.25,6,6
+●,6_R,USA\USA-I,0,good attorneys,maxku,09-05-18 20:28,,,14,0.29,6,6
+●,6_R,USA\Trump,0,President Donald Trump,maxku,09-05-18 20:28,,,22,0.46,7,7
+●,6_R,USA,0,members of his Cabinet,maxku,09-05-18 20:28,,,22,0.46,7,7
+●,6_R,USA,0,U.S.,maxku,09-05-18 20:28,,,4,0.08,7,7
+●,6_R,USA\Trump,0,the president,maxku,09-05-18 20:29,,,13,0.27,7,7
+●,6_R,USA,0,U.S.,maxku,09-05-18 20:29,,,4,0.08,7,7
+●,6_R,MEX,0,Mexico,maxku,09-05-18 20:29,,,6,0.12,3,3
+●,6_R,MEX,0,Mexico,maxku,09-05-18 20:31,,,6,0.12,4,4
+●,6_R,MEX,0,Mexico,maxku,09-05-18 20:31,,,6,0.12,6,6
+●,6_R,MEX,0,Mexico,maxku,09-05-18 20:31,,,6,0.12,8,8
+●,6_R,MEX,0,their country,maxku,09-05-18 20:32,,,13,0.27,8,8
+●,6_M,Migrant caravan,0,migrants,maxku,09-05-18 20:32,,,8,0.11,1,1
+●,6_M,USA,0,the United States,maxku,09-05-18 20:33,,,17,0.24,1,1
+●,6_M,MEX,0,Mexico,maxku,09-05-18 20:33,,,6,0.08,3,3
+●,6_M,Migrant caravan,0,200 migrants,maxku,09-05-18 20:33,,,12,0.17,3,3
+●,6_M,Migrant caravan\Migrant caravan-I,0,18-year-old Karina Gomez,maxku,09-05-18 20:34,,,24,0.34,4,4
+●,6_M,Migrant caravan,0,the migrants,maxku,09-05-18 20:34,,,12,0.17,5,5
+●,6_M,Migrant caravan\Migrant caravan-I,0,"44-year-old mother, Emilia Palacio",maxku,09-05-18 20:34,,,34,0.47,4,4
+●,6_M,USA,0,the United States,maxku,09-05-18 20:35,,,17,0.24,5,5
+●,6_M,USA\Trump,0,President Trump,maxku,09-05-18 20:35,,,15,0.21,5,5
+●,6_M,Migrant caravan,0,migrants,maxku,09-05-18 20:39,,,8,0.11,5,5
+●,6_M,Migrant caravan,0,the migrants,maxku,09-05-18 20:40,,,12,0.17,6,6
+●,6_M,Migrant caravan,0,migrants,maxku,09-05-18 20:42,,,8,0.11,7,7
+●,6_M,Migrant caravan\Migrant caravan-I,0,The couples,maxku,09-05-18 20:43,,,11,0.15,9,9
+●,6_M,Migrant caravan\Migrant caravan-I,0,four young couples,maxku,09-05-18 20:43,,,18,0.25,8,8
+●,6_M,Migrant caravan\Migrant caravan-I,0,married couples,maxku,09-05-18 20:43,,,15,0.21,10,10
+●,6_M,USA,0,U.S.,maxku,09-05-18 20:43,,,4,0.06,10,10
+●,6_M,Migrant caravan,0,migrants seeking asylum,maxku,09-05-18 20:46,,,23,0.32,12,12
+●,6_M,Supporters\Supporters-I,0,Emma Lozano,maxku,09-05-18 20:48,,,11,0.15,10,10
+●,6_M,Supporters\Supporters-I,0,a Christian pastor from Chicago,maxku,09-05-18 20:48,,,31,0.43,10,10
+●,6_M,Supporters,0,80 U.S. families,maxku,09-05-18 20:48,,,16,0.22,12,12
+●,6_M,Supporters\Supporters-I,0,Heather Cronk,maxku,09-05-18 20:48,,,13,0.18,12,12
+●,6_M,Supporters\Supporters-I,0,co-director of Showing Up For Racial Justice,maxku,09-05-18 20:49,,,44,0.61,12,12
+●,6_RR,USA,0,United States,maxku,09-05-18 20:51,,,13,0.54,2,2
+●,6_RR,MEX,0,Mexico,maxku,09-05-18 20:51,,,6,0.25,2,2
+●,6_RR,Migrant caravan,0,Members of the caravan,maxku,09-05-18 20:51,,,22,0.92,3,3
+●,6_RR,USA,0,U.S. authorities,maxku,09-05-18 20:52,,,16,0.67,3,3
+●,6_RR,USA,0,U.S. Customs and Border Protection,maxku,09-05-18 20:52,,,34,1.42,3,3
+●,6_RR,Migrant caravan,0,individuals,maxku,09-05-18 20:53,,,11,0.46,4,4
+●,6_RR,MEX,0,Mexico,maxku,09-05-18 20:53,,,6,0.25,4,4
+●,6_RR,USA,0,CBP officers,maxku,09-05-18 20:53,,,12,0.5,4,4
+●,6_R,USA,0,lawyers,maxku,09-05-18 20:54,,,7,0.15,6,6
+●,6_R,USA\USA-I,0,Los Angeles lawyer Nora Phillips,maxku,09-05-18 20:54,,,32,0.66,6,6
+●,6_R,USA,0,bearers of horrible news,maxku,09-05-18 20:54,,,24,0.5,6,6
+●,6_R,USA,0,immigration lawyers,maxku,09-05-18 20:55,,,19,0.39,4,4
+●,6_R,USA,0,lawyers,maxku,09-05-18 20:55,,,7,0.15,5,5
+●,6_R,USA,0,U.S. immigration lawyers,maxku,09-05-18 20:55,,,24,0.5,3,3
+●,6_M,USA,0,immigrant advocates,maxku,09-05-18 20:55,,,19,0.27,5,5
+●,6_M,USA,0,credible-fear officers,maxku,09-05-18 20:56,,,22,0.31,5,5
+●,6_M,USA,0,immigration judges,maxku,09-05-18 20:56,,,18,0.25,5,5
+●,6_M,USA,0,prosecutors,maxku,09-05-18 20:56,,,11,0.15,5,5
+●,6_M,USA,0,National Guard troops,maxku,09-05-18 20:56,,,21,0.29,5,5
+●,6_M,USA,0,U.S. border officers,maxku,09-05-18 20:56,,,20,0.28,3,3
+●,6_RR,USA\USA-I,0,Pete Flores,maxku,09-05-18 20:56,,,11,0.46,4,4
+●,6_RR,USA\USA-I,0,director of field operations for CBP,maxku,09-05-18 20:56,,,36,1.5,4,4
+●,6_RR,Migrant caravan,0,migrants,maxku,09-05-18 20:57,,,8,0.33,6,6
+●,6_RR,USA,0,US law,maxku,09-05-18 20:57,,,6,0.25,7,7
+●,6_RR,USA,0,border officials,maxku,09-05-18 20:58,,,16,0.67,8,8
+●,6_RR,Supporters,0,demonstrators,maxku,09-05-18 20:58,,,13,0.54,8,8
+●,6_RR,USA\USA-I,0,CBP Chief Patrol Agent,maxku,09-05-18 20:58,,,22,0.92,9,9
+●,6_RR,USA\USA-I,0,Rodney S. Scott,maxku,09-05-18 20:58,,,15,0.63,9,9
+●,6_R,USA\USA-I,0,Chief Patrol Agent,maxku,09-05-18 20:59,,,18,0.37,9,9
+●,6_R,USA\USA-I,0,Rodney Scott,maxku,09-05-18 20:59,,,12,0.25,9,9
+●,6_RR,USA,0,the United States,maxku,09-05-18 20:59,,,17,0.71,9,9
+●,6_RR,USA,0,a very welcoming country,maxku,09-05-18 20:59,,,24,1,10,10
+●,6_RR,USA\USA-I,0,Scott,maxku,09-05-18 21:00,,,5,0.21,10,10
+●,6_L,Migrant caravan,0,Members of the migrant caravan,maxku,09-05-18 21:00,,,30,0.34,2,2
+●,6_L,USA,0,the United States,maxku,09-05-18 21:01,,,17,0.19,3,3
+●,6_L,MEX,0,Mexico,maxku,09-05-18 21:01,,,6,0.07,3,3
+●,6_L,USA\Trump,0,President Trump,maxku,09-05-18 21:01,,,15,0.17,3,3
+●,6_L,Migrant caravan,0,More than 150 migrants,maxku,09-05-18 21:01,,,22,0.25,4,4
+●,6_L,MEX,0,Mexico,maxku,09-05-18 21:01,,,6,0.07,4,4
+●,6_L,USA,0,United States immigration officials,maxku,09-05-18 21:01,,,35,0.39,4,4
+●,6_L,Migrant caravan,0,the migrants,maxku,09-05-18 21:01,,,12,0.14,5,5
+●,6_L,USA,0,the immigration officials,maxku,09-05-18 21:02,,,25,0.28,5,5
+●,6_L,Migrant caravan,0,immigrants,maxku,09-05-18 21:03,,,10,0.11,6,6
+●,6_L,USA\Trump,0,Mr. Trump,maxku,09-05-18 21:04,,,9,0.1,6,6
+●,6_L,Migrant caravan,0,the migrants,maxku,09-05-18 21:04,,,12,0.14,7,7
+●,6_L,Migrant caravan\Migrant caravan-I,0,Mario Quintanillo,maxku,09-05-18 21:04,,,17,0.19,8,8
+●,6_L,Migrant caravan\Migrant caravan-I,0,Cecilia Sarai Carillo,maxku,09-05-18 21:04,,,21,0.24,8,8
+●,6_L,Migrant caravan\Migrant caravan-I,0,four couples who wed at the beach,maxku,09-05-18 21:04,,,33,0.37,8,8
+●,6_L,Migrant caravan\Migrant caravan-I,0,Daryeline Ariana,maxku,09-05-18 21:04,,,16,0.18,8,8
+●,6_L,USA\Trump,0,Trump’,maxku,09-05-18 21:04,,,6,0.07,9,9
+●,6_L,USA\Trump,0,President Trump,maxku,09-05-18 21:05,,,15,0.17,10,10
+●,6_L,MEX,0,Mexico,maxku,09-05-18 21:05,,,6,0.07,10,10
+●,6_L,Migrant caravan\Migrant caravan-I,0,Mr. Quintanillo,maxku,09-05-18 21:05,,,15,0.17,12,12
+●,6_L,USA\Trump,0,Mr. Trump,maxku,09-05-18 21:05,,,9,0.1,13,13
+●,6_L,MEX,0,Mexico,maxku,09-05-18 21:05,,,6,0.07,13,13
+●,6_L,USA\Trump,0,Mr. Trump,maxku,09-05-18 21:06,,,9,0.1,13,13
+●,6_L,USA,0,Congress,maxku,09-05-18 21:06,,,8,0.09,13,13
+●,6_L,USA\Trump,0,Mr. Trump,maxku,09-05-18 21:06,,,9,0.1,13,13
+●,6_L,USA\Trump,0,Mr. Trump,maxku,09-05-18 21:06,,,9,0.1,14,14
+●,6_L,USA,0,Republicans,maxku,09-05-18 21:06,,,11,0.12,14,14
+●,6_LL,USA\Trump,0,Trump,maxku,09-05-18 21:07,,,5,0.06,1,1
+●,6_LL,USA,0,The White House,maxku,09-05-18 21:07,,,15,0.18,2,2
+●,6_LL,USA,0,the National Guard,maxku,09-05-18 21:07,,,18,0.21,2,2
+●,6_LL,Migrant caravan,0,the asylum-seekers,maxku,09-05-18 21:07,,,18,0.21,2,2
+●,6_LL,USA\Trump,0,President Donald Trump,maxku,09-05-18 21:08,,,22,0.26,3,3
+●,6_LL,USA,0,the United States,maxku,09-05-18 21:08,,,17,0.2,3,3
+●,6_LL,USA,0,the National Guard,maxku,09-05-18 21:08,,,18,0.21,3,3
+●,6_LL,USA\Trump,0,Trump,maxku,09-05-18 21:09,,,5,0.06,4,4
+●,6_LL,USA,0,his administration,maxku,09-05-18 21:09,,,18,0.21,4,4
+●,6_LL,Supporters,0,immigrant rights activists,maxku,09-05-18 21:09,,,26,0.31,5,5
+●,6_LL,Supporters,0,legal observers,maxku,09-05-18 21:09,,,15,0.18,5,5
+●,6_LL,Migrant caravan,0,the caravan’s participants,maxku,09-05-18 21:10,,,26,0.31,5,5
+●,6_LL,USA,0,the U.S. side of the border,maxku,09-05-18 21:10,,,27,0.32,6,6
+●,6_LL,Supporters,0,group of about 100 people,maxku,09-05-18 21:10,,,25,0.3,6,6
+●,6_LL,Supporters,0,200 of their counterparts,maxku,09-05-18 21:10,,,25,0.3,6,6
+●,6_LL,MEX,0,the two countries,maxku,09-05-18 21:11,,,17,0.2,6,6
+●,6_LL,USA,0,the two countries,maxku,09-05-18 21:11,,,17,0.2,6,6
+●,6_LL,USA,0,this administration,maxku,09-05-18 21:11,,,19,0.23,7,7
+●,6_LL,Supporters\Supporters-I,0,demonstrator Laiken Jordahl,maxku,09-05-18 21:11,,,27,0.32,7,7
+●,6_LL,USA,0,The administration,maxku,09-05-18 21:11,,,18,0.21,7,7
+●,6_LL,Supporters\Supporters-I,0,Roberto Saravia,maxku,09-05-18 21:11,,,15,0.18,8,8
+●,6_LL,USA,0,the Trump administration,maxku,09-05-18 21:12,,,24,0.29,8,8
+●,6_LL,USA,0,the U.S.,maxku,09-05-18 21:12,,,8,0.1,8,8
+●,6_LL,Migrant caravan,0,immigrants,maxku,09-05-18 21:12,,,10,0.12,8,8
+●,6_LL,USA-MEX Border,0,U.S. Border,maxku,09-05-18 21:12,,,11,0.13,1,1
+●,6_LL,USA-MEX Border,0,the U.S.-Mexico border,maxku,09-05-18 21:13,,,22,0.26,4,4
+●,6_LL,USA-MEX Border,0,the U.S.-Mexico border,maxku,09-05-18 21:13,,,22,0.26,5,5
+●,6_LL,USA-MEX Border,0,the border,maxku,09-05-18 21:13,,,10,0.12,6,6
+●,6_LL,USA-MEX Border,0,This border,maxku,09-05-18 21:13,,,11,0.13,8,8
+●,6_L,USA-MEX Border,0,U.S. Border,maxku,09-05-18 21:14,,,11,0.12,1,1
+●,6_L,USA-MEX Border,0,the border wall,maxku,09-05-18 21:14,,,15,0.17,2,2
+●,6_L,USA-MEX Border,0,the border,maxku,09-05-18 21:14,,,10,0.11,3,3
+●,6_L,USA-MEX Border,0,border,maxku,09-05-18 21:14,,,6,0.07,4,4
+●,6_L,USA-MEX Border,0,Border Wall,maxku,09-05-18 21:14,,,11,0.12,9,9
+●,6_L,USA-MEX Border,0,the American border,maxku,09-05-18 21:14,,,19,0.21,11,11
+●,6_L,USA-MEX Border,0,proposed border wall,maxku,09-05-18 21:15,,,20,0.23,13,13
+●,6_M,USA-MEX Border,0,the border fence,maxku,09-05-18 21:15,,,16,0.22,2,2
+●,6_M,USA-MEX Border,0,the southern border,maxku,09-05-18 21:15,,,19,0.27,5,5
+●,6_M,USA-MEX Border,0,the border fence,maxku,09-05-18 21:15,,,16,0.22,6,6
+●,6_M,USA-MEX Border,0,the border fence,maxku,09-05-18 21:15,,,16,0.22,8,8
+●,6_M,USA-MEX Border,0,the border,maxku,09-05-18 21:15,,,10,0.14,11,11
+●,6_M,USA-MEX Border,0,the border,maxku,09-05-18 21:16,,,10,0.14,14,14
+●,6_R,USA,0,border inspectors,maxku,09-05-18 21:16,,,17,0.35,2,2
+●,6_R,USA-MEX Border,0,the border with San Diego,maxku,09-05-18 21:17,,,25,0.52,3,3
+●,6_R,USA-MEX Border,0,their Northern Border,maxku,09-05-18 21:17,,,21,0.44,8,8
+●,6_RR,USA-MEX Border,0,U.S.-Mexico border,maxku,09-05-18 21:17,,,18,0.75,1,1
+●,6_RR,USA-MEX Border,0,the border between the United States and Mexico,maxku,09-05-18 21:17,,,47,1.96,2,2
+●,6_RR,USA-MEX Border,0,the border,maxku,09-05-18 21:18,,,10,0.42,6,6
+●,6_RR,USA-MEX Border,0,the border,maxku,09-05-18 21:18,,,10,0.42,8,8
+●,6_RR,USA-MEX Border,0,the border fence,maxku,09-05-18 21:18,,,16,0.67,8,8
+●,6_RR,USA-MEX Border,0,the border,maxku,09-05-18 21:18,,,10,0.42,11,11
+●,6_LL,USA-MEX Border,0,border,felix,18-05-18 16:57,,,6,0.07,3,3
+●,6_RR,Migrant caravan\People without borders,0,Pueblos Sin Fronteras,maxku,21-05-18 12:00,,,21,0.88,5,5
+●,6_RR,Migrant caravan\People without borders,0,People Without Borders,maxku,21-05-18 12:00,,,22,0.92,5,5
+●,6_M,Migrant caravan\People without borders,0,the transnational group that organized the caravan,maxku,21-05-18 12:02,,,50,0.7,7,7
+●,6_M,Migrant caravan\People without borders,0,Irineo Mujica,maxku,21-05-18 12:02,,,13,0.18,7,7
+●,6_LL,Migrant caravan\People without borders,0,the caravan’s organizers,maxku,21-05-18 12:03,,,24,0.29,3,3
+●,6_LL,Migrant caravan\People without borders,0,smugglers,maxku,21-05-18 12:03,,,9,0.11,3,3
+●,6_LL,Migrant caravan\People without borders,0,The caravan’s organizers,maxku,21-05-18 12:04,,,24,0.29,5,5
+●,6_LL,Migrant caravan,0,migrants,maxku,21-05-18 12:05,,,8,0.1,11,11
+●,6_LL,Migrant caravan,0,the migrants traveling with the caravan,maxku,21-05-18 12:05,,,39,0.46,12,12
+●,6_LL,Migrant caravan,0,the migrants,maxku,21-05-18 12:05,,,12,0.14,13,13
+●,6_LL,Migrant caravan,0,Central American migrants,maxku,21-05-18 12:05,,,25,0.3,13,13
+●,6_LL,Migrant caravan,0,unauthorized immigrants,maxku,21-05-18 12:05,,,23,0.27,15,15
+●,6_LL,Migrant caravan,0,immigrants,maxku,21-05-18 12:05,,,10,0.12,16,16
+●,6_LL,Migrant caravan,0,Migrants,maxku,21-05-18 12:05,,,8,0.1,16,16
+●,6_LL,Migrant caravan,0,immigrants,maxku,21-05-18 12:06,,,10,0.12,16,16
+●,6_LL,Migrant caravan,0,migrants,maxku,21-05-18 12:06,,,8,0.1,24,24
+●,6_RR,Migrant caravan,0,Members of migrant caravan,maxku,21-05-18 12:08,,,26,1.09,1,1
+●,6_RR,Migrant caravan,0,A caravan of hundreds of migrants,maxku,21-05-18 12:08,,,33,1.38,2,2
+●,6_RR,Migrant caravan,0,The effort,maxku,21-05-18 12:08,,,10,0.42,5,5
+●,6_RR,Migrant caravan,0,The group marching toward the border,maxku,21-05-18 12:08,,,36,1.5,8,8
+●,6_RR,Migrant caravan,0,the caravan,maxku,21-05-18 12:08,,,11,0.46,8,8
+●,6_RR,Migrant caravan,0,members of the caravan,maxku,21-05-18 12:09,,,22,0.92,13,13
+●,6_R,Migrant caravan,0,these large “Caravans” of people,maxku,21-05-18 12:09,,,32,0.66,8,8
+●,6_R,Migrant caravan,0,the caravan,maxku,21-05-18 12:09,,,11,0.23,9,9
+●,6_R,Migrant caravan,0,the caravan,maxku,21-05-18 12:10,,,11,0.23,7,7
+●,6_R,Migrant caravan,0,a threat to the U.S.,maxku,21-05-18 12:10,,,20,0.41,7,7
+●,6_R,Migrant caravan,0,the caravan,maxku,21-05-18 12:10,,,11,0.23,7,7
+●,6_R,Migrant caravan,0,Asylum-seeking immigrant 'caravan',maxku,21-05-18 12:10,,,34,0.71,1,1
+●,6_R,Migrant caravan,0,"a ""caravan""",maxku,21-05-18 12:10,,,11,0.23,2,2
+●,6_M,Migrant caravan,0,Migrant caravan,maxku,21-05-18 12:11,,,15,0.21,1,1
+●,6_M,Migrant caravan,0,a group,maxku,21-05-18 12:11,,,7,0.1,3,3
+●,6_M,Migrant caravan,0,the migrant caravan,maxku,21-05-18 12:11,,,19,0.27,4,4
+●,6_M,Migrant caravan,0,a caravan,maxku,21-05-18 12:11,,,9,0.13,5,5
+●,6_M,Migrant caravan,0,the migrant caravan,maxku,21-05-18 12:12,,,19,0.27,6,6
+●,6_M,Migrant caravan,0,the caravan,maxku,21-05-18 12:12,,,11,0.15,7,7
+●,6_L,Migrant caravan,0,a caravan of immigrants,maxku,21-05-18 12:17,,,23,0.26,3,3
+●,6_L,Migrant caravan,0,a caravan,maxku,21-05-18 12:17,,,9,0.1,4,4
+●,6_LL,Migrant caravan,0,Migrant Caravan,maxku,21-05-18 12:18,,,15,0.18,1,1
+●,6_LL,Migrant caravan,0,the caravan,maxku,21-05-18 12:18,,,11,0.13,3,3
+●,6_LL,Migrant caravan,0,the caravan,maxku,21-05-18 12:19,,,11,0.13,4,4
+●,6_LL,Migrant caravan,0,The caravan,maxku,21-05-18 12:19,,,11,0.13,5,5
+●,6_LL,Migrant caravan,0,a caravan of hundreds of Central Americans,maxku,21-05-18 12:19,,,42,0.5,3,3
+●,6_LL,Migrant caravan,0,a caravan of Central American migrants,maxku,21-05-18 12:20,,,38,0.45,17,17
+●,6_RR,Migration to the USA,0,to reach U.S.-Mexico border,maxku,21-05-18 12:34,,,27,1.13,1,1
+●,6_RR,Migration to the USA,0,wait to be processed by U.S. authorities,maxku,21-05-18 12:35,,,40,1.67,3,3
+●,6_RR,Migration to the USA,0,to turn themselves in,maxku,21-05-18 12:35,,,21,0.88,6,6
+●,6_R,Migration to the USA,0,the caravan's steady approach to the U.S.,maxku,21-05-18 12:36,,,41,0.85,7,7
+●,6_R,Migration to the USA,0,to pass through into our country,maxku,21-05-18 12:37,,,32,0.66,8,8
+●,6_R,Migration to the USA,0,several attempted illegal entries,maxku,21-05-18 12:37,,,33,0.68,9,9
+●,6_R,Migration to the USA,0,illegally entered the United States,maxku,21-05-18 12:38,,,35,0.73,10,10
+●,6_M,Migration to the USA,0,driving families to flee,maxku,21-05-18 12:38,,,24,0.34,7,7
+●,6_L,Migration to the USA,0,"A long, grueling journey",maxku,21-05-18 12:39,,,24,0.27,3,3
+●,6_L,Migration to the USA,0,reached the border,maxku,21-05-18 12:39,,,18,0.2,3,3
+●,6_L,Migration to the USA,0,a dramatic moment,maxku,21-05-18 12:39,,,17,0.19,3,3
+●,6_L,Migration to the USA,0,a test of President Trump’s anti-immigrant politics,maxku,21-05-18 12:39,,,51,0.57,3,3
+●,6_L,Migration to the USA,0,prepared to seek asylum from United States immigration officials,maxku,21-05-18 12:40,,,64,0.72,4,4
+●,6_L,Migration to the USA,0,an immigration drama,maxku,21-05-18 12:40,,,20,0.23,6,6
+●,6_L,Migration to the USA,0,headed north together as a form of protection,maxku,21-05-18 12:40,,,45,0.51,6,6
+●,6_L,Migration to the USA,0,a volatile flash point in the immigration debate ignited by Mr. Trump.,maxku,21-05-18 12:40,,,70,0.79,6,6
+●,6_LL,Migration to the USA,0,traveling through Mexico,maxku,21-05-18 12:41,,,24,0.29,3,3
+●,6_LL,Migration to the USA,0,a “crisis” at the border,maxku,21-05-18 12:42,,,24,0.29,3,3
+●,6_LL,Migration to the USA,0,made their way to the U.S.-Mexico border,maxku,21-05-18 12:42,,,40,0.48,4,4
+●,6_LL,Migration to the USA,0,begun crossing into the U.S.,maxku,21-05-18 12:42,,,28,0.33,9,9
+●,6_LL,Migrant caravan,0,a group of about 150 of the caravan’s members,maxku,21-05-18 12:42,,,45,0.54,9,9
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,Threats,maxku,26-05-18 12:14,Trump,,7,0.08,1,1
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,Threats,maxku,26-05-18 12:14,Migrant caravan,,7,0.08,1,1
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,mobilized,maxku,26-05-18 12:15,USA,,9,0.11,2,2
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threatened prosecution,maxku,26-05-18 12:15,USA,,22,0.26,2,2
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,threatened prosecution,maxku,26-05-18 12:15,Migrant caravan,,22,0.26,2,2
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,whipped himself into a fury,maxku,26-05-18 12:15,Trump,,27,0.32,3,3
+●,6_LL,Properties\Importance\Important & Intense,0,national security threat,maxku,26-05-18 12:16,Migrant caravan,,24,0.29,2,2
+●,6_LL,Properties\Power & Strength\Weak & Following,0,seek asylum,maxku,26-05-18 12:16,Migrant caravan,,11,0.13,3,3
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,mobilized,maxku,26-05-18 12:17,Trump,,9,0.11,3,3
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,railed against,maxku,26-05-18 12:17,Trump,,14,0.17,3,3
+●,6_LL,Properties\Importance\Important & Intense,0,crisis,maxku,26-05-18 12:17,Migration to the USA,,6,0.07,3,3
+●,6_LL,Properties\Importance\Unimportant,0,plummeted to their lowest,maxku,26-05-18 12:20,Migration to the USA,,25,0.3,3,3
+●,6_LL,USA\USA-I,0,The secretary of homeland security,maxku,26-05-18 12:20,,,34,0.41,3,3
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,issued a statement,maxku,26-05-18 12:20,USA-I,,18,0.21,3,3
+●,6_LL,Properties\Law\Unlawful,0,smugglers,maxku,26-05-18 12:20,Migrant caravan,,9,0.11,3,3
+●,6_LL,USA\USA-I,0,the attorney general,maxku,26-05-18 12:21,,,20,0.24,3,3
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threatened,maxku,26-05-18 12:21,USA-I,,10,0.12,3,3
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,threatened,maxku,26-05-18 12:21,Migrant caravan,,10,0.12,3,3
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,made their way to,maxku,26-05-18 12:21,Migrant caravan,,17,0.2,4,4
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,fulminations against,maxku,26-05-18 12:22,Trump,,20,0.24,4,4
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,fulminations against,maxku,26-05-18 12:22,Migrant caravan,,20,0.24,4,4
+●,6_LL,Properties\Safety\Unsafe,0,unclear whether his administration has any practical way,maxku,26-05-18 12:22,Migration to the USA,,56,0.67,4,4
+●,6_LL,Migration to the USA,0,crossing,maxku,26-05-18 12:22,,,8,0.1,4,4
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,marched toward,maxku,26-05-18 12:22,"Migrant caravan
+Supporters",,14,0.17,5,5
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,marched,maxku,26-05-18 12:24,Migrant caravan,,7,0.08,5,5
+●,6_LL,Properties\Affection\Affection or empathy,0,No borders,maxku,26-05-18 12:24,Migration to the USA,,10,0.12,6,6
+●,6_LL,Properties\Affection\Affection or empathy,0,No wall,maxku,26-05-18 12:24,Migration to the USA,,7,0.08,6,6
+●,6_LL,Properties\Affection\Affection or empathy,0,Sanctuary for all,maxku,26-05-18 12:24,Migration to the USA,,17,0.2,6,6
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,marched along,maxku,26-05-18 12:25,Supporters,,13,0.15,6,6
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,gathered in front of,maxku,26-05-18 12:25,Supporters,,20,0.24,6,6
+●,6_LL,Properties\Power & Strength\Weak & Following,0,push back against,maxku,26-05-18 12:26,"Migrant caravan
+Supporters",,17,0.2,7,7
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,culture of hate,maxku,26-05-18 12:26,USA,,15,0.18,7,7
+●,6_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,bigotry,maxku,26-05-18 12:27,USA,,7,0.08,7,7
+●,6_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,fear cannot be accepted,maxku,26-05-18 12:27,USA,,23,0.27,7,7
+●,6_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,doesn’t even talk to us,maxku,26-05-18 12:29,USA,,23,0.27,7,7
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,come out and march,maxku,26-05-18 12:29,Supporters,,18,0.21,7,7
+●,6_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,ridiculous,maxku,26-05-18 12:29,Migrant caravan,,10,0.12,8,8
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,get scapegoated,maxku,26-05-18 12:30,USA,,15,0.18,8,8
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,get scapegoated,maxku,26-05-18 12:30,Migrant caravan,,15,0.18,8,8
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,get mistreated,maxku,26-05-18 12:30,Migrant caravan,,14,0.17,8,8
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,get mistreated,maxku,26-05-18 12:30,USA,,14,0.17,8,8
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,get criminalized,maxku,26-05-18 12:30,USA,,16,0.19,8,8
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,get criminalized,maxku,26-05-18 12:30,Migrant caravan,,16,0.19,8,8
+●,6_LL,USA-MEX Border,0,a divide,maxku,26-05-18 12:31,,,8,0.1,8,8
+●,6_LL,Properties\Affection\Refusal,0,that shouldn’t be here,maxku,26-05-18 12:31,USA-MEX Border,,22,0.26,8,8
+●,6_LL,Properties\Affection\Refusal,0,shouldn’t divide us,maxku,26-05-18 12:32,USA-MEX Border,,19,0.23,8,8
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,crossing,maxku,26-05-18 12:32,"Migrant caravan
+Supporters",,8,0.1,9,9
+●,6_LL,Migrant caravan\People without borders,0,organizers,maxku,26-05-18 12:33,,,10,0.12,9,9
+●,6_LL,Supporters,0,legal advisers,maxku,26-05-18 12:33,,,14,0.17,9,9
+●,6_LL,USA,0,U.S. Customs and Border Protection,maxku,26-05-18 12:33,,,34,0.41,10,10
+●,6_LL,Properties\Other\Other,0,warned,maxku,26-05-18 12:33,USA,,6,0.07,10,10
+●,6_LL,Properties\Other\Negative,0,limit the number of asylum-seekers,maxku,26-05-18 12:36,Migrant caravan,,34,0.41,10,10
+●,6_LL,Migrant caravan,0,those individuals,maxku,26-05-18 12:36,,,17,0.2,10,10
+●,6_LL,Properties\Power & Strength\Weak & Following,0,need to wait,maxku,26-05-18 12:37,Migrant caravan,,12,0.14,10,10
+●,6_LL,USA,0,CBP officers,maxku,26-05-18 12:37,,,12,0.14,10,10
+●,6_LL,USA\USA-I,0,CBP Commissioner Kevin McAleenan,maxku,26-05-18 12:37,,,32,0.38,10,10
+●,6_LL,Properties\Power & Strength\Weak & Following,0,many of whom were children,maxku,26-05-18 12:38,Migrant caravan,,26,0.31,11,11
+●,6_LL,Properties\Power & Strength\Weak & Following,0,sleeping on the ground outside,maxku,26-05-18 12:38,Migrant caravan,,30,0.36,11,11
+●,6_LL,Properties\Power & Strength\Weak & Following,0,waiting to present their claims,maxku,26-05-18 12:38,Migrant caravan,,31,0.37,11,11
+●,6_LL,USA,0,immigration officials,maxku,26-05-18 12:39,,,21,0.25,11,11
+●,6_LL,USA,0,U.S. immigration officials,maxku,26-05-18 12:39,,,26,0.31,11,11
+●,6_LL,Properties\Power & Strength\Weak & Following,0,had yet to speak to,maxku,26-05-18 12:39,Migrant caravan,,19,0.23,11,11
+●,6_LL,Properties\Behaviour & character\Not trustworthy,0,using the excuse,maxku,26-05-18 12:41,USA,,16,0.19,12,12
+●,6_LL,Supporters\Supporters-I,0,Nicole Ramos,maxku,26-05-18 12:41,,,12,0.14,12,12
+●,6_LL,Supporters\Supporters-I,0,attorney with the nonprofit group Al Otro Lado,maxku,26-05-18 12:41,,,46,0.55,12,12
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,provided legal services,maxku,26-05-18 12:41,Supporters-I,,23,0.27,12,12
+●,6_LL,Properties\Power & Strength\Weak & Following,0,"children, infants, a disabled woman who relies on her mother",maxku,26-05-18 12:42,Migrant caravan,,60,0.71,12,12
+●,6_LL,Properties\Power & Strength\Weak & Following,0,most vulnerable asylum seekers,maxku,26-05-18 12:43,Migrant caravan-I,,30,0.36,12,12
+●,6_LL,Migrant caravan\Migrant caravan-I,0,trans women,maxku,26-05-18 12:43,,,11,0.13,12,12
+●,6_LL,USA,0,the U.S.,maxku,26-05-18 12:43,,,8,0.1,12,12
+●,6_LL,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,creating a humanitarian crisis that doesn’t need to be created,maxku,26-05-18 12:43,USA,,62,0.74,12,12
+●,6_LL,Properties\Importance\Important & Intense,0,humanitarian crisis,maxku,26-05-18 12:43,Migration to the USA,,19,0.23,12,12
+●,6_LL,USA,0,The Trump administration,maxku,26-05-18 12:44,,,24,0.29,13,13
+●,6_LL,USA,0,the U.S.,maxku,26-05-18 12:44,,,8,0.1,13,13
+●,6_LL,USA,0,his administration,maxku,26-05-18 12:44,,,18,0.21,13,13
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threats,maxku,26-05-18 12:44,USA,,7,0.08,13,13
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,threats,maxku,26-05-18 12:44,Migrant caravan,,7,0.08,13,13
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,dissuading,maxku,26-05-18 12:44,USA,,10,0.12,13,13
+●,6_LL,Properties\Other\Other,0,hoping that it won’t have to,maxku,26-05-18 12:45,USA,,28,0.33,13,13
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,plan to present asylum claims,maxku,26-05-18 12:45,Migrant caravan,,29,0.35,13,13
+●,6_LL,Properties\Power & Strength\Weak & Following,0,have yet to decide,maxku,26-05-18 12:45,Migrant caravan,,18,0.21,13,13
+●,6_LL,USA,0,the White House,maxku,26-05-18 12:46,,,15,0.18,14,14
+●,6_LL,Properties\Other\Other,0,whether the White House’s actions do anything,maxku,26-05-18 12:46,USA,,45,0.54,14,14
+●,6_LL,Properties\Other\Negative,0,noise and slow-walking,maxku,26-05-18 12:47,Migrant caravan,,22,0.26,14,14
+●,6_LL,USA\Trump,0,Trump,maxku,26-05-18 12:47,,,5,0.06,15,15
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,Trump’s ire,maxku,26-05-18 12:47,Trump,,11,0.13,15,15
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,Trump’s ire,maxku,26-05-18 12:47,Migrant caravan,,11,0.13,15,15
+●,6_LL,Migrant caravan,0,the caravan,maxku,26-05-18 12:47,,,11,0.13,15,15
+●,6_LL,Properties\Power & Strength\Weak & Following,0,larger concerns,maxku,26-05-18 12:48,Trump,,15,0.18,15,15
+●,6_LL,USA,0,the U.S.,maxku,26-05-18 12:49,,,8,0.1,15,15
+●,6_LL,USA-MEX Border,0,the border,maxku,26-05-18 12:49,,,10,0.12,15,15
+●,6_LL,USA,0,immigration court,maxku,26-05-18 12:49,,,17,0.2,15,15
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,uniformly detaining or deporting them,maxku,26-05-18 12:49,USA,,37,0.44,15,15
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,uniformly detaining or deporting them,maxku,26-05-18 12:49,Migrant caravan,,37,0.44,15,15
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,wants the U.S. to stop releasing unauthorized immigrants,maxku,26-05-18 12:50,Trump,,56,0.67,15,15
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,catch and release,maxku,26-05-18 12:50,Trump,,17,0.2,15,15
+●,6_LL,USA\USA-I,0,Attorney General Jeff Sessions,maxku,26-05-18 12:50,,,30,0.36,15,15
+●,6_LL,Properties\Behaviour & character\Confident,0,enthusiastic,maxku,26-05-18 12:50,USA-I,,12,0.14,15,15
+●,6_LL,USA,0,U.S. law,maxku,26-05-18 12:51,,,8,0.1,16,16
+●,6_LL,USA,0,detention centers,maxku,26-05-18 13:07,,,17,0.2,16,16
+●,6_LL,MEX,0,Mexico,maxku,26-05-18 13:07,,,6,0.07,16,16
+●,6_LL,Properties\Difficulty\Easy,0,can be deported quickly,maxku,26-05-18 13:07,Migrant caravan,,23,0.27,16,16
+●,6_LL,USA-MEX Border,0,the border,maxku,26-05-18 13:08,,,10,0.12,16,16
+●,6_LL,Properties\Difficulty\Difficult,0,aren’t as easy to deport,maxku,26-05-18 13:08,Migrant caravan,,24,0.29,16,16
+●,6_LL,Properties\Difficulty\Difficult,0,can’t be detained for long,maxku,26-05-18 13:08,Migrant caravan,,26,0.31,16,16
+●,6_LL,USA,0,the Office of Refugee Resettlement,maxku,26-05-18 13:08,,,34,0.41,16,16
+●,6_LL,Properties\Difficulty\Difficult,0,cannot usually be locked up,maxku,26-05-18 13:08,Migrant caravan,,27,0.32,16,16
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,right to apply for asylum,maxku,26-05-18 13:09,Migrant caravan,,25,0.3,16,16
+●,6_LL,Properties\Other\Positive,0,often qualify,maxku,26-05-18 13:09,Migrant caravan,,13,0.15,16,16
+●,6_LL,Supporters,0,immigrant rights activists,maxku,26-05-18 13:09,,,26,0.31,17,17
+●,6_LL,Supporters,0,legal observers,maxku,26-05-18 13:09,,,15,0.18,17,17
+●,6_LL,USA-MEX Border,0,the U.S.-Mexico border,maxku,26-05-18 13:09,,,22,0.26,17,17
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,march toward,maxku,26-05-18 13:09,Supporters,,12,0.14,17,17
+●,6_LL,Migration to the USA,0,the arrival,maxku,26-05-18 13:10,,,11,0.13,17,17
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,plan to request asylum,maxku,26-05-18 13:10,Migrant caravan,,22,0.26,17,17
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,repeated threats,maxku,26-05-18 13:10,USA,,16,0.19,17,17
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,repeated threats,maxku,26-05-18 13:10,Migrant caravan,,16,0.19,17,17
+●,6_LL,USA,0,Trump administration officials,maxku,26-05-18 13:10,,,30,0.36,17,17
+●,6_LL,USA,0,the Trump administration,maxku,26-05-18 13:10,,,24,0.29,18,18
+●,6_LL,Properties\Other\Other,0,have likened the arrival,maxku,26-05-18 13:10,USA,,24,0.29,18,18
+●,6_LL,Migration to the USA,0,the arrival,maxku,26-05-18 13:10,,,11,0.13,18,18
+●,6_LL,Migrant caravan,0,a few hundred Central Americans seeking asylum,maxku,26-05-18 13:11,,,46,0.55,18,18
+●,6_LL,Properties\Power & Strength\Weak & Following,0,seeking asylum,maxku,26-05-18 13:11,Migrant caravan,,14,0.17,18,18
+●,6_LL,Properties\Importance\Important & Intense,0,national security crisis,maxku,26-05-18 13:11,"Migrant caravan
+Migration to the USA",,24,0.29,18,18
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,attempt to deter,maxku,26-05-18 13:11,Trump,,16,0.19,18,18
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,attempt to deter,maxku,26-05-18 13:11,Migrant caravan,,16,0.19,18,18
+●,6_LL,USA\Trump,0,Trump,maxku,26-05-18 13:12,,,5,0.06,18,18
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,mobilized,maxku,26-05-18 13:12,Trump,,9,0.11,18,18
+●,6_LL,USA,0,the National Guard,maxku,26-05-18 13:12,,,18,0.21,18,18
+●,6_LL,USA-MEX Border,0,the four Southwest border states,maxku,26-05-18 13:12,,,32,0.38,18,18
+●,6_LL,Properties\Other\Negative,0,presence will be purely ornamental,maxku,26-05-18 13:12,USA,,34,0.41,18,18
+●,6_LL,USA,0,the National Guard,maxku,26-05-18 13:12,,,18,0.21,18,18
+●,6_LL,Migrant caravan,0,the caravan’s members,maxku,26-05-18 13:13,,,21,0.25,18,18
+●,6_LL,Properties\Power & Strength\Weak & Following,0,can’t make,maxku,26-05-18 13:13,USA,,10,0.12,18,18
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,plan to travel,maxku,26-05-18 13:13,Migrant caravan,,14,0.17,18,18
+●,6_LL,USA\USA-I,0,Homeland Security Secretary Kirstjen Nielsen,maxku,26-05-18 13:13,,,44,0.52,19,19
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,aggressive but toothless statement,maxku,26-05-18 13:13,USA-I,,34,0.41,19,19
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,aggressive but toothless statement,maxku,26-05-18 13:13,Migrant caravan,,34,0.41,19,19
+●,6_LL,Migrant caravan,0,the caravan,maxku,26-05-18 13:14,,,11,0.13,19,19
+●,6_LL,MEX,0,Mexico,maxku,26-05-18 13:14,,,6,0.07,19,19
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,encouraged,maxku,26-05-18 13:14,USA-I,,10,0.12,19,19
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,monitoring,maxku,26-05-18 13:14,USA,,10,0.12,19,19
+●,6_LL,USA,0,the department,maxku,26-05-18 13:14,,,14,0.17,19,19
+●,6_LL,USA\USA-I,0,Nielsen,maxku,26-05-18 13:15,,,7,0.08,20,20
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,will enforce the immigration laws,maxku,26-05-18 13:15,USA,,33,0.39,20,20
+●,6_LL,Properties\Behaviour & character\Confident,0,will enforce the immigration laws,maxku,26-05-18 13:15,USA,,33,0.39,20,20
+●,6_LL,USA,0,Congress,maxku,26-05-18 13:15,,,8,0.1,20,20
+●,6_LL,Migration to the USA,0,enter our country illegally,maxku,26-05-18 13:16,,,27,0.32,20,20
+●,6_LL,Properties\Law\Unlawful,0,illegally,maxku,26-05-18 13:16,Migration to the USA,,9,0.11,20,20
+●,6_LL,Properties\Law\Unlawful,0,broken the law,maxku,26-05-18 13:16,Migrant caravan,,14,0.17,20,20
+●,6_LL,Properties\Law\Unlawful,0,referred for prosecution,maxku,26-05-18 13:16,Migrant caravan,,24,0.29,20,20
+●,6_LL,Properties\Behaviour & character\Not trustworthy,0,make a false immigration claim,maxku,26-05-18 13:16,Migrant caravan,,30,0.36,20,20
+●,6_LL,Properties\Law\Unlawful,0,broken the law,maxku,26-05-18 13:16,Migrant caravan,,14,0.17,20,20
+●,6_LL,Properties\Law\Unlawful,0,referred for prosecution,maxku,26-05-18 13:17,Migrant caravan,,24,0.29,20,20
+●,6_LL,Properties\Law\Unlawful,0,assist or coach an individual in making a false immigration claim,maxku,26-05-18 13:17,Supporters,,65,0.77,20,20
+●,6_LL,Properties\Behaviour & character\Not trustworthy,0,making a false immigration claim,maxku,26-05-18 13:17,Migrant caravan,,32,0.38,20,20
+●,6_LL,Properties\Law\Unlawful,0,broken the law,maxku,26-05-18 13:17,"Supporters
+Migrant caravan",,14,0.17,20,20
+●,6_LL,Properties\Law\Unlawful,0,referred for prosecution,maxku,26-05-18 13:17,"Migrant caravan
+Supporters",,24,0.29,20,20
+●,6_LL,USA\USA-I,0,Nielsen,maxku,26-05-18 13:18,,,7,0.08,21,21
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,targeting,maxku,26-05-18 13:18,USA-I,,9,0.11,21,21
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,targeting,maxku,26-05-18 13:18,Migrant caravan,,9,0.11,21,21
+●,6_LL,Migrant caravan,0,the caravan,maxku,26-05-18 13:18,,,11,0.13,21,21
+●,6_LL,Properties\Affection\Refusal,0,met with criticism,maxku,26-05-18 13:18,USA-I,,18,0.21,21,21
+●,6_LL,USA\USA-I,0,Rep. Bennie Thompson,maxku,26-05-18 13:18,,,20,0.24,21,21
+●,6_LL,USA\USA-I,0,the ranking member of the House Committee on Homeland Security,maxku,26-05-18 13:18,,,62,0.74,21,21
+●,6_LL,USA,0,the House Committee on Homeland Security,maxku,26-05-18 13:18,,,40,0.48,21,21
+●,6_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,overkill,maxku,26-05-18 13:19,USA-I,,8,0.1,22,22
+●,6_LL,USA\USA-I,0,Thompson,maxku,26-05-18 13:19,,,8,0.1,22,22
+●,6_LL,USA\Trump,0,Trump,maxku,26-05-18 13:20,,,5,0.06,22,22
+●,6_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,would have expected [Trump] to have been briefed,maxku,26-05-18 13:20,Trump,,48,0.57,22,22
+●,6_LL,USA,0,intelligence officials,maxku,26-05-18 13:20,,,22,0.26,22,22
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,elevate this into some heightened sense of threat,maxku,26-05-18 13:20,USA-I,,49,0.58,22,22
+●,6_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,just didn’t measure up,maxku,26-05-18 13:20,USA-I,,22,0.26,22,22
+●,6_LL,USA\USA-I,0,Sessions,maxku,26-05-18 13:21,,,8,0.1,23,23
+●,6_LL,Migrant caravan,0,the caravan,maxku,26-05-18 13:21,,,11,0.13,23,23
+●,6_LL,USA,0,U.S. Attorneys,maxku,26-05-18 13:22,,,14,0.17,23,23
+●,6_LL,USA-MEX Border,0,the border,maxku,26-05-18 13:22,,,10,0.12,23,23
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,directed,maxku,26-05-18 13:22,USA-I,,8,0.1,23,23
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,take whatever immediate action,maxku,26-05-18 13:22,USA,,30,0.36,23,23
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,ensure that we have sufficient prosecutors available,maxku,26-05-18 13:22,USA,,52,0.62,23,23
+●,6_LL,Properties\Other\Other,0,unclear,maxku,26-05-18 13:22,USA,,7,0.08,24,24
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threats,maxku,26-05-18 13:22,USA,,7,0.08,24,24
+●,6_LL,USA\USA-I,0,Nielsen,maxku,26-05-18 13:23,,,7,0.08,24,24
+●,6_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,accuses,maxku,26-05-18 13:23,USA-I,,7,0.08,24,24
+●,6_LL,Properties\Violence & Unfair\Victim (receiving violence),0,accuses,maxku,26-05-18 13:23,Supporters,,7,0.08,24,24
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,“coaching”,maxku,26-05-18 13:23,Supporters,,10,0.12,24,24
+●,6_LL,Supporters,0,The people whom Nielsen accuses of “coaching” the caravan’s members,maxku,26-05-18 13:23,,,67,0.8,24,24
+●,6_LL,Migrant caravan,0,the caravan’s members,maxku,26-05-18 13:23,,,21,0.25,24,24
+●,6_LL,Supporters,0,lawyers and immigrant rights advocates,maxku,26-05-18 13:26,,,38,0.45,24,24
+●,6_LL,Properties\Power & Strength\Powerful & Leading,0,counseling,maxku,26-05-18 13:26,Supporters,,10,0.12,24,24
+●,6_LL,Properties\Power & Strength\Weak & Following,0,counseling,maxku,26-05-18 13:26,Migrant caravan,,10,0.12,24,24
+●,6_LL,Properties\Power & Strength\Weak & Following,0,“coaching”,maxku,26-05-18 13:26,Migrant caravan,,10,0.12,24,24
+●,6_LL,Migrant caravan,0,the caravan’s members,maxku,26-05-18 13:26,,,21,0.25,24,24
+●,6_LL,Properties\Safety\Safe,0,doesn’t expose them to prosecution,maxku,26-05-18 13:27,Migration to the USA,,34,0.41,24,24
+●,6_LL,USA\USA-I,0,Sessions,maxku,26-05-18 13:27,,,8,0.1,24,24
+●,6_LL,Properties\Affection\Refusal,0,anti-immigrant,maxku,26-05-18 13:27,Migrant caravan,,14,0.17,25,25
+●,6_LL,Supporters\Supporters-I,0,Alex Mensing,maxku,26-05-18 13:27,,,12,0.14,25,25
+●,6_LL,Supporters\Supporters-I,0,a project coordinator for the caravan’s main organizing group,maxku,26-05-18 13:27,,,61,0.73,25,25
+●,6_LL,Supporters,0,Pueblos Sin Fronteras,maxku,26-05-18 13:27,,,21,0.25,25,25
+●,6_LL,USA,0,the administration,maxku,26-05-18 13:27,,,18,0.21,25,25
+●,6_LL,Properties\Law\Unlawful,0,no legitimate,maxku,26-05-18 13:28,Migrant caravan,,13,0.15,25,25
+●,6_LL,Properties\Behaviour & character\Not trustworthy,0,not true,maxku,26-05-18 13:28,USA,,8,0.1,25,25
+●,6_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,not for them to decide,maxku,26-05-18 13:28,USA,,22,0.26,25,25
+●,6_L,Properties\Safety\Unsafe,0,"long, grueling",maxku,26-05-18 13:29,Migration to the USA,,14,0.16,3,3
+●,6_L,Properties\Difficulty\Difficult,0,finally,maxku,26-05-18 15:01,Migration to the USA,,7,0.08,3,3
+●,6_L,Properties\Importance\Important & Intense,0,dramatic,maxku,26-05-18 15:01,Migration to the USA,,8,0.09,3,3
+●,6_L,Properties\Importance\Important & Intense,0,"once numbered about 1,200",maxku,26-05-18 15:01,Migrant caravan,,25,0.28,4,4
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,prepared to seek asylum,maxku,26-05-18 15:02,Migrant caravan,,23,0.26,4,4
+●,6_L,Properties\Difficulty\Difficult,0,one of many curves on the road,maxku,26-05-18 15:02,Migration to the USA,,30,0.34,5,5
+●,6_L,MEX,0,the Mexican side,maxku,26-05-18 15:03,,,16,0.18,5,5
+●,6_L,Properties\Power & Strength\Weak & Following,0,would have to spend the night on the Mexican side,maxku,26-05-18 15:03,Migrant caravan,,49,0.55,5,5
+●,6_L,Properties\Importance\Important & Intense,0,drama,maxku,26-05-18 15:16,Migration to the USA,,5,0.06,6,6
+●,6_L,Properties\Other\Other,0,played out in relative obscurity,maxku,26-05-18 15:16,Migration to the USA,,32,0.36,6,6
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,headed north together,maxku,26-05-18 15:17,Migrant caravan,,21,0.24,6,6
+●,6_L,Properties\Power & Strength\Weak & Following,0,protection against,maxku,26-05-18 15:18,Migrant caravan,,18,0.2,6,6
+●,6_L,Properties\Difficulty\Difficult,0,their plight,maxku,26-05-18 15:18,Migrant caravan,,12,0.14,6,6
+●,6_L,Properties\Importance\Important & Intense,0,a volatile flash point,maxku,26-05-18 15:18,Migration to the USA,,22,0.25,6,6
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,ignited by,maxku,26-05-18 15:19,Trump,,10,0.11,6,6
+●,6_L,Properties\Importance\Important & Intense,0,"a fraught, deeply personal one",maxku,26-05-18 15:19,Migrant caravan,,30,0.34,7,7
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,wed at the beach,maxku,26-05-18 15:19,Migrant caravan-I,,16,0.18,8,8
+●,6_L,Properties\Power & Strength\Weak & Following,0,unable to deliver,maxku,26-05-18 15:20,Trump,,17,0.19,10,10
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,planned to apply,maxku,26-05-18 15:20,Migrant caravan,,16,0.18,11,11
+●,6_L,Properties\Power & Strength\Weak & Following,0,good chance that they would be split up,maxku,26-05-18 15:21,Migrant caravan,,39,0.44,11,11
+●,6_L,Properties\Behaviour & character\Confident,0,going with the feeling,maxku,26-05-18 15:21,Migrant caravan-I,,22,0.25,12,12
+●,6_L,Properties\Behaviour & character\Confident,0,going to be worth the effort,maxku,26-05-18 15:21,Migrant caravan-I,,28,0.32,12,12
+●,6_L,Properties\Power & Strength\Weak & Following,0,fleeing a gang,maxku,26-05-18 15:22,Migrant caravan-I,,14,0.16,12,12
+●,6_L,Migrant caravan\Migrant caravan-I,0,his family,maxku,26-05-18 15:22,,,10,0.11,12,12
+●,6_L,Properties\Safety\Unsafe,0,everything is possible,maxku,26-05-18 15:22,Migration to the USA,,22,0.25,12,12
+●,6_L,Properties\Difficulty\Difficult,0,personal struggles,maxku,26-05-18 15:23,Migrant caravan-I,,18,0.2,13,13
+●,6_L,Properties\Difficulty\Difficult,0,dense tangle of politics and policy,maxku,26-05-18 15:24,"MEX
+USA",,35,0.39,13,13
+●,6_L,Properties\Affection\Refusal,0,ill will,maxku,26-05-18 15:24,"Trump
+MEX",,8,0.09,13,13
+●,6_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,the acrimony,maxku,26-05-18 15:25,"Trump
+USA-I",,12,0.14,13,13
+●,6_L,USA\USA-I,0,Gov. Jerry Brown of California,maxku,26-05-18 15:25,,,30,0.34,13,13
+●,6_L,Properties\Importance\Important & Intense,0,a galvanizing issue,maxku,26-05-18 15:25,Migration to the USA,,19,0.21,14,14
+●,6_L,Migration to the USA,0,immigration,maxku,26-05-18 15:26,,,11,0.12,14,14
+●,6_L,Properties\Power & Strength\Weak & Following,0,worried about losing control,maxku,26-05-18 15:26,USA,,28,0.32,14,14
+●,6_L,USA,0,the House,maxku,26-05-18 15:26,,,9,0.1,14,14
+●,6_L,USA,0,the Senate,maxku,26-05-18 15:26,,,10,0.11,14,14
+●,6_L,Supporters\Supporters-I,0,Heather Cronk,maxku,26-05-18 15:26,,,13,0.15,15,15
+●,6_L,Supporters\Supporters-I,0,co-director of Showing Up for Racial Justice,maxku,26-05-18 15:26,,,44,0.5,15,15
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,have been helping,maxku,26-05-18 15:27,"Supporters
+Supporters-I",,17,0.19,15,15
+●,6_L,Supporters,0,American advocacy groups,maxku,26-05-18 15:27,,,24,0.27,15,15
+●,6_L,Migrant caravan,0,the caravan,maxku,26-05-18 15:27,,,11,0.12,15,15
+●,6_L,Migrant caravan,0,its participants,maxku,26-05-18 15:27,,,16,0.18,15,15
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,traveled,maxku,26-05-18 15:27,"Supporters
+Supporters-I",,8,0.09,15,15
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,support,maxku,26-05-18 15:27,"Supporters
+Supporters-I",,7,0.08,15,15
+●,6_L,Migrant caravan,0,the migrants,maxku,26-05-18 15:28,,,12,0.14,15,15
+●,6_L,Migrant caravan,0,the caravan,maxku,26-05-18 15:28,,,11,0.12,16,16
+●,6_L,USA,0,a country,maxku,26-05-18 15:28,,,9,0.1,17,17
+●,6_L,Properties\Honor & patriotic values\Honor,0,about who we are as a country,maxku,26-05-18 15:28,USA,,29,0.33,17,17
+●,6_L,Properties\Importance\Important & Intense,0,existential moment,maxku,26-05-18 15:28,Migrant caravan,,18,0.2,17,17
+●,6_L,Properties\Importance\Important & Intense,0,a spiritual moment,maxku,26-05-18 15:28,Migrant caravan,,18,0.2,17,17
+●,6_L,Properties\Honor & patriotic values\Honor,0,Liberty and justice for all,maxku,26-05-18 15:29,USA,,27,0.3,17,17
+●,6_L,USA\Trump,0,Mr. Trump,maxku,26-05-18 15:29,,,9,0.1,18,18
+●,6_L,Properties\Importance\Important & Intense,0,relishes,maxku,26-05-18 15:31,Migrant caravan,,8,0.09,18,18
+●,6_L,Migrant caravan,0,the migrants,maxku,26-05-18 15:31,,,12,0.14,19,19
+●,6_L,USA,0,the doorstep of the United States,maxku,26-05-18 15:31,,,33,0.37,19,19
+●,6_L,USA\Trump,0,Mr. Trump,maxku,26-05-18 15:31,,,9,0.1,19,19
+●,6_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,ratcheted up his rhetoric,maxku,26-05-18 15:32,Trump,,25,0.28,19,19
+●,6_L,Properties\Violence & Unfair\Victim (receiving violence),0,ratcheted up his rhetoric,maxku,26-05-18 15:32,Migrant caravan,,25,0.28,19,19
+●,6_L,Migrant caravan,0,these large Caravans of people,maxku,26-05-18 15:32,,,30,0.34,19,19
+●,6_L,USA,0,our Country,maxku,26-05-18 15:32,,,11,0.12,19,19
+●,6_L,USA\Trump,0,Mr. Trump,maxku,26-05-18 15:32,,,9,0.1,20,20
+●,6_L,Migration to the USA,0,immigration issues,maxku,26-05-18 15:32,,,18,0.2,20,20
+●,6_L,Properties\Importance\Important & Intense,0,repeatedly came back to,maxku,26-05-18 15:33,Migration to the USA,,23,0.26,20,20
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,we’ll close down,maxku,26-05-18 15:34,"Trump
+USA",,16,0.18,20,20
+●,6_L,USA,0,the country,maxku,26-05-18 15:34,,,11,0.12,20,20
+●,6_L,USA\USA-I,0,Other administration officials,maxku,26-05-18 15:34,,,30,0.34,21,21
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,been vocal,maxku,26-05-18 15:34,USA-I,,10,0.11,21,21
+●,6_L,USA\USA-I,0,Attorney General Jeff Sessions,maxku,26-05-18 15:34,,,30,0.34,22,22
+●,6_L,Migrant caravan,0,the caravan,maxku,26-05-18 15:34,,,11,0.12,22,22
+●,6_L,Properties\Law\Unlawful,0,undermine our laws,maxku,26-05-18 15:35,Migrant caravan,,18,0.2,22,22
+●,6_L,Properties\Law\Unlawful,0,overwhelm our system,maxku,26-05-18 15:35,Migrant caravan,,20,0.23,22,22
+●,6_L,Supporters,0,supporters,maxku,26-05-18 15:35,,,10,0.11,23,23
+●,6_L,Supporters,0,dozens of members of the news media,maxku,26-05-18 15:35,,,35,0.39,23,23
+●,6_L,Migrant caravan,0,the migrants,maxku,26-05-18 15:35,,,12,0.14,23,23
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,gathered in a park,maxku,26-05-18 15:35,"Migrant caravan
+Supporters",,18,0.2,23,23
+●,6_L,Supporters,0,Scores of supporters,maxku,26-05-18 15:37,,,20,0.23,23,23
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,rallied,maxku,26-05-18 15:37,Supporters,,7,0.08,23,23
+●,6_L,USA-MEX Border,0,the fence separating the United States from Mexico,maxku,26-05-18 15:37,,,50,0.56,23,23
+●,6_L,USA,0,the United States,maxku,26-05-18 15:37,,,17,0.19,23,23
+●,6_L,MEX,0,Mexico,maxku,26-05-18 15:37,,,6,0.07,23,23
+●,6_L,USA,0,the American side,maxku,26-05-18 15:37,,,17,0.19,23,23
+●,6_L,Migration to the USA,0,the final act of the caravan,maxku,26-05-18 15:37,,,28,0.32,24,24
+●,6_L,Migrant caravan,0,the caravan,maxku,26-05-18 15:37,,,11,0.12,24,24
+●,6_L,Supporters,0,supporters,maxku,26-05-18 15:39,,,10,0.11,24,24
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,marched,maxku,26-05-18 15:39,"Supporters
+Migrant caravan",,7,0.08,24,24
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,chanted and waved Honduran flags,maxku,26-05-18 15:40,"Supporters
+Migrant caravan",,32,0.36,24,24
+●,6_L,Properties\Power & Strength\Weak & Following,0,been persecuted or fear persecution,maxku,26-05-18 15:40,Migrant caravan,,35,0.39,25,25
+●,6_L,USA,0,a United States entry,maxku,26-05-18 15:40,,,21,0.24,26,26
+●,6_L,USA,0,an asylum officer,maxku,26-05-18 15:41,,,17,0.19,26,26
+●,6_L,Properties\Behaviour & character\Trustworthy,0,credible-fear,maxku,26-05-18 15:41,Migrant caravan,,13,0.15,26,26
+●,6_L,USA,0,the officer,maxku,26-05-18 15:42,,,11,0.12,26,26
+●,6_L,Properties\Power & Strength\Weak & Following,0,fear of persecution,maxku,26-05-18 15:42,Migrant caravan,,19,0.21,26,26
+●,6_L,Properties\Power & Strength\Weak & Following,0,will pass the credible-fear interview,maxku,26-05-18 15:42,Migrant caravan,,37,0.42,27,27
+●,6_L,Migrant caravan,0,the caravan,maxku,26-05-18 15:43,,,11,0.12,27,27
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,helping,maxku,26-05-18 15:43,Supporters-I,,7,0.08,27,27
+●,6_L,Supporters\Supporters-I,0,a volunteer immigration lawyer,maxku,26-05-18 15:43,,,30,0.34,27,27
+●,6_L,Supporters\Supporters-I,0,Nicole Ramos,maxku,26-05-18 15:43,,,12,0.14,27,27
+●,6_L,USA,0,Customs and Border Protection,maxku,26-05-18 15:43,,,29,0.33,28,28
+●,6_L,USA,0,officers,maxku,26-05-18 15:44,,,8,0.09,28,28
+●,6_L,Properties\Power & Strength\Weak & Following,0,exhausted its capacity,maxku,26-05-18 15:44,USA,,22,0.25,28,28
+●,6_L,Migrant caravan,0,people traveling without documents,maxku,26-05-18 15:44,,,34,0.38,28,28
+●,6_L,Migrant caravan\Migrant caravan-I,0,A young boy from Honduras,maxku,26-05-18 15:44,,,25,0.28,29,29
+●,6_L,Migrant caravan\People without borders,0,caravan organizers,maxku,26-05-18 15:44,,,18,0.2,30,30
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,escorted,maxku,26-05-18 15:44,People without boarders,,8,0.09,30,30
+●,6_L,Migrant caravan,0,participants,maxku,26-05-18 15:45,,,12,0.14,30,30
+●,6_L,Properties\Power & Strength\Weak & Following,0,escorted some 50 participants,maxku,26-05-18 15:45,Migrant caravan,,29,0.33,30,30
+●,6_L,USA,0,the United States,maxku,26-05-18 15:46,,,17,0.19,30,30
+●,6_L,USA,0,the American immigration checkpoint,maxku,26-05-18 15:46,,,35,0.39,30,30
+●,6_L,USA,0,American border authorities,maxku,26-05-18 15:46,,,27,0.3,30,30
+●,6_L,Properties\Power & Strength\Weak & Following,0,not be able to process any more,maxku,26-05-18 15:47,USA-I,,31,0.35,30,30
+●,6_L,Supporters\Supporters-I,0,Alex Mensing,maxku,26-05-18 15:47,,,12,0.14,31,31
+●,6_L,Supporters\Supporters-I,0,project coordinator for Pueblo Sin Fronteras,maxku,26-05-18 15:47,,,44,0.5,31,31
+●,6_L,Migrant caravan\People without borders,0,Pueblo Sin Fronteras,maxku,26-05-18 15:47,,,20,0.23,31,31
+●,6_L,Migrant caravan\People without borders,0,a transnational group that organized the caravan,maxku,26-05-18 15:47,,,48,0.54,31,31
+●,6_L,Migrant caravan,0,the caravan,maxku,26-05-18 15:47,,,11,0.12,31,31
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,organized,maxku,26-05-18 15:47,People without boarders,,9,0.1,31,31
+●,6_L,Migrant caravan,0,the migrants,maxku,26-05-18 15:52,,,12,0.14,31,31
+●,6_L,USA,0,border officials,maxku,26-05-18 15:52,,,16,0.18,31,31
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,once again had the capacity to process them,maxku,26-05-18 15:52,USA,,43,0.48,31,31
+●,6_L,USA,0,the United States government,maxku,26-05-18 15:52,,,28,0.32,32,32
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,capable of accepting,maxku,26-05-18 15:52,USA,,20,0.23,32,32
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,"can certainly pick up more than a 1,000 people",maxku,26-05-18 15:53,USA,,46,0.52,32,32
+●,6_L,USA,0,Immigration and Customs Enforcement,maxku,26-05-18 15:53,,,35,0.39,32,32
+●,6_L,USA,0,the Homeland Security Department,maxku,26-05-18 15:53,,,32,0.36,32,32
+●,6_L,Supporters,0,supporters,maxku,26-05-18 15:54,,,10,0.11,33,33
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,"prepared for a long, chilly night",maxku,26-05-18 15:54,"Migrant caravan
+Supporters",,33,0.37,33,33
+●,6_L,Properties\Power & Strength\Weak & Following,0,get a chance to make their case,maxku,26-05-18 15:55,Migrant caravan,,31,0.35,34,34
+●,6_L,Properties\Power & Strength\Weak & Following,0,remain in detention centers,maxku,26-05-18 15:56,Migrant caravan,,27,0.3,34,34
+●,6_L,Properties\Power & Strength\Weak & Following,0,detained,maxku,26-05-18 15:56,Migrant caravan,,8,0.09,34,34
+●,6_L,USA,0,the country,maxku,26-05-18 15:56,,,11,0.12,34,34
+●,6_L,Migrant caravan,0,undocumented immigrants,maxku,26-05-18 15:56,,,23,0.26,34,34
+●,6_L,Migrant caravan,0,the migrants,maxku,26-05-18 15:57,,,12,0.14,35,35
+●,6_L,USA,0,United States immigration officials,maxku,26-05-18 15:57,,,35,0.39,35,35
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,screened by,maxku,26-05-18 15:57,USA,,11,0.12,35,35
+●,6_L,Properties\Power & Strength\Weak & Following,0,credible-fear,maxku,26-05-18 15:57,Migrant caravan,,13,0.15,35,35
+●,6_L,Migrant caravan,0,the migrants,maxku,26-05-18 15:57,,,12,0.14,35,35
+●,6_L,Properties\Power & Strength\Weak & Following,0,allowed to make their case,maxku,26-05-18 15:58,Migrant caravan,,26,0.29,35,35
+●,6_L,USA,0,immigration judge,maxku,26-05-18 15:58,,,17,0.19,35,35
+●,6_L,Migration to the USA,0,a process,maxku,26-05-18 15:58,,,9,0.1,35,35
+●,6_L,Properties\Difficulty\Difficult,0,unfolds over several months,maxku,26-05-18 15:58,Migration to the USA,,27,0.3,35,35
+●,6_L,Migrant caravan,0,Migrants,maxku,26-05-18 15:58,,,8,0.09,36,36
+●,6_L,Properties\Power & Strength\Weak & Following,0,fitted with ankle monitors,maxku,26-05-18 16:00,Migrant caravan,,26,0.29,36,36
+●,6_L,USA,0,the country,maxku,26-05-18 16:00,,,11,0.12,36,36
+●,6_L,Properties\Power & Strength\Weak & Following,0,allowed to,maxku,26-05-18 16:00,Migrant caravan,,10,0.11,36,36
+●,6_L,USA\Trump,0,Mr. Trump,maxku,26-05-18 16:00,,,9,0.1,37,37
+●,6_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,denounced,maxku,26-05-18 16:00,Trump,,9,0.1,37,37
+●,6_L,Migrant caravan,0,migrants,maxku,26-05-18 16:01,,,8,0.09,37,37
+●,6_L,Properties\Law\Unlawful,0,skipped their court hearings,maxku,26-05-18 16:01,Migrant caravan,,28,0.32,37,37
+●,6_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,dismissed,maxku,26-05-18 16:01,Trump,,9,0.1,37,37
+●,6_L,Supporters,0,migrant advocates,maxku,26-05-18 16:01,,,17,0.19,37,37
+●,6_L,USA,0,the Trump administration,maxku,26-05-18 16:01,,,24,0.27,37,37
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,kept many migrants seeking asylum in detention,maxku,26-05-18 16:02,USA,,46,0.52,37,37
+●,6_L,Properties\Power & Strength\Weak & Following,0,kept many migrants seeking asylum in detention,maxku,26-05-18 16:02,Migrant caravan,,46,0.52,37,37
+●,6_L,Properties\Importance\Important & Intense,0,high political stakes,maxku,26-05-18 16:02,"Trump
+USA
+MEX",,21,0.24,38,38
+●,6_L,Properties\Importance\Important & Intense,0,stakes for the individual migrants planning to seek asylum Sunday were at least as high,maxku,26-05-18 16:02,Migrant caravan,,87,0.98,38,38
+●,6_L,Migrant caravan\Migrant caravan-I,0,Byron Claros,maxku,26-05-18 16:03,,,12,0.14,39,39
+●,6_L,Migrant caravan\Migrant caravan-I,0,a Salvadoran immigrant,maxku,26-05-18 16:03,,,22,0.25,39,39
+●,6_L,Migrant caravan,0,the caravan,maxku,26-05-18 16:03,,,11,0.12,39,39
+●,6_L,Migrant caravan\Migrant caravan-I,0,Luis Alexander Rodriguez,maxku,26-05-18 16:03,,,24,0.27,39,39
+●,6_L,Migrant caravan\Migrant caravan-I,0,18-year-old brother,maxku,26-05-18 16:03,,,19,0.21,39,39
+●,6_L,Migrant caravan\Migrant caravan-I,0,their stepfather,maxku,26-05-18 16:03,,,16,0.18,39,39
+●,6_L,Migrant caravan\Migrant caravan-I,0,Andres Rodríguez,maxku,26-05-18 16:03,,,16,0.18,39,39
+●,6_L,Migrant caravan\Migrant caravan-I,0,Mr. Rodriguez,maxku,26-05-18 16:03,,,13,0.15,40,40
+●,6_L,Migrant caravan\Migrant caravan-I,0,Mr. Claros,maxku,26-05-18 16:03,,,10,0.11,40,40
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,planned to,maxku,26-05-18 16:04,Migrant caravan-I,,10,0.11,40,40
+●,6_L,Migrant caravan\Migrant caravan-I,0,their stepfather,maxku,26-05-18 16:04,,,16,0.18,40,40
+●,6_L,Supporters,0,volunteer lawyers,maxku,26-05-18 16:04,,,17,0.19,40,40
+●,6_L,MEX,0,Mexico,maxku,26-05-18 16:04,,,6,0.07,40,40
+●,6_L,Properties\Power & Strength\Weak & Following,0,case for sanctuary was not strong enough,maxku,26-05-18 16:04,Migrant caravan-I,,40,0.45,40,40
+●,6_L,Properties\Power & Strength\Weak & Following,0,would remain behind,maxku,26-05-18 16:04,Migrant caravan-I,,19,0.21,40,40
+●,6_L,Properties\Importance\Important & Intense,0,hour I’ve waited for my entire life,maxku,26-05-18 16:05,Migration to the USA,,35,0.39,41,41
+●,6_L,Migration to the USA,0,hour I’ve waited for my entire life,maxku,26-05-18 16:05,,,35,0.39,41,41
+●,6_L,Migrant caravan\Migrant caravan-I,0,Mr. Claros,maxku,26-05-18 16:05,,,10,0.11,41,41
+●,6_L,Migrant caravan,0,hundreds of migrants,maxku,26-05-18 16:06,,,20,0.23,41,41
+●,6_L,Supporters,0,supporters,maxku,26-05-18 16:06,,,10,0.11,41,41
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,gathered,maxku,26-05-18 16:06,"Supporters
+Migrant caravan",,8,0.09,41,41
+●,6_L,USA-MEX Border,0,the border crossing,maxku,26-05-18 16:06,,,19,0.21,41,41
+●,6_L,Migrant caravan\Migrant caravan-I,0,Mr. Rodriguez,maxku,26-05-18 16:06,,,13,0.15,42,42
+●,6_L,Properties\Power & Strength\Weak & Following,0,was nervous,maxku,26-05-18 16:06,Migrant caravan-I,,11,0.12,42,42
+●,6_L,USA,0,the United States,maxku,26-05-18 16:06,,,17,0.19,42,42
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,can support our rights but can also deny us our rights,maxku,26-05-18 16:07,USA,,54,0.61,42,42
+●,6_L,Properties\Behaviour & character\Confident,0,only one way to push,maxku,26-05-18 16:07,Migrant caravan-I,,20,0.23,43,43
+●,6_L,Migration to the USA,0,fought too much to get here,maxku,26-05-18 16:07,,,27,0.3,44,44
+●,6_L,Properties\Importance\Important & Intense,0,fought too much to get here,maxku,26-05-18 16:07,Migration to the USA,,27,0.3,44,44
+●,6_L,Properties\Power & Strength\Powerful & Leading,0,we’re here,maxku,26-05-18 16:08,Migrant caravan,,10,0.11,44,44
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,seek asylum,maxku,26-05-18 16:08,Migrant caravan,,11,0.15,1,1
+●,6_M,Supporters,0,supporters of the migrant caravan,maxku,26-05-18 16:08,,,33,0.46,2,2
+●,6_M,Migrant caravan,0,the migrant caravan,maxku,26-05-18 16:08,,,19,0.27,2,2
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,gathered at the border,maxku,26-05-18 16:09,"Migrant caravan
+Supporters",,22,0.31,2,2
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,prepared to walk together,maxku,26-05-18 16:09,Migrant caravan,,25,0.35,3,3
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,present themselves,maxku,26-05-18 16:09,Migrant caravan,,18,0.25,3,3
+●,6_M,Properties\Power & Strength\Weak & Following,0,nervous,maxku,26-05-18 16:11,Migrant caravan-I,,7,0.1,4,4
+●,6_M,Properties\Power & Strength\Weak & Following,0,nervous,maxku,26-05-18 16:11,Migrant caravan-I,,7,0.1,4,4
+●,6_M,Properties\Power & Strength\Weak & Following,0,don’t know if we will be separated,maxku,26-05-18 16:11,Migrant caravan,,34,0.47,4,4
+●,6_M,Properties\Safety\Unsafe,0,what will happen next,maxku,26-05-18 16:11,Migration to the USA,,21,0.29,4,4
+●,6_M,Properties\Power & Strength\Weak & Following,0,anxiety that was palpable,maxku,26-05-18 16:12,Migrant caravan,,25,0.35,5,5
+●,6_M,Migration to the USA,0,traveled to the United States,maxku,26-05-18 16:12,,,29,0.4,5,5
+●,6_M,Properties\Affection\Refusal,0,are not welcome,maxku,26-05-18 16:12,Migrant caravan,,15,0.21,5,5
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,deploying,maxku,26-05-18 16:14,USA,,9,0.13,5,5
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,dispatching teams,maxku,26-05-18 16:14,USA,,17,0.24,5,5
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,process asylum claims quickly,maxku,26-05-18 16:14,USA,,29,0.4,5,5
+●,6_M,Properties\Difficulty\Difficult,0,tenuous cases,maxku,26-05-18 16:15,Migrant caravan,,13,0.18,5,5
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,deporting migrants with tenuous cases,maxku,26-05-18 16:15,USA,,37,0.52,5,5
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,took buses,maxku,26-05-18 16:17,Migrant caravan,,10,0.14,6,6
+●,6_M,Properties\Affection\Affection or empathy,0,greeted by,maxku,26-05-18 16:17,Migrant caravan,,10,0.14,6,6
+●,6_M,Supporters,0,several hundred supporters,maxku,26-05-18 16:17,,,26,0.36,6,6
+●,6_M,Properties\Affection\Affection or empathy,0,chanted and cheered,maxku,26-05-18 16:17,Migrant caravan,,19,0.27,6,6
+●,6_M,Properties\Affection\Affection or empathy,0,in solidarity with,maxku,26-05-18 16:18,"Migrant caravan
+Supporters",,18,0.25,6,6
+●,6_M,Properties\Difficulty\Difficult,0,hard part starts now,maxku,26-05-18 16:18,Migration to the USA,,20,0.28,7,7
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,offer protection to migrants,maxku,26-05-18 16:19,"Migrant caravan
+People without boarders",,28,0.39,7,7
+●,6_M,Properties\Safety\Safe,0,safer as group,maxku,26-05-18 16:20,Migrant caravan,,14,0.2,7,7
+●,6_M,Properties\Safety\Unsafe,0,"poverty, gang violence and political turmoil",maxku,26-05-18 16:20,Migration to the USA,,44,0.61,7,7
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,exchanged vows,maxku,26-05-18 16:20,Migrant caravan-I,,14,0.2,8,8
+●,6_M,Properties\Power & Strength\Weak & Following,0,a hasty marriage,maxku,26-05-18 16:20,Migrant caravan-I,,16,0.22,8,8
+●,6_M,Properties\Power & Strength\Weak & Following,0,with young children,maxku,26-05-18 16:21,Migrant caravan-I,,19,0.27,9,9
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,presenting themselves,maxku,26-05-18 16:21,Migrant caravan,,21,0.29,10,10
+●,6_M,Supporters,0,a group that supports racial-justice issues,maxku,26-05-18 16:22,,,43,0.6,12,12
+●,6_M,USA\USA-Misc,0,an American sponsor,maxku,26-05-18 16:22,,,19,0.27,13,13
+●,6_M,Migrant caravan,0,migrants,maxku,26-05-18 16:22,,,8,0.11,13,13
+●,6_M,Properties\Power & Strength\Weak & Following,0,improve migrants chances of being released from detention,maxku,26-05-18 16:22,Migrant caravan-I,,57,0.8,13,13
+●,6_M,USA,0,the U.S.,maxku,26-05-18 16:23,,,8,0.11,13,13
+●,6_M,Migrant caravan,0,Central American migrants,maxku,26-05-18 16:23,,,25,0.35,14,14
+●,6_M,Supporters,0,supporters,maxku,26-05-18 16:23,,,10,0.14,14,14
+●,6_M,Migrant caravan,0,the migrant caravan,maxku,26-05-18 16:23,,,19,0.27,14,14
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,converged at the fence,maxku,26-05-18 16:24,"Migrant caravan
+Supporters",,22,0.31,14,14
+●,6_M,Migrant caravan,0,These migrants,maxku,26-05-18 16:25,,,14,0.2,14,14
+●,6_M,USA,0,U.S Border officers,maxku,26-05-18 16:25,,,19,0.27,14,14
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,present themselves,maxku,26-05-18 16:26,Migrant caravan,,18,0.25,14,14
+●,6_M,Properties\Behaviour & character\Confident,0,unafraid,maxku,26-05-18 16:26,Migrant caravan,,8,0.11,15,15
+●,6_M,Properties\Law\Unlawful,0,Undocumented,maxku,26-05-18 16:26,Migrant caravan,,12,0.17,15,15
+●,6_M,USA-MEX Border,0,the border,maxku,26-05-18 16:26,,,10,0.14,16,16
+●,6_M,USA-MEX Border,0,the border,maxku,26-05-18 16:26,,,10,0.14,16,16
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,banged drums and chanted phrases,maxku,26-05-18 16:27,"Supporters
+Migrant caravan",,32,0.45,16,16
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,marched,maxku,26-05-18 16:27,"Supporters
+Migrant caravan",,7,0.1,16,16
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,March Without Borders,maxku,26-05-18 16:27,"Supporters
+Migrant caravan",,21,0.29,17,17
+●,6_M,Properties\Affection\Affection or empathy,0,support for,maxku,26-05-18 16:28,Migrant caravan,,11,0.15,17,17
+●,6_M,Migrant caravan,0,the caravan,maxku,26-05-18 16:28,,,11,0.15,17,17
+●,6_M,Supporters,0,the participants,maxku,26-05-18 16:28,,,16,0.22,18,18
+●,6_M,Migrant caravan,0,the migrants,maxku,26-05-18 16:29,,,12,0.17,18,18
+●,6_M,MEX,0,Mexico,maxku,26-05-18 16:29,,,6,0.08,18,18
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,walking through Mexico and chanting,maxku,26-05-18 16:29,Migrant caravan,,35,0.49,18,18
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,marched,maxku,26-05-18 16:30,Migrant caravan,,7,0.1,18,18
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,traversed conservative sections of Orange County,maxku,26-05-18 16:30,Migrant caravan,,48,0.67,18,18
+●,6_M,Properties\Affection\Refusal,0,threw eggs at,maxku,26-05-18 16:30,Supporters,,13,0.18,18,18
+●,6_M,Properties\Importance\Important & Intense,0,intense,maxku,26-05-18 16:30,Supporters,,7,0.1,19,19
+●,6_M,Supporters\Supporters-I,0,an Argentine immigrant,maxku,26-05-18 16:31,,,22,0.31,19,19
+●,6_M,Supporters\Supporters-I,0,Marcia Suarez,maxku,26-05-18 16:31,,,13,0.18,19,19
+●,6_M,Migrant caravan,0,the caravan,maxku,26-05-18 16:31,,,11,0.15,19,19
+●,6_M,Properties\Behaviour & character\Confident,0,they kept going,maxku,26-05-18 16:31,Migrant caravan,,15,0.21,19,19
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,they kept going,maxku,26-05-18 16:31,Migrant caravan,,15,0.21,19,19
+●,6_M,Supporters\Supporters-I,0,Another march participant,maxku,26-05-18 16:31,,,25,0.35,20,20
+●,6_M,Supporters\Supporters-I,0,23-year-old Monica Torres,maxku,26-05-18 16:32,,,25,0.35,20,20
+●,6_M,Properties\Affection\Affection or empathy,0,teared up,maxku,26-05-18 16:32,Migrant caravan,,9,0.13,20,20
+●,6_M,Migrant caravan,0,the migrants,maxku,26-05-18 16:32,,,12,0.17,20,20
+●,6_M,Supporters,0,their supporters,maxku,26-05-18 16:32,,,16,0.22,20,20
+●,6_M,USA-MEX Border,0,the tall fence,maxku,26-05-18 16:32,,,14,0.2,20,20
+●,6_M,Supporters,0,the two groups,maxku,26-05-18 16:32,,,14,0.2,21,21
+●,6_M,Migrant caravan,0,the two groups,maxku,26-05-18 16:32,,,14,0.2,21,21
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,sang the same chants,maxku,26-05-18 16:32,"Migrant caravan
+Supporters",,20,0.28,21,21
+●,6_M,USA-MEX Border,0,the fence,maxku,26-05-18 16:33,,,9,0.13,21,21
+●,6_M,Properties\Importance\Important & Intense,0,surreal,maxku,26-05-18 16:33,Migration to the USA,,7,0.1,22,22
+●,6_M,Migrant caravan\Migrant caravan-I,0,Torres,maxku,26-05-18 16:33,,,6,0.08,22,22
+●,6_M,Supporters,0,Deferred Action for Childhood Arrivals,maxku,26-05-18 16:34,,,38,0.53,22,22
+●,6_M,USA\USA-Misc,0,President Barack Obama,maxku,26-05-18 16:34,,,22,0.31,22,22
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,executive action,maxku,26-05-18 16:34,USA-Misc,,16,0.22,22,22
+●,6_M,USA\Trump,0,Trump,maxku,26-05-18 16:34,,,5,0.07,22,22
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,trying to end,maxku,26-05-18 16:34,Trump,,13,0.18,22,22
+●,6_M,USA-MEX Border,0,the border,maxku,26-05-18 16:34,,,10,0.14,22,22
+●,6_M,Properties\Importance\Important & Intense,0,the first time,maxku,26-05-18 16:34,Migrant caravan-I,,14,0.2,22,22
+●,6_M,MEX,0,Mexico,maxku,26-05-18 16:35,,,6,0.08,22,22
+●,6_M,Migrant caravan,0,the migrants,maxku,26-05-18 16:35,,,12,0.17,23,23
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,right to seek asylum,maxku,26-05-18 16:35,Migrant caravan,,20,0.28,23,23
+●,6_M,USA,0,the United States,maxku,26-05-18 16:36,,,17,0.24,23,23
+●,6_M,USA\USA-I,0,Homeland Security Secretary Kirstjen Nielsen,maxku,26-05-18 16:36,,,44,0.61,23,23
+●,6_M,Migrant caravan,0,the migrants,maxku,26-05-18 16:36,,,12,0.17,23,23
+●,6_M,MEX,0,Mexico,maxku,26-05-18 16:36,,,6,0.08,23,23
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,encouraged,maxku,26-05-18 16:36,USA-I,,10,0.14,23,23
+●,6_M,MEX,0,Mexico,maxku,26-05-18 16:37,,,6,0.08,24,24
+●,6_M,Properties\Safety\Unsafe,0,not a country to seek asylum,maxku,26-05-18 16:38,MEX,,28,0.39,24,24
+●,6_M,Migrant caravan\Migrant caravan-I,0,Torres,maxku,26-05-18 16:38,,,6,0.08,24,24
+●,6_M,MEX,0,Mexico,maxku,26-05-18 16:38,,,6,0.08,24,24
+●,6_M,Properties\Safety\Unsafe,0,not an option,maxku,26-05-18 16:38,MEX,,13,0.18,24,24
+●,6_M,Migrant caravan,0,Central American migrants,maxku,26-05-18 16:38,,,25,0.35,25,25
+●,6_M,Supporters,0,supporters of the migrant caravan,maxku,26-05-18 16:38,,,33,0.46,25,25
+●,6_M,Migrant caravan,0,the migrant caravan,maxku,26-05-18 16:38,,,19,0.27,25,25
+●,6_M,USA-MEX Border,0,the border,maxku,26-05-18 16:38,,,10,0.14,25,25
+●,6_M,USA-MEX Border,0,the fence between Tijuana and San Diego,maxku,26-05-18 16:39,,,39,0.54,25,25
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,have converged at,maxku,26-05-18 16:39,"Supporters
+Migrant caravan",,17,0.24,25,25
+●,6_M,Migrant caravan,0,These migrants,maxku,26-05-18 16:39,,,14,0.2,25,25
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,present themselves,maxku,26-05-18 16:39,Migrant caravan,,18,0.25,25,25
+●,6_M,USA,0,to U.S Border officers,maxku,26-05-18 16:39,,,22,0.31,25,25
+●,6_M,Properties\Difficulty\Difficult,0,Hurdles to,maxku,26-05-18 16:40,Migration to the USA,,10,0.14,26,26
+●,6_M,Migrant caravan\Migrant caravan-I,0,Rubilio Mendez,maxku,26-05-18 16:40,,,14,0.2,27,27
+●,6_M,Migrant caravan\Migrant caravan-I,0,a migrant from Guatemala,maxku,26-05-18 16:40,,,24,0.34,27,27
+●,6_M,Migrant caravan,0,the caravan,maxku,26-05-18 16:40,,,11,0.15,27,27
+●,6_M,USA,0,the U.S.,maxku,26-05-18 16:40,,,8,0.11,27,27
+●,6_M,Properties\Power & Strength\Weak & Following,0,no family in the U.S.,maxku,26-05-18 16:40,Migrant caravan-I,,21,0.29,27,27
+●,6_M,USA\USA-Misc,0,American sponsors,maxku,26-05-18 16:40,,,17,0.24,27,27
+●,6_M,Migrant caravan,0,Migrants,maxku,26-05-18 16:40,,,8,0.11,28,28
+●,6_M,Properties\Power & Strength\Weak & Following,0,credible-fear,maxku,26-05-18 16:41,Migrant caravan,,13,0.18,28,28
+●,6_M,Properties\Difficulty\Difficult,0,risk being quickly deported,maxku,26-05-18 16:42,Migration to the USA,,27,0.38,28,28
+●,6_M,Migrant caravan\Migrant caravan-I,0,Rubilio Mendez,maxku,26-05-18 16:42,,,14,0.2,29,29
+●,6_M,Properties\Violence & Unfair\Victim (receiving violence),0,gangs threaten to kill him,maxku,26-05-18 16:42,Migrant caravan-I,,26,0.36,29,29
+●,6_M,Properties\Power & Strength\Weak & Following,0,gangs threaten to kill him,maxku,26-05-18 16:42,Migrant caravan-I,,26,0.36,29,29
+●,6_M,USA,0,the U.S,maxku,26-05-18 16:43,,,7,0.1,30,30
+●,6_M,Properties\Power & Strength\Weak & Following,0,can’t go back to Guatemala,maxku,26-05-18 16:43,Migrant caravan-I,,26,0.36,31,31
+●,6_M,Properties\Power & Strength\Weak & Following,0,will be killed,maxku,26-05-18 16:43,Migrant caravan,,14,0.2,31,31
+●,6_M,Migrant caravan,0,Central American migrants,maxku,26-05-18 16:43,,,25,0.35,32,32
+●,6_M,Supporters,0,supporters of the migrant caravan,maxku,26-05-18 16:43,,,33,0.46,32,32
+●,6_M,Migrant caravan,0,the migrant caravan,maxku,26-05-18 16:44,,,19,0.27,32,32
+●,6_M,USA,0,the U.S. side,maxku,26-05-18 16:46,,,13,0.18,32,32
+●,6_M,MEX,0,Mexico,maxku,26-05-18 16:46,,,6,0.08,32,32
+●,6_M,Supporters\Supporters-I,0,Olimpia Blanco,maxku,26-05-18 16:46,,,14,0.2,33,33
+●,6_M,Supporters\Supporters-I,0,a 23-year-old immigrant,maxku,26-05-18 16:46,,,23,0.32,33,33
+●,6_M,MEX,0,Mexico,maxku,26-05-18 16:46,,,6,0.08,33,33
+●,6_M,Properties\Honor & patriotic values\Honor,0,queer and trans solidarity,maxku,26-05-18 16:46,Supporters-I,,26,0.36,33,33
+●,6_M,Properties\Affection\Affection or empathy,0,support for,maxku,26-05-18 16:47,Migrant caravan,,11,0.15,34,34
+●,6_M,Migrant caravan\Migrant caravan-I,0,Blanco,maxku,26-05-18 16:47,,,6,0.08,35,35
+●,6_M,MEX,0,the Mexican side,maxku,26-05-18 16:47,,,16,0.22,35,35
+●,6_M,Properties\Affection\Affection or empathy,0,welcome here,maxku,26-05-18 16:48,Migrant caravan,,12,0.17,35,35
+●,6_M,Migrant caravan,0,refugees,maxku,26-05-18 16:48,,,8,0.11,35,35
+●,6_M,Properties\Affection\Affection or empathy,0,happy to see,maxku,26-05-18 16:48,Migrant caravan,,12,0.17,35,35
+●,6_M,Properties\Affection\Affection or empathy,0,comforting to,maxku,26-05-18 16:48,Migrant caravan,,13,0.18,35,35
+●,6_M,Migrant caravan,0,gay and transgender migrants,maxku,26-05-18 16:48,,,28,0.39,35,35
+●,6_M,Properties\Power & Strength\Weak & Following,0,seeking safety,maxku,26-05-18 16:48,Migrant caravan,,14,0.2,35,35
+●,6_M,Supporters\Supporters-I,0,Marely Ramirez,maxku,26-05-18 16:49,,,14,0.2,37,37
+●,6_M,Properties\Power & Strength\Powerful & Leading,0,waving a huge Honduran flag,maxku,26-05-18 16:49,Supporters-I,,27,0.38,37,37
+●,6_M,Migrant caravan,0,the migrants in the caravan,maxku,26-05-18 16:49,,,27,0.38,37,37
+●,6_M,Properties\Violence & Unfair\Victim (receiving violence),0,fleeing violence and political instability,maxku,26-05-18 16:49,Migrant caravan,,42,0.59,37,37
+●,6_M,Properties\Power & Strength\Weak & Following,0,fleeing violence and political instability,maxku,26-05-18 16:49,Migrant caravan,,42,0.59,37,37
+●,6_M,Supporters\Supporters-I,0,Ramirez,maxku,26-05-18 16:49,,,7,0.1,38,38
+●,6_M,MEX,0,Mexico,maxku,26-05-18 16:49,,,6,0.08,38,38
+●,6_M,Properties\Affection\Affection or empathy,0,identifies with the struggles,maxku,26-05-18 16:50,Migrant caravan,,29,0.4,38,38
+●,6_M,Migrant caravan,0,those seeking opportunities in the U.S.,maxku,26-05-18 16:50,,,39,0.54,38,38
+●,6_M,USA,0,the U.S.,maxku,26-05-18 16:50,,,8,0.11,38,38
+●,6_M,Properties\Affection\Affection or empathy,0,know the struggles of anyone who is coming from south of that border,maxku,26-05-18 16:50,Migrant caravan,,68,0.95,39,39
+●,6_M,USA-MEX Border,0,that border,maxku,26-05-18 16:50,,,11,0.15,39,39
+●,6_M,MEX,0,south of that border,maxku,26-05-18 16:50,,,20,0.28,39,39
+●,6_M,Properties\Power & Strength\Weak & Following,0,trying to have a better life,maxku,26-05-18 16:50,Migrant caravan,,28,0.39,39,39
+●,6_M,Properties\Affection\Refusal,0,anti-immigrant protesters present,maxku,26-05-18 16:51,Migrant caravan,,33,0.46,40,40
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,poised to test,maxku,26-05-18 16:51,Migrant caravan,,14,0.29,1,1
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,poised on Sunday to test,maxku,26-05-18 16:51,Migrant caravan,,24,0.5,2,2
+●,6_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,tough immigration rhetoric,maxku,26-05-18 17:04,Trump,,26,0.54,2,2
+●,6_R,Properties\Violence & Unfair\Victim (receiving violence),0,tough immigration rhetoric,maxku,26-05-18 17:04,Migrant caravan,,26,0.54,2,2
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,begun turning themselves in,maxku,26-05-18 17:04,Migrant caravan,,27,0.56,2,2
+●,6_R,Properties\Other\Other,0,According,maxku,26-05-18 17:05,USA,,9,0.19,3,3
+●,6_R,Properties\Power & Strength\Weak & Following,0,face possible separation,maxku,26-05-18 17:05,Migrant caravan,,24,0.5,3,3
+●,6_R,Migration to the USA,0,seeking to enter the United States,maxku,26-05-18 17:05,,,34,0.71,4,4
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,making a walk,maxku,26-05-18 17:05,Migrant caravan,,13,0.27,5,5
+●,6_R,Properties\Power & Strength\Weak & Following,0,have a chance to consult with lawyers,maxku,26-05-18 17:06,Migrant caravan,,37,0.77,5,5
+●,6_R,Properties\Difficulty\Difficult,0,bearers of horrible news,maxku,26-05-18 17:06,USA,,24,0.5,6,6
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,gave free information and advice,maxku,26-05-18 17:06,USA,,32,0.66,6,6
+●,6_R,Properties\Quality\Functioning,0,good attorneys,maxku,26-05-18 17:06,USA,,14,0.29,6,6
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,have been tracking,maxku,26-05-18 17:06,USA,,18,0.37,7,7
+●,6_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,a threat,maxku,26-05-18 17:07,Migrant caravan,,8,0.17,7,7
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,"promised a stern, swift response",maxku,26-05-18 17:08,USA,,32,0.66,7,7
+●,6_R,Properties\Affection\Refusal,0,been critical,maxku,26-05-18 17:08,"Migration to the USA
+Migrant caravan",,13,0.27,7,7
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,"strong, critical language",maxku,26-05-18 17:08,Trump,,25,0.52,7,7
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,absolute power,maxku,26-05-18 17:09,MEX,,14,0.29,8,8
+●,6_R,Properties\Quality\Functioning,0,their border laws work,maxku,26-05-18 17:09,MEX,,22,0.46,8,8
+●,6_R,USA,0,our country,maxku,26-05-18 17:09,,,11,0.23,8,8
+●,6_R,Properties\Power & Strength\Weak & Following,0,has no effective border laws,maxku,26-05-18 17:10,USA,,28,0.58,8,8
+●,6_R,Migrant caravan,0,the Central American Caravan,maxku,26-05-18 17:10,,,28,0.58,10,10
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,illegally entered,maxku,26-05-18 17:10,Migrant caravan,,17,0.35,10,10
+●,6_R,Properties\Law\Unlawful,0,illegally entered,maxku,26-05-18 17:10,Migrant caravan,,17,0.35,10,10
+●,6_R,Migrant caravan\Migrant caravan-I,0,children as young as 4-years-old,maxku,26-05-18 17:11,,,32,0.66,10,10
+●,6_R,Migrant caravan\Migrant caravan-I,0,a pregnant female,maxku,26-05-18 17:11,,,17,0.35,10,10
+●,6_R,USA,0,the United States,maxku,26-05-18 17:11,,,17,0.35,10,10
+●,6_R,Properties\Law\Unlawful,0,entering the United States illegally,maxku,26-05-18 17:11,Migrant caravan-I,,36,0.75,10,10
+●,6_R,Properties\Difficulty\Difficult,0,"dark, treacherous canyon",maxku,26-05-18 17:11,Migration to the USA,,24,0.5,10,10
+●,6_R,Properties\Difficulty\Difficult,0,notorious for human and drug smuggling,maxku,26-05-18 17:12,Migration to the USA,,38,0.79,10,10
+●,6_R,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,unconscionable,maxku,26-05-18 17:15,Migrant caravan-I,,14,0.29,10,10
+●,6_R,Properties\Safety\Unsafe,0,dangerous conditions,maxku,26-05-18 17:15,Migration to the USA,,20,0.41,10,10
+●,6_R,Properties\Safety\Safe,0,a legitimate Port of Entry,maxku,26-05-18 17:15,Migration to the USA,,26,0.54,10,10
+●,6_R,Properties\Safety\Unsafe,0,dangerous canyons,maxku,26-05-18 17:16,Migration to the USA,,17,0.35,10,10
+●,6_R,Properties\Law\Unlawful,0,illegal entry,maxku,26-05-18 17:16,Migrant caravan,,13,0.27,11,11
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,urged,maxku,26-05-18 17:16,Migrant caravan-I,,5,0.1,11,11
+●,6_R,Migrant caravan,0,those contemplating illegal entry,maxku,26-05-18 17:16,,,33,0.68,11,11
+●,6_R,Properties\Law\Unlawful,0,illegally enter,maxku,26-05-18 17:17,Migrant caravan,,15,0.31,11,11
+●,6_R,USA,0,the United States,maxku,26-05-18 17:17,,,17,0.35,11,11
+●,6_R,Properties\Law\Unlawful,0,make any false statements,maxku,26-05-18 17:17,Migrant caravan,,25,0.52,11,11
+●,6_R,Properties\Safety\Unsafe,0,placing you and your family at risk,maxku,26-05-18 17:17,Migrant caravan,,35,0.73,11,11
+●,6_R,Properties\Power & Strength\Weak & Following,0,placing you and your family at risk,maxku,26-05-18 17:17,Migrant caravan,,35,0.73,11,11
+●,6_R,Properties\Affection\Affection or empathy,0,very welcoming,maxku,26-05-18 17:17,Migrant caravan,,14,0.29,11,11
+●,6_R,USA,0,a very welcoming country,maxku,26-05-18 17:18,,,24,0.5,11,11
+●,6_R,Properties\Law\Lawful,0,enter through our front door,maxku,26-05-18 17:18,Migrant caravan,,28,0.58,11,11
+●,6_R,Properties\Behaviour & character\Trustworthy,0,answer questions honestly,maxku,26-05-18 17:18,Migrant caravan,,25,0.52,11,11
+●,6_R,Migrant caravan,0,the immigrants,maxku,26-05-18 17:18,,,14,0.29,12,12
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,ready to confront,maxku,26-05-18 17:18,Migrant caravan,,17,0.35,12,12
+●,6_R,USA,0,the U.S. response,maxku,26-05-18 17:19,,,17,0.35,12,12
+●,6_R,Properties\Difficulty\Difficult,0,potential hardships,maxku,26-05-18 17:19,Migration to the USA,,19,0.39,12,12
+●,6_R,Migrant caravan\Migrant caravan-I,0,Kenia Elizabeth Avila,maxku,26-05-18 17:19,,,21,0.44,13,13
+●,6_R,Supporters,0,the volunteer attorneys,maxku,26-05-18 17:19,,,23,0.48,13,13
+●,6_R,Properties\Difficulty\Difficult,0,temperatures may be cold,maxku,26-05-18 17:19,Migration to the USA,,24,0.5,13,13
+●,6_R,Properties\Safety\Unsafe,0,could be separated,maxku,26-05-18 17:20,Migration to the USA,,18,0.37,13,13
+●,6_R,Properties\Power & Strength\Weak & Following,0,could be separated,maxku,26-05-18 17:20,Migrant caravan-I,,18,0.37,13,13
+●,6_R,Properties\Safety\Unsafe,0,returning to her native El Salvador would be worse,maxku,26-05-18 17:20,Migrant caravan-I,,50,1.04,14,14
+●,6_R,Migration to the USA,0,fled,maxku,26-05-18 17:20,,,4,0.08,14,14
+●,6_R,Properties\Other\Other,0,reasons she declined to discuss,maxku,26-05-18 17:21,Migrant caravan-I,,31,0.64,14,14
+●,6_R,Properties\Power & Strength\Weak & Following,0,separate us,maxku,26-05-18 17:23,Migrant caravan,,11,0.23,15,15
+●,6_R,Properties\Power & Strength\Weak & Following,0,better than getting myself killed,maxku,26-05-18 17:23,Migrant caravan-I,,33,0.68,15,15
+●,6_R,Properties\Violence & Unfair\Victim (receiving violence),0,better than getting myself killed,maxku,26-05-18 17:23,Migrant caravan-I,,33,0.68,15,15
+●,6_R,Migrant caravan,0,the caravan,maxku,26-05-18 17:23,,,11,0.23,16,16
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,arrived in,maxku,26-05-18 17:24,Migrant caravan,,10,0.21,16,16
+●,6_R,USA,0,Lawyers,maxku,26-05-18 17:24,,,7,0.15,16,16
+●,6_R,Properties\Affection\Refusal,0,denied any coaching,maxku,26-05-18 17:24,Migrant caravan,,19,0.39,16,16
+●,6_R,Properties\Power & Strength\Weak & Following,0,camping out in shelters,maxku,26-05-18 17:24,Migrant caravan,,23,0.48,16,16
+●,6_R,Properties\Affection\Affection or empathy,0,received counseling,maxku,26-05-18 17:25,Migrant caravan,,19,0.39,17,17
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,assess the merits of their cases,maxku,26-05-18 17:25,Migrant caravan,,32,0.66,17,17
+●,6_R,Properties\Affection\Affection or empathy,0,were told how asylum works,maxku,26-05-18 17:26,Migrant caravan,,26,0.54,17,17
+●,6_R,Migrant caravan,0,groups of the migrants with their children,maxku,26-05-18 17:26,,,42,0.87,17,17
+●,6_R,Migrant caravan,0,Some migrants,maxku,26-05-18 17:26,,,13,0.27,17,17
+●,6_R,USA,0,Immigration and Customs Enforcement,maxku,26-05-18 17:27,,,35,0.73,18,18
+●,6_R,Properties\Power & Strength\Weak & Following,0,may be detained or fitted with ankle monitors,maxku,26-05-18 17:27,Migrant caravan,,45,0.93,18,18
+●,6_R,Properties\Power & Strength\Powerful & Leading,0,held up,maxku,26-05-18 17:28,USA,,7,0.15,18,18
+●,6_R,Migration to the USA,0,pass an initial screening,maxku,26-05-18 17:28,,,25,0.52,18,18
+●,6_R,Migration to the USA,0,may be detained or fitted with ankle monitors and released,maxku,26-05-18 17:28,,,58,1.2,18,18
+●,6_R,Migration to the USA,0,passed the initial screening,maxku,26-05-18 17:28,,,28,0.58,19,19
+●,6_R,Properties\Difficulty\Difficult,0,few are likely to eventually win asylum,maxku,26-05-18 17:29,Migration to the USA,,39,0.81,19,19
+●,6_R,Migrant caravan\Migrant caravan-I,0,Jose Cazares,maxku,26-05-18 17:29,,,12,0.25,20,20
+●,6_R,Properties\Violence & Unfair\Victim (receiving violence),0,faced death threats,maxku,26-05-18 17:29,Migrant caravan-I,,19,0.39,20,20
+●,6_R,Properties\Violence & Unfair\Victim (receiving violence),0,killing the mother of his children,maxku,26-05-18 17:29,Migrant caravan,,34,0.71,20,20
+●,6_R,Migrant caravan\Migrant caravan-I,0,Cazares,maxku,26-05-18 17:29,,,7,0.15,20,20
+●,6_R,USA-MEX Border,0,the border barriers,maxku,26-05-18 17:30,,,19,0.39,21,21
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,prepare to reach,maxku,26-05-18 17:30,Migrant caravan,,16,0.67,1,1
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,reach the border,maxku,26-05-18 17:30,Migrant caravan,,16,0.67,2,2
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,gathered at,maxku,26-05-18 17:30,Migrant caravan,,11,0.46,3,3
+●,6_RR,Properties\Power & Strength\Weak & Following,0,will have to remain,maxku,26-05-18 17:31,Migrant caravan,,19,0.79,3,3
+●,6_RR,Properties\Power & Strength\Weak & Following,0,wait to be processed,maxku,26-05-18 17:32,Migrant caravan,,20,0.84,3,3
+●,6_RR,Properties\Other\Other,0,according to,maxku,26-05-18 17:33,USA,,12,0.5,3,3
+●,6_RR,Properties\Power & Strength\Weak & Following,0,may need to wait,maxku,26-05-18 17:33,Migrant caravan,,16,0.67,4,4
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,work to process,maxku,26-05-18 17:33,USA,,15,0.63,4,4
+●,6_RR,USA,0,our facilities,maxku,26-05-18 17:34,,,14,0.58,4,4
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,was organized,maxku,26-05-18 17:34,People without boarders,,13,0.54,5,5
+●,6_RR,Migration to the USA,0,reaching the border,maxku,26-05-18 17:34,,,19,0.79,6,6
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,reaching the border,maxku,26-05-18 17:35,Migrant caravan,,19,0.79,6,6
+●,6_RR,Properties\Power & Strength\Weak & Following,0,turn themselves in peacefully,maxku,26-05-18 17:35,Migrant caravan,,29,1.21,6,6
+●,6_RR,Properties\Power & Strength\Weak & Following,0,ask for,maxku,26-05-18 17:35,Migrant caravan,,7,0.29,6,6
+●,6_RR,Properties\Power & Strength\Weak & Following,0,legitimate fear of persecution,maxku,26-05-18 17:35,Migrant caravan,,30,1.25,7,7
+●,6_RR,Properties\Violence & Unfair\Victim (receiving violence),0,legitimate fear of persecution,maxku,26-05-18 17:35,Migrant caravan,,30,1.25,7,7
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,right to present their case,maxku,26-05-18 17:35,Migrant caravan,,27,1.13,7,7
+●,6_RR,USA\USA-Misc,0,Rep. Zoe Lofgren,maxku,26-05-18 17:35,,,16,0.67,7,7
+●,6_RR,USA\USA-I,0,Rep. Zoe Lofgren,maxku,26-05-18 17:36,,,16,0.67,7,7
+●,6_RR,USA\USA-I,0,top Democrat on the House subcommittee on immigration,maxku,26-05-18 17:36,,,53,2.21,7,7
+●,6_RR,USA,0,the House subcommittee on immigration,maxku,26-05-18 17:36,,,37,1.55,7,7
+●,6_RR,Properties\Law\Lawful,0,not a violation of immigration law,maxku,26-05-18 17:36,Migrant caravan,,34,1.42,7,7
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,a part of immigration law,maxku,26-05-18 17:36,Migrant caravan,,25,1.04,7,7
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,marching toward the border,maxku,26-05-18 17:36,Migrant caravan,,26,1.09,8,8
+●,6_RR,Migration to the USA,0,marching toward the border,maxku,26-05-18 17:37,,,26,1.09,8,8
+●,6_RR,Properties\Importance\Important & Intense,0,the largest to approach,maxku,26-05-18 17:37,Migrant caravan,,23,0.96,8,8
+●,6_RR,Properties\Affection\Affection or empathy,0,in support of,maxku,26-05-18 17:37,Migrant caravan,,13,0.54,8,8
+●,6_RR,Migrant caravan,0,several groups of people associated with the caravan,maxku,26-05-18 17:38,,,52,2.17,9,9
+●,6_RR,Properties\Law\Unlawful,0,illegally entered,maxku,26-05-18 17:38,Migrant caravan,,17,0.71,9,9
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,climbing over a metal fence,maxku,26-05-18 17:38,Migrant caravan,,27,1.13,9,9
+●,6_RR,Properties\Affection\Affection or empathy,0,very welcoming,maxku,26-05-18 17:38,Migrant caravan,,14,0.58,10,10
+●,6_RR,Properties\Honor & patriotic values\Honor,0,a very welcoming country,maxku,26-05-18 17:39,USA,,24,1,10,10
+●,6_RR,Properties\Law\Lawful,0,expect everyone to enter through our front door,maxku,26-05-18 17:39,Migrant caravan,,47,1.96,10,10
+●,6_RR,Properties\Behaviour & character\Trustworthy,0,answer questions honestly,maxku,26-05-18 17:39,Migrant caravan,,25,1.04,10,10
+●,6_RR,Migrant caravan,0,Similar migrant groups,maxku,26-05-18 17:39,,,22,0.92,11,11
+●,6_RR,Migration to the USA,0,made their way toward the border,maxku,26-05-18 17:39,,,32,1.34,11,11
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,made their way,maxku,26-05-18 17:39,Migrant caravan,,14,0.58,11,11
+●,6_RR,Migrant caravan,0,this group,maxku,26-05-18 17:40,,,10,0.42,11,11
+●,6_RR,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,faced vocal opposition,maxku,26-05-18 17:40,Trump,,22,0.92,11,11
+●,6_RR,Properties\Violence & Unfair\Victim (receiving violence),0,faced vocal opposition,maxku,26-05-18 17:40,Migrant caravan,,22,0.92,11,11
+●,6_RR,USA\Trump,0,President Donald Trump,maxku,26-05-18 17:40,,,22,0.92,11,11
+●,6_RR,USA,0,whose administration,maxku,26-05-18 17:40,,,20,0.84,11,11
+●,6_RR,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,warned of arrests,maxku,26-05-18 17:40,USA,,17,0.71,11,11
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,arrived at the border,maxku,26-05-18 17:40,Migrant caravan,,21,0.88,11,11
+●,6_RR,Migrant caravan,0,immigrants,maxku,26-05-18 17:40,,,10,0.42,11,11
+●,6_RR,Properties\Importance\Important & Intense,0,much publicity,maxku,26-05-18 17:41,People without boarders,,14,0.58,12,12
+●,6_RR,Supporters\Supporters-I,0,Mujica,maxku,26-05-18 17:41,,,6,0.25,13,13
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,able to see what is the problem,maxku,26-05-18 17:42,People without boarders,,31,1.29,13,13
+●,6_RR,Properties\Power & Strength\Powerful & Leading,0,highlighting the violence,maxku,26-05-18 17:42,People without boarders,,25,1.04,13,13
+●,6_RR,Properties\Power & Strength\Weak & Following,0,prompted members of the caravan to seek asylum,maxku,26-05-18 17:42,Migrant caravan,,46,1.92,13,13
+●,6_R,USA,0,U.S. government officials,AnZhu,16-01-19 00:11,,,25,0.52,11,11
+●,6_LL,Migrant caravan,0,asylum seekers,AnZhu,16-01-19 14:18,,,14,0.17,12,12
+●,6_L,Migrant caravan,0,Migrant Caravan of Asylum Seekers,AnZhu,16-01-19 14:19,,,33,0.37,1,1
+●,6_L,Migrant caravan,0,the asylum seekers,AnZhu,16-01-19 14:19,,,18,0.2,33,33
+●,6_L,Migrant caravan,0,migrant families that request asylum,AnZhu,16-01-19 14:19,,,36,0.41,34,34
+●,6_L,Migrant caravan,0,migrants seeking asylum,AnZhu,16-01-19 14:23,,,23,0.26,37,37
+●,6_L,Migrant caravan,0,the individual migrants planning to seek asylum,AnZhu,16-01-19 14:23,,,47,0.53,38,38
+●,6_RR,Migrant caravan,0,many in search of asylum,AnZhu,16-01-19 14:24,,,24,1,2,2
+●,6_LL,Migrant caravan,0,asylum-seekers,AnZhu,16-01-19 14:24,,,14,0.17,19,19
+●,6_LL,Migrant caravan,0,those who do make asylum claims,AnZhu,16-01-19 14:24,,,31,0.37,14,14
+●,6_LL,Migrant caravan,0,the asylum seekers,AnZhu,16-01-19 14:25,,,18,0.21,14,14
+●,6_LL,Migrant caravan,0,no legitimate asylum-seekers,AnZhu,16-01-19 14:25,,,28,0.33,25,25
+●,6_L,Migrant caravan,0,applicants,AnZhu,16-01-19 14:26,,,10,0.11,25,25
+●,6_L,Migrant caravan,0,People who request protection,AnZhu,16-01-19 14:26,,,29,0.33,26,26
+●,6_L,Migrant caravan,0,a few hundred asylum seekers,AnZhu,16-01-19 14:27,,,28,0.32,32,32
+●,6_M,Migrant caravan,0,the Central American transgender women seeking asylum,AnZhu,16-01-19 14:27,,,53,0.74,34,34
+●,6_R,Migrant caravan,0,Asylum-seekers,AnZhu,16-01-19 14:27,,,14,0.29,18,18
+●,6_R,Migrant caravan,0,asylum-seekers,AnZhu,16-01-19 14:27,,,14,0.29,19,19
+●,6_L,Migration to the USA\Seek asylum,0,seek asylum,AnZhu,16-01-19 14:28,,,11,0.12,4,4
+●,6_L,Migration to the USA\Seek asylum,0,planned to apply for asylum,AnZhu,16-01-19 14:28,,,27,0.3,11,11
+●,6_L,Migration to the USA\Seek asylum,0,request asylum,AnZhu,16-01-19 14:28,,,14,0.16,34,34
+●,6_L,Migration to the USA\Seek asylum,0,make their case for asylum,AnZhu,16-01-19 14:29,,,26,0.29,35,35
+●,6_L,Migration to the USA\Seek asylum,0,seeking asylum,AnZhu,16-01-19 14:29,,,14,0.16,37,37
+●,6_L,Migration to the USA\Seek asylum,0,planning to seek asylum,AnZhu,16-01-19 14:29,,,23,0.26,38,38
+●,6_LL,Migration to the USA\Seek asylum,0,make asylum claims,AnZhu,16-01-19 14:30,,,18,0.21,14,14
+●,6_LL,Migration to the USA\Seek asylum,0,claiming asylum,AnZhu,16-01-19 14:30,,,15,0.18,24,24
+●,6_L,Migration to the USA\Seek asylum,0,request protection,AnZhu,16-01-19 14:30,,,18,0.2,26,26
+●,6_M,Migration to the USA\Seek asylum,0,seeking asylum,AnZhu,16-01-19 14:30,,,14,0.2,34,34
+●,6_LL,USA-MEX Border,0,the port of entry,AnZhu,16-01-19 14:31,,,17,0.2,6,6
+●,6_LL,USA-MEX Border,0,the San Ysidro port of entry,AnZhu,16-01-19 14:32,,,28,0.33,10,10
+●,6_LL,USA-MEX Border,0,legal ports of entry,AnZhu,16-01-19 14:32,,,20,0.24,18,18
+●,6_LL,USA-MEX Border,0,a legal port of entry,AnZhu,16-01-19 14:32,,,21,0.25,24,24
+●,6_L,USA-MEX Border,0,a United States entry point,AnZhu,16-01-19 14:32,,,27,0.3,26,26
+●,6_L,USA-MEX Border,0,ports of entry,AnZhu,16-01-19 14:32,,,14,0.16,28,28
+●,6_L,USA-MEX Border,0,the port of entry,AnZhu,16-01-19 14:32,,,17,0.19,34,34
+●,6_M,USA-MEX Border,0,the San Ysidro port of entry near San Diego,AnZhu,16-01-19 14:33,,,43,0.6,3,3
+●,6_M,USA-MEX Border,0,the San Ysidro port of entry,AnZhu,16-01-19 14:33,,,28,0.39,14,14
+●,6_M,USA-MEX Border,0,the San Ysidro port of entry,AnZhu,16-01-19 14:33,,,28,0.39,25,25
+●,6_M,Migration to the USA\Seek asylum,0,apply for asylum,AnZhu,16-01-19 14:33,,,16,0.22,25,25
+●,6_R,USA-MEX Border,0,the San Ysidro Port of Entry,AnZhu,16-01-19 14:33,,,28,0.58,10,10
+●,6_R,USA-MEX Border,0,a legitimate Port of Entry,AnZhu,16-01-19 14:33,,,26,0.54,10,10
+●,6_RR,USA-MEX Border,0,the San Ysidro Port of Entry,AnZhu,16-01-19 14:34,,,28,1.17,3,3
+●,6_RR,USA-MEX Border,0,the port of entry,AnZhu,16-01-19 14:34,,,17,0.71,6,6
+●,6_LL,Migrant caravan\People without borders,0,organizers,AnZhu,16-01-19 14:40,,,10,0.12,11,11
+●,6_LL,Migrant caravan\People without borders,0,organizers,AnZhu,16-01-19 14:40,,,10,0.12,13,13
+●,6_LL,Migrant caravan\People without borders,0,a project coordinator for the caravan’s main organizing group,AnZhu,16-01-19 14:40,,,61,0.73,25,25
+●,6_M,Migrant caravan\People without borders,0,one of the main organizers of Pueblo Sin Fronteras,AnZhu,16-01-19 14:43,,,50,0.7,7,7
+●,6_RR,Migrant caravan\People without borders,0,leader of the Pueblo Sin Fronteras caravan Irineo Mujica,AnZhu,16-01-19 14:44,,,56,2.34,12,12
+●,6_LL,MEX,0,the Mexican side of the border,AnZhu,16-01-19 14:55,,,30,0.36,11,11
+●,6_LL,USA-MEX Border,0,the Mexican side of the border,AnZhu,16-01-19 14:55,,,30,0.36,11,11
+●,6_L,USA-MEX Border,0,the Mexican side of the border,AnZhu,16-01-19 14:55,,,30,0.34,5,5
+●,6_L,USA-MEX Border,0,the American side of the oceanfront park,AnZhu,16-01-19 14:56,,,40,0.45,23,23
+●,6_M,USA-MEX Border,0,the U.S. side,AnZhu,16-01-19 15:02,,,13,0.18,32,32
+●,6_M,USA-MEX Border,0,the Mexican side of the border,AnZhu,16-01-19 15:02,,,30,0.42,35,35
+●,6_M,USA-MEX Border,0,the fence between Tijuana and San Diego,AnZhu,16-01-19 15:04,,,39,0.54,14,14
+●,6_R,USA-MEX Border,0,metal border fence,AnZhu,16-01-19 15:04,,,18,0.37,10,10
+●,6_L,USA-MEX Border,0,a wall on the border with Mexico,AnZhu,16-01-19 15:05,,,32,0.36,10,10
+●,6_L,USA-MEX Border,0,the border wall,AnZhu,16-01-19 15:05,,,15,0.17,29,29
+●,6_LL,USA-MEX Border,0,illegal entries,AnZhu,17-01-19 18:18,,,15,0.18,3,3
+●,6_LL,Migration to the USA\Seek asylum,0,plan to request asylum,AnZhu,17-01-19 18:19,,,22,0.26,17,17
+●,6_LL,Migration to the USA\Seek asylum,0,crossing through a legal port of entry to ask for asylum,AnZhu,17-01-19 18:19,,,56,0.67,24,24
+●,6_LL,Migration to the USA,0,crossing through a legal port of entry,AnZhu,17-01-19 18:19,,,38,0.45,24,24
+●,6_M,Migration to the USA\Seek asylum,0,pursuing asylum in the U.S.,AnZhu,17-01-19 18:19,,,27,0.38,13,13
+●,6_M,Migration to the USA\Seek asylum,0,apply for asylum,AnZhu,17-01-19 18:23,,,16,0.22,14,14
+●,6_M,Migration to the USA\Seek asylum,0,applying for asylum,AnZhu,17-01-19 18:23,,,19,0.27,28,28
+●,6_RR,Migration to the USA\Seek asylum,0,ask for asylum,AnZhu,17-01-19 18:24,,,14,0.58,6,6
+●,6_LL,Supporters\Supporters-I,0,borderlands campaigner for the nonprofit Center for Biological Diversity,AnZhu,09-04-19 11:14,,,72,0.86,7,7
+●,6_LL,Properties\Affection\Refusal,0,want to see it gone,AnZhu,09-04-19 11:14,USA-MEX Border,,19,0.23,8,8
