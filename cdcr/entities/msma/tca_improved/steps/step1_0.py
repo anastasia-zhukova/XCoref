@@ -1,7 +1,7 @@
 from cdcr.entities.msma.step import MergeStep
 from cdcr.entities.const_dict_global import *
 from typing import Dict
-from cdcr.entities.msma.tca_improved.entity_msma1 import EntityTCA
+from cdcr.entities.msma.tca_improved.entity_tca import EntityTCA
 
 import numpy as np
 

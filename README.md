@@ -4,13 +4,15 @@ An end-to-end CDCR system aiming at resolving entity, event, and more abstract c
  from a set of related articles.  
 
 ### Environment and installation
-Some troubleshooting information is found [here](INSTALLATION.md).
-Clone the repository, install required packages and resources via pip. TODO
+Requires **Python 3.6**
+
+Clone the repository, install required packages and resources via pip. 
 
 ```
 pip install requirements.txt
 python setup.py
 ```
+Some troubleshooting information is found [here](INSTALLATION.md).
 
 ### Stanford CoreNLP Server
 Next, execute the following to automatically set up the Stanford CoreNLP server and keep it running. It needs to be 

@@ -16,9 +16,9 @@ import gzip
 import shutil
 import spacy
 CORE_NLP = 'http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip'
-WORD2VEC = 'https://drive.google.com/uc?export=download&confirm=9iOS&id=0B7XkCwpI5KDYNlNUTTlSS21pQmM'
-WORD2VEC_DEST = './resources/word_vector_models/GoogleNews-vectors-negative300/GoogleNews-vectors-negative300.bin.gz'
-WORD2VEC_EXTRACTED = './resources/word_vector_models/GoogleNews-vectors-negative300/GoogleNews-vectors-negative300.bin'
+# WORD2VEC = 'https://drive.google.com/uc?export=download&confirm=9iOS&id=0B7XkCwpI5KDYNlNUTTlSS21pQmM'
+# WORD2VEC_DEST = './resources/word_vector_models/GoogleNews-vectors-negative300/GoogleNews-vectors-negative300.bin.gz'
+# WORD2VEC_EXTRACTED = './resources/word_vector_models/GoogleNews-vectors-negative300/GoogleNews-vectors-negative300.bin'
 
 def check_errors():
     old_cwd = os.getcwd()

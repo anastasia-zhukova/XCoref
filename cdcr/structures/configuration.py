@@ -126,7 +126,6 @@ class Configuration:
             self._run_config = docset_config
             self.entity_method = document_set.configuration.entity_method
             self.candidate_method = document_set.configuration.candidate_method
-            self.visualization_method = document_set.configuration.visualization_method
             for cand_method in list(self._run_config[CANDIDATES]):
                 if self._run_config[CANDIDATES][cand_method] is None:
                     continue
@@ -365,7 +364,7 @@ class Configuration:
 
         if ENTITIES in modules:
             self._run_config[ENTITIES][self.entity_method].get_default_params(os.path.join(ENTITIES, self.entity_method)
-                                                                              if MSMA not in self.entity_method
+                                                                              if self.entity_method not in [XCOREF, XCOREF_HC, TCA_IMPROVED, TCA_ORIG]
                                                                               else os.path.join(ENTITIES, MSMA,
                                                                                                 self.entity_method))
             if not default_no_interaction:

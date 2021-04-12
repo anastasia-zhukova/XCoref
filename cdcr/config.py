@@ -92,8 +92,8 @@ WORDVECTOR_MODELS_PATH = os.path.join(ROOT_DIR, "resources", "word_vector_models
 WORD2VEC_MODEL = os.path.join("GoogleNews-vectors-negative300", "GoogleNews-vectors-negative300.bin")
 WORD2VEC_MODEL_PATH = os.path.join(WORDVECTOR_MODELS_PATH, WORD2VEC_MODEL)
 
-WORD2VEC_MAGN_PATH = os.path.join(WORDVECTOR_MODELS_PATH, "word2vec-GoogleNews-magnitude", "GoogleNews-vectors-negative300.magnitude")
-# WORD2VEC_MAGN_PATH = "D:\\GoogleNews-vectors-negative300.magnitude"
+# WORD2VEC_MAGN_PATH = os.path.join(WORDVECTOR_MODELS_PATH, "word2vec-GoogleNews-magnitude", "GoogleNews-vectors-negative300.magnitude")
+WORD2VEC_MAGN_PATH = "D:\\GoogleNews-vectors-negative300.magnitude"
 FASTTEXT_MAGN_PATH = os.path.join(WORDVECTOR_MODELS_PATH, "fasttext-CommonCrawl-magnitude", "crawl-300d-2M.magnitude")
 # FASTTEXT_MAGN_PATH = "D:\\crawl-300d-2M.magnitude"
 ELMO_MAGN_PATH = os.path.join(WORDVECTOR_MODELS_PATH, "elmo-1mlnwords-magnitude", "elmo_2x2048_256_2048cnn_1xhighway_weights.magnitude")

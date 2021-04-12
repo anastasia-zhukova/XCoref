@@ -118,7 +118,7 @@ class Cache:
                 inp = int(inp) if len(inp) else -1
                 return self.load(available[inp])
             except (IndexError, ValueError) as e:
-                print(e)
+                logging.warning(e)
                 print(f"Please answer with a number between 0 and {len(available)-1} or nothing "
                       f"(for latest: {len(available)-1}).")
 
