@@ -139,9 +139,6 @@ class EvalScorer:
         for group_id, (group_name_tuple, group_df) in enumerate(param_df_groups):
             group_name = "_".join(list(group_name_tuple))
 
-            # if group_name_tuple[3] in ["corenlp", "clustering", "msma2"]:
-            #     continue
-
             eval_row_df = pd.DataFrame({
                 DATASET: group_name_tuple[0],
                 ORIGIN_TYPE: group_name_tuple[1],
@@ -155,11 +152,9 @@ class EvalScorer:
             pred_true_df, update_dataset_stats, perf_local_df = self.form_cand_tables([entities_docsets[set_id]
                                                                   for set_id in list(group_df.index)], group_name_tuple[0])
 
-            # performance_df = performance_df.append(pd.merge(eval_row_df, pd.DataFrame({
-            #     TIME: np.mean(perf_local_df[TIME].values),
-            #     AVG_TIME: np.mean(perf_local_df[AVG_TIME].values),
-            #     NUMBER: np.mean(perf_local_df[NUMBER].values),
-            # }, index=[group_name]), how="left", left_index=True, right_index=True))
+            perf_local_df[CONFIG] = [group_name] * len(perf_local_df)
+            performance_df = performance_df.append(pd.merge(eval_row_df, perf_local_df.reset_index(), how="left",
+                                                   left_index=True, right_on=[CONFIG]))
 
             if update_dataset_stats:
                 dataset_stats_df, entities_stats_df = self.calc_wcl(self.datasets[group_name_tuple[0]], group_name_tuple[0])
@@ -237,33 +232,34 @@ class EvalScorer:
 
         for docsed_id, docset in enumerate(selected_docsets):
 
-            # if docset.candidates.origin_type.name != "ANNOTATED":
-            #     continue
-
             men_num = np.sum([len(e.members) for e in docset.entities])
-            time_ = None
+            time_ = 0.0
 
-            # if hasattr(docset, "entity_execution_time"):
-            #     if type(docset.entity_execution_time) == float:
-            #         time_ = docset.entity_execution_time
-            #     else:
-            #         time_ = docset.entity_execution_time.total_seconds() if docset.configuration.entity_method != "corenlp" else docset.cand_execution_time
-            # elif hasattr(docset.processing_information, "entity_execution_time"):
-            #     if type(docset.processing_information.entity_execution_time) == float:
-            #         time_ = docset.processing_information.entity_execution_time
-            #     else:
-            #         try:
-            #             time_ = docset.processing_information.entity_execution_time.total_seconds() \
-            #                                     if docset.configuration.entity_method != "corenlp" \
-            #                                     else docset.processing_information.cand_execution_time
-            #         except AttributeError:
-            #             continue
-            # if time_ is not None:
-            #     perfomance_df = perfomance_df.append(pd.DataFrame({
-            #         TIME: time_,
-            #         NUMBER: men_num,
-            #         AVG_TIME: time_/men_num
-            #     }, index=[docset.topic]))
+            if hasattr(docset, "entity_execution_time"):
+                if type(docset.entity_execution_time) == float:
+                    time_ = docset.entity_execution_time
+                else:
+                    time_ = docset.entity_execution_time.total_seconds() \
+                        if docset.configuration.entity_method != "corenlp" else docset.cand_execution_time
+
+            elif hasattr(docset.processing_information, "entity_execution_time"):
+                if type(docset.processing_information.entity_execution_time) == float:
+                    time_ = docset.processing_information.entity_execution_time
+                else:
+                    if hasattr(docset, "cand_execution_time"):
+                        time_ = docset.cand_execution_time + \
+                                docset.processing_information.entity_execution_time.total_seconds()
+                    elif hasattr(docset.processing_information, "cand_execution_time"):
+                        time_ = docset.processing_information.cand_execution_time + \
+                                docset.processing_information.entity_execution_time.total_seconds()
+                    else:
+                        time_ = docset.processing_information.entity_execution_time.total_seconds()
+            if time_ is not None:
+                perfomance_df = perfomance_df.append(pd.DataFrame({
+                    TIME: time_,
+                    NUMBER: men_num,
+                    AVG_TIME: time_/men_num
+                }, index=[docset.topic]))
 
             for entity in docset.entities:
                 entity_type = "action" if np.sum([m.type == CandidateType.VP for m in entity.members]) else entity.type
@@ -381,6 +377,7 @@ class EvalScorer:
 
             pred_true_filled_df = pred_true_filled_df.append(local_df)
         # return pred_true_filled_df.dropna()
+        self.datasets[dataset_name] = dataset_df
         return pred_true_filled_df.fillna(UNK), False, perfomance_df
 
     def calc_entity_metrics(self, pred_true_df, index, dataset_name):
