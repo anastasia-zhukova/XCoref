@@ -316,7 +316,10 @@ class Configuration:
             return self.save_default_params([ENTITIES])
 
         self._run_config[ENTITIES][self.entity_method].get_default_params(os.path.join(ENTITIES, self.entity_method)
-                                                                          if MSMA not in self.entity_method
+                                                                          if self.entity_method not in [XCOREF,
+                                                                                                        XCOREF_HC,
+                                                                                                        TCA_IMPROVED,
+                                                                                                        TCA_ORIG]
                                                                           else os.path.join(ENTITIES, MSMA,
                                                                                             self.entity_method))
         self._run_config[ENTITIES][self.entity_method].read_config(os.path.join(USER_CONFIG_SETTINGS,

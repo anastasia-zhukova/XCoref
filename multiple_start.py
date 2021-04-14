@@ -56,7 +56,7 @@ if __name__ == "__main__":
     cache = Cache()
 
     data_folders = UserInterface.get_available_data_folders()
-    config_df = pd.read_csv(os.path.join(ROOT_ABS_DIR, "newsalyze/util/evaluation/experiments_all.csv"), index_col=[0])
+    config_df = pd.read_csv(os.path.join(ROOT_ABS_DIR, "cdcr/util/evaluation/experiments_all.csv"), index_col=[0])
     config_df.fillna("not_specified", inplace=True)
 
     with open(os.path.join(DATA_PATH, "ECBplus-prep", "test_events.json"), "r") as file:
