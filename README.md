@@ -23,12 +23,13 @@ python start_corenlp.py
 ```
 
 ### EECDCR: CDCR model by Barhom et al. 
-If you want to use EECDCR as a method (see https://www.aclweb.org/anthology/P19-1409/) for entity identification module, follow the setup instructions [here](cdcr/entities/eecdcr/README.md).
+If you want to use a CDCR model by Barhom et al. (EECDCR) (see https://www.aclweb.org/anthology/P19-1409/), 
+you must follow additional setup instructions [here](cdcr/entities/eecdcr/README.md).
 
 ## Run the analysis
-To start the analysis:
+To start the end-to-end execution, run:
 ```
-python start_export_pipeline.py
+python start_end_to_end_pipeline.py
 ```
 After the pipeline was started, you will need to choose a collection of news articles, which you want to analyse. 
 
@@ -37,17 +38,19 @@ executed the pipeline and it has cached the intermediate results, which you want
 
 Then, the pipeline will ask you to choose methods for the pipeline. To choose default parameters, answer "y". If you want to 
 explore what are the other methods implemented for the pipeline modules, choose "n". For each module you will be offered a 
-list of available methods. The default option will be marked in the selection list.
+list of available methods. The default option will be marked in the selection list. Select "n" to avoid caching the execution parameters.
 
 On a 64 GB of RAM and 2.8GHz, running the default pipeline on a small dataset of five news articles requires:
  1) TCA  ~25 minutes 
  2) XCoref ~50 minutes
  3) EECDCR ~ 6 hours
+ Minimum RAM required: 16 Gb
  
  ## Run the evaluation of CDCR methods
 To replicate the numbers reported in the paper, start the following script:
 ```
-python multiple_start.py
+python start_multiple_pipelines.py
 ```
-After the execution of the script is over, execute ```cdcr/util/evaluation/evaluation.py``` to collect the evaluation metrics. 
-Warning! Requires a lot of RAM (>64 GB)! In case of out of memory error, comment L20 and run the script with, first,  uncommented L21 adn then uncommented L22 and commented L21.
+After the execution of the script is over, execute ```cdcr/evaluation/evaluation.py``` to collect the evaluation metrics. 
+Warning! Requires a lot of RAM (>64 GB)! In case of out of memory error, comment L20 and run the script with, first,  
+uncommented L21 adn then uncommented L22 and commented L21.

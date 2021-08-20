@@ -55,6 +55,6 @@ class ParamsEECDCR(ParamsEntities):
             "load_elmo": True
         }
         self.params.update(params)
-        self.word_vectors = ELMO_WE
+        self.word_vectors = GLOVE_WE
 
         return self

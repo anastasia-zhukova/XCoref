@@ -175,6 +175,51 @@ class EntityPreprocessor:
             return token.word
         return token.word.lower()
 
+    def _leave_cand(self, cand) -> bool:
+        """
+        Filter out some mentions
+        Args:
+            cand: a candidate mention
+
+        Returns: a flag is a candidate is filtered out or not.
+
+        """
+        # if extracted and not annotated, perform cand post processing
+        if cand.annot_text == "" or cand.annot_text is None:
+
+            # ignore NPs with only one article-word
+            if len(cand.tokens) == 1 and cand.tokens[0].pos == DT:
+                return False
+
+            # ignore one-word NPs consisting of single adjectives
+            if (JJ in cand.head_token.pos and cand.head_token.ner == NON_NER and
+                len([t.word for t in cand.tokens if self.not_stopword(t.word)]) == 1) \
+                    and self.config_params.preprocessing.exclude_single_adj:
+                return False
+
+            # ignore NPs where a head word is a general phrase, e.g., everything, nothing, etc
+            if cand.head_token.word in LocalDictLists.general_nouns and \
+                    self.config_params.preprocessing.exclude_general_nouns:
+                return False
+
+            # ignore single-word NPs with titles Mr, Ms, etc.
+            if cand.head_token.word in LocalDictLists.titles:
+                return False
+
+            # ignore candidates related to time, date, and duration
+            if cand.head_token.ner in [TIME_NER, DATE_NER, DURATION_NER] and \
+                    self.config_params.preprocessing.exclude_time:
+                return False
+
+            # ignore NPs where a root word is a words like "those", "some", etc.
+            # if cand.head_token.pos in [DT, POS] and self.config_params.preprocessing.exclude_dt:
+            #     return None
+
+            # ignore pronominals from coref groups
+            # if cand.coref_subtype == PRONOMINAL:
+            #     return None
+        return True
+
     def entity_dict_construction(self, **kwargs):
         """
         Converts a list of candidate groups into dictionary of entities
@@ -197,40 +242,8 @@ class EntityPreprocessor:
 
             for cand in cand_group:
 
-                # if extracted and not annotated, perform cand post processing
-                if cand.annot_text == "" or cand.annot_text is None:
-
-                    # ignore pronominals from coref groups
-                    # if cand.coref_subtype == PRONOMINAL:
-                    #     continue
-
-                    # ignore NPs with only one article-word
-                    if len(cand.tokens) == 1 and cand.tokens[0].pos == DT:
-                        continue
-
-                    # ignore one-word NPs consisting of single adjectives
-                    if (JJ in cand.head_token.pos and cand.head_token.ner == NON_NER and
-                        len([t.word for t in cand.tokens if EntityPreprocessor.not_stopword(t.word)]) == 1) \
-                            and self.config_params.preprocessing.exclude_single_adj:
-                        continue
-
-                    # ignore NPs where a head word is a general phrase, e.g., everything, nothing, etc
-                    if cand.head_token.word in LocalDictLists.general_nouns and \
-                                                            self.config_params.preprocessing.exclude_general_nouns:
-                        continue
-
-                    # ignore single-word NPs with titles Mr, Ms, etc.
-                    if cand.head_token.word in LocalDictLists.titles:
-                        continue
-
-                    # ignore NPs where a root word is a words like "those", "some", etc.
-                    # if cand.head_token.pos in [DT, POS] and self.config_params.preprocessing.exclude_dt:
-                    #     continue
-
-                    #ignore candidates related to time, date, and duration
-                    if cand.head_token.ner in [TIME_NER, DATE_NER, DURATION_NER] and \
-                            self.config_params.preprocessing.exclude_time:
-                        continue
+                if not self._leave_cand(cand):
+                    continue
 
                 cand_selected.append(cand)
 

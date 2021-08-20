@@ -21,11 +21,11 @@ if os.path.isdir("src"):
     for pack in os.listdir("src"):
         sys.path.append(os.path.join("src", pack))
     sys.path.append("/src/shared/")
-elif os.path.isdir("newsalyze/entities/eecdcr/src"):
-    # we are running from newsalyze
-    for pack in os.listdir("newsalyze/entities/eecdcr/src"):
-        sys.path.append(os.path.join("newsalyze/entities/eecdcr/src", pack))
-    sys.path.append("/newsalyze/entities/eecdcr/src/shared/")
+elif os.path.isdir("cdcr/entities/eecdcr/src"):
+    # we are running from the pipeline
+    for pack in os.listdir("cdcr/entities/eecdcr/src"):
+        sys.path.append(os.path.join("cdcr/entities/eecdcr/src", pack))
+    sys.path.append("/cdcr/entities/eecdcr/src/shared/")
 
 from cdcr.entities.eecdcr.src.shared.classes import *
 

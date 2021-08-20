@@ -2,12 +2,12 @@ import datetime
 
 from cdcr.entities.eecdcr.EECDCRIdentifier import EECDCRIdentifier
 from cdcr.structures import DocumentSet
-from cdcr.entities.msma.tca_improved.tca_improved import TargetConceptAnalysisImproved
-from cdcr.entities.msma.xcoref.xcoref import XCoref
-from cdcr.entities.msma.xcoref_hc.xcoref_hc import XCoref_HierarClust
+from cdcr.entities.sieve_based.tca_improved.tca_improved import TargetConceptAnalysisImproved
+from cdcr.entities.sieve_based.xcoref.xcoref import XCoref
+from cdcr.entities.sieve_based.xcoref_base.xcoref_base import XCoref_Base
 from cdcr.entities.multidoc_corenlp.corenlp_identifier import CORENLPIdentifier
 from cdcr.entities.clustering.clustering_identifier import ClusteringIdentifier
-from cdcr.entities.msma.tca_orig.tca_orig import TargetConceptAnalysisOriginal
+from cdcr.entities.sieve_based.tca_orig.tca_orig import TargetConceptAnalysisOriginal
 from cdcr.entities.lemma.lemma_merge import LemmaIdentifier
 from cdcr.entities.const_dict_global import *
 
@@ -25,7 +25,7 @@ class EntityIdentifier:
             TCA_ORIG: TargetConceptAnalysisOriginal,
             TCA_IMPROVED: TargetConceptAnalysisImproved,
             XCOREF: XCoref,
-            XCOREF_HC: XCoref_HierarClust,
+            XCOREF_BASE: XCoref_Base,
             EECDCR: EECDCRIdentifier,
             CORENLP: CORENLPIdentifier,
             CLUSTERING: ClusteringIdentifier,

@@ -5,17 +5,17 @@ import copy
 
 from cdcr.candidates.params_cand import ParamsCand
 from cdcr.entities.const_dict_global import *
-from cdcr.entities.msma.tca_improved.params_tca import ParamsTCA
+from cdcr.entities.sieve_based.tca_improved.params_tca import ParamsTCA
 from cdcr.entities.eecdcr.params_eecdcr import ParamsEECDCR
-from cdcr.entities.msma.xcoref.params_xcoref import ParamsMSMA2_1
-from cdcr.entities.msma.xcoref_hc.params_xcoref_hc import ParamsMSMA3
+from cdcr.entities.sieve_based.xcoref.params_xcoref import ParamsXCoref
+from cdcr.entities.sieve_based.xcoref_base.params_xcoref_base import ParamsXCorefBase
 from cdcr.entities.multidoc_corenlp.params_corenlp import ParamsCoreNLP
 from cdcr.entities.clustering.params_clustering import ParamsClustering
 from cdcr.entities.lemma.params_lemmas import ParamsLemmas
 from cdcr.config import *
 from cdcr.structures.params import *
-
 from cdcr.logger import LOGGER
+
 MESSAGES = {
     "available_folders": "\nThe following saved configurations found: ",
     "one_folder": "Run configuration will be restored from the only folder with saved configuration.",
@@ -53,7 +53,7 @@ CUSTOM_CAND_METHOD_NAME = "custom_candidate_settings"
 
 # ----- CHANGE THESE LINES FOR FAST OPTION SELECTION WHILE DEBUGGING -----#
 DEFAULT_ENTITY_METHOD = XCOREF
-DEFAULT_CAND_METHOD = REALWORD_CAND_METHOD_NAME
+DEFAULT_CAND_METHOD = DEFAULT_CAND_METHOD_NAME
 REALWORD_CAND_METHOD = REALWORD_CAND_METHOD_NAME
 ANNOT_CAND_METHOD = ANNOT_CAND_METHOD_NAME
 # ----- ------------------------------------------------------------ -----#
@@ -74,13 +74,12 @@ class Configuration:
                     TCA_ORIG: ParamsCand(self.topic).get_default_params(),
                     TCA_IMPROVED: ParamsCand(self.topic).get_default_params(),
                     XCOREF:  ParamsCand(self.topic).get_default_params(),
-                    XCOREF_HC: ParamsCand(self.topic).get_default_params(),
+                    XCOREF_BASE: ParamsCand(self.topic).get_default_params(),
                     EECDCR: ParamsCand(self.topic).get_barhom_params(),
                     CORENLP: ParamsCand(self.topic).get_corenlp_params(),
-                    CLUSTERING: ParamsCand(self.topic).get_default_params(),
+                    CLUSTERING: ParamsCand(self.topic).get_lemma_params(),
                     LEMMA: ParamsCand(self.topic).get_lemma_params(),
                     DEFAULT_CAND_METHOD_NAME: ParamsCand(self.topic).get_default_params(),
-                    # DEFAULT_CAND_METHOD_NAME: ParamsCand(self.topic).get_barhom_params(),
                     REALWORD_CAND_METHOD_NAME: ParamsCand(self.topic).get_realword_setup(),
                     ANNOT_CAND_METHOD_NAME: ParamsCand(self.topic).get_annot_setup(),
                     CUSTOM_CAND_METHOD_NAME: None
@@ -88,8 +87,8 @@ class Configuration:
                 ENTITIES: {
                     TCA_ORIG: ParamsTCA(),
                     TCA_IMPROVED: ParamsTCA(),
-                    XCOREF: ParamsMSMA2_1(),
-                    XCOREF_HC: ParamsMSMA3(),
+                    XCOREF: ParamsXCoref(),
+                    XCOREF_BASE: ParamsXCorefBase(),
                     EECDCR: ParamsEECDCR(),
                     CORENLP: ParamsCoreNLP(),
                     CLUSTERING: ParamsClustering(),
@@ -98,10 +97,10 @@ class Configuration:
             }
 
         self.def_params = {
-            TCA_ORIG: os.path.join(ENTITIES, MSMA, TCA_ORIG),
-            TCA_IMPROVED: os.path.join(ENTITIES, MSMA, TCA_IMPROVED),
-            XCOREF: os.path.join(ENTITIES, MSMA, XCOREF),
-            XCOREF_HC: os.path.join(ENTITIES, MSMA, XCOREF_HC),
+            TCA_ORIG: os.path.join(ENTITIES, SIEVE_BASED, TCA_ORIG),
+            TCA_IMPROVED: os.path.join(ENTITIES, SIEVE_BASED, TCA_IMPROVED),
+            XCOREF: os.path.join(ENTITIES, SIEVE_BASED, XCOREF),
+            XCOREF_BASE: os.path.join(ENTITIES, SIEVE_BASED, XCOREF_BASE),
             EECDCR: os.path.join(ENTITIES, EECDCR),
             CORENLP: os.path.join(ENTITIES, CORENLP),
             CLUSTERING: os.path.join(ENTITIES, CLUSTERING),
@@ -317,10 +316,10 @@ class Configuration:
 
         self._run_config[ENTITIES][self.entity_method].get_default_params(os.path.join(ENTITIES, self.entity_method)
                                                                           if self.entity_method not in [XCOREF,
-                                                                                                        XCOREF_HC,
+                                                                                                        XCOREF_BASE,
                                                                                                         TCA_IMPROVED,
                                                                                                         TCA_ORIG]
-                                                                          else os.path.join(ENTITIES, MSMA,
+                                                                          else os.path.join(ENTITIES, SIEVE_BASED,
                                                                                             self.entity_method))
         self._run_config[ENTITIES][self.entity_method].read_config(os.path.join(USER_CONFIG_SETTINGS,
                                                                                 self.topic, ENTITIES,
@@ -367,8 +366,8 @@ class Configuration:
 
         if ENTITIES in modules:
             self._run_config[ENTITIES][self.entity_method].get_default_params(os.path.join(ENTITIES, self.entity_method)
-                                                                              if self.entity_method not in [XCOREF, XCOREF_HC, TCA_IMPROVED, TCA_ORIG]
-                                                                              else os.path.join(ENTITIES, MSMA,
+                                                                              if self.entity_method not in [XCOREF, XCOREF_BASE, TCA_IMPROVED, TCA_ORIG]
+                                                                              else os.path.join(ENTITIES, SIEVE_BASED,
                                                                                                 self.entity_method))
             if not default_no_interaction:
                 reply = input(MESSAGES["save_def_config"].format(ENTITIES.upper()))

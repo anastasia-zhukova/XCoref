@@ -14,47 +14,16 @@ The code belongs to [Shany Barhom](https://github.com/shanybar) (*shanyb21@gmail
 as one of the baselines. Original github project is https://github.com/shanybar/event_entity_coref_ecb_plus. 
 Please contact Shany for questions about the original model and code.
 
-## Setup
-```angular2
-python -m spacy download en_core_web_sm
-```
-
-* requirements_conda.txt 
-```
-conda create -n nlpa2 python=3.6 --yes
-conda activate nlpa2
-conda install pytorch=0.4.0 -c pytorch --yes
-# pip install https://download.pytorch.org/whl/torch-0.4.0-cp36-cp36m-macosx_10_7_x86_64.whl
-conda install -c conda-forge spacy=2.0.18 --yes
-python -m spacy download en
-conda install -c conda-forge matplotlib=3.0.2 --yes
-#conda install -c conda-forge numpy=1.16.1 --yes
-conda install -c conda-forge nltk=3.4 --yes
-conda install -c conda-forge scikit-learn=0.20.2 --yes
-#conda install -c conda-forge scipy=1.2.1 --yes
-conda install -c conda-forge seaborn=0.9.0 --yes
-pip install allennlp==0.9.0 # not available on conda
-```
-
-How install torch 1.2 and torchvision 0.4.0 for different OS see [here](https://pytorch.org/get-started/previous-versions/#v120).
-
-
-## Prerequisites
-* Python 3.6
-* [PyTorch](https://pytorch.org/) 0.4.0
+## Setup for the CDCR pipeline
+* [PyTorch](https://pytorch.org/) 
     * PyTorch 0.4.0 with CUDA 9.0 on Linux can be installed using the command:
     `pip install https://download.pytorch.org/whl/cu90/torch-0.4.0-cp36-cp36m-linux_x86_64.whl`
-    * torch 1.2 and torchvision 0.4.0 for different OS: https://pytorch.org/get-started/previous-versions/#v120
-    (CPU only: `pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html --user`)
-* [spaCy](https://spacy.io/) 2.0.18
-    *  Install the spacy en model with `python -m spacy download en_core_web_sm`
-* [Matplotlib](https://matplotlib.org/) 3.0.2
-* [NumPy](https://www.numpy.org/) 1.16.1
-* [NLTK](https://www.nltk.org/) 3.4
-* [scikit-learn](https://scikit-learn.org/) 0.20.2
-* [SciPy](https://www.scipy.org/) 1.2.1
-* [seaborn](https://seaborn.pydata.org/) 0.9.0
-* [AllenNLP](https://allennlp.org/) 0.9.0
+    * torch 1.2.0 and torchvision 0.4.0 for different OS: https://pytorch.org/get-started/previous-versions/#v120
+    `pip install torch==1.2.0+cu92 torchvision==0.4.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html --user` 
+    (if you experience troubles, try without "user" option and then with it)
+    If torchvision does not show up in a list of installed packages, run `pip install torchvision` and 
+    then rerun the installation with the version above.
+* [AllenNLP](https://allennlp.org/) `pip install allennlp==0.9.0`
 
 ## Download models and libraries
 Download the following [archive](https://drive.google.com/file/d/197jYq5lioefABWP11cr4hy4Ohh1HMPGK/view), exract the files,

@@ -17,7 +17,7 @@ class ParamsCand(ParamsHelperClass):
         self.change_head = None
         self.max_phrase_len = 25
         self.annot_path = None
-        self.annot_index = -1
+        self.annot_index = 0
         self.drop_duplicates = True
         self.ignore_lists = True
         self.max_doc_num = 5
@@ -61,7 +61,7 @@ class ParamsCand(ParamsHelperClass):
 
     def get_realword_setup(self):
         self.origin_type = OriginType.EXTRACTED
-        self.coref_extraction_strategy = CorefStrategy.ONE_DOC
+        self.coref_extraction_strategy = CorefStrategy.MULTI_DOC
         self.phrase_extension = ExtentedPhrases.EXTENDED
         self.add_phrases = [CandidateType.NP, CandidateType.VP]
         self.change_head = ChangeHead.NON_NUMBER
@@ -69,10 +69,10 @@ class ParamsCand(ParamsHelperClass):
 
     def get_annot_setup(self):
         self.origin_type = OriginType.ANNOTATED
-        self.coref_extraction_strategy = CorefStrategy.ONE_DOC
-        self.phrase_extension = ExtentedPhrases.ASIS
-        self.add_phrases = [CandidateType.NP]
-        self.change_head = ChangeHead.ORIG
+        self.coref_extraction_strategy = CorefStrategy.MULTI_DOC
+        self.phrase_extension = ExtentedPhrases.EXTENDED
+        self.add_phrases = []
+        self.change_head = ChangeHead.NON_NUMBER
         return self
 
     def get_barhom_params(self):
@@ -80,14 +80,6 @@ class ParamsCand(ParamsHelperClass):
         self.coref_extraction_strategy = CorefStrategy.ONE_DOC
         self.phrase_extension = ExtentedPhrases.ASIS
         self.add_phrases = [CandidateType.NP]
-        self.change_head = ChangeHead.ORIG
-        return self
-
-    def get_nlpa_params(self):
-        self.origin_type = OriginType.ANNOTATED
-        self.coref_extraction_strategy = CorefStrategy.NO_COREF
-        self.phrase_extension = ExtentedPhrases.ASIS
-        self.add_phrases = []
         self.change_head = ChangeHead.ORIG
         return self
 

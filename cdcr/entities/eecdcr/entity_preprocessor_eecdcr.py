@@ -46,38 +46,8 @@ class EntityPreprocessorEECDCR(EntityPreprocessor):
                 for m_id in list(entity_df.index):
                     cand = mention_dict[m_id]
 
-                    if cand.annot_text == "" or cand.annot_text is None:
-                        # ignore pronominals from coref groups
-                        # if cand.coref_subtype == PRONOMINAL or cand.head_token.pos in ["PRP", "PRP$"]:
-                        #     continue
-
-                        # ignore NPs with only one article-word
-                        if len(cand.tokens) == 1 and cand.tokens[0].pos == DT:
-                            continue
-
-                        # ignore one-word NPs consisting of single adjectives
-                        if (JJ in cand.head_token.pos and cand.head_token.ner == NON_NER and
-                            len([t.word for t in cand.tokens if EntityPreprocessorEECDCR.not_stopword(t.word)]) == 1) \
-                                and self.config_params.preprocessing.exclude_single_adj:
-                            continue
-
-                        # ignore NPs where a head word is a general phrase, e.g., everything, nothing, etc
-                        if cand.head_token.word in LocalDictLists.general_nouns \
-                                and self.config_params.preprocessing.exclude_general_nouns:
-                            continue
-
-                        # ignore single-word NPs with titles Mr, Ms, etc.
-                        if cand.head_token.word in LocalDictLists.titles:
-                            continue
-
-                        # ignore NPs where a root word is a words like "those", "some", etc.
-                        # if cand.head_token.pos in [DT, POS] and self.config_params.preprocessing.exclude_dt:
-                        #     continue
-
-                        # ignore candidates related to time, date, and duration
-                        if cand.head_token.ner in [TIME_NER, DATE_NER, DURATION_NER] and \
-                                self.config_params.preprocessing.exclude_time:
-                            continue
+                    if not self._leave_cand(cand):
+                        continue
 
                     members.append(cand)
                     m_ids.append(m_id)

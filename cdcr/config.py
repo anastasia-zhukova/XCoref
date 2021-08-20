@@ -72,6 +72,10 @@ from typing import Union, Optional
 
 from cdcr.logger import LOGGER
 
+# evaluation
+RUN_PERL_SCORER = True
+EXCLUDE_ACT_G = True
+
 # wordvectors
 WORD2VEC_WE = "word2vec"
 GLOVE_WE = "glove"
@@ -97,8 +101,8 @@ WORD2VEC_MAGN_PATH = "D:\\GoogleNews-vectors-negative300.magnitude"
 FASTTEXT_MAGN_PATH = os.path.join(WORDVECTOR_MODELS_PATH, "fasttext-CommonCrawl-magnitude", "crawl-300d-2M.magnitude")
 # FASTTEXT_MAGN_PATH = "D:\\crawl-300d-2M.magnitude"
 ELMO_MAGN_PATH = os.path.join(WORDVECTOR_MODELS_PATH, "elmo-1mlnwords-magnitude", "elmo_2x2048_256_2048cnn_1xhighway_weights.magnitude")
-# GLOVE_MAGN_PATH = "D:\\GloVe\\glove.840B.300d.magnitude"
-GLOVE_MAGN_PATH = os.path.join(WORDVECTOR_MODELS_PATH, "GloVe-CommonCrawl-magnitude", "glove.840B.300d.magnitude")
+GLOVE_MAGN_PATH = "D:\\GloVe\\glove.840B.300d.magnitude"
+# GLOVE_MAGN_PATH = os.path.join(WORDVECTOR_MODELS_PATH, "GloVe-CommonCrawl-magnitude", "glove.840B.300d.magnitude")
 
 RESOURCES_PATH = os.path.join(ROOT_DIR, "resources")
 RESOURCES_ABS_PATH = os.path.join(ROOT_ABS_DIR, "resources")

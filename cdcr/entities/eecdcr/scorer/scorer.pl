@@ -12,6 +12,7 @@ BEGIN {
   }
 }
 
+use lib("cdcr\\entities\\eecdcr\\scorer\\lib");
 use strict;
 use CorScorer;
 
