@@ -31,7 +31,7 @@ NOTIFICATION_MESSAGES = {
                        "documents. The coreferences will ba taken from original documents not a combined mega-document.",
     "wrong_config": "Wrong configuration: coreference extraction strategy is \"No_coref\" and add_phrases are empty. "
                     "Please specify in a json config file what to extract, e.g., add_phrases = [\"NP\"]. ",
-    "token_mismatch": "{0} ({1}) extracted tokens don\'t match {2} ({3}) annotated tokens. Skipped.",
+    "token_mismatch": "{0} ({1}) extracted tokens don\'t fully match {2} ({3}) annotated tokens.",
     "no_tokens": "List of tokens is zero, the annotated mention is skipped. ",
     "not_found": "Mention \"{0}\" is not found in text (article: {1}, sent: {2}), the annotated mention is skipped.",
     "no_annot": "Annotated candidates are required to be extracted but no annotation provided. "
@@ -208,11 +208,14 @@ class CandidatePhrasesExtractor:
             sents = [doc.sentences[mention.sent_id]]
 
         # mention_proc = re.sub(r'\s+', " ", re.sub(r'\W', " ", mention.tokens_str.lower()))
-        mention_proc = re.sub(r'\W', " ", mention.tokens_str.lower().replace(" 's", "'s"))
+        # mention_proc = re.sub(r'\W', " ", mention.tokens_str.lower().replace(" 's", "'s"))
+        mention_proc = mention.tokens_str
         for i, sent in enumerate(sents):
             # sent_proc = re.sub(r'\s+', " ", re.sub(r'\W', " ", sent.text.lower()))
-            sent_proc = re.sub(r'\W', " ", sent.text.lower())
-            for str_mention in re.finditer(mention_proc, sent_proc):
+            # sent_proc = re.sub(r'\W', " ", sent.text.lower())
+            sent_proc = sent.text
+            for str_mention in re.finditer(mention_proc.replace("(", "<").replace(")", ">"),
+                                           sent_proc.replace("(", "<").replace(")", ">")):
                 segm_index_start = str_mention.start()
 
                 token_ids = []
@@ -283,21 +286,6 @@ class CandidatePhrasesExtractor:
                 mention = Annot_Mention(mention)
                 doc = doc_dict[mention.doc_id]
 
-                # TODO remove later after the end of the experiment with GROUP and ACTOR-G
-                # if "ecbplus2" not in self.docs.topic and "ecbplus" in self.docs.topic:
-                #     #   todo
-                #     if mention.decription not in ["t36_spiritual_wives", "t37_2ppl_missing", "t37_50_people_injured",
-                #         "t37_people_ran_houses", "t37_victims_of_quake", "t41_aid_workers", "t41_refugee_witnesses",
-                #         "t41_south_sudan_officials", "t41_yida_refugees", "t42_business_customers", "t45_prosecution"]:
-                #         continue
-                # else:
-                #     if mention.mention_type not in ["ACTOR-G", "GROUP"]:
-                #         continue
-
-                # for sent_id in range(mention.sent_id - SEARCH_WINDOW, mention.sent_id + SEARCH_WINDOW):
-                #     if sent_id >= len(doc.sentences):
-                #         continue
-
                 if mention.sent_id < len(doc.sentences):
                     sent_id, tokens = CandidatePhrasesExtractor.find_phrase(doc, mention)
 
@@ -323,21 +311,20 @@ class CandidatePhrasesExtractor:
                     self._logger.warning(NOTIFICATION_MESSAGES["no_tokens"])
                     continue
 
-                annot_phrase = re.sub(r'\s+', " ", re.sub(r'\W', " ", mention.tokens_str.lower()))
-                found_phrase = re.sub(r'\s+', " ", re.sub(r'\W', " ", " ".join([t.word.lower() for t in tokens])))
-                # diff_words = [tokens[i].word for i in range(min(len(tokens), len(annot_tokens)))
-                #               if tokens[i].word.lower() != annot_tokens[i].lower()]
+                annot_phrase = re.sub(r'\s+', " ", re.sub(r'\W', " ", mention.tokens_str.lower())).strip()
+                found_phrase = re.sub(r'\s+', " ", re.sub(r'\W', " ", " ".join([t.word.lower() for t in tokens]))).strip()
+                if not len(found_phrase.strip()):
+                    self._logger.warning(NOTIFICATION_MESSAGES["no_tokens"])
+                    continue
 
                 if found_phrase != annot_phrase:
-                    if found_phrase.strip() != annot_phrase:
-                        self._logger.warning(NOTIFICATION_MESSAGES["token_mismatch"].format(len(tokens), found_phrase,
-                                                                            len(mention.tokens_number), annot_phrase))
-                        continue
-                    else:
-                        if tokens[-1].word in string.punctuation:
+                    if tokens[-1].word in string.punctuation:
                             tokens = tokens[:-1]
-                        else:
-                            a = 1
+                    else:
+                        self._logger.warning(
+                            NOTIFICATION_MESSAGES["token_mismatch"].format(len(tokens), found_phrase,
+                                                                           len(mention.tokens_number),
+                                                                           annot_phrase))
 
                 sentence = doc.sentences[sent_id]
                 dep_subtree = Candidate.find_dep_subset_static(tokens, sentence)

@@ -22,7 +22,7 @@ from cdcr.candidates.cand_enums import *
 from cdcr.config import ROOT_ABS_DIR, DATA_PATH, ORIGINAL_DATA_PATH, EVALUATION_PATH
 from cdcr.util.cache import Cache
 import cdcr.logger as logging
-from cdcr.pipeline.modules import NewsPleaseReader, Preprocessor, CandidateExtractor
+from cdcr.pipeline.modules import NewsPleaseReader, Preprocessor, CandidateExtractor, EntityIdentifier
 from cdcr.structures.configuration import CUSTOM_CAND_METHOD_NAME, CANDIDATES, ENTITIES
 from cdcr.pipeline.modules.news_please_reader import UserInterface
 file_dir = os.path.dirname(os.path.realpath(__file__))
@@ -70,6 +70,9 @@ if __name__ == "__main__":
     for topic in data_folders:
 
         # if "ecb" not in topic:
+        #         #     continue
+
+        # if topic in ["36ecb", "36ecbplus", "37ecb"]:
         #     continue
 
         if len(os.listdir(os.path.join(ORIGINAL_DATA_PATH, topic))) == 1:

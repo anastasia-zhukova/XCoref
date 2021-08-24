@@ -246,7 +246,6 @@ class EvalScorer:
 
         local_res_df[WCL_WEIGHTED] = local_res_df[WCL].values * local_res_df[NUMBER].values
         sum_df = local_res_df.groupby(by=[CONCEPT_TYPE])[NUMBER].sum().reset_index()
-        # avg_df = local_res_df.groupby(by=[CONCEPT_TYPE])[WCL].mean().reset_index()
         w_avg_df = local_res_df.groupby(by=[CONCEPT_TYPE])[WCL_WEIGHTED].sum().reset_index()
         count_df = local_res_df.groupby(by=[CONCEPT_TYPE])[WCL].count().reset_index()
         results_df[DATASET] = [dataset_name] * len(sum_df)
@@ -440,7 +439,7 @@ class EvalScorer:
                               f'{os.path.join(config.TMP_PATH, "response.response_conll")} none > {result_file} \n')
 
             processes = []
-            LOGGER.info('Run scorer command for CDCR')
+            LOGGER.info('Run CoNLL scorer perl command for CDCR')
             processes.append(subprocess.Popen(scorer_command, shell=True))
 
             while processes:
@@ -448,7 +447,7 @@ class EvalScorer:
                 if status is not None:
                     processes.pop(0)
 
-            LOGGER.info('Running scorers has been done.')
+            LOGGER.info('Running CoNLL scorers has been completed.')
 
             f1_dict = {}
             metrics_list = [MUC, B3, CEAF_M, CEAF_E, BLANC]
@@ -494,6 +493,7 @@ class EvalScorer:
                     conll_count = 0
 
         else:
+            LOGGER.info('Run reimplemented CoNLL scorer for CDCR')
             true_dict = {}
             pred_dict = {}
 

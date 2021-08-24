@@ -36,8 +36,9 @@ def append_text(text, word):
         # space = " " if text[-2:0] == "\" " and word.istitle() else space
         space = "" if word.isupper() and text[-1] == "." and text[-2].isupper() else space
         space = " " if not len(re.sub(r'\W+', "", text[-2:])) and len(text[-2:]) == len(text[-2:].replace(" ", "")) else space
+        space = "" if text[-1] == "." and text[-2] in "0123456789" and len(set(word).intersection(set("0123456789"))) > 0  else space
     word = "\"" if word == "``" else word
-    return text + space + word
+    return text + space + word, word, space != " "
 
 
 def convert_files(topic_number_to_convert=TOPIC_NUMBER_TO_CONVERT, check_with_list=True):
@@ -47,8 +48,9 @@ def convert_files(topic_number_to_convert=TOPIC_NUMBER_TO_CONVERT, check_with_li
         selected_articles = json.load(file)
 
     # selected_topics = sorted(list(set([a.split("_")[0] for a in selected_articles])))
-    # selected_topics = ['36', "37", "38", "39", "40", "41", "42", "43", "44", "45"]
-    selected_topics = [str(i) for i in range(36)]
+    selected_topics = ['36', "37", "38", "39", "40", "41", "42", "43", "44", "45"]
+    # selected_topics = ["37"]
+    # selected_topics = [str(i) for i in range(36)]
 
     summary_df = pd.DataFrame()
 
@@ -88,9 +90,11 @@ def convert_files(topic_number_to_convert=TOPIC_NUMBER_TO_CONVERT, check_with_li
                 token_dict, mentions, mentions_map = {}, {}, {}
 
                 t_id = -1
-                old_sent = 0
+                old_sent = -1
                 sent_dict = {}
                 for elem in root:
+                    merge_tokens = False
+                    updated_word = elem.text
                     try:
                         if old_sent == int(elem.attrib["sentence"]):
                             t_id += 1
@@ -102,13 +106,16 @@ def convert_files(topic_number_to_convert=TOPIC_NUMBER_TO_CONVERT, check_with_li
 
                         if ECB in topic_file:
                             if int(elem.attrib["sentence"]) == 0:
-                                title = append_text(title, elem.text)
+                                title, updated_word, merge_tokens = append_text(title, elem.text)
                             else:
-                                text = append_text(text, elem.text)
+                                text, updated_word, merge_tokens = append_text(text, elem.text)
 
                         if ECBPLUS in topic_file:
-                            sent_dict[int(elem.attrib["sentence"])] = append_text(sent_dict.get(
+                            sent_dict[int(elem.attrib["sentence"])], updated_word, merge_tokens = append_text(sent_dict.get(
                                                                     int(elem.attrib["sentence"]), ""), elem.text)
+
+                        token_dict[elem.attrib["t_id"]] = {"text": updated_word, "sent": elem.attrib["sentence"], "id": t_id}
+
                     except KeyError:
                         pass
 
@@ -117,8 +124,11 @@ def convert_files(topic_number_to_convert=TOPIC_NUMBER_TO_CONVERT, check_with_li
                             tokens = [token.attrib["t_id"] for token in subelem]
 
                             if len(tokens):
+                                mention_text = ""
+                                for t in tokens:
+                                    mention_text, _, _ = append_text(mention_text, token_dict[t]["text"])
                                 mentions[subelem.attrib["m_id"]] = {"type": subelem.tag,
-                                                                    "text": " ".join([token_dict[t]["text"] for t in tokens]),
+                                                                    "text": mention_text.strip(),
                                                                     "token_numbers": [token_dict[t]["id"] for t in tokens],
                                                                     "doc_id": topic_file.split(".")[0],
                                                                     "sent_id": token_dict[tokens[0]]["sent"]}
