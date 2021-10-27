@@ -15,6 +15,7 @@ from cdcr.entities.lemma.params_lemmas import ParamsLemmas
 from cdcr.config import *
 from cdcr.structures.params import *
 from cdcr.logger import LOGGER
+from cdcr.entities.params_entities import ParamsEntities
 
 MESSAGES = {
     "available_folders": "\nThe following saved configurations found: ",
@@ -79,6 +80,8 @@ class Configuration:
                     CORENLP: ParamsCand(self.topic).get_corenlp_params(),
                     CLUSTERING: ParamsCand(self.topic).get_lemma_params(),
                     LEMMA: ParamsCand(self.topic).get_lemma_params(),
+                    ORIG_ANNOT: ParamsCand(self.topic).get_lemma_params(),
+
                     DEFAULT_CAND_METHOD_NAME: ParamsCand(self.topic).get_default_params(),
                     REALWORD_CAND_METHOD_NAME: ParamsCand(self.topic).get_realword_setup(),
                     ANNOT_CAND_METHOD_NAME: ParamsCand(self.topic).get_annot_setup(),
@@ -92,7 +95,8 @@ class Configuration:
                     EECDCR: ParamsEECDCR(),
                     CORENLP: ParamsCoreNLP(),
                     CLUSTERING: ParamsClustering(),
-                    LEMMA: ParamsLemmas()
+                    LEMMA: ParamsLemmas(),
+                    ORIG_ANNOT: ParamsEntities()
                 }
             }
 
@@ -104,7 +108,8 @@ class Configuration:
             EECDCR: os.path.join(ENTITIES, EECDCR),
             CORENLP: os.path.join(ENTITIES, CORENLP),
             CLUSTERING: os.path.join(ENTITIES, CLUSTERING),
-            LEMMA: os.path.join(ENTITIES, LEMMA)
+            LEMMA: os.path.join(ENTITIES, LEMMA),
+            ORIG_ANNOT: os.path.join(ENTITIES, ORIG_ANNOT)
         }
 
         if not hasattr(document_set, "configuration"):

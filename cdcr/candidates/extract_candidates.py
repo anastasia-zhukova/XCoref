@@ -29,7 +29,8 @@ NOTIFICATION_MESSAGES = {
     "corefs": "Extracting coreferences out of the combined documents...",
     "number_dismatch": "Number of original sentences does not match the number of extracted sentences on the combined "
                        "documents. The coreferences will ba taken from original documents not a combined mega-document.",
-    "wrong_config": "Wrong configuration: coreference extraction strategy is \"No_coref\" and add_phrases are empty. "
+    "wrong_config": "Wrong configuration: candidate extraction strategy involved automated extracting phrases "
+                    "and add_phrases are empty. "
                     "Please specify in a json config file what to extract, e.g., add_phrases = [\"NP\"]. ",
     "token_mismatch": "{0} ({1}) extracted tokens don\'t fully match {2} ({3}) annotated tokens.",
     "no_tokens": "List of tokens is zero, the annotated mention is skipped. ",
@@ -86,8 +87,8 @@ class CandidatePhrasesExtractor:
 
     def extract_phrases(self, docs):
 
-        if docs.configuration.cand_extraction_config.coref_extraction_strategy == CorefStrategy.NO_COREF and \
-                not len(docs.configuration.cand_extraction_config.add_phrases):
+        if docs.configuration.cand_extraction_config.origin_type != OriginType.ANNOTATED \
+                and not len(docs.configuration.cand_extraction_config.add_phrases):
             raise ValueError(NOTIFICATION_MESSAGES["wrong_config"])
 
         self.docs = docs

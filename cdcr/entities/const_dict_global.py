@@ -9,6 +9,7 @@ EECDCR = "eecdcr"
 CORENLP = "corenlp"
 CLUSTERING = "clustering"
 LEMMA = "lemma"
+ORIG_ANNOT = "manual_annotat"
 
 # STEP CODES #
 STEP = "step"

@@ -10,6 +10,7 @@ from cdcr.entities.clustering.clustering_identifier import ClusteringIdentifier
 from cdcr.entities.sieve_based.tca_orig.tca_orig import TargetConceptAnalysisOriginal
 from cdcr.entities.lemma.lemma_merge import LemmaIdentifier
 from cdcr.entities.const_dict_global import *
+from cdcr.entities.as_annotated.as_annotated import AsAnnotatedIdentifier
 
 
 class EntityIdentifier:
@@ -29,7 +30,8 @@ class EntityIdentifier:
             EECDCR: EECDCRIdentifier,
             CORENLP: CORENLPIdentifier,
             CLUSTERING: ClusteringIdentifier,
-            LEMMA: LemmaIdentifier
+            LEMMA: LemmaIdentifier,
+            ORIG_ANNOT: AsAnnotatedIdentifier
         }
 
     @staticmethod
