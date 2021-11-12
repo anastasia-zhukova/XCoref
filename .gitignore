@@ -180,8 +180,6 @@ data/mturk_ids_configuration.csv
 /cdcr/visualization/run_visualization/vis_app/static/data/*
 /resources/evaluation_results/*
 
-/resources/corenlp/
-
 .idea/other.xml
 .idea/inspectionProfiles/Project_Default.xml
 .idea/FrameAnalysisWCL.iml
