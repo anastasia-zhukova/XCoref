@@ -1,9 +1,9 @@
 # Implemented approaches
-1) TCA original (see https://www.gipp.com/wp-content/papercite-data/pdf/hamborg2019a.pdf)
+1) TCA original ([Hamborg at el. 2019](https://www.gipp.com/wp-content/papercite-data/pdf/hamborg2019a.pdf))
 1) TCA with improved entity preprocessing 
 2) XCoref 
-2) XCoref + HC as a baseline to XCoref
-3) EECDCR (see https://www.aclweb.org/anthology/P19-1409/)
+2) XCoref_base as a baseline to XCoref with a simpler "intermediate" versions of sieves S4 and S5 
+3) EECDCR ([Barhom et al. 2019](https://www.aclweb.org/anthology/P19-1409/))
 
 # How to add a new entity identifier approach to newsalyze
 1) create a new folder in ```newsalyze/entities```

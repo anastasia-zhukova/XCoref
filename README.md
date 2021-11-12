@@ -31,14 +31,24 @@ To start the end-to-end execution, run:
 ```
 python start_end_to_end_pipeline.py
 ```
-After the pipeline was started, you will need to choose a collection of news articles, which you want to analyse. 
+After the pipeline was started, you will need to choose a collection of news articles, which you want to analyse: 
+
+![topic](./resources/pics/select_topic.png)
 
 At the next question, choose "n" if you want to execute the pipeline from the very beginning and "y" if you have already 
-executed the pipeline and it has cached the intermediate results, which you want to restore. 
+executed the pipeline and it has cached the intermediate results, which you want to restore.
 
 Then, the pipeline will ask you to choose methods for the pipeline. To choose default parameters, answer "y". If you want to 
 explore what are the other methods implemented for the pipeline modules, choose "n". For each module you will be offered a 
-list of available methods. The default option will be marked in the selection list. Select "n" to avoid caching the execution parameters.
+list of available methods. The default option will be marked in the selection list: 
+
+![method](./resources/pics/select_approach.png)
+
+Select "n" to avoid caching the execution parameters.
+
+Lastly, choose which mentions you want to resolve: automatically extracted (end-to-end system) or manually annotated for this topic: 
+
+![method](./resources/pics/select_mention_extraction.png)
 
 On a 64 GB of RAM and 2.8GHz, running the default pipeline on a small dataset of five news articles requires:
  1) TCA  ~25 minutes 
