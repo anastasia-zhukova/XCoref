@@ -61,6 +61,9 @@ To replicate the numbers reported in the paper, start the following script:
 ```
 python start_multiple_pipelines.py
 ```
-After the execution of the script is over, execute ```cdcr/evaluation/evaluation.py``` to collect the evaluation metrics. 
+
+You can vary the experiments to run in the file ```cdcr/evaluation/experiments_all.csv```. After the execution of the 
+script is over, execute ```cdcr/evaluation/evaluation.py``` to collect the evaluation metrics. 
+
 Warning! Requires a lot of RAM (>64 GB)! In case of out of memory error, comment L20 and run the script with, first,  
 uncommented L21 adn then uncommented L22 and commented L21.

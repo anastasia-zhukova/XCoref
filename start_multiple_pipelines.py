@@ -59,21 +59,11 @@ if __name__ == "__main__":
     config_df = pd.read_csv(os.path.join(ROOT_ABS_DIR, "cdcr/evaluation/experiments_all.csv"), index_col=[0])
     config_df.fillna("not_specified", inplace=True)
 
-    with open(os.path.join(DATA_PATH, "ECBplus-prep", "test_events.json"), "r") as file:
-        ecb_plus_topic_list = json.load(file)
-        ecb_plus_topic_list = list(set([t.split("_")[0] + re.findall(r'[a-z]+', t)[0] for t in ecb_plus_topic_list]))
-
     stats_df = pd.DataFrame(columns=[TOPIC, DATASET, NUM_WORDS, NUM_ARTICLES, NUM_MENTIONS, MODULE, SETUP, TIME])
     stats_id = 0
     topic_index = 0
 
     for topic in data_folders:
-
-        # if "ecb" not in topic:
-        #         #     continue
-
-        # if topic in ["36ecb", "36ecbplus", "37ecb"]:
-        #     continue
 
         if len(os.listdir(os.path.join(ORIGINAL_DATA_PATH, topic))) == 1:
             continue
@@ -83,11 +73,6 @@ if __name__ == "__main__":
             continue
 
         dataset = "newswcl50"
-
-        if len(re.findall(r'[0-9]+ecb', topic)):
-            if topic not in ecb_plus_topic_list:
-                continue
-            dataset = "ecb"
 
         LOGGER.info("Executing pipeline on {} topic: {}. ".format(str(topic_index), topic.upper()))
 
