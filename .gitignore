@@ -175,6 +175,7 @@ data/exported/*
 data/exported_annotations/*
 data/exported_old/*
 data/mturk_ids_configuration.csv
+data/ECBplus-prep/
 
 /resources/tmp/*
 /cdcr/visualization/run_visualization/vis_app/static/data/*
