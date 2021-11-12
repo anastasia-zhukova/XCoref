@@ -179,7 +179,6 @@ data/ECBplus-prep/
 
 /resources/tmp/*
 /cdcr/visualization/run_visualization/vis_app/static/data/*
-/resources/evaluation_results/*
 
 .idea/other.xml
 .idea/inspectionProfiles/Project_Default.xml
