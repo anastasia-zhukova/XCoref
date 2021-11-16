@@ -1,6 +1,6 @@
 from cdcr.entities.sieve_based.step import Sieve
 from cdcr.entities.const_dict_global import *
-from entities.sieve_based.xcoref.entity_xcoref import EntityXCoref
+from cdcr.entities.sieve_based.xcoref.entity_xcoref import EntityXCoref
 
 import numpy as np
 import string
