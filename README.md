@@ -2,6 +2,42 @@
 
 An end-to-end CDCR system aiming at resolving entity, event, and more abstract concepts with a word choice and labeling diversity
  from a set of related articles.  
+ 
+ To cite the related publications, please use: 
+ ```
+ @inproceedings{Zhukova2022,
+author = {Zhukova, Anastasia and Hamborg, Felix and Donnay, Karsten and Gipp, Bela},
+title = {XCoref: Cross-Document Coreference Resolution in the Wild},
+year = {2022},
+isbn = {978-3-030-96956-1},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+url = {https://doi.org/10.1007/978-3-030-96957-8_25},
+doi = {10.1007/978-3-030-96957-8_25},
+booktitle = {Information for a Better World: Shaping the Global Future: 17th International Conference, IConference 2022, Virtual Event, February 28 – March 4, 2022, Proceedings, Part I},
+pages = {272–291},
+numpages = {20},
+keywords = {News analysis, Media bias, Cross-document coreference resolution}
+}
+ ```
+ 
+ ```
+@inproceedings{Zhukova2021,
+author = {Zhukova, Anastasia and Hamborg, Felix and Donnay, Karsten and Gipp, Bela},
+title = {Concept Identification of Directly and Indirectly Related Mentions Referring to Groups of Persons},
+year = {2021},
+isbn = {978-3-030-71291-4},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+url = {https://doi.org/10.1007/978-3-030-71292-1_40},
+doi = {10.1007/978-3-030-71292-1_40},
+booktitle = {Diversity, Divergence, Dialogue: 16th International Conference, IConference 2021, Beijing, China, March 17–31, 2021, Proceedings, Part I},
+pages = {514–526},
+numpages = {13},
+keywords = {Media bias, News analysis, Coreference resolution},
+location = {Beijing, China}
+}
+ ```
 
 ### Environment and installation
 Requires **Python 3.6**
