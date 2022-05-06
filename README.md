@@ -1,7 +1,10 @@
 # XCoref: Cross-document coreference resolution (CDCR) in the wild
 
 An end-to-end CDCR system aiming at resolving entity, event, and more abstract concepts with a word choice and labeling diversity
- from a set of related articles.  
+ from a set of related articles. XCoref uses 5 steps (or sieves) to resolve mentions by increasing complexity of the semantic relations, i.e., coreference relations become 
+ more loose towards the later steps: 
+ 
+ ![pipeline](./resources/pics/pipeline.png)
  
  To cite the related publications, please use: 
  ```
