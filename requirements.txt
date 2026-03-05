@@ -1,12 +1,12 @@
 pandas==1.2.0
 progressbar2==3.53.1
-scikit-learn==0.24.2
+scikit-learn==1.5.0
 gdown==3.12.2
 pymining==0.2
 levenshtein==0.12.0
 wikipedia==1.4.0
 eventlet==0.40.3
-nltk==3.6.4
+nltk==3.9.3
 graphene==2.1.8
 stanfordnlp==0.1.2
 munkres==1.1.4
